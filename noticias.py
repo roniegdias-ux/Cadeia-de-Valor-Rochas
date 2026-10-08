@@ -125,7 +125,9 @@ def main():
             it["fontes"] = [it.pop("fonte")]
             por_chave[k] = it
     vistos = {} if a.sem_historico else rede.ler_json(VISTOS, {})
-    novos = [it for k, it in por_chave.items() if k not in vistos]
+    # Visto pela 1ª vez HOJE continua novo: reexecutar no mesmo dia regrava o
+    # mesmo relatório em vez de esvaziá-lo (aconteceu em 2026-10-08).
+    novos = [it for k, it in por_chave.items() if vistos.get(k, data) == data]
     for it in novos:
         vistos[it["chave"]] = data
 
