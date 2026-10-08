@@ -177,6 +177,12 @@ class TestDados(unittest.TestCase):
         self.assertIn("| 2025 | beneficiadas | 13.2 | 12.0 | 1,100 |", md)
         self.assertIn("+10.0%", md)
 
+    def test_anos_de_periodo(self):
+        self.assertEqual(dados._anos_de(2006), [2006])
+        self.assertEqual(dados._anos_de("2007-2016"), list(range(2007, 2017)))
+        self.assertEqual(dados._anos_de("2025 HS 2514"), [2025])
+        self.assertEqual(dados._anos_de("-"), [])
+
     def test_num_decimal_br(self):
         self.assertEqual(dados._num("1.234,56"), 1234.56)
         self.assertEqual(dados._num("12.5"), 12.5)

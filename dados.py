@@ -258,6 +258,17 @@ def cfem(cfg, anos, log, hoje):
     return {"anm_cfem_rochas_municipio": linhas}
 
 
+FALHAS = "dados/falhas.json"
+
+
+def _anos_de(periodo):
+    """2006 -> [2006]; '2007-2016' -> [2007..2016]; '2025 HS 2514' -> [2025]; '-' -> []."""
+    nums = [int(x) for x in re.findall(r"\b(19\d\d|20\d\d)\b", str(periodo))[:2]]
+    if len(nums) == 2 and "-" in str(periodo).split(" ")[0]:
+        return list(range(nums[0], nums[1] + 1))
+    return nums[:1]
+
+
 COLETORES = {"comexstat": comexstat, "comtrade": comtrade, "bcb": bcb, "cfem": cfem}
 FONTE_MATRIZ = {"comexstat": "comexstat", "comtrade": "comtrade", "bcb": "bcb_sgs", "cfem": "anm_cfem"}
 
@@ -336,6 +347,10 @@ def main():
     cfg = rede.ler_json("config.json")
     ini = int(cfg["ncm_comexstat"]["inicio_serie"][:4]) if a.backfill else hoje.year - 1
     anos = list(range(ini, hoje.year + 1))
+    # Autorreparo: anos que falharam em execuções anteriores entram de novo
+    # (o backfill de 2026-10-08 perdeu 2006, 2013, 2015, 2016 por 429).
+    pendentes = rede.ler_json(FALHAS, [])
+    anos = sorted(set(anos) | {a for f in pendentes for a in f["anos"]})
     ok = {c["id"] for c in rede.ler_json("fontes/confirmadas.json", []) if c["veredito"] == "COLETAVEL"}
 
     log, resumo = [], []
@@ -351,6 +366,8 @@ def main():
             resumo.append((serie, total, novas, rev))
 
     erros = [l for l in log if l["erro"]]
+    rede.gravar_json(FALHAS, [{"serie": l["serie"], "periodo": str(l["periodo"]), "anos": _anos_de(l["periodo"])}
+                              for l in erros if _anos_de(l["periodo"])])
     md = [f"# Dados e séries — {data}", "", "## Registro de coleta", "",
           f"- Modo: {'backfill desde ' + str(ini) if a.backfill else 'atualização ' + str(ini) + '–' + str(hoje.year)}",
           f"- Requisições: {len(log)}; com erro: {len(erros)}", ""]
