@@ -224,6 +224,17 @@ def main():
             for linha in fh:
                 r = json.loads(linha)
                 corpus[r["_k"]] = r
+    # Reaplica o filtro vigente ao corpus inteiro: recalibrar cadeia.py limpa
+    # o histórico em vez de deixar o ruído antigo morando no corpus.
+    expurgadas = 0
+    for k in list(corpus):
+        r = corpus[k]
+        ok, motivo, elos = cadeia.avaliar(r["titulo"], r["resumo"], r["veiculo"])
+        if ok:
+            r.update(relevancia=motivo, elos_pre=elos)
+        else:
+            del corpus[k]
+            expurgadas += 1
     novas = mesclar(corpus, relevantes)
     for k, r in corpus.items():
         r["_k"] = k
@@ -240,14 +251,14 @@ def main():
         fh.write("\n\n".join(ris(r) for r in ordenado) + "\n")
 
     erros = [l for l in log if l["erro"]]
-    escrever_md(data, a.backfill, ano_ini, fontes, log, len(brutos), descartados,
+    escrever_md(data, a.backfill, ano_ini, fontes, log, len(brutos), descartados, expurgadas,
                 [corpus[k] for k in novas], len(corpus))
     print(f"biblio/{data}: {len(brutos)} brutos, {descartados} fora do recorte, "
           f"{len(novas)} obras novas; corpus = {len(corpus)}. {len(erros)} consultas com erro.")
     sys.exit(2 if erros and len(erros) > len(log) / 2 else 0)
 
 
-def escrever_md(data, backfill, ano_ini, fontes, log, n_brutos, descartados, novas, total):
+def escrever_md(data, backfill, ano_ini, fontes, log, n_brutos, descartados, expurgadas, novas, total):
     erros = [l for l in log if l["erro"]]
     md = [f"# Levantamento bibliográfico — {data}" + (" (backfill)" if backfill else ""), "",
           "## Registro de coleta", "",
@@ -255,6 +266,7 @@ def escrever_md(data, backfill, ano_ini, fontes, log, n_brutos, descartados, nov
           f"- Consultas: {len(log)}; com erro: {len(erros)}"
           + ("" if not erros else " — " + "; ".join(f"{l['fonte']}/{l['termo']}: HTTP {l['http']}" for l in erros[:15])),
           f"- Registros brutos: {n_brutos}; fora do recorte (filtro cadeia.py): {descartados}",
+          f"- Obras já no corpus removidas por recalibração do filtro: {expurgadas}",
           f"- **Obras novas: {len(novas)}**; corpus acumulado: {total}",
           "- Elo = pré-classificação por palavra-chave sobre título/resumo. Não é leitura da obra.", ""]
     por_elo = collections.defaultdict(list)
