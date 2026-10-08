@@ -19,7 +19,7 @@ concurrency: coleta
 jobs:
   coleta:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 240   # backfill: ~270 chamadas ao ComexStat com pausa
     env:
       ROBO_CONTATO: ${{ secrets.ROBO_CONTATO }}
       OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}

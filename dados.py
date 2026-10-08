@@ -34,6 +34,8 @@ import rede
 
 SERIES = "dados/series"
 COMEX = "https://api-comexstat.mdic.gov.br/general"
+COMEX_PAUSA = 8                       # s entre chamadas bem-sucedidas
+COMEX_ESPERAS_429 = [20, 40, 80, 120]  # s antes de repetir após 429
 METRICAS = ("metricFOB", "metricKG", "primaryValue", "netWgt", "valor", "valor_recolhido", "quantidade")
 
 
@@ -116,7 +118,13 @@ def comexstat(cfg, anos, log, hoje):
             corpo = {"flow": fluxo, "monthDetail": True, "period": {"from": f"{ano}-01", "to": ate},
                      "filters": [{"filter": filtro, "values": valores}],
                      "details": detalhes, "metrics": ["metricFOB", "metricKG"], "language": "pt"}
-            obj, cod, erro, n = rede.buscar_json(COMEX, dados_json=corpo)
+            # Em 2026-10-08, com 2 s entre chamadas, 8 de 26 levaram 429 mesmo
+            # após 4 tentativas curtas. Aqui a espera de 429 é longa e própria.
+            for espera_429 in COMEX_ESPERAS_429 + [None]:
+                obj, cod, erro, n = rede.buscar_json(COMEX, dados_json=corpo, tentativas=1)
+                if cod not in rede.HTTP_REPETIVEL or espera_429 is None:
+                    break
+                time.sleep(espera_429)
             regs = None if erro else _lista_de_registros(obj)
             if erro or regs is None:
                 log.append({"serie": nome, "periodo": ano, "http": cod,
@@ -126,7 +134,7 @@ def comexstat(cfg, anos, log, hoje):
                 r.update(fonte="comexstat", coletado_em=hoje.strftime("%Y-%m-%d"))
             linhas += regs
             log.append({"serie": nome, "periodo": ano, "http": cod, "erro": None, "linhas": len(regs)})
-            time.sleep(2)   # a API devolve 429 se apertar
+            time.sleep(COMEX_PAUSA)
         resultado[nome] = linhas
     return resultado
 
