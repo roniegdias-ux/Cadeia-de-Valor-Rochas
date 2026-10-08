@@ -55,6 +55,9 @@ def testar_rss(f):
             try:
                 itens = rede.extrair_itens(corpo)
                 datados = sum(1 for i in itens if rede.parse_data(i["data_bruta"]))
+                if not datados:   # XML válido mas sem item datado: não alimenta nada
+                    nota.append(f"{url}: 200, {len(itens)} itens, {datados} com data (feed vazio)")
+                    continue
                 return {"veredito": "COLETAVEL", "url": url, "http": cod,
                         "detalhe": f"{len(itens)} itens, {datados} com data"}
             except ValueError as e:
@@ -69,6 +72,8 @@ def testar_rss(f):
             if not erro:
                 try:
                     itens = rede.extrair_itens(corpo)
+                    if not any(rede.parse_data(i["data_bruta"]) for i in itens):
+                        raise ValueError("feed anunciado sem item datado")
                     return {"veredito": "COLETAVEL", "url": achado, "http": cod,
                             "detalhe": f"descoberto pela home; {len(itens)} itens"}
                 except ValueError as e:
