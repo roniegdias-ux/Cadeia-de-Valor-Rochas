@@ -61,6 +61,20 @@ class TestCadeia(unittest.TestCase):
         self.assertTrue(motivo.startswith("composto"))
         self.assertIn("E2", elos)
 
+    def test_ruido_real_2026_10_08(self):
+        # casos do 1º corpus real: falsos positivos e falsos negativos observados
+        for t in ("Agências e empresas oferecem 1.008 vagas de emprego",
+                  "Migration Behavior of Technetium-99 in Granite, Clay Rock, and Shale",
+                  "Obsidian treatment technology in the Lengyel culture stone industry",
+                  "Effect of crushed stone dust on concrete",
+                  "Novel ureteroscope for three-dimensional stone measurement"):
+            self.assertFalse(cadeia.avaliar(t)[0], t)
+        for t in ("Exportações brasileiras de rochas crescem 17,5%",
+                  "Tarifa dos EUA favorece competitividade do quartzito do Ceará no mercado externo",
+                  "Silicosis associated with artificial stone countertop industry work",
+                  "Optimization of Marble Waste in Concrete Production"):
+            self.assertTrue(cadeia.avaliar(t)[0], t)
+
     def test_silicose(self):
         ok, _, elos = cadeia.avaliar("Silicose em trabalhadores de marmorarias")
         self.assertTrue(ok)
@@ -71,10 +85,12 @@ class TestNoticias(unittest.TestCase):
     def test_coletar_generalista_filtra(self):
         fim = datetime(2026, 10, 7, tzinfo=timezone.utc)
         with mock.patch.object(rede, "buscar", return_value=(200, ler("gn.xml"), None, 1)):
-            linha, itens = noticias.coletar("Feed", "u", True, fim - timedelta(days=7), fim)
+            desc = []
+            linha, itens = noticias.coletar("Feed", "u", True, fim - timedelta(days=7), fim, desc)
         self.assertEqual(linha["sem_data"], 1)
         self.assertEqual(linha["na_janela"], 3)
         self.assertEqual(len(itens), 2)                 # praça descartada
+        self.assertEqual([d["titulo"] for d in desc], ["Prefeitura inaugura praça"])
         self.assertEqual(itens[0]["chave"], itens[1]["chave"])
 
     def test_falha_registrada(self):

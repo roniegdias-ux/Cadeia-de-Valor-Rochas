@@ -83,7 +83,7 @@ def crossref(termo, ano_ini, log):
         url = "https://api.crossref.org/works?" + rede.qs(
             **{"query.bibliographic": termo}, filter=f"from-pub-date:{ano_ini}",
             rows=100, cursor=cursor, mailto=rede.CONTATO or None,
-            select="DOI,title,author,issued,container-title,type,abstract,URL,language,is-referenced-by-count")
+            select="DOI,title,author,issued,container-title,type,abstract,URL,is-referenced-by-count")
         obj, cod, erro, _ = rede.buscar_json(url)
         if erro:
             log.append({"fonte": "crossref", "termo": termo, "http": cod, "erro": erro})
@@ -95,7 +95,7 @@ def crossref(termo, ano_ini, log):
                 "titulo": (w.get("title") or [""])[0], "ano": ano, "doi": (w.get("DOI") or "").lower() or None,
                 "autores": [f"{a.get('given', '')} {a.get('family', '')}".strip() for a in (w.get("author") or [])[:20]],
                 "veiculo": (w.get("container-title") or [""])[0], "tipo": w.get("type") or "",
-                "idioma": w.get("language") or "", "resumo": re.sub(r"<[^>]+>", " ", w.get("abstract") or "")[:3000],
+                "idioma": "", "resumo": re.sub(r"<[^>]+>", " ", w.get("abstract") or "")[:3000],
                 "acesso_aberto": None, "citacoes": w.get("is-referenced-by-count"),
                 "ids": {"crossref": w.get("DOI")}, "link": w.get("URL"), "paises_autores": [],
             })

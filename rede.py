@@ -90,7 +90,12 @@ def _uma_tentativa(url, ua, dados, cabecalhos):
         except (TypeError, ValueError):
             espera = 0
         motivo = str(getattr(e, "reason", "") or e.msg or "").strip()
-        return e.code, b"", f"HTTPError {e.code}" + (f": {motivo[:90]}" if motivo else ""), espera
+        try:   # a API costuma dizer no corpo qual parâmetro recusou (Crossref 400)
+            detalhe = re.sub(r"\s+", " ", e.read(400).decode("utf-8", "replace")).strip()
+        except Exception:
+            detalhe = ""
+        rotulo = f"HTTPError {e.code}" + (f": {motivo[:90]}" if motivo else "") + (f" | {detalhe[:200]}" if detalhe else "")
+        return e.code, b"", rotulo, espera
     except http.client.IncompleteRead as e:
         return 0, b"", f"IncompleteRead ({len(e.partial)} bytes)", 0
     except Exception as e:

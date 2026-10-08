@@ -24,7 +24,7 @@ ELOS = {
     "E3": ("beneficiamento final", r"\b(polim|polish|resina|resin|marmoraria|acabamento|finishing|levig|flamead|ladrilh|tile[s]?|bancada|countertop|worktop)"),
     "E4": ("insumos e maquinas", r"\b(abrasiv|rebolo|granalha|maquin|machinery|equipament|equipment|ferramenta diamant|diamond tool|8464|6804)"),
     "E5": ("logistica", r"\b(porto|port of|frete|freight|container|contêiner|log[ií]stic|navio|shipping|ferrovia|rodovi|cabotagem)"),
-    "E6": ("comercializacao e exportacao", r"\b(export|import|balan[cç]a comercial|tarif|trade|com[eé]rcio exterior|fob|feira|fair|marmomac|coverings|pre[cç]o|price|mercado externo|china|estados unidos|united states|eua)"),
+    "E6": ("comercializacao e exportacao", r"\b(export|import|balan[cç]a comercial|tarif|trade|com[eé]rcio exterior|fob|feira|fair|marmomac|coverings|pre[cç]o|price|mercados?|compradores|buyers|china|estados unidos|united states|eua|europa|[aá]sia)"),
     "E7": ("mercado e construcao", r"\b(constru[cç][aã]o civil|construction|revestimento|cladding|fachada|facade|arquitet|architect|design|interior|demanda|consumo|housing|imobili)"),
     "E8": ("residuos e sustentabilidade", r"\b(res[ií]duo|waste|lama|sludge|slurry|reciclag|recycl|reaproveit|ambient|environment|sustentab|sustainab|lca|ciclo de vida|life cycle|pegada|footprint|carbono|carbon|licenciamento ambiental)"),
     "E9": ("trabalho e saude", r"\b(silicos|s[ií]lica|silica|ocupacion|occupational|acidente|accident|trabalhador|worker|sa[uú]de|health|emprego|employment|rais|caged|sal[aá]rio|wage)"),
@@ -33,22 +33,35 @@ ELOS = {
 }
 _ELOS_RE = {k: re.compile(p, re.I) for k, (_, p) in ELOS.items()}
 
-# Relevância: termo FORTE basta; termo de MATERIAL só conta se vier com termo
-# de CONTEXTO setorial (senão "granite" traz toda a petrologia do mundo).
+# Relevância. Calibrado contra o 1º corpus real (2026-10-08): com "stone",
+# "industry", "waste" genéricos, 2.117 de 2.613 obras entravam por acaso
+# (cálculo renal, lixo nuclear em granito, agricultura orgânica).
+#   FORTE    — basta sozinho
+#   RESIDUO  — resíduo DE rocha ornamental (literatura grande e legítima do E8)
+#   MATERIAL + CONTEXTO — rocha ornamental específica + termo do processo produtivo
 FORTE = re.compile(
     r"rochas? ornament|rochas? de revestimento|pedras? ornament|pedras? naturais|pedra natural"
-    r"|dimension(al)? stone|ornamental (stone|rock)|natural stone|stone industr|stone sector"
-    r"|marmoraria|marmorista|setor de rochas|centrorochas|abirochas|sindirochas|stone fair"
-    r"|marmo e pietr|pietre ornamentali|rocas ornamentales|piedra natural", re.I)
+    r"|rochas? (brasileiras|capixabas|naturais)|setor de rochas|setor rochoso|marmorar|marmorista"
+    r"|(?<!three-)(?<!two-)(?<!3-)(?<!2-)\bdimension(al)? stone|ornamental (stone|rock)|natural stone|stone fair"
+    # pedra artificial/quartzo engenheirado: substituto direto e foco da silicose
+    r"|engineered stone|artificial stone|agglomerated stone|quartz surfac|pedra artificial|quartzo (industrializado|engenheirado)"
+    # "rochas" perto de termo setorial (manchete: "Exportações de rochas crescem")
+    r"|\brochas?\b.{0,40}\b(export|setor|mercado|feira|beneficiament|marmor)|\b(export\w*|setor|feira)\b.{0,40}\brochas?\b"
+    r"|centrorochas|abirochas|sindirochas|vit[oó]ria stone"
+    r"|marmo e pietr|pietre ornamentali|lapidei|rocas ornamentales|piedra natural", re.I)
+RESIDUO = re.compile(
+    r"\b(marble|granite|quartzite|ornamental stone|dimension stone)\s+(waste|sludge|slurry|powder|dust|residue|cutting waste|processing waste)"
+    r"|\bwaste\s+(marble|granite)\b"
+    r"|res[ií]duos?\s+(de|do|da|das|dos)\s+(beneficiamento|serragem|corte|polimento|m[aá]rmore|granito|rochas?|quartzito)"
+    r"|lama\s+(abrasiva|de (beneficiamento|serragem|m[aá]rmore|granito|rochas?))", re.I)
 MATERIAL = re.compile(
-    r"\b(m[aá]rmore|marble|marmo|granit|quartzit|ard[oó]sia|slate|travertin|gnaiss|gneiss"
-    r"|sienit|syenit|charnoquit|charnockit|limestone|calc[aá]rio|basalto|arenito|sandstone|pedra[s]?|stone[s]?|rocha[s]?)", re.I)
+    r"\b(m[aá]rmores?|marbles?|granitos?|granite|quartzitos?|quartzites?|ard[oó]sias?|slates?|travertin\w*"
+    r"|gnaisses?|gneiss\w*|sienitos?|syenites?|charnoquitos?|charnockites?)\b", re.I)
 CONTEXTO = re.compile(
-    r"\b(quarr|pedreira|lavra|bloco|block|slab|chapa|serrag|sawing|polim|polish|tear|"
-    r"export|import|ind[uú]stri|industr|setor|sector|empresa|firm|mercado|market|com[eé]rcio|trade|"
-    r"res[ií]duo|waste|sludge|lama|beneficiamento|processing|revestimento|cladding|tile|ladrilh|"
-    r"cachoeiro|esp[ií]rito santo|minas gerais|nova ven[eé]cia|barra de s[aã]o francisco|"
-    r"ornament|cantaria|countertop|bancada|construction|constru[cç][aã]o|silicos)", re.I)
+    r"\b(quarr\w*|pedreiras?|lavra|blocos?|slabs?|chapas?|serrag\w*|sawing|gang ?saw|diamond wire|fio diamantado"
+    r"|polim\w*|polish\w*|teares?|beneficiamento|revestimento|cladding|countertops?|bancadas?|ladrilh\w*|cantaria"
+    r"|ornament\w*|exporta\w*|exports?|tarif\w*|mercado externo|marmorar\w*|silicos\w*"
+    r"|cachoeiro|esp[ií]rito santo|nova ven[eé]cia|barra de s[aã]o francisco|santo ant[oô]nio de p[aá]dua)\b", re.I)
 
 
 def avaliar(*textos):
@@ -56,8 +69,11 @@ def avaliar(*textos):
     alvo = " ".join(t for t in textos if t)
     alvo_sa = sem_acento(alvo)
     forte = FORTE.search(alvo) or FORTE.search(alvo_sa)
+    residuo = RESIDUO.search(alvo) or RESIDUO.search(alvo_sa)
     if forte:
         motivo = f"forte:{forte.group(0).lower()}"
+    elif residuo:
+        motivo = f"residuo:{residuo.group(0).lower()}"
     else:
         m, c = MATERIAL.search(alvo), CONTEXTO.search(alvo)
         if not (m and c):

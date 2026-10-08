@@ -52,7 +52,8 @@ def alvos(config, confirmadas, forcar):
     return out
 
 
-def coletar(nome, url, generalista, inicio, fim):
+def coletar(nome, url, generalista, inicio, fim, descartados=None):
+    descartados = [] if descartados is None else descartados
     linha = {"fonte": nome, "url": url, "http": None, "tentativas": 0, "itens_totais": 0,
              "na_janela": 0, "relevantes": 0, "sem_data": 0, "erro": None}
     cod, corpo, erro, n = rede.buscar(url)
@@ -76,8 +77,11 @@ def coletar(nome, url, generalista, inicio, fim):
             continue
         linha["na_janela"] += 1
         rel, motivo, elos = cadeia.avaliar(c["titulo"], c["resumo"])
-        # Consulta do Google News já é filtro; feed generalista precisa passar.
-        if generalista and not rel:
+        # Todo item passa pelo filtro, inclusive o do Google News: em 2026-10-08
+        # 14 de 25 itens das consultas eram ruído (vagas de emprego, mansões).
+        # O descarte fica gravado para auditoria do filtro.
+        if not rel:
+            descartados.append({"fonte": nome, "titulo": c["titulo"], "link": c["link"]})
             continue
         linha["relevantes"] += 1
         saida.append({"fonte": nome, "titulo": c["titulo"], "link": c["link"],
@@ -105,9 +109,9 @@ def main():
     if not lista:
         sys.exit("Nenhuma fonte de notícias confirmada. Rode verificar_fontes.py primeiro.")
 
-    log, itens = [], []
+    log, itens, descartados = [], [], []
     with cf.ThreadPoolExecutor(max_workers=8) as ex:
-        for linha, novos in ex.map(lambda t: coletar(*t, inicio, agora), lista):
+        for linha, novos in ex.map(lambda t: coletar(*t, inicio, agora, descartados), lista):
             log.append(linha)
             itens.extend(novos)
 
@@ -130,9 +134,11 @@ def main():
     bruto = {"meta": {"gerado_em": agora.isoformat(), "janela_inicio": inicio.isoformat(),
                       "fontes_tentadas": len(log), "fontes_com_erro": len(falhas),
                       "itens_na_janela_dedup": len(por_chave), "itens_novos": len(novos),
+                      "descartados_filtro": len({rede.normalizar(d["titulo"]) for d in descartados}),
                       "degradada": degradada},
              "log": sorted(log, key=lambda l: (l["erro"] is None, -l["relevantes"])),
-             "itens": sorted(novos, key=lambda x: x["publicado"], reverse=True)}
+             "itens": sorted(novos, key=lambda x: x["publicado"], reverse=True),
+             "descartados_filtro": list({rede.normalizar(d["titulo"]): d for d in descartados}.values())}
     rede.gravar_json(f"noticias/{data}-bruto.json", bruto)
     if not a.sem_historico:
         rede.gravar_json(VISTOS, vistos)
@@ -152,7 +158,7 @@ def escrever_md(data, b):
     md += ["## Registro de coleta", "",
            f"- Fontes tentadas: {m['fontes_tentadas']}; com erro: {m['fontes_com_erro']}"
            + (" — " + "; ".join(f"**{l['fonte']}** HTTP {l['http']} ({l['erro'][:80]})" for l in falhas) if falhas else ""),
-           f"- Janela: desde {m['janela_inicio'][:16]} UTC; itens únicos na janela: {m['itens_na_janela_dedup']}; **novos hoje: {m['itens_novos']}**",
+           f"- Janela: desde {m['janela_inicio'][:16]} UTC; itens únicos na janela: {m['itens_na_janela_dedup']}; **novos hoje: {m['itens_novos']}**; fora do recorte (filtro cadeia.py, lista no bruto): {m['descartados_filtro']}",
            "- Elos são pré-classificação por palavra-chave (cadeia.py), feita só sobre manchete e resumo do feed. Corpo não lido.", ""]
     por_elo = collections.defaultdict(list)
     for it in b["itens"]:
