@@ -6,7 +6,7 @@
   "nome": "BDTD/IBICT (teses e dissertações)",
   "veredito": "COLETAVEL",
   "url": "https://bdtd.ibict.br/vufind/api/v1/search?lookfor=%22rochas+ornamentais%22&type=AllFields&limit=1",
-  "testado_em": "2026-10-08T11:38:51.484253+00:00"
+  "testado_em": "2026-10-08T11:57:41.274042+00:00"
  },
  {
   "id": "crossref",
@@ -15,7 +15,7 @@
   "nome": "Crossref",
   "veredito": "COLETAVEL",
   "url": "https://api.crossref.org/works?query.bibliographic=dimension+stone&rows=1",
-  "testado_em": "2026-10-08T11:38:51.484253+00:00"
+  "testado_em": "2026-10-08T11:57:41.274042+00:00"
  },
  {
   "id": "openalex",
@@ -24,16 +24,16 @@
   "nome": "OpenAlex",
   "veredito": "COLETAVEL",
   "url": "https://api.openalex.org/works?filter=title_and_abstract.search:dimension%20stone&per-page=1",
-  "testado_em": "2026-10-08T11:38:51.484253+00:00"
+  "testado_em": "2026-10-08T11:57:41.274042+00:00"
  },
  {
   "id": "semanticscholar",
   "trilha": "biblio",
   "tipo": "api",
   "nome": "Semantic Scholar",
-  "veredito": "FALHOU",
+  "veredito": "COLETAVEL",
   "url": "https://api.semanticscholar.org/graph/v1/paper/search?query=dimension+stone&limit=1",
-  "testado_em": "2026-10-08T11:38:51.484253+00:00"
+  "testado_em": "2026-10-08T11:57:41.274042+00:00"
  },
  {
   "id": "anm_amb",
@@ -42,7 +42,7 @@
   "nome": "ANM — Anuário Mineral Brasileiro (AMB)",
   "veredito": "A_LOCALIZAR",
   "url": null,
-  "testado_em": "2026-10-08T11:38:51.484253+00:00"
+  "testado_em": "2026-10-08T11:57:41.274042+00:00"
  },
  {
   "id": "anm_cfem",
@@ -51,7 +51,7 @@
   "nome": "ANM — CFEM arrecadação",
   "veredito": "FALHOU",
   "url": "https://app.anm.gov.br/dadosabertos/ARRECADACAO/CFEM_Arrecadacao.csv",
-  "testado_em": "2026-10-08T11:38:51.484253+00:00"
+  "testado_em": "2026-10-08T11:57:41.274042+00:00"
  },
  {
   "id": "bcb_sgs",
@@ -60,7 +60,7 @@
   "nome": "Banco Central — SGS",
   "veredito": "COLETAVEL",
   "url": "https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados/ultimos/1?formato=json",
-  "testado_em": "2026-10-08T11:38:51.484253+00:00"
+  "testado_em": "2026-10-08T11:57:41.274042+00:00"
  },
  {
   "id": "comexstat",
@@ -69,7 +69,7 @@
   "nome": "ComexStat (MDIC) — API",
   "veredito": "COLETAVEL",
   "url": "https://api-comexstat.mdic.gov.br/general/filters",
-  "testado_em": "2026-10-08T11:38:51.484253+00:00"
+  "testado_em": "2026-10-08T11:57:41.274042+00:00"
  },
  {
   "id": "comtrade",
@@ -78,7 +78,7 @@
   "nome": "UN Comtrade",
   "veredito": "COLETAVEL",
   "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?reporterCode=76&period=2023&cmdCode=6802&flowCode=X&partnerCode=0",
-  "testado_em": "2026-10-08T11:38:51.484253+00:00"
+  "testado_em": "2026-10-08T11:57:41.274042+00:00"
  },
  {
   "id": "ibge_pia",
@@ -87,7 +87,7 @@
   "nome": "IBGE — PIA-Empresa / PIA-Produto (CNAE 08.10 e 23.91)",
   "veredito": "A_LOCALIZAR",
   "url": null,
-  "testado_em": "2026-10-08T11:38:51.484253+00:00"
+  "testado_em": "2026-10-08T11:57:41.274042+00:00"
  },
  {
   "id": "montani",
@@ -96,7 +96,7 @@
   "nome": "Montani — Rapporto Marmo e Pietre nel Mondo",
   "veredito": "PAGO",
   "url": null,
-  "testado_em": "2026-10-08T11:38:51.484253+00:00"
+  "testado_em": "2026-10-08T11:57:41.274042+00:00"
  },
  {
   "id": "rais",
@@ -105,7 +105,7 @@
   "nome": "RAIS/CAGED (emprego CNAE 0810-0/02, 0810-0/03, 2391-5)",
   "veredito": "A_LOCALIZAR",
   "url": null,
-  "testado_em": "2026-10-08T11:38:51.484253+00:00"
+  "testado_em": "2026-10-08T11:57:41.274042+00:00"
  },
  {
   "id": "usgs_dimstone",
@@ -114,16 +114,16 @@
   "nome": "USGS — Mineral Commodity Summaries: Stone (Dimension)",
   "veredito": "A_LOCALIZAR",
   "url": null,
-  "testado_em": "2026-10-08T11:38:51.484253+00:00"
+  "testado_em": "2026-10-08T11:57:41.274042+00:00"
  },
  {
   "id": "abirochas",
   "trilha": "noticias",
   "tipo": "rss",
   "nome": "Abirochas",
-  "veredito": "COLETAVEL",
-  "url": "https://abirochas.com.br/feed/",
-  "testado_em": "2026-10-08T11:38:51.484253+00:00"
+  "veredito": "FALHOU",
+  "url": null,
+  "testado_em": "2026-10-08T11:57:41.274042+00:00"
  },
  {
   "id": "agazeta",
@@ -132,7 +132,7 @@
   "nome": "A Gazeta (ES) — economia",
   "veredito": "FALHOU",
   "url": null,
-  "testado_em": "2026-10-08T11:38:51.484253+00:00"
+  "testado_em": "2026-10-08T11:57:41.274042+00:00"
  },
  {
   "id": "brasilmineral",
@@ -141,16 +141,16 @@
   "nome": "Brasil Mineral",
   "veredito": "FALHOU",
   "url": null,
-  "testado_em": "2026-10-08T11:38:51.484253+00:00"
+  "testado_em": "2026-10-08T11:57:41.274042+00:00"
  },
  {
   "id": "centrorochas",
   "trilha": "noticias",
   "tipo": "rss",
   "nome": "Centrorochas",
-  "veredito": "COLETAVEL",
-  "url": "https://centrorochas.org.br/feed/",
-  "testado_em": "2026-10-08T11:38:51.484253+00:00"
+  "veredito": "FALHOU",
+  "url": null,
+  "testado_em": "2026-10-08T11:57:41.274042+00:00"
  },
  {
   "id": "folhavitoria",
@@ -159,7 +159,7 @@
   "nome": "Folha Vitória",
   "veredito": "COLETAVEL",
   "url": "https://www.folhavitoria.com.br/feed/",
-  "testado_em": "2026-10-08T11:38:51.484253+00:00"
+  "testado_em": "2026-10-08T11:57:41.274042+00:00"
  },
  {
   "id": "gn_pt",
@@ -168,7 +168,7 @@
   "nome": "Google News pt-BR (consultas do config.json)",
   "veredito": "COLETAVEL",
   "url": "https://news.google.com/rss/search?q=%22rochas+ornamentais%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-  "testado_em": "2026-10-08T11:38:51.484253+00:00"
+  "testado_em": "2026-10-08T11:57:41.274042+00:00"
  },
  {
   "id": "litos",
@@ -177,7 +177,7 @@
   "nome": "Litos Online",
   "veredito": "FALHOU",
   "url": null,
-  "testado_em": "2026-10-08T11:38:51.484253+00:00"
+  "testado_em": "2026-10-08T11:57:41.274042+00:00"
  },
  {
   "id": "minerios",
@@ -186,7 +186,7 @@
   "nome": "Revista Minérios & Minerales",
   "veredito": "COLETAVEL",
   "url": "https://revistaminerios.com.br/feed/",
-  "testado_em": "2026-10-08T11:38:51.484253+00:00"
+  "testado_em": "2026-10-08T11:57:41.274042+00:00"
  },
  {
   "id": "rochas_qualidade",
@@ -195,7 +195,7 @@
   "nome": "Revista Rochas de Qualidade",
   "veredito": "FALHOU",
   "url": null,
-  "testado_em": "2026-10-08T11:38:51.484253+00:00"
+  "testado_em": "2026-10-08T11:57:41.274042+00:00"
  },
  {
   "id": "stoneworld",
@@ -204,6 +204,6 @@
   "nome": "Stone World (EUA)",
   "veredito": "FALHOU",
   "url": null,
-  "testado_em": "2026-10-08T11:38:51.484253+00:00"
+  "testado_em": "2026-10-08T11:57:41.274042+00:00"
  }
 ]
