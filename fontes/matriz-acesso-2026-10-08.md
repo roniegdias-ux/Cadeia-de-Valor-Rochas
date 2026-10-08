@@ -1,6 +1,6 @@
 # Matriz de acesso — 2026-10-08
 
-Instante: `2026-10-08T11:57:41+00:00`. 23 fontes testadas.
+Instante: `2026-10-08T12:11:01+00:00`. 23 fontes testadas.
 
 | Fonte | Trilha | Tipo | HTTP | Veredito | URL usada | Detalhe |
 |---|---|---|---|---|---|---|
@@ -21,7 +21,7 @@ Instante: `2026-10-08T11:57:41+00:00`. 23 fontes testadas.
 | Centrorochas | noticias | rss | — | **FALHOU** | — | https://centrorochas.org.br/feed/: 200, 0 itens, 0 com data (feed vazio) / home 200; feed anunciado / https://centrorochas.org.br/feed/: feed anunciado sem item datado |
 | Abirochas | noticias | rss | — | **FALHOU** | — | https://abirochas.com.br/feed/: 200, 0 itens, 0 com data (feed vazio) / home 200; nenhum feed anunciado |
 | Revista Rochas de Qualidade | noticias | rss | — | **FALHOU** | — | https://www.rochas.com.br/feed/: HTTP 0 (URLError: <urlopen error [Errno -2] Name or service not known>) / home HTTP 0 (URLError: <urlopen error [Errno -2] Name or service not known>) |
-| Litos Online | noticias | rss | — | **FALHOU** | — | https://www.litosonline.com/feed/: HTTP 404 (HTTPError 404: Not Found) / home 200; nenhum feed anunciado |
+| Litos Online | noticias | rss | — | **FALHOU** | — | https://www.litosonline.com/feed/: HTTP 404 (HTTPError 404: Not Found / <!DOCTYPE html> <html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns |
 | Stone World (EUA) | noticias | rss | — | **FALHOU** | — | https://www.stoneworld.com/rss: 200 mas HTTP 200 mas HTML (91594 bytes) / home 200; nenhum feed anunciado |
 | A Gazeta (ES) — economia | noticias | rss | — | **FALHOU** | — | home 200; nenhum feed anunciado |
 | Folha Vitória | noticias | rss | 200 | **COLETAVEL** | https://www.folhavitoria.com.br/feed/ | 10 itens, 10 com data |
