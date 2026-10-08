@@ -17,6 +17,8 @@ case "$modo" in
   mensal)   python3 dados.py || st=$? ;;
   backfill) python3 biblio.py --backfill || st=$?
             python3 dados.py --backfill || st=$? ;;
+  backfill-biblio) python3 biblio.py --backfill || st=$? ;;
+  backfill-dados)  python3 dados.py --backfill || st=$? ;;
   *) echo "modo desconhecido: $modo"; exit 64 ;;
 esac
 echo "rodar.sh $modo -> saída $st"

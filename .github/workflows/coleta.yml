@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
     inputs:
       modo:
-        description: "matriz | diario | semanal | mensal | backfill"
+        description: "matriz | diario | semanal | mensal | backfill | backfill-biblio | backfill-dados"
         required: true
         default: diario
 permissions:
@@ -44,7 +44,9 @@ jobs:
         id: c
         run: ./rodar.sh "${{ steps.m.outputs.modo }}"
         continue-on-error: true
+        timeout-minutes: 210   # sobra tempo do job para o commit do que já foi gravado
       - name: Commit
+        if: always()
         run: |
           git config user.name "robo-rochas"
           git config user.email "robo-rochas@users.noreply.github.com"

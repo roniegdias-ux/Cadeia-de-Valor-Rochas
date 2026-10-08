@@ -108,7 +108,6 @@ def comexstat(cfg, anos, log, hoje):
         ]
     consultas.append(("comex_import_insumos_pais", "import", "heading", list(ncm["sh4_cadeia_insumos"]), ["heading", "country"]))
     ultimo_mes = hoje.strftime("%Y-%m")
-    resultado = {}
     for nome, fluxo, filtro, valores, detalhes in consultas:
         if valores is None:   # NCM nacional: filtra pelos SH4 e detalha por NCM
             filtro, valores = "heading", sh4
@@ -135,8 +134,9 @@ def comexstat(cfg, anos, log, hoje):
             linhas += regs
             log.append({"serie": nome, "periodo": ano, "http": cod, "erro": None, "linhas": len(regs)})
             time.sleep(COMEX_PAUSA)
-        resultado[nome] = linhas
-    return resultado
+        # gerador: main grava cada série assim que ela termina, e um timeout
+        # no backfill (~270 chamadas) não leva junto o que já foi coletado
+        yield nome, linhas
 
 
 # ------------------------------------------------------------------ Comtrade
@@ -343,7 +343,8 @@ def main():
         if not a.forcar and FONTE_MATRIZ[nome] not in ok:
             log.append({"serie": nome, "periodo": "-", "http": None, "erro": "não confirmada na matriz (pulei)"})
             continue
-        for serie, linhas in COLETORES[nome](cfg, anos, log, hoje).items():
+        res = COLETORES[nome](cfg, anos, log, hoje)
+        for serie, linhas in (res.items() if isinstance(res, dict) else res):
             if not linhas:
                 continue
             total, novas, rev = gravar_serie(serie, linhas)
