@@ -1,0 +1,8 @@
+# Os brutos diários (noticias/*-bruto.json), o corpus bibliográfico e as séries
+# (dados/series/*.csv) SÃO versionados de propósito: são a memória do estudo e
+# permitem auditar revisões da fonte. Não adicione padrões que os excluam.
+
+__pycache__/
+*.pyc
+*.tmp
+dados/_cache/
