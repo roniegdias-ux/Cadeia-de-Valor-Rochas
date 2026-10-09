@@ -1,0 +1,362 @@
+{
+ "meta": {
+  "gerado_em": "2026-10-09T09:31:48.307213+00:00",
+  "janela_inicio": "2026-10-02T09:31:48.307213+00:00",
+  "fontes_tentadas": 19,
+  "fontes_com_erro": 1,
+  "itens_na_janela_dedup": 11,
+  "itens_novos": 1,
+  "descartados_filtro": 24,
+  "degradada": false
+ },
+ "log": [
+  {
+   "fonte": "Revista Minérios & Minerales",
+   "url": "https://revistaminerios.com.br/feed/",
+   "http": 0,
+   "tentativas": 4,
+   "itens_totais": 0,
+   "na_janela": 0,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": "URLError: <urlopen error timed out>"
+  },
+  {
+   "fonte": "GN[pt] \"setor de rochas\"",
+   "url": "https://news.google.com/rss/search?q=%22setor+de+rochas%22+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 15,
+   "na_janela": 7,
+   "relevantes": 7,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] \"rochas ornamentais\"",
+   "url": "https://news.google.com/rss/search?q=%22rochas+ornamentais%22+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 13,
+   "na_janela": 5,
+   "relevantes": 4,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] Centrorochas",
+   "url": "https://news.google.com/rss/search?q=Centrorochas+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 9,
+   "na_janela": 4,
+   "relevantes": 4,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] \"Cachoeiro de Itapemirim\" rochas",
+   "url": "https://news.google.com/rss/search?q=%22Cachoeiro+de+Itapemirim%22+rochas+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 9,
+   "na_janela": 4,
+   "relevantes": 3,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] quartzito exportação",
+   "url": "https://news.google.com/rss/search?q=quartzito+exporta%C3%A7%C3%A3o+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 5,
+   "na_janela": 2,
+   "relevantes": 2,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] rochas tarifa Estados Unidos granito",
+   "url": "https://news.google.com/rss/search?q=rochas+tarifa+Estados+Unidos+granito+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 4,
+   "na_janela": 2,
+   "relevantes": 2,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] \"mármore e granito\"",
+   "url": "https://news.google.com/rss/search?q=%22m%C3%A1rmore+e+granito%22+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 8,
+   "na_janela": 6,
+   "relevantes": 1,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[en] \"natural stone\" Brazil",
+   "url": "https://news.google.com/rss/search?q=%22natural+stone%22+Brazil+when%3A30d&hl=en-US&gl=US&ceid=US:en",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 5,
+   "na_janela": 3,
+   "relevantes": 1,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] Abirochas",
+   "url": "https://news.google.com/rss/search?q=Abirochas+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 2,
+   "na_janela": 1,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] Sindirochas",
+   "url": "https://news.google.com/rss/search?q=Sindirochas+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 0,
+   "na_janela": 0,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] \"Vitória Stone Fair\"",
+   "url": "https://news.google.com/rss/search?q=%22Vit%C3%B3ria+Stone+Fair%22+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 1,
+   "na_janela": 1,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] \"pedras naturais\" exportação",
+   "url": "https://news.google.com/rss/search?q=%22pedras+naturais%22+exporta%C3%A7%C3%A3o+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 2,
+   "na_janela": 0,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[en] \"Brazilian granite\"",
+   "url": "https://news.google.com/rss/search?q=%22Brazilian+granite%22+when%3A30d&hl=en-US&gl=US&ceid=US:en",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 4,
+   "na_janela": 0,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[en] \"Brazilian quartzite\"",
+   "url": "https://news.google.com/rss/search?q=%22Brazilian+quartzite%22+when%3A30d&hl=en-US&gl=US&ceid=US:en",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 5,
+   "na_janela": 1,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[en] \"dimension stone\" Brazil",
+   "url": "https://news.google.com/rss/search?q=%22dimension+stone%22+Brazil+when%3A30d&hl=en-US&gl=US&ceid=US:en",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 0,
+   "na_janela": 0,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[it] marmo granito Brasile",
+   "url": "https://news.google.com/rss/search?q=marmo+granito+Brasile+when%3A30d&hl=it&gl=IT&ceid=IT:it",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 1,
+   "na_janela": 1,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[es] \"rocas ornamentales\" Brasil",
+   "url": "https://news.google.com/rss/search?q=%22rocas+ornamentales%22+Brasil+when%3A30d&hl=es-419&gl=AR&ceid=AR:es-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 1,
+   "na_janela": 1,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Folha Vitória",
+   "url": "https://www.folhavitoria.com.br/feed/",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 10,
+   "na_janela": 10,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  }
+ ],
+ "itens": [
+  {
+   "titulo": "Brazilian-Lebanese Designer Raphaela Gazire Creates Timeless Designs with Natural Stone - Vogue Arabia",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQXzAzOTBrTUV2VEgyTS1MWXpBdXFTQnF4c2NzSFdTamd4T1JQVkVfOVJWWE92OUFRWmdlQmJmU19pbWtCSWJERkdCd0JkdE1aN0ZPcGM4RFhHTHU2dTFicE50LXdHMGU2U3RVdXVhYV9CTlBFZnpLclFCd1VKeWdqNFBvTU4?oc=5",
+   "publicado": "2026-10-09T05:37:43+00:00",
+   "resumo": "Brazilian-Lebanese Designer Raphaela Gazire Creates Timeless Designs with Natural Stone &nbsp;&nbsp; Vogue Arabia",
+   "veiculo": "Vogue Arabia",
+   "relevancia": "forte:natural stone",
+   "elos_pre": [
+    "E7"
+   ],
+   "chave": "brazilian lebanese designer raphaela gazire creates timeless designs with natural stone",
+   "fontes": [
+    "GN[en] \"natural stone\" Brazil"
+   ]
+  }
+ ],
+ "descartados_filtro": [
+  {
+   "fonte": "GN[pt] Abirochas",
+   "titulo": "A pedra das calçadas de uma cidade mineira pode ter até 1,7 bilhão de anos, não esquenta ao sol e virou a primeira rocha de Minas com selo de origem - Brasil 247",
+   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNZmM4akd4S1VpcGZIUVJTcm5FRF9mdl81RGIzNTVfLTNPSjhxS1ZTbkdkSTlSWmoyOF9ycF9VWGs3d0FKQjltRFlUSGpfOEtZdXVpOEtrWHN3d3l4U2puQktIcXlVdS1ZczFXSjh1Tnh5RFgxU19WZkpSb2lSVlpOUlJ6TEZkWkpvUHU4MmVPaXQtSXlBa3pkQXRmcmNxM040b21RUDFjOXRQN1ltbS0wZlBpUXRkX1E5VDBDZkNsRzg3R2V5b1JnRGRLa2liaDZYVzN6N0pORXN4Q2tQVHdUTWdkRE9WNEFQVVpxMC1BVnlDOXZITWRUWEpOUWlSN1d1WlFIRlBRVnJQUXhSNDZHZTUxMEdRTUVKeGRWRUNHVjM?oc=5"
+  },
+  {
+   "fonte": "GN[pt] \"rochas ornamentais\"",
+   "titulo": "O Espírito Santo que Queremos: reveja a série da TV SIM - Sim Notícias",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTWtDM284TzJDUGMzXzFYQVFwSmZZX0hFRHhfZWVaOHdNX1BoUjVVOU4weWFhU1U0QWtLZ0dqWHVZSlFiemdJbEd5QW5LRGx0bXl5YUpnX1FsckZIWXowb3hDcU0xdVVXMWU2amFjdWhCcGcxSnNKWEpULWZ1c0Vja0JTWmJBVm1OU0lnRmRia1h0b1g2bkE?oc=5"
+  },
+  {
+   "fonte": "GN[pt] \"mármore e granito\"",
+   "titulo": "O granilite está voltando: o piso das casas dos anos 60 que os arquitetos trouxeram de volta e por que ele nunca solta - Olhar Digital",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdDR0RjIxd01pNUxHZ1BKczBDeHQxMHEtXzhsdWlOQWRHN1J5MjNWR2o5QTVfS1NqVzNTeWZuQ1hfbUNBbkcyOHY1dkU2VzNpMFNXclpxNmJ1cHI2RUFNZHdtR3JwV196UEQ1NEdweEpoTVVzSllDYVE2VVNsbWpwY1Z5LTBmWE5LdEd3eUY2WGxrWDlpd0JocGdoT0FKZGpLeFdZcFdjcTgxN0VzakI5RGdDSTVwSEszUkdMU3lwMWlEenVVLS14UHBldW5CWXNJc1RhMmhCRDk2ZFFKU180QVV4U0VmTjVDdVdiRHplV3FWdWJCYkNDYU9Fd3hua0k?oc=5"
+  },
+  {
+   "fonte": "GN[pt] \"mármore e granito\"",
+   "titulo": "Aos 46 anos, cantor já mostrou mansão com simulador de voo instalado no quarto - Diario de Pernambuco",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOGI4a08xejZZOURIdW1GTjRrclZjYkNsNGJQM2FTM0RwWmRId1NYRkEyZXkzbG9mZUZmV2pDYmxMd1VfcDZHQnRXU3JTVTNJNktOZGlCcktGdVlzb3BoSDk2c0NDeTU4VHRnNzdGTG1WWlVsUm9RcEhKSWwwSTB3S0taWHhKQTVleDJKcFQxUTlGZGhzZW9xN08tbno1czFGNFpMVDlhdFRwM1VDUmZjekVMTW80aTJrbHRTVExtNUNZWTA?oc=5"
+  },
+  {
+   "fonte": "GN[pt] \"mármore e granito\"",
+   "titulo": "Agências e empresas oferecem 1.008 vagas de emprego - Correio Braziliense",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbEpLbXliU1dkOS1iRzZkNzR1ZzdzLTczQ1c2RUNoR2NLTHV5dkFSX3Q0Y2IxQzV0amw2NUhYR3lMZkxiRkNjVmhOQ1hzbThtaWZJTHNtNnZ4S01WM2dld280Z1g2ekVkNlFyQkp5dXk0aXpoVHU4aFFzS0NSMVVlWEwta245cXhYSkNFQklyS0FrX1BEZ3MzLV9EZVpWYmF2YmVwZnJxQ3YwbDVBMWpjNDZNOEZoYjJWMnA0aEhldmh3WXhtY211dk55bGx4YXlkTFRkOFg0VkpWZw?oc=5"
+  },
+  {
+   "fonte": "GN[pt] \"mármore e granito\"",
+   "titulo": "Agências do trabalhador oferecem mais de 1 mil vagas de emprego no DF nesta segunda - Jornal de Brasília",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUVA3bnRvbVcwYThvUHBzQlBDSGNvMjA5UWo1YkhuVldlYmhKS2hVY3ZobUhDbnZHdnJMTkdVenZXLW8wdjhrUlhta1NnRTN6aFY1TnVHUW9SZUlDNFpiWVBQcFQ0Mjd2REdiUXhEaGxVMWdqRkRiWmdXVV9oNFFJbWxzZnNZWjJvNVd4anBtc0xCSXBLU2JnQUhyMU02V1d1U1NvSkprdEtucFJ4dmJBbzBSazN5cFNhd2ZUNFp2VGVYUE0?oc=5"
+  },
+  {
+   "fonte": "GN[pt] \"mármore e granito\"",
+   "titulo": "Boletim do emprego: veja as oportunidades de trabalho em Ivinhema, Nova Andradina e região - AconteceuMS",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMHVlLVJ6RGNWVnJLbE90V2YzcVY2VlR5ZDRUYl91RWdmS1lWYzN6MkxsekZkdWplR2xmRjB2NHlZdjBMRXhqYlhKYTVMTy1rMEdrLTBsNGtOTjZFQTZEMWFLSVo3UVMtM0xCc0dDOTk0WlJud3FmdmxoejZjTy0tZGV6SERRSWM2VmNfbHR3N095NFhyRl83QWVWX2wzZkw0VHR3UkZURE5VQkRKLUdZY0NuRW9sRnkza2d5cGlDZ01Nak5CU2t4dHVUak5idw?oc=5"
+  },
+  {
+   "fonte": "GN[pt] \"Vitória Stone Fair\"",
+   "titulo": "Sotreq apresenta soluções na Paving Expo - Revista O Empreiteiro",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoNUdBSUxMcnR3NFczMFFTQXJwdW9kOTZnamgzRHRma2xTVTNpYVJUN2g2X1hBLUVTbDZlXzJfWTJtV1NuRU9IRnVqTUhZeWRPaFQtQ2VEUmNGbGJ0V0EzZlpwV2F0MzlRRjFfQ0lLNmQ?oc=5"
+  },
+  {
+   "fonte": "GN[pt] \"Cachoeiro de Itapemirim\" rochas",
+   "titulo": "Materiais exclusivos e atemporais inspiram projetos que atravessam gerações - Portal Revista Kdea 360",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTDU1dXFxdXVrNGZhbmg0X1huanF0cFBIUldOSFI5ekRsdGRod1NKQi12YU1jYUFra012Y3lERzlvdDRPWV80TS1IY01rdjhkbVBkRkxRNEY5Vlo0UVdPckJ6UVBITVNVR181Qjlwcmota1FhdzRGdk02ZUpxb3V4YndRanZWNTh2TG0zNWlyc0lIU05TVFAyTzVKZWpRUnh4bXVWdk5mUklBNlJ4R0U3UXNzdkF2SDBRWjhZ?oc=5"
+  },
+  {
+   "fonte": "GN[en] \"Brazilian quartzite\"",
+   "titulo": "Stakeholder Gold Stock Slips 2.52%: Is Bearish Momentum Signaling a Deeper Correction Ahead? - kalkine.ca",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOEdzWmh0Tmc5eXB3Wm81Rm1CcHBSZ3djZW40a1pyeHVOaU92UkxvVEdNZ3lLR2p4MGcyeWctRE55THRwamlFWjRZaE1xbjBoV0RLU2tJX2xzYVNWS2lxaHZyeFhwSld1bmJRb2sxT3hMRHNjbVJPd3VVLWlMR3BJTjBDdUt5OG5oeV9UTGlTMjFzX1VWNVZFMHZfakdTQW9iZkY1d25lSldZbndnNExvR2VJVzBPSEI3aUZz?oc=5"
+  },
+  {
+   "fonte": "GN[it] marmo granito Brasile",
+   "titulo": "Narcotraffico, arrestato in Brasile Joseph Bruzzese, considerato un importante membro della ‘ndrangheta - Telemia",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTTNfUXczOFFWSWpWYkJVa01IcEdzWHJiQXNOdXVyd3JiZnhpQ1NIekVoQmdoQkFwOW9jX2t3cno5Y0U2NFpsa1lzeWk4Y2ttY1RIa0dISUZWd0t4VTNMZlpTVUdQM0FsMUJ5RzdBYjR4V1ZWa0VLanhrS0l0eUtoUUZtRGZWaFY3emhHaFlwYmVBS0QyU3NvNHkxeWh2SXFSZlNOS2w3LUVDdVNyZU9BWnNOeHpUc0h3aDFDZHhBbWVIQQ?oc=5"
+  },
+  {
+   "fonte": "GN[en] \"natural stone\" Brazil",
+   "titulo": "A world of design finds a home in Nambour - The Sunshine Valley Gazette",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43MS04YkJJV0lCTjljSXhBS2lFXzNnM2RSTjZVTkJBZ0JaSXNpcVNpeUoxM3piTHRCQ0M5ekJTN04wWnFYc2FwN0R5cmN2VFJHQ2tweEhCLTBRNURFNl9KdWVTTkpqekZMMGE3QXVianVuNGZUb0E?oc=5"
+  },
+  {
+   "fonte": "GN[en] \"natural stone\" Brazil",
+   "titulo": "Rohit Sharma Dons ₹1.58 Cr Rolex Watch As He Scores Fighting Innings Of 92 Runs Against West Indies - Free Press Journal",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeHZKRUROank0NWVJZzQzeUlJZkRETS1leGFwZzdkbTBXN3JMWVBaQUlDQUNxa2t5d1d4cDlGbW1DQUNTV1UxUFdXQzh1bHVSTUxBRkRuMDNtTktfNlpSMkU2cTgxRmVmamdmTGRySVNsNjdfMnFGM3dkcEVZZ2hQN0IySmdWTmJKUjdtd0NvVFJ6eUY2bW9pVTBrZXN4YnlRMlA4MjA2WU9nYjRUeXFrc3ZTaUpUZFdKZmN5d0s5ZDhHalFuRmNBOG81QXZEQzFXb2RTWFdR0gHbAUFVX3lxTE9Cenl6YWYySVc3TjJnb1ZubXZBand5RHlnMzNOdWFGRExpbDNYb2lxNzF6YllEak9fSmd4TTBUN1dxUTVwSW1RMWtnbTRkMG00Rjg1ZDFDSzdGeGF4WkFBQ09PTC16SERzSGQyLXZxdl83ZTVKZXVRN3BXc2w5aEhKZncyNUx1WXRHUWtyRS05QThodjNUT2Z2SUsyMXRYZjJHaWh0TUZVZ05aSkI0RlRUTl9oQk1NSDlOTWUzemJObjRpeWE5NFZxajhGNjR5SXJQQnZnVW5OZWl5NA?oc=5"
+  },
+  {
+   "fonte": "GN[es] \"rocas ornamentales\" Brasil",
+   "titulo": "La producción minera subió más de 8% en agosto - Somos Pymes",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYzRpQmNSOGVmOVNCMHZKSG5yNC1PdUsxcHo1eUYxZnVpaXhvdHJ3elk4MC1qX0R6SnEtWmdQUzFKQnFhTGVkRjZzRlFaTU14LTNCbmU4RmVyQTB4bTZwUDRfbmJQaVl4bFVTaF9kUjZoOUtuOTMwU04ta3Y1Yzd6b3ZfVEZOR3hteV9INGpycHVFczIxWVHSAZYBQVVfeXFMT2M0aUJjUjhlZjlTQjB2SkhucjQtT3VLMXB6NXlGMWZ1aWl4b3Ryd3pZODAtal9EekpxLVpnUFMxSkJxYUxlZEY2c0ZRWk1NeC0zQm5lOEZlckEweG02cFA0X25iUGlZeGxVU2hfZFI2aDlLbjkzMFNOLWt2NWM3em92X1RGTkd4bXlfSDRqcnB1RXMyMVlR?oc=5"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "De praia a montanha: confira 10 destinos para conhecer em um dia no ES",
+   "link": "https://www.folhavitoria.com.br/cultura/turismo/de-praia-a-montanha-confira-10-destinos-para-conhecer-em-um-dia-no-es/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Caminhos para a educação inclusiva: entrevista",
+   "link": "https://www.folhavitoria.com.br/social/caminhos-para-a-educacao-inclusiva-entrevista/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Aniversário de Edivanil Perenzin refletiu o tom afetivo da celebração em família",
+   "link": "https://www.folhavitoria.com.br/social/aniversario-de-edivanil-perenzin-refletiu-o-tom-afetivo-da-celebracao-em-familia/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Desfile-Bazar em prol do Asilo de Vitória badalou a Casa Lounge",
+   "link": "https://www.folhavitoria.com.br/social/desfile-bazar-em-prol-do-asilo-de-vitoria-badalou-a-casa-lounge/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Extrabom lança promoção de aniversário com mais de R$ 1 milhão em prêmios",
+   "link": "https://www.folhavitoria.com.br/cotidiano/extrabom-lanca-promocao-de-aniversario-com-mais-de-r-1-milhao-em-premios/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "M&M Cast, com Dídimo Effgen | Ep. #33 –  Felipe Bahia,  Cofundador e COO da PLINQ",
+   "link": "https://www.folhavitoria.com.br/cotidiano/mm-cast-com-didimo-effgen-ep-33-felipe-bahiacofundador-e-coo-da-plinq/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Veterinário salva bebê engasgada após pais pedirem ajuda em pet shop em Vitória",
+   "link": "https://www.folhavitoria.com.br/cotidiano/veterinario-salva-bebe-engasgada-apos-pais-pedirem-ajuda-em-pet-shop-em-vitoria/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "5 cores de esmalte que são a cara do verão",
+   "link": "https://www.folhavitoria.com.br/beleza/5-cores-de-esmalte-que-sao-a-cara-do-verao/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Zanin nega recurso de Eduardo Paes e mantém anulação de votos de Garotinho",
+   "link": "https://www.folhavitoria.com.br/eleicoes/zanin-nega-recurso-de-eduardo-paes-e-mantem-anulacao-de-votos-de-garotinho/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Ricardo Ferraço troca coordenador de campanha ao governo do ES",
+   "link": "https://www.folhavitoria.com.br/politica/ricardo-ferraco-troca-coordenador-de-campanha-ao-governo-do-es/"
+  }
+ ]
+}
