@@ -110,6 +110,10 @@ def coletar_sitemap(s, existentes, pdfs, max_paginas):
     """Plano B quando a API está fechada ou vazia: sitemap + leitura de cada página."""
     erros = []
     urls = urls_do_sitemap(s, erros)
+    if s.get("generalista"):
+        # veículo generalista: só abre página cujo endereço já indica o tema (evita ler milhares de notícias)
+        tema = re.compile(r"rocha|marmor|granit|quartzit|ardosia|centrorochas|abirochas|stone-fair|pedra", re.I)
+        urls = {u: d for u, d in urls.items() if tema.search(u)}
     novos = descartados = 0
     for loc, lastmod in list(urls.items())[: max_paginas * 20]:
         if loc in existentes:
