@@ -45,11 +45,114 @@ def ler_existentes(caminho):
         return {r["link"]: r for r in map(json.loads, f)}
 
 
+LOC_LASTMOD = re.compile(r"<url>\s*<loc>\s*([^<\s]+)\s*</loc>(?:\s*<lastmod>\s*([^<\s]+))?", re.I)
+SITEMAP_LOC = re.compile(r"<sitemap>\s*<loc>\s*([^<\s]+)\s*</loc>", re.I)
+META = lambda prop: re.compile(r'<meta[^>]+(?:property|name)=["\']' + prop + r'["\'][^>]+content=["\']([^"\']+)', re.I)
+OG_TITLE, PUB = META("og:title"), META("article:published_time")
+LD_DATE = re.compile(r'"datePublished"\s*:\s*"([^"]+)"')
+NAO_POST = re.compile(r"/(tag|category|categoria|author|autor|page|wp-content|feed)/|\.(jpg|png|pdf|xml)$", re.I)
+TIPOS_IGNORADOS = {"page", "attachment", "nav_menu_item", "wp_block", "wp_template", "wp_template_part",
+                   "wp_navigation", "wp_font_family", "wp_font_face", "wp_global_styles"}
+
+
+def tipos_de_conteudo(s):
+    """rest_base de cada tipo publicável (posts + tipos personalizados, ex.: 'noticias')."""
+    cod, corpo, erro, _ = rede.buscar(s["url"].rstrip("/") + "/wp-json/wp/v2/types", ua=rede.UA, tentativas=2)
+    if erro:
+        return ["posts"]
+    try:
+        tipos = json.loads(corpo)
+    except ValueError:
+        return ["posts"]
+    bases = [t.get("rest_base") for k, t in tipos.items() if k not in TIPOS_IGNORADOS and t.get("rest_base")]
+    return sorted(set(bases) | {"posts"})
+
+
+def pagina_html(url):
+    """(titulo, data, texto, pdfs) extraídos do HTML de uma página."""
+    cod, corpo, erro, _ = rede.buscar(url, tentativas=2)
+    if erro:
+        return None
+    h = corpo.decode("utf-8", "replace")
+    titulo = (OG_TITLE.search(h) or re.search(r"<title>([^<]+)</title>", h, re.I))
+    data = (PUB.search(h) or LD_DATE.search(h) or re.search(r'<time[^>]+datetime=["\']([^"\']+)', h, re.I))
+    corpo_art = re.search(r"<article.*?</article>", h, re.S | re.I)
+    paras = re.findall(r"<p[^>]*>(.*?)</p>", corpo_art.group(0) if corpo_art else h, re.S | re.I)
+    return (limpar(titulo.group(1)) if titulo else "", (data.group(1) if data else "")[:10],
+            limpar(" ".join(paras)), PDF_RX.findall(h))
+
+
+def urls_do_sitemap(s, log_erros):
+    raiz = s["url"].rstrip("/")
+    filas = [raiz + p for p in ("/wp-sitemap.xml", "/sitemap_index.xml", "/sitemap.xml")]
+    urls, vistos = {}, set()
+    while filas and len(vistos) < 300:
+        u = filas.pop(0)
+        if u in vistos:
+            continue
+        vistos.add(u)
+        cod, corpo, erro, _ = rede.buscar(u, tentativas=2)
+        if erro:
+            continue
+        x = corpo.decode("utf-8", "replace")
+        filhos = SITEMAP_LOC.findall(x)
+        # só sitemaps de conteúdo: post, notícia, artigo (pula páginas, tags, autores, imagens)
+        filas += [f for f in filhos if not re.search(r"(page|tag|categor|author|user|taxonom|attachment|image)", f, re.I)]
+        for loc, lastmod in LOC_LASTMOD.findall(x):
+            if not NAO_POST.search(loc) and loc.rstrip("/") != raiz:
+                urls[loc] = (lastmod or "")[:10]
+    if not urls:
+        log_erros.append("sitemap vazio ou inacessível")
+    return urls
+
+
+def coletar_sitemap(s, existentes, pdfs, max_paginas):
+    """Plano B quando a API está fechada ou vazia: sitemap + leitura de cada página."""
+    erros = []
+    urls = urls_do_sitemap(s, erros)
+    novos = descartados = 0
+    for loc, lastmod in list(urls.items())[: max_paginas * 20]:
+        if loc in existentes:
+            continue
+        r = pagina_html(loc)
+        time.sleep(0.8)
+        if not r:
+            continue
+        titulo, data, texto, links_pdf = r
+        for pdf in links_pdf:
+            pdfs[pdf] = {"site": s["id"], "post": loc, "data": data or lastmod}
+        rel, motivo, elos = cadeia.avaliar(titulo, texto[:3000])
+        if not rel and s.get("generalista"):
+            descartados += 1
+            continue
+        existentes[loc] = {"site": s["id"], "data": data or lastmod, "titulo": titulo, "link": loc,
+                           "resumo": texto[:600], "texto": texto[:6000], "caracteres": len(texto),
+                           "relevancia": motivo or "site-setorial", "elos_pre": elos, "via": "sitemap"}
+        novos += 1
+    return novos, descartados, len(urls), (erros[0] if erros else None)
+
+
 def coletar_site(s, max_paginas, log, pdfs):
-    base = s["url"].rstrip("/") + "/wp-json/wp/v2/posts"
     caminho = f"{DIR}/{s['id']}.jsonl"
     existentes = ler_existentes(caminho)
-    novos, vistos, descartados, pagina, erro, total = 0, 0, 0, 1, None, None
+    novos = vistos = descartados = 0
+    erro = None
+    for tipo in tipos_de_conteudo(s):
+        n, v, d, erro_tipo = coletar_api(s, tipo, max_paginas, existentes, pdfs)
+        novos, vistos, descartados = novos + n, vistos + v, descartados + d
+        if tipo == "posts":
+            erro = erro_tipo
+    via = "api"
+    if vistos == 0:   # API fechada (401), inexistente (404) ou vazia: tenta o sitemap
+        n, d, n_urls, erro_sm = coletar_sitemap(s, existentes, pdfs, max_paginas)
+        novos, descartados, via = novos + n, descartados + d, f"sitemap ({n_urls} URLs)"
+        erro = None if n_urls else f"{erro or 'API sem posts'}; {erro_sm}"
+    gravar_site(s, caminho, existentes, log, novos, vistos, descartados, erro, via)
+
+
+def coletar_api(s, tipo, max_paginas, existentes, pdfs):
+    base = s["url"].rstrip("/") + "/wp-json/wp/v2/" + tipo
+    novos, vistos, descartados, pagina, erro = 0, 0, 0, 1, None
     while pagina <= max_paginas:
         url = base + "?" + rede.qs(per_page=100, page=pagina, search=s.get("busca"),
                                    _fields="date,link,title,excerpt,content")
@@ -91,13 +194,17 @@ def coletar_site(s, max_paginas, log, pdfs):
             break
         pagina += 1
         time.sleep(1)
+    return novos, vistos, descartados, erro
+
+
+def gravar_site(s, caminho, existentes, log, novos, vistos, descartados, erro, via):
     os.makedirs(DIR, exist_ok=True)
     with open(caminho + ".tmp", "w", encoding="utf-8") as f:
         for r in sorted(existentes.values(), key=lambda r: r["data"], reverse=True):
             f.write(json.dumps(r, ensure_ascii=False) + "\n")
     os.replace(caminho + ".tmp", caminho)
     anos = collections.Counter(r["data"][:4] for r in existentes.values())
-    log.append({"site": s["id"], "nome": s["nome"], "erro": erro, "paginas": pagina, "posts_lidos": vistos,
+    log.append({"site": s["id"], "nome": s["nome"], "erro": erro, "via": via, "posts_lidos": vistos,
                 "novos": novos, "descartados": descartados, "total": len(existentes),
                 "de": min(anos) if anos else None, "ate": max(anos) if anos else None, "por_ano": dict(sorted(anos.items()))})
 
@@ -120,9 +227,9 @@ def main():
     md = [f"# Acervo retroativo dos sites do setor — {hoje}", "",
           "Coleta pela API pública do WordPress (`/wp-json/wp/v2/posts`). Texto do post gravado até 6.000 caracteres.",
           "Sites generalistas usam busca por palavra e passam pelo filtro de relevância; sites do setor entram inteiros.", "",
-          "| Site | Posts no acervo | Novos nesta execução | Período | Descartados (filtro) | Erro |", "|---|---|---|---|---|---|"]
+          "| Site | Via | Posts no acervo | Novos nesta execução | Período | Descartados (filtro) | Erro |", "|---|---|---|---|---|---|---|"]
     for l in log:
-        md.append(f"| {l['nome']} | {l['total']} | {l['novos']} | {l['de'] or '—'}–{l['ate'] or '—'} | {l['descartados']} | {(l['erro'] or '').replace('|', '/')[:120]} |")
+        md.append(f"| {l['nome']} | {l['via']} | {l['total']} | {l['novos']} | {l['de'] or '—'}–{l['ate'] or '—'} | {l['descartados']} | {(l['erro'] or '').replace('|', '/')[:120]} |")
     md += ["", f"PDFs citados nos posts (Informes, estudos): **{len(pdfs)}** — lista em `pdfs.json`.", "",
            "## Posts por ano", "", "| Site | " + " | ".join(str(y) for y in range(2008, datetime.now().year + 1)) + " |",
            "|---|" + "---|" * (datetime.now().year + 1 - 2008)]
