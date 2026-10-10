@@ -1,0 +1,32 @@
+{
+ "https://pubs.usgs.gov/periodicals/mcs2023/mcs2023.pdf": {
+  "site": "minerios",
+  "post": "https://revistaminerios.com.br/todos-os-metais-que-mineramos-em-2022/",
+  "data": "2023-11-17"
+ },
+ "https://engenhariacivilfsp.files.wordpress.com/2014/11/spt-metodo_de_ensaio_nbr_6484.pdf": {
+  "site": "minerios",
+  "post": "https://revistaminerios.com.br/analise-de-risco-a-escorregamento-na-vila-coqueiral/",
+  "data": "2020-01-20"
+ },
+ "https://revistaminerios.com.br.br/wp/wp-content/uploads/2019/09/Artigo-1-Criação-de-um-simulador-de-produção-e-alimentação-das-plantas-de-fosfato-de-catalão-usando-dados-geometalurgicos-1.pdf": {
+  "site": "minerios",
+  "post": "https://revistaminerios.com.br/criacao-de-um-simulador/",
+  "data": "2019-07-03"
+ },
+ "https://minerals.usgs.gov/minerals/pubs/mcs/2018/mcs2018.pdf": {
+  "site": "minerios",
+  "post": "https://revistaminerios.com.br/grafita-no-brasil-exploracao-mineral/",
+  "data": "2018-09-26"
+ },
+ "https://www.cprm.gov.br/publique/media/IRM_RC_Rondonia.pdf": {
+  "site": "minerios",
+  "post": "https://revistaminerios.com.br/cprm-lanca-informe-mineral-sobre-rochas-carbonaticas-do-estado-de-rondonia/",
+  "data": "2016-01-12"
+ },
+ "https://gc.revistaminerios2.hospedagemdesites.ws/Conteudo/Arquivos/Pdf/3.CSN.pdf": {
+  "site": "minerios",
+  "post": "https://revistaminerios.com.br/caminhoes-mecanicos-x-eletricos/",
+  "data": "2014-05-16"
+ }
+}
