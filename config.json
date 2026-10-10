@@ -195,6 +195,12 @@
     "\"Brazilian granite\"",
     "\"Brazilian quartzite\""
    ]
-  }
+  },
+  "pdf_regex": "informe|exporta|balan[cç]o|estudo|perfil|panorama|boletim|relat[oó]rio|anu[aá]rio|diagn[oó]stico|rochas",
+  "sitemaps_pdf": [
+   "https://litosonline.com/sitemap.xml",
+   "https://abirochas.com.br/sitemap.xml",
+   "https://centrorochas.org.br/sitemap.xml"
+  ]
  }
 }
