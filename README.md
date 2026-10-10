@@ -70,7 +70,18 @@ agendado que lê o que foi commitado — a mesma divisão sugerida no `ALGORITMO
 ## Ressalvas metodológicas já embutidas
 
 - **Recorte NCM:** capítulos 25.14–25.16 e 68.01–68.03, mais 2506.20 (quartzito) por NCM, porque o SH4
-  2506 inclui areia de quartzo. Conferir contra o recorte do Informe Abirochas antes de publicar.
+  2506 inclui areia de quartzo. **Validado contra os Informes Abirochas** (2026-10-10):
+
+  | Período | Abirochas | Robô | Diferença |
+  |---|---|---|---|
+  | jan–mai/2023 | US$ 427,3 mi · 703,8 mil t | US$ 426,4 mi · 702,3 mil t | −0,2% |
+  | jan–jul/2024 | US$ 720,8 mi · 1,27 Mt | US$ 719,8 mi · 1,27 Mt | −0,14% |
+  | jan–set/2024 | US$ 920,3 mi | US$ 919,2 mi | −0,12% |
+
+  A diferença residual é compatível com revisão posterior do ComexStat.
+- **Escopo da bibliografia:** cada obra recebe `escopo` = `brasil` (autor brasileiro, texto em português,
+  BDTD ou menção a Brasil/UF), `internacional-setor` ou `internacional-residuo` (reaproveitamento de pó de
+  rocha, em geral em concreto). O estudo usa o núcleo `brasil`; o resto serve de comparação.
 - **CFEM "GRANITO"** mistura brita e rocha ornamental. A série é gravada por substância exatamente como a
   ANM a nomeia; não somar sem recorte.
 - **ComexStat revisa** meses passados: a atualização mensal reconsulta ano corrente e anterior e o relatório

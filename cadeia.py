@@ -81,3 +81,18 @@ def avaliar(*textos):
         motivo = f"composto:{m.group(0).lower()}+{c.group(0).lower()}"
     elos = [k for k, rx in _ELOS_RE.items() if rx.search(alvo) or rx.search(alvo_sa)]
     return True, motivo, elos
+
+
+# Escopo do estudo (bibliografia). Núcleo = Brasil; o resto é comparação
+# internacional, separada entre literatura do setor e reaproveitamento de
+# resíduo (em geral concreto/cimento), que domina o volume mundial.
+BRASIL = re.compile(r"brasil|brazil|esp[ií]rito santo|minas gerais|cachoeiro|bahia|cear[aá]"
+                    r"|paran[aá]|rio grande do norte|para[ií]ba|pernambuco|goi[aá]s|santa catarina", re.I)
+
+
+def escopo(r):
+    """'brasil' | 'internacional-setor' | 'internacional-residuo' para um registro do corpus."""
+    if ("BR" in (r.get("paises_autores") or []) or r.get("idioma") == "pt" or "bdtd" in (r.get("ids") or {})
+            or BRASIL.search(f"{r.get('titulo', '')} {r.get('resumo', '')}")):
+        return "brasil"
+    return "internacional-residuo" if (r.get("relevancia") or "").startswith("residuo") else "internacional-setor"

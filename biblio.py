@@ -232,10 +232,13 @@ def main():
         ok, motivo, elos = cadeia.avaliar(r["titulo"], r["resumo"], r["veiculo"])
         if ok:
             r.update(relevancia=motivo, elos_pre=elos)
+            r["escopo"] = cadeia.escopo(r)
         else:
             del corpus[k]
             expurgadas += 1
     novas = mesclar(corpus, relevantes)
+    for k in novas:
+        corpus[k]["escopo"] = cadeia.escopo(corpus[k])
     for k, r in corpus.items():
         r["_k"] = k
 
@@ -268,6 +271,8 @@ def escrever_md(data, backfill, ano_ini, fontes, log, n_brutos, descartados, exp
           f"- Registros brutos: {n_brutos}; fora do recorte (filtro cadeia.py): {descartados}",
           f"- Obras já no corpus removidas por recalibração do filtro: {expurgadas}",
           f"- **Obras novas: {len(novas)}**; corpus acumulado: {total}",
+          "- Escopo das novas: " + ", ".join(f"{k} {v}" for k, v in
+                                             collections.Counter(r.get("escopo", "?") for r in novas).most_common()),
           "- Elo = pré-classificação por palavra-chave sobre título/resumo. Não é leitura da obra.", ""]
     por_elo = collections.defaultdict(list)
     for r in novas:

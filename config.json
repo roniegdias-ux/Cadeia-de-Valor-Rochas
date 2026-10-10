@@ -2,7 +2,7 @@
  "_leia": "Parâmetros do estudo. Mudar aqui, nunca no código. Códigos marcados 'a_validar' ainda não foram conferidos contra a fonte; verificar_fontes.py e a primeira execução de dados.py confirmam.",
 
  "ncm_comexstat": {
-  "_nota": "Recorte usual do setor (Abirochas/Centrorochas): capítulos 25 (brutas) e 68 (beneficiadas). 2506.20 (quartzito) entra por NCM e não por SH4, porque 2506.10 é areia de quartzo e contaminaria a série. Conferir recorte com o Informe Abirochas antes de publicar números.",
+  "_nota": "Recorte usual do setor (Abirochas/Centrorochas): capítulos 25 (brutas) e 68 (beneficiadas). 2506.20 (quartzito) entra por NCM e não por SH4, porque 2506.10 é areia de quartzo. VALIDADO em 2026-10-10 contra os Informes Abirochas: jan-mai/2023, jan-jul/2024 e jan-set/2024 batem com diferença de 0,1% a 0,2% em valor e peso.",
   "sh4": {
    "2514": "ardósia bruta ou desbastada",
    "2515": "mármores, travertinos e outras calcárias de cantaria (brutos/serrados)",
