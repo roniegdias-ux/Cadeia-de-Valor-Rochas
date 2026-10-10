@@ -14,7 +14,8 @@ case "$modo" in
   matriz)   python3 verificar_fontes.py || st=$? ;;
   diario)   python3 noticias.py || st=$? ;;
   semanal)  python3 biblio.py || st=$? ;;
-  mensal)   python3 dados.py || st=$? ;;
+  mensal)   python3 dados.py || st=$?
+            python3 mapeamento.py || st=$? ;;
   backfill) python3 biblio.py --backfill || st=$?
             python3 dados.py --backfill || st=$? ;;
   backfill-biblio) python3 biblio.py --backfill || st=$? ;;
