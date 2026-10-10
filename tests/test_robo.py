@@ -15,6 +15,8 @@ import cadeia  # noqa: E402
 import dados  # noqa: E402
 import noticias  # noqa: E402
 import rede  # noqa: E402
+import retro_gn  # noqa: E402
+import retro_sites  # noqa: E402
 
 FIX = os.path.join(RAIZ, "tests", "fixtures")
 
@@ -186,6 +188,21 @@ class TestDados(unittest.TestCase):
     def test_num_decimal_br(self):
         self.assertEqual(dados._num("1.234,56"), 1234.56)
         self.assertEqual(dados._num("12.5"), 12.5)
+
+
+class TestRetro(unittest.TestCase):
+    def test_meses_virada_de_ano(self):
+        m = list(retro_gn.meses("2025-11", (2026, 2)))
+        self.assertEqual([x[0] for x in m], ["2025-11", "2025-12", "2026-01", "2026-02"])
+        self.assertEqual(m[1][1:], ("2025-12-01", "2026-01-01"))
+
+    def test_limpar_html_wordpress(self):
+        h = "<p>Exporta&ccedil;&otilde;es de <strong>rochas</strong></p><script>x()</script>"
+        self.assertEqual(retro_sites.limpar(h), "Exportações de rochas")
+
+    def test_pdf_nos_posts(self):
+        h = '<a href="https://litosonline.com/x/Informe%2009_2024.pdf">Informe</a>'
+        self.assertEqual(retro_sites.PDF_RX.findall(h), ["https://litosonline.com/x/Informe%2009_2024.pdf"])
 
 
 if __name__ == "__main__":

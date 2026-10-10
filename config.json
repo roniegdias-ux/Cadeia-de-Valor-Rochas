@@ -1,6 +1,5 @@
 {
  "_leia": "Parâmetros do estudo. Mudar aqui, nunca no código. Códigos marcados 'a_validar' ainda não foram conferidos contra a fonte; verificar_fontes.py e a primeira execução de dados.py confirmam.",
-
  "ncm_comexstat": {
   "_nota": "Recorte usual do setor (Abirochas/Centrorochas): capítulos 25 (brutas) e 68 (beneficiadas). 2506.20 (quartzito) entra por NCM e não por SH4, porque 2506.10 é areia de quartzo. VALIDADO em 2026-10-10 contra os Informes Abirochas: jan-mai/2023, jan-jul/2024 e jan-set/2024 batem com diferença de 0,1% a 0,2% em valor e peso.",
   "sh4": {
@@ -19,51 +18,183 @@
    "6804": "mós, rebolos e abrasivos — insumo do beneficiamento"
   },
   "grupos": {
-   "brutas_carbonaticas": ["2515"],
-   "brutas_silicaticas": ["2516", "25062000"],
-   "ardosia": ["2514", "6803"],
-   "beneficiadas": ["6801", "6802"],
-   "insumos": ["8464", "6804"]
+   "brutas_carbonaticas": [
+    "2515"
+   ],
+   "brutas_silicaticas": [
+    "2516",
+    "25062000"
+   ],
+   "ardosia": [
+    "2514",
+    "6803"
+   ],
+   "beneficiadas": [
+    "6801",
+    "6802"
+   ],
+   "insumos": [
+    "8464",
+    "6804"
+   ]
   },
   "inicio_serie": "1997-01"
  },
-
  "comtrade": {
   "_nota": "Benchmark mundial: quem exporta, para onde, a que preço por tonelada. Códigos M49.",
-  "hs4": ["2514", "2515", "2516", "6801", "6802", "6803"],
-  "reporters": {"76": "Brasil", "156": "China", "380": "Itália", "699": "Índia", "792": "Turquia",
-                "724": "Espanha", "620": "Portugal", "818": "Egito", "300": "Grécia", "842": "EUA"},
+  "hs4": [
+   "2514",
+   "2515",
+   "2516",
+   "6801",
+   "6802",
+   "6803"
+  ],
+  "reporters": {
+   "76": "Brasil",
+   "156": "China",
+   "380": "Itália",
+   "699": "Índia",
+   "792": "Turquia",
+   "724": "Espanha",
+   "620": "Portugal",
+   "818": "Egito",
+   "300": "Grécia",
+   "842": "EUA"
+  },
   "inicio": 2000
  },
-
  "bcb_sgs": {
   "_nota": "Para deflacionar e converter séries. a_validar: códigos conferidos de memória.",
   "3698": "câmbio R$/US$ venda, média mensal",
   "433": "IPCA, variação mensal"
  },
-
  "cfem": {
   "_nota": "CFEM por substância/município mapeia a geografia da lavra. ATENÇÃO: 'GRANITO' na CFEM mistura brita (construção) e rocha ornamental; não somar sem recorte. a_validar: nomes das colunas e da URL.",
   "substancias_regex": "GRANITO|M[AÁ]RMORE|QUARTZITO|ARD[OÓ]SIA|GNAISSE|SIENITO|CHARNOQUITO|MIGMATITO|TRAVERTINO|PEDRA[ -]SAB[AÃ]O|SERPENTINITO|ROCHA ORNAMENTAL|PEDRA ORNAMENTAL|PEDRA DE REVESTIMENTO|BASALTO P|ARENITO P"
  },
-
  "noticias_consultas": {
   "_nota": "Google News RSS. Só manchete + veículo + data; nunca corpo. Cada consulta é uma 'fonte' no log.",
-  "pt": ["\"rochas ornamentais\"", "\"setor de rochas\"", "\"mármore e granito\"", "quartzito exportação",
-         "Centrorochas", "Abirochas", "Sindirochas", "\"Vitória Stone Fair\"",
-         "\"Cachoeiro de Itapemirim\" rochas", "\"pedras naturais\" exportação", "rochas tarifa Estados Unidos granito"],
-  "en": ["\"Brazilian granite\"", "\"Brazilian quartzite\"", "\"dimension stone\" Brazil", "\"natural stone\" Brazil"],
-  "it": ["marmo granito Brasile"],
-  "es": ["\"rocas ornamentales\" Brasil"]
+  "pt": [
+   "\"rochas ornamentais\"",
+   "\"setor de rochas\"",
+   "\"mármore e granito\"",
+   "quartzito exportação",
+   "Centrorochas",
+   "Abirochas",
+   "Sindirochas",
+   "\"Vitória Stone Fair\"",
+   "\"Cachoeiro de Itapemirim\" rochas",
+   "\"pedras naturais\" exportação",
+   "rochas tarifa Estados Unidos granito"
+  ],
+  "en": [
+   "\"Brazilian granite\"",
+   "\"Brazilian quartzite\"",
+   "\"dimension stone\" Brazil",
+   "\"natural stone\" Brazil"
+  ],
+  "it": [
+   "marmo granito Brasile"
+  ],
+  "es": [
+   "\"rocas ornamentales\" Brasil"
+  ]
  },
-
  "biblio_consultas": {
   "_nota": "Busca em título+resumo. Inglês e português; o filtro de relevância (cadeia.py) corta ruído de petrologia.",
-  "termos": ["rochas ornamentais", "rocha ornamental", "dimension stone", "ornamental stone", "ornamental rock",
-             "natural stone industry", "pedras naturais", "rochas de revestimento",
-             "marble waste", "granite waste", "resíduo de mármore", "resíduo de granito",
-             "granite quarry Brazil", "quartzite Brazil", "Cachoeiro de Itapemirim", "stone processing industry",
-             "marmoraria", "silicosis stone workers"],
+  "termos": [
+   "rochas ornamentais",
+   "rocha ornamental",
+   "dimension stone",
+   "ornamental stone",
+   "ornamental rock",
+   "natural stone industry",
+   "pedras naturais",
+   "rochas de revestimento",
+   "marble waste",
+   "granite waste",
+   "resíduo de mármore",
+   "resíduo de granito",
+   "granite quarry Brazil",
+   "quartzite Brazil",
+   "Cachoeiro de Itapemirim",
+   "stone processing industry",
+   "marmoraria",
+   "silicosis stone workers"
+  ],
   "inicio_backfill": 1970
+ },
+ "retro": {
+  "_nota": "Coleta retroativa. sites_wp: sites com API WordPress; generalista=true aplica busca e filtro de relevância. gn_*: Google News mês a mês.",
+  "sites_wp": [
+   {
+    "id": "centrorochas",
+    "nome": "Centrorochas",
+    "url": "https://centrorochas.org.br"
+   },
+   {
+    "id": "abirochas",
+    "nome": "Abirochas",
+    "url": "https://abirochas.com.br"
+   },
+   {
+    "id": "sindirochas",
+    "nome": "Sindirochas",
+    "url": "https://sindirochas.com.br"
+   },
+   {
+    "id": "minerios",
+    "nome": "Revista Minérios & Minerales",
+    "url": "https://revistaminerios.com.br",
+    "busca": "rochas",
+    "generalista": true
+   },
+   {
+    "id": "folhavitoria",
+    "nome": "Folha Vitória",
+    "url": "https://www.folhavitoria.com.br",
+    "busca": "rochas",
+    "generalista": true
+   },
+   {
+    "id": "eshoje",
+    "nome": "ES Hoje",
+    "url": "https://eshoje.com.br",
+    "busca": "rochas",
+    "generalista": true
+   },
+   {
+    "id": "agazeta",
+    "nome": "A Gazeta (ES)",
+    "url": "https://www.agazeta.com.br",
+    "busca": "rochas",
+    "generalista": true
+   },
+   {
+    "id": "brasilmineral",
+    "nome": "Brasil Mineral",
+    "url": "https://www.brasilmineral.com.br",
+    "busca": "rochas",
+    "generalista": true
+   }
+  ],
+  "gn_inicio": "2005-01",
+  "gn_consultas": {
+   "pt": [
+    "\"rochas ornamentais\"",
+    "\"setor de rochas\"",
+    "\"mármore e granito\"",
+    "Centrorochas",
+    "Abirochas",
+    "\"Vitória Stone Fair\"",
+    "quartzito exportação",
+    "\"Cachoeiro de Itapemirim\" rochas"
+   ],
+   "en": [
+    "\"Brazilian granite\"",
+    "\"Brazilian quartzite\""
+   ]
+  }
  }
 }
