@@ -23,6 +23,7 @@ case "$modo" in
   retro-sites) python3 retro_sites.py || st=$?
                python3 retro_pdfs.py || st=$? ;;
   retro-gn)    python3 retro_gn.py --minutos 190 || st=$? ;;
+  anm)         python3 anm.py || st=$? ;;
   *) echo "modo desconhecido: $modo"; exit 64 ;;
 esac
 echo "rodar.sh $modo -> saída $st"
