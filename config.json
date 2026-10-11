@@ -201,6 +201,44 @@
    "https://litosonline.com/sitemap.xml",
    "https://abirochas.com.br/sitemap.xml",
    "https://centrorochas.org.br/sitemap.xml"
+  ],
+  "wayback": [
+   {
+    "id": "litos-arquivos",
+    "prefixo": "litosonline.com/sites/default/files/*",
+    "_nota": "PDFs dos Informes Abirochas"
+   },
+   {
+    "id": "abirochas",
+    "prefixo": "abirochas.com.br/*",
+    "todas": true
+   },
+   {
+    "id": "abirochas-www",
+    "prefixo": "www.abirochas.com.br/*",
+    "todas": true
+   },
+   {
+    "id": "centrorochas-antigo",
+    "prefixo": "centrorochas.org.br/*"
+   },
+   {
+    "id": "rochas-qualidade",
+    "prefixo": "rochas.com.br/*"
+   },
+   {
+    "id": "rochas-qualidade-www",
+    "prefixo": "www.rochas.com.br/*"
+   },
+   {
+    "id": "sindirochas",
+    "prefixo": "sindirochas.com/*",
+    "todas": true
+   },
+   {
+    "id": "litos-noticias",
+    "prefixo": "litosonline.com/noticias/*"
+   }
   ]
  }
 }

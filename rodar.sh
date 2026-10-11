@@ -25,6 +25,9 @@ case "$modo" in
                python3 retro_resumo.py || st=$? ;;
   retro-gn)    python3 retro_gn.py --minutos "${MINUTOS:-40}" || st=$? ;;
   anm)         python3 anm.py || st=$? ;;
+  retro-wayback) python3 retro_wayback.py --minutos "${MINUTOS:-150}" || st=$?
+                 python3 retro_pdfs.py || st=$?
+                 python3 retro_resumo.py || st=$? ;;
   neve)        python3 biblio_neve.py || st=$? ;;
   retro-gdelt) python3 retro_gdelt.py --minutos "${MINUTOS:-120}" || st=$?
                python3 retro_resumo.py || st=$? ;;

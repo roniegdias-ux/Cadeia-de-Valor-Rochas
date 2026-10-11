@@ -70,6 +70,10 @@ def main():
         reg = {"url": url, "arquivo": nome, "id": ident, "site": meta.get("site"), "post": meta.get("post"),
                "data_post": meta.get("data"), "caracteres": 0, "erro": None}
         cod, corpo, erro, _ = rede.buscar(url, tentativas=3)
+        if (erro or not corpo.startswith(b"%PDF")) and meta.get("arquivado"):
+            # endereço original fora do ar: usa a cópia do Internet Archive
+            cod, corpo, erro, _ = rede.buscar(meta["arquivado"], tentativas=3)
+            reg["via"] = "wayback"
         if erro or not corpo.startswith(b"%PDF"):
             reg["erro"] = erro or f"HTTP {cod} mas não é PDF"
             falhas += 1
