@@ -869,6 +869,2246 @@
    "n": 0,
    "rel": 0,
    "fora_mes": 0
+  },
+  "pt|COMBO|2026-10": {
+   "n": 9,
+   "rel": 9,
+   "fora_mes": 0
+  },
+  "en|COMBO|2026-10": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2026-09": {
+   "n": 10,
+   "rel": 9,
+   "fora_mes": 4
+  },
+  "en|COMBO|2026-09": {
+   "n": 1,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2026-08": {
+   "n": 20,
+   "rel": 18,
+   "fora_mes": 9
+  },
+  "en|COMBO|2026-08": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2026-07": {
+   "n": 35,
+   "rel": 31,
+   "fora_mes": 27
+  },
+  "en|COMBO|2026-07": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2026-06": {
+   "n": 36,
+   "rel": 31,
+   "fora_mes": 31
+  },
+  "en|COMBO|2026-06": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2026-05": {
+   "n": 39,
+   "rel": 33,
+   "fora_mes": 38
+  },
+  "en|COMBO|2026-05": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2026-04": {
+   "n": 41,
+   "rel": 35,
+   "fora_mes": 41
+  },
+  "en|COMBO|2026-04": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2026-03": {
+   "n": 42,
+   "rel": 36,
+   "fora_mes": 41
+  },
+  "en|COMBO|2026-03": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2026-02": {
+   "n": 45,
+   "rel": 39,
+   "fora_mes": 41
+  },
+  "en|COMBO|2026-02": {
+   "n": 1,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2026-01": {
+   "n": 48,
+   "rel": 42,
+   "fora_mes": 42
+  },
+  "en|COMBO|2026-01": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2025-12": {
+   "n": 49,
+   "rel": 43,
+   "fora_mes": 44
+  },
+  "en|COMBO|2025-12": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2025-11": {
+   "n": 49,
+   "rel": 43,
+   "fora_mes": 47
+  },
+  "en|COMBO|2025-11": {
+   "n": 2,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2025-10": {
+   "n": 49,
+   "rel": 44,
+   "fora_mes": 48
+  },
+  "en|COMBO|2025-10": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2025-09": {
+   "n": 49,
+   "rel": 44,
+   "fora_mes": 48
+  },
+  "en|COMBO|2025-09": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2025-08": {
+   "n": 49,
+   "rel": 42,
+   "fora_mes": 43
+  },
+  "en|COMBO|2025-08": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2025-07": {
+   "n": 49,
+   "rel": 43,
+   "fora_mes": 43
+  },
+  "en|COMBO|2025-07": {
+   "n": 1,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2025-06": {
+   "n": 49,
+   "rel": 44,
+   "fora_mes": 48
+  },
+  "en|COMBO|2025-06": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2025-05": {
+   "n": 49,
+   "rel": 44,
+   "fora_mes": 47
+  },
+  "en|COMBO|2025-05": {
+   "n": 1,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2025-04": {
+   "n": 49,
+   "rel": 44,
+   "fora_mes": 49
+  },
+  "en|COMBO|2025-04": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2025-03": {
+   "n": 49,
+   "rel": 44,
+   "fora_mes": 48
+  },
+  "en|COMBO|2025-03": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2025-02": {
+   "n": 49,
+   "rel": 44,
+   "fora_mes": 48
+  },
+  "en|COMBO|2025-02": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2025-01": {
+   "n": 50,
+   "rel": 44,
+   "fora_mes": 49
+  },
+  "en|COMBO|2025-01": {
+   "n": 1,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2024-12": {
+   "n": 50,
+   "rel": 44,
+   "fora_mes": 50
+  },
+  "en|COMBO|2024-12": {
+   "n": 1,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2024-11": {
+   "n": 50,
+   "rel": 44,
+   "fora_mes": 50
+  },
+  "en|COMBO|2024-11": {
+   "n": 1,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2024-10": {
+   "n": 51,
+   "rel": 45,
+   "fora_mes": 50
+  },
+  "en|COMBO|2024-10": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2024-09": {
+   "n": 51,
+   "rel": 45,
+   "fora_mes": 51
+  },
+  "en|COMBO|2024-09": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2024-08": {
+   "n": 51,
+   "rel": 45,
+   "fora_mes": 50
+  },
+  "en|COMBO|2024-08": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2024-07": {
+   "n": 51,
+   "rel": 45,
+   "fora_mes": 51
+  },
+  "en|COMBO|2024-07": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2024-06": {
+   "n": 51,
+   "rel": 45,
+   "fora_mes": 51
+  },
+  "en|COMBO|2024-06": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2024-05": {
+   "n": 51,
+   "rel": 45,
+   "fora_mes": 51
+  },
+  "en|COMBO|2024-05": {
+   "n": 1,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2024-04": {
+   "n": 51,
+   "rel": 45,
+   "fora_mes": 51
+  },
+  "en|COMBO|2024-04": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2024-03": {
+   "n": 51,
+   "rel": 45,
+   "fora_mes": 51
+  },
+  "en|COMBO|2024-03": {
+   "n": 1,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2024-02": {
+   "n": 51,
+   "rel": 45,
+   "fora_mes": 50
+  },
+  "en|COMBO|2024-02": {
+   "n": 2,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2024-01": {
+   "n": 51,
+   "rel": 45,
+   "fora_mes": 48
+  },
+  "en|COMBO|2024-01": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2023-12": {
+   "n": 51,
+   "rel": 45,
+   "fora_mes": 51
+  },
+  "en|COMBO|2023-12": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2023-11": {
+   "n": 51,
+   "rel": 44,
+   "fora_mes": 50
+  },
+  "en|COMBO|2023-11": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2023-10": {
+   "n": 51,
+   "rel": 44,
+   "fora_mes": 51
+  },
+  "en|COMBO|2023-10": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2023-09": {
+   "n": 51,
+   "rel": 45,
+   "fora_mes": 50
+  },
+  "en|COMBO|2023-09": {
+   "n": 1,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2023-08": {
+   "n": 51,
+   "rel": 46,
+   "fora_mes": 48
+  },
+  "en|COMBO|2023-08": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2023-07": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 48
+  },
+  "en|COMBO|2023-07": {
+   "n": 1,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2023-06": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2023-06": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2023-05": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2023-05": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2023-04": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2023-04": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2023-03": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2023-03": {
+   "n": 1,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2023-02": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 50
+  },
+  "en|COMBO|2023-02": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2023-01": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 49
+  },
+  "en|COMBO|2023-01": {
+   "n": 1,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2022-12": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2022-12": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2022-11": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2022-11": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2022-10": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2022-10": {
+   "n": 1,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2022-09": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2022-09": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2022-08": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 50
+  },
+  "en|COMBO|2022-08": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2022-07": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2022-07": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2022-06": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2022-06": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2022-05": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2022-05": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2022-04": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2022-04": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2022-03": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2022-03": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2022-02": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2022-02": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2022-01": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 50
+  },
+  "en|COMBO|2022-01": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2021-12": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2021-12": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2021-11": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2021-11": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2021-10": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2021-10": {
+   "n": 1,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2021-09": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2021-09": {
+   "n": 1,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2021-08": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 50
+  },
+  "en|COMBO|2021-08": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2021-07": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 50
+  },
+  "en|COMBO|2021-07": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2021-06": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 50
+  },
+  "en|COMBO|2021-06": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2021-05": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 50
+  },
+  "en|COMBO|2021-05": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2021-04": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2021-04": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2021-03": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2021-03": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2021-02": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2021-02": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2021-01": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2021-01": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2020-12": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2020-12": {
+   "n": 2,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2020-11": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2020-11": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2020-10": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2020-10": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2020-09": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2020-09": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2020-08": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2020-08": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2020-07": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2020-07": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2020-06": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2020-06": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2020-05": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2020-05": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2020-04": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2020-04": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2020-03": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2020-03": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2020-02": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2020-02": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2020-01": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2020-01": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2019-12": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2019-12": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2019-11": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2019-11": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2019-10": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2019-10": {
+   "n": 1,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2019-09": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2019-09": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2019-08": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2019-08": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2019-07": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2019-07": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2019-06": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2019-06": {
+   "n": 1,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2019-05": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2019-05": {
+   "n": 2,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2019-04": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2019-04": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2019-03": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2019-03": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2019-02": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2019-02": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2019-01": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2019-01": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2018-12": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2018-12": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2018-11": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2018-11": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2018-10": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2018-10": {
+   "n": 1,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2018-09": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2018-09": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2018-08": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2018-08": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2018-07": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2018-07": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2018-06": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2018-06": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2018-05": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2018-05": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2018-04": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 50
+  },
+  "en|COMBO|2018-04": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2018-03": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2018-03": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2018-02": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 50
+  },
+  "en|COMBO|2018-02": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2018-01": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2018-01": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2017-12": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2017-12": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2017-11": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2017-11": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2017-10": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2017-10": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2017-09": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2017-09": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2017-08": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2017-08": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2017-07": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2017-07": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2017-06": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2017-06": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2017-05": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2017-05": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2017-04": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2017-04": {
+   "n": 1,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2017-03": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2017-03": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2017-02": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2017-02": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2017-01": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2017-01": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2016-12": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2016-12": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2016-11": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2016-11": {
+   "n": 1,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2016-10": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2016-10": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2016-09": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 49
+  },
+  "en|COMBO|2016-09": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2016-08": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2016-08": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2016-07": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 49
+  },
+  "en|COMBO|2016-07": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2016-06": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 49
+  },
+  "en|COMBO|2016-06": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2016-05": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2016-05": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2016-04": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2016-04": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2016-03": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2016-03": {
+   "n": 1,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2016-02": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2016-02": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2016-01": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2016-01": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2015-12": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2015-12": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2015-11": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2015-11": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2015-10": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2015-10": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2015-09": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2015-09": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2015-08": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2015-08": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2015-07": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2015-07": {
+   "n": 1,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2015-06": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2015-06": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2015-05": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2015-05": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2015-04": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2015-04": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2015-03": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2015-03": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2015-02": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2015-02": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2015-01": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2015-01": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2014-12": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2014-12": {
+   "n": 1,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2014-11": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2014-11": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2014-10": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2014-10": {
+   "n": 1,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2014-09": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2014-09": {
+   "n": 2,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2014-08": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2014-08": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2014-07": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2014-07": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2014-06": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2014-06": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2014-05": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2014-05": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2014-04": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2014-04": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2014-03": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2014-03": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2014-02": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2014-02": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2014-01": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2014-01": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2013-12": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2013-12": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2013-11": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2013-11": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2013-10": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2013-10": {
+   "n": 1,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2013-09": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2013-09": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2013-08": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2013-08": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2013-07": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2013-07": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2013-06": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2013-06": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2013-05": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2013-05": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2013-04": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2013-04": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2013-03": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2013-03": {
+   "n": 1,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2013-02": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2013-02": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2013-01": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2013-01": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2012-12": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2012-12": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2012-11": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2012-11": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2012-10": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2012-10": {
+   "n": 1,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2012-09": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2012-09": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2012-08": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2012-08": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2012-07": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2012-07": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2012-06": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2012-06": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2012-05": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2012-05": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2012-04": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2012-04": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2012-03": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2012-03": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2012-02": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2012-02": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2012-01": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2012-01": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2011-12": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2011-12": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2011-11": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2011-11": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2011-10": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2011-10": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2011-09": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2011-09": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2011-08": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2011-08": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2011-07": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2011-07": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2011-06": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2011-06": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2011-05": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2011-05": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2011-04": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2011-04": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2011-03": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2011-03": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2011-02": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2011-02": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2011-01": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2011-01": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2010-12": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2010-12": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2010-11": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2010-11": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2010-10": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2010-10": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2010-09": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2010-09": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2010-08": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2010-08": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2010-07": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2010-07": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2010-06": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2010-06": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2010-05": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2010-05": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2010-04": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2010-04": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2010-03": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2010-03": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2010-02": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2010-02": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2010-01": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2010-01": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2009-12": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2009-12": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2009-11": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2009-11": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2009-10": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2009-10": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2009-09": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2009-09": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2009-08": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2009-08": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2009-07": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2009-07": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2009-06": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2009-06": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2009-05": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2009-05": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2009-04": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2009-04": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2009-03": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2009-03": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2009-02": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2009-02": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2009-01": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2009-01": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2008-12": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2008-12": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2008-11": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2008-11": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2008-10": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2008-10": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2008-09": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2008-09": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2008-08": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2008-08": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2008-07": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2008-07": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2008-06": {
+   "n": 51,
+   "rel": 47,
+   "fora_mes": 51
+  },
+  "en|COMBO|2008-06": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2008-05": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2008-05": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2008-04": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2008-04": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|COMBO|2008-03": {
+   "n": 50,
+   "rel": 46,
+   "fora_mes": 50
+  },
+  "en|COMBO|2008-03": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
   }
  }
 }
