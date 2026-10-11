@@ -988,6 +988,19 @@ KW  - E8
 KW  - E11
 ER  - 
 
+TY  - JOUR
+TI  - Avaliação da resistência à abrasão e da permeabilidade de pavers drenantes com adição de resíduos de mármore
+AU  - Otávio Gaigher Simões
+AU  - Rudiele Aparecida Schankoski
+AU  - Ronaldo Pilar
+PY  - 2026
+JO  - Ambiente Construído
+DO  - 10.1590/s1678-86212026000101028
+UR  - https://doi.org/10.1590/s1678-86212026000101028
+AB  - Resumo No Brasil, o beneficiamento de rochas ornamentais gera grandes volumes de resíduos de mármore, majoritariamente destinados a aterros, configurando um passivo ambiental, o que motiva sua aplicação na produção de pavimentos permeáveis como alternativa de reaproveitamento. Este trabalho dá continuidade a pesquisas anteriores, ampliando a investigação de concretos permeáveis com substituição parcial de cimento para outro tipo de resíduo e propriedade mecânica. Nesta etapa, foi analisada a resistência à abrasão de pavers drenantes produzidos com resíduos de mármore provenientes do beneficiamento e corte de rochas ornamentais (RBRO-M). Para isso, foram moldados blocos intertravados com substituições volumétricas de 0, 5 e 10% de cimento Portland por RBRO-M. Os pavers foram avaliados quanto à permeabilidade, porosidade e resistência à abrasão, utilizando procedimentos experimentais consagrados para caracterização desse tipo de material. Os resultados indicaram porosidades superiores a 20% e coeficientes de permeabilidade acima de 6.000 mm/h em todas as misturas avaliadas, confirmando o potencial drenante dos pavers produzidos. Observou-se, entretanto, uma tendência de redução da resistência à abrasão com o aumento da porosidade, evidenciando a necessidade de otimização do equilíbrio entre desempenho mecânico e funcionalidade hidráulica no aproveitamento desse resíduo.
+KW  - E8
+ER  - 
+
 TY  - THES
 TI  - Avaliação da viabilidade técnica para aplicação de resíduos de mármore branco como fíler em misturas asfálticas a quente.
 AU  - Dias, Gizelle Aguiar
@@ -4213,6 +4226,21 @@ KW  - E8
 ER  - 
 
 TY  - JOUR
+TI  - Life Cycle Impact Assessment for Sustainable Marble Mining
+AU  - Özgecan Iricioğlu
+AU  - Murat Yilmaz
+AU  - Beyzanur Uzuntaş
+AU  - Burcu Onat
+PY  - 2026
+JO  - Sustainability
+DO  - 10.3390/su18104926
+UR  - https://doi.org/10.3390/su18104926
+AB  - Türkiye possesses significant marble reserves, making marble mining a crucial industry with notable environmental effects due to high energy and fuel consumption. This study assesses the environmental impacts of marble production through a life cycle assessment (LCA) focused on a quarry in Burdur and a cutting plant in Denizli, Türkiye. The analysis covers quarry operations, on-site transport, transportation to the plant, and final processing. Following the cradle-to-gate approach, it includes A1 (raw material sourcing), A2 (transportation), and A3 (production) stages as specified in EN 15804. The LCA was performed using GaBi Education 8.0 software, applying the ReCiPe 2016 v1.1 impact assessment method. Besides evaluating the current system, three scenarios were devised to lessen environmental impacts: solar energy (Scenario A), biodiesel (Scenario B), and a combination of solar and biodiesel (Scenario C). These were compared to the baseline system. The findings reveal that the current system’s climate change impact is 43.97 kg CO2-eq, while Scenario C’s impact drops to 32.72 kg CO2-eq, a reduction of about 25.6%. Scenario C achieved the greatest reduction in climate impact, with electricity and diesel consumption, water, and chemicals used in processing being the main contributors to environmental impacts.
+KW  - E1
+KW  - E8
+ER  - 
+
+TY  - JOUR
 TI  - Life cycle toxicity analysis of engineered stone: a multi indicator comparison of polyester based and cement based product systems with regulatory implications
 AU  - Yuan Sheng
 AU  - Daniel Oteng
@@ -4809,6 +4837,24 @@ KW  - E2
 KW  - E5
 KW  - E7
 KW  - E9
+ER  - 
+
+TY  - JOUR
+TI  - Nanographite and graphene oxide: a comparative optimization of nanoreinforcement dosage in concrete with marble residue
+AU  - Pâmela Dutra
+AU  - Maria Eliana Camargo Ferreira
+AU  - Luiz Fernando Belchior Ribeiro
+AU  - Adelina Pinheiro Santos
+AU  - Willian Luís de Oliveira
+AU  - Romel Dias Vanderlei
+AU  - Natália Ueda Yamaguchi
+PY  - 2026
+JO  - Journal of Sustainable Cement-Based Materials
+DO  - 10.1080/21650373.2026.2642424
+UR  - https://doi.org/10.1080/21650373.2026.2642424
+AB  - This study investigates the combined use of marble residue (MR) and carbon-based nanomaterials to reduce Portland cement consumption in concrete. Graphene oxide (GO) and nanographite (NG) were evaluated using a central composite rotatable design (CCRD). Material characterization revealed that the synthesized GO exhibited features of partially reduced graphene oxide (rGO), with physicochemical characteristics closer to NG than to fully oxidized GO. Both nanomaterials improved load transfer and mechanical performance, mitigating cement dilution effects. Optimal performance was achieved at approximately 17% cement replacement by MR, exceeding commonly reported values in the literature while maintaining acceptable mechanical strength. Within the investigated conditions, NG emerged as a more economically viable option within the investigated cementitious system, providing performance comparable to rGO while offering a simpler production route, lower cost, and greater industrial feasibility.
+KW  - E7
+KW  - E8
 ER  - 
 
 TY  - JOUR
@@ -10605,6 +10651,19 @@ KW  - E1
 KW  - E8
 KW  - E9
 KW  - E10
+ER  - 
+
+TY  - JOUR
+TI  - Crystalline killer: the molecular cascade of silica toxicity from inflammation to fibrosis
+AU  - Maggie Lam
+AU  - Michelle D. Tate
+PY  - 2025
+JO  - Current Opinion in Allergy and Clinical Immunology
+DO  - 10.1097/aci.0000000000001124
+UR  - https://doi.org/10.1097/aci.0000000000001124
+AB  - PURPOSE OF REVIEW: Silicosis, a progressive fibrotic lung disease caused by inhalation of crystalline silica, is resurging due to increased exposure in high-risk industries such as engineered stone fabrication. Characterised by asymptomatic onset and delayed diagnosis, it remains a major occupational health concern. This review synthesises current understanding of silica-induced lung injury, highlighting the physicochemical properties of silica that drive its biological reactivity and persistence in the lung. RECENT FINDINGS: Silica deposition induces lysosomal rupture, oxidative stress, and NLRP3 inflammasome activation, leading to programmed cell death, neutrophil extracellular trap formation, and chronic inflammation. These events culminate in fibrotic remodelling through epithelial-mesenchymal transition and fibroblast activation. Emerging evidence implicates damage-associated molecular patterns and exosomal microRNAs in amplifying fibrogenic signalling. Biomarkers and therapeutic targets may enable earlier diagnosis and intervention. SUMMARY: By bridging mechanistic insights with translational strategies, this review supports precision approaches for screening, monitoring, and treating silica-related lung disease.
+KW  - E1
+KW  - E9
 ER  - 
 
 TY  - JOUR
@@ -20884,6 +20943,23 @@ KW  - E7
 ER  - 
 
 TY  - JOUR
+TI  - CERÂMICA VERMELHA: SUSTENTABILIDADE E PRÁTICAS INOVADORAS - UMA REVISÃO
+AU  - CARLOS HENRIQUE DA LUZ BARBOSA
+AU  - MURILO MIGUEL NARCISO
+AU  - ALINE RAYBOLT DOS SANTOS ALMEIDA
+AU  - Mariana Borges da Silva
+PY  - 2024
+JO  - ABM Proceedings
+DO  - 10.5151/2594-5327-41646
+UR  - https://doi.org/10.5151/2594-5327-41646
+AB  - PDF | A CERâMICA VERMELHA, COM SUA LONGA HISTóRIA DESDE AS CIVILIZAçõES MESOPOTâMICAS ATé OS DIAS ATUAIS, DESTACA-SE COMO UM IMPORTANTE MATERIAL DE CONSTRUçãO E OBJETO DE ARTE. NO BRASIL, OS PRIMEIROS REGISTROS DESSE TIPO DE CERâMICA REMONTAM à ILHA DE MARAJó, ONDE PEçAS SOFISTICADAS ERAM PRODUZIDAS SEM O USO DO TORNO. A "CERâMICA VERMELHA" ENGLOBA UMA VARIEDADE DE MATERIAIS, COMO TIJOLOS E TELHAS, AMPLAMENTE UTILIZADOS NA CONSTRUçãO CIVIL E DOMéSTICA. O ARTIGO EM QUESTãO REVISA A IMPORTâNCIA HISTóRICA E TéCNICA DA CERâMICA VERMELHA, ABORDANDO SUA EVOLUçãO TECNOLóGICA E A INTRODUçãO DE PRáTICAS SUSTENTáVEIS EM SUA PRODUçãO. DESTACA-SE A RESPONSABILIDADE DOS óRGãOS PúBLICOS E MUNICíPIOS NA GESTãO DOS RESíDUOS SóLIDOS, ENFATIZANDO A IMPORTâNCIA DA TRANSPARêNCIA E COLABORAçãO COM A INICIATIVA PRIVADA E SOCIEDADE CIVIL. ALéM DISSO, DISCUTE-SE A OTIMIZAçãO DA SINTERIZAçãO, DESTACANDO OS BENEFíCIOS AMBIENTAIS E ECONôMICOS DESSA PRáTICA. A INCORPORAçãO DE RESíDUOS NA PRODUçãO DE CERâMICA VERMELHA é APRESENTADA COMO UMA SOLUçãO SUSTENTáVEL PARA REDUZIR O CONSUMO DE ARGILA E MINIMIZAR IMPACTOS AMBIENTAIS. OUTRAS PRáTICAS INOVADORAS, COMO O USO DE ENERGIA RENOVáVEL E O DESENVOLVIMENTO DE PEDRA ARTIFICIAL A PARTIR DE RESíDUOS, TAMBéM SãO EXPLORADAS COMO FORMAS DE PROMOVER A SUSTENTABILIDADE NA INDúSTRIA CERâMICA.
+KW  - E6
+KW  - E7
+KW  - E8
+KW  - E11
+ER  - 
+
+TY  - JOUR
 TI  - CHARACTERISTICS OF FLY ASH CEMENT PASTE AS AN ALTERNATIVE SUSTAINABLE MATERIAL FOR BALINESE ARCHITECTURAL ORNAMENTS
 AU  - Ni Komang Ayu Agustini
 AU  - Cok Agung Yujana
@@ -24360,6 +24436,17 @@ KW  - E11
 ER  - 
 
 TY  - JOUR
+TI  - Natural Language Processing Risk Assessment Application Developed for Marble Quarries
+AU  - Hasan Eker
+PY  - 2024
+JO  - Applied Sciences
+DO  - 10.3390/app14199045
+UR  - https://doi.org/10.3390/app14199045
+AB  - In this study, by using the texts describing the hazards and precautions taken during text mining, the necessary processes were carried out to first estimate the probability value and severity value of the risk and then calculate the risk values by Natural Language Processing analysis. In order to be used within the scope of the study, two data sets were generated from the data in the risk assessment report prepared by applying the L-type matrix risk assessment in marble quarries between 2015 and 2021. Stochastic Gradient Descent (SGD) was used for classification and prediction by analyzing text data. One data set was used to analyze the probability value of the risk and the other was used to analyze the severity value of the risk. In light of the results, when a text containing hazard and precaution information was entered, a system was developed that analyzed this text, estimated the probability and severity values, and calculated the risk assessment score. The application of the SGD algorithm to learning models developed on text data yielded an accuracy rate of 91.2% in the risk probability data set and 97.5% in the risk severity data set. The results indicated that the models were capable of conducting automatic risk assessment on text data and of effectively predicting the requisite probability and severity values. Due to the high accuracy rates obtained during the study, this risk assessment software was recommended for use in marble quarries.
+KW  - E1
+ER  - 
+
+TY  - JOUR
 TI  - Natural Stone and World Heritage
 AU  - Rossana Bellopede
 AU  - Angelamaria Quartulli
@@ -26255,6 +26342,20 @@ KW  - E9
 ER  - 
 
 TY  - JOUR
+TI  - THE USE OF NATURAL STONE IN FURNITURE DESIGN WITHIN THE CONTEXT OF LIMITATIONS AND CREATIVITY
+AU  - İrem BEKAR
+AU  - Tolga Cürgül
+PY  - 2024
+JO  - Sanat ve Tasarım Dergisi
+DO  - 10.20488/sanattasarim.1505760
+UR  - https://doi.org/10.20488/sanattasarim.1505760
+AB  - The interaction of the individual with the environment contains boundaries. The phenomenon of creativity, which is revealed by the consciousness of the individual and the interaction of the environment, creates a tense situation with the limitations he is in and encounters. The study focuses on the correspondence of the boundaries created by the material in the design and the creative processes. The chain of choices that starts with the designer’s reaction to the limits of the material determines the direction of the design. In the study, the use of natural stone in design is handled through furniture and it is aimed to investigate the direction it finds in furniture as a design input and the direction it gives to design. For this purpose, firstly, furniture samples designed using natural stone were researched and 24 furniture were determined. Then, the type of natural stone materials used in the furniture was determined, the characteristics of the material used (physical, chemical, mechanical), how it directed the furniture design (functional, technical, aesthetic) were examined and analysis graphics were created for each furniture. Based on the data obtained, the advantages and disadvantages of using natural stone materials in furniture design have been revealed. As a result of the study, the importance of natural stone can have creative or guiding effects on design and while doing this, it is emphasized that it can display a beneficial and sustainable approach to the environment with the use of natural materials. At the same time, it is among the most important benefits of the research that it paves the way for other research on different materials and creative constraints in design.
+KW  - E6
+KW  - E7
+KW  - E8
+ER  - 
+
+TY  - JOUR
 TI  - Terminology Relating to Dimension Stone
 AU  - C18 Committee
 PY  - 2024
@@ -26492,6 +26593,30 @@ KW  - E10
 ER  - 
 
 TY  - JOUR
+TI  - The geology of the Aracruz pluton (Espírito Santo, Brazil), a Cambrian post-orogenic intrusion in the aftermath of Gondwana amalgamation
+AU  - Andrea C. Galli
+AU  - Max W. Schmidt
+AU  - Valdecir de Assis Janasi
+AU  - Felix Soormann
+AU  - Clara Talca Onken
+AU  - Alexandra Aregger
+AU  - Tobias Hendrickx
+AU  - Samuel Huber
+AU  - Zoe Kok
+AU  - Emanuel Pestalozzi
+AU  - Tabea Stäheli
+AU  - Luka Wanner
+AU  - Vinicius Hector Abud Louro
+PY  - 2024
+JO  - Journal of Maps
+DO  - 10.1080/17445647.2024.2411818
+UR  - https://doi.org/10.1080/17445647.2024.2411818
+AB  - We present the first geological map of the Aracruz pluton (Espírito Santo, Brazil), which belongs to the late Cambrian post-orogenic suite that intruded the Nova Venécia metapelites and Ediacaran syn-orogenic S-type granites of the Araçuaí belt. Our mapping coupled with airbone magnetic and radiometric observations reveals that the pluton is not regularly zoned. It is composed of porphyric alkali feldspar granites, into which charnockite and quartz-diorite bands intruded as several pulses while the granites were a deforming crystal mush, and an undeformed central norite emplaced when most movement of the host magma had ceased. Steep-dipping concentric magmatic foliation, magmatic foliation parallel to tectonic foliation in the country rock, the noritic core, and the irregular charnockite and quartz-diorite band alignment suggest buoyancy-driven diapirism as emplacement mechanism. The Aracruz pluton is a superb example of mantle-derived post-orogenic intrusion attesting for the production of continental crust during the final stages of a Wylson cycle.
+KW  - E1
+KW  - E10
+ER  - 
+
+TY  - JOUR
 TI  - The heritage unknown Brazilian marbles
 AU  - Nuria Fernández Castro
 AU  - Maria Heloísa Barros de Oliveira Frascá
@@ -26551,6 +26676,22 @@ DO  - 10.1016/j.heliyon.2024.e25015
 UR  - https://doi.org/10.1016/j.heliyon.2024.e25015
 AB  - The main objective of this work is to review the capability of using waste marble dust (MD) particles as reinforcing materials in recycled polymeric composites to achieve environmentally friendly materials. In the present study, polymer composites were fabricated from recycled polyethylene terephthalate (rPET) and MD and then analyzed for their structural and thermal properties. Preparation of rPET-based composites containing 0-20 wt% MD was carried out through extrusion and injection molding. For their characterization Fourier transform infrared spectroscopy (FTIR), differential scanning calorimetry (DSC), thermogravimetric analysis (TGA), and dynamic mechanical analysis (DMA) were applied. The DSC analysis revealed a nucleating effect of MD on rPET, which was manifested in a higher crystallization temperature (196.7 °C ⇒ 204.4 °C); however, the marble particles were also found to hamper chain mobility, thereby decreasing the crystallinity ratio (23.7 % ⇒ 19.2 %) of rPET and altering its crystalline structure. According to the TGA measurements, a slight increase occurred in the thermal stability of rPET, its major decomposition temperature increased from 446 °C to 451 °C when 20 wt% MD was incorporated into it. DMA showed an improved stiffness in the entire investigated temperature range for MD-filled composites versus neat rPET. Additionally, several factors were derived from the DMA data, including the effectiveness factor, degree of entanglement, and reinforcing efficiency factor which all suggested a decent interaction between the components indicating a proper reinforcing ability of marble powder. However, above 5 wt% MD content the reinforcing efficiency deteriorated due to the agglomeration of filler particles, which was also supported by scanning electron microscopic images.
 KW  - E8
+ER  - 
+
+TY  - JOUR
+TI  - Timing and origin of the post-collisional Venda Nova and Várzea Alegre Plutons from the Araçuaí belt, Espírito Santo, Brazil
+AU  - Clara Talca Onken
+AU  - Jessica Eberhard-Schmid
+AU  - Livia Hauser
+AU  - Simone Marioni
+AU  - Andrea C. Galli
+AU  - Valdecir de Assis Janasi
+AU  - Max W. Schmidt
+PY  - 2024
+JO  - Lithos
+DO  - 10.1016/j.lithos.2024.107677
+UR  - https://doi.org/10.1016/j.lithos.2024.107677
+AB  - The Venda Nova and Várzea Alegre Plutons in southeastern Brazil are post-collisional complexes formed during the gravitational collapse of the Araçuaí-Ribeira orogenic system during amalgamation of SW Gondwana. This study focuses on the petrological, geochemical, geochronological and zircon LuHf isotopic signatures of both plutons to constrain and complete their ages and to characterize mantle vs. crustal source components. The Venda Nova Pluton is divided into an inner, mildly alkaline, and an outer, calc-alkaline domain. One diorite, three quartz syenites and two granites from the inner domain give LA-ICP-MS zircon UPb ages of 492–477 ± 8 Ma. The outer domain is dominated by charnockites and norites, six measured charnockites give two zircon ages of 620–606 ± 11 Ma and 500–476 ± 14 Ma, corresponding to zircon core and rim, respectively; the only norite yielding zircons gives a nominal age of 567 ± 13 Ma, which cannot be simply interpreted as emplacement age. The various intrusives from the Várzea Alegre Pluton (gabbronorites, charnockites, monzogranites, syenogranites) straddle the alkaline to calc-alkaline affinity and yield all together a uniform age of 500 ± 8 Ma. This confirms that all lithologies from the Venda Nova inner domain and Várzea Alegre Pluton belong to the post-collisional G5 suite of this region. The Venda Nova outer domain charnockites, fit age-wise into the pre-collisional arc-related magmatism (G1 suite). The zircon rim ages obtained on these charnockites represent minor fluid-assisted partial remelting and resetting of the UPb system during the emplacement of the inner domain. Individual norite zircons show ages ranging from the charnockite intrusion age to the metamorphic thermal peak in this region. The LuHf isotopes measured on the dated zircon crystals, yield mantle values for the charnockites from the Venda Nova outer domain (εHf: 3.4 ± 1.2 to 6.8 ± 1.5), indicating an isotopically depleted mantle source, consistent with arc magmatism. Instead, the Venda Nova inner domain and the Várzea Alegre Pluton have relatively radiogenic values (εHf: −12.3 ± 1.5 to −8.8 ± 2.9 and − 11.1 ± 1.1 to −7.4 ± 1.3, respectively) and show no significant variation between all lithologies, indicating a source dominated by a previously crustally enriched mantle with only minor crustal assimilation occurring during magma emplacement. Interestingly, the charnockite rim of Venda Nova is 100 Ma older than the inner (mildly alkaline) post-orogenic domain and belongs to the pre-orogenic calc-alkaline arc suite, while the charnockite ring at Várzea Alegre is part of the intrusion, both in time and geochemistry, and shows no increased crustal signature with respect to the rest of the pluton.
 ER  - 
 
 TY  - JOUR
@@ -27499,6 +27640,16 @@ KW  - E8
 ER  - 
 
 TY  - JOUR
+TI  - A study on use of granite powder and crusher dust as fine aggregate in cement mortar
+AU  - Sandesh Sharma
+AU  - Ashok Kumar Vyas
+PY  - 2023
+JO  - Materials Today Proceedings
+DO  - 10.1016/j.matpr.2023.07.115
+UR  - https://doi.org/10.1016/j.matpr.2023.07.115
+ER  - 
+
+TY  - JOUR
 TI  - ANÁLISE COMPARATIVA DAS PROPRIEDADES FÍSICAS E QUÍMICA DAS ROCHAS ARTIFICIAIS E NATURAIS
 AU  - Evanizis Dias Frizzera Castilho
 AU  - Mônica Castoldi Borlini Gadioli
@@ -27671,6 +27822,17 @@ KW  - E4
 KW  - E6
 KW  - E7
 KW  - E8
+ER  - 
+
+TY  - JOUR
+TI  - AVALIAÇÃO DA REMOÇÃO DE MANCHA DE OXIDAÇÃO POR MEIO DA UTILIZAÇÃO DE SOLUÇÃO REMOVEDORA DE MANCHAS EM QUARTZITO VANCOUVER
+AU  - Rodrigo Carneiro Novaes
+AU  - Daniel Ordane da Costa Vale
+PY  - 2023
+JO  - Revista Ifes Ciência
+DO  - 10.36524/ric.v9i2.1878
+UR  - https://doi.org/10.36524/ric.v9i2.1878
+AB  - As manchas de oxidação representam uma patologia cromática que provoca uma desvalorização comercial do material pétreo. A presença das manchas de oxidação do quartzito Vancouver pode estar relacionada à presença de minerais de óxido/hidróxido de ferro, presentes como minerais secundários na rocha. A partir deste problema, estudaram-se métodos para remoção destas manchas utilizando soluções ácidas em diferentes metodologias, tais como: aplicação na superfície da chapa e imersão da chapa em tanque com solução removedora de manchas. A interação das soluções removedoras de manchas com a rocha foi analisada por meio de análise computacional com o software ImageJ e análise de brilho com o medidor de brilho NovoGloss. O objetivo foi avaliar o resultado da remoção das manchas entre as diferentes metodologias de tratamento. De acordo com o trabalho, o tratamento com aplicação de ácido na chapa apresentou um melhor resultado de brilho, apresentando variação positiva no brilho em 9 das 12 amostras. De acordo com a análise computacional, o tratamento com a imersão da chapa apresentou um melhor resultado quando o parâmetro avaliado foi variação no clareamento. Contudo, o tratamento com aplicação da solução removedora de manchas na superfície da chapa apresentou um melhor resultado quando o parâmetro avaliado foi o número de amostras clareadas. Diante do comentado, foi possível notar que o tratamento por imersão apresentou um melhor resultado na remoção das manchas.
 ER  - 
 
 TY  - JOUR
@@ -28440,6 +28602,20 @@ UR  - https://doi.org/10.3390/polym15204181
 AB  - The demand for materials with improved properties and less negative impact on the environment is growing. Artificial stones are examples of these materials produced with up to 90% of particulate material joined by a binder. This article evaluates the physical and mechanical properties of two artificial stones produced with processing steel residue (blast furnace dust waste) and quartz powder. Two binders were used: pure epoxy resin, denoted as ASPB100, or a mixture of 70 wt% epoxy resin with 30 wt% cashew nut shell oil, denoted as ASPB7030. The process took place under vibration, compression (3 MPa/20 min and 90 °C) and vacuum (80 Pa). ASPB100 showed water absorption of 0.07%, while for ASPB7030, it was 0.54%. They were classified as having high mechanical strength associated with bending stress values equal to 32 and 25 MPa, respectively. Stain resistance indicated that both artificial stones had their stains removed with the tested cleaning agents. In this way, the novel artificial stones produced are sustainable alternatives for the application of blast furnace waste and cashew nut shell oil, reducing their negative impacts on the environment.
 KW  - E3
 KW  - E8
+ER  - 
+
+TY  - JOUR
+TI  - Characterization of Artificial Stone with Quartzitic Sand and with the Incorporation of Steel Residue
+AU  - Tatiane Brito Perim da Silva
+AU  - Elaine Aparecida Santos Carvalho
+AU  - Maria Luiza Pessanha Menezes Gomes
+AU  - Gabriela Nunes Sales Barreto
+AU  - Sérgio Neves Monteiro
+AU  - Carlos Maurício Fontes Vieira
+PY  - 2023
+JO  - The minerals, metals & materials series
+DO  - 10.1007/978-3-031-22576-5_27
+UR  - https://doi.org/10.1007/978-3-031-22576-5_27
 ER  - 
 
 TY  - JOUR
@@ -35246,6 +35422,20 @@ KW  - E8
 ER  - 
 
 TY  - JOUR
+TI  - Analysis of Partial Substitution of Cement with Marble and Granite Powders in Concrete Production
+AU  - Filipe Bittencourt Figueiredo
+AU  - Gabriela Figueiredo
+AU  - Ériton Rodrigo Botero
+AU  - Nathalia Leite Bittencourt Figueiredo
+AU  - Lino Manuel Serra Maia
+PY  - 2022
+JO  - ACI Materials Journal
+DO  - 10.14359/51737196
+UR  - https://doi.org/10.14359/51737196
+AB  - ACI Website Page Not Found. The page may have been updated, moved or deleted. Please also be sure to check your spelling. Options to find your page include on page search, on-line chat, and site navigation.
+ER  - 
+
+TY  - JOUR
 TI  - Analysis of the suitability of marble waste for beach nourishment
 AU  - José Ignacio Pagán
 AU  - L. Chiva
@@ -35764,6 +35954,22 @@ KW  - E7
 KW  - E8
 KW  - E10
 KW  - E11
+ER  - 
+
+TY  - JOUR
+TI  - Caracterização da geologia e da geomorfologia do Parque Natural Municipal do Monte Mochuara, Cariacica, ES
+AU  - Flávia Compassi da Costa
+AU  - Rodson de Abreu Marques
+AU  - Victor Matheus Tavares Fernandes
+AU  - Amanda Abreu da Silva
+AU  - Iago Mateus Lopes de Macêdo
+PY  - 2022
+JO  - Geologia USP Série Científica
+DO  - 10.11606/issn.2316-9095.v22-191322
+UR  - https://doi.org/10.11606/issn.2316-9095.v22-191322
+AB  - O Parque Natural Municipal do Monte Mochuara, em Cariacica, região da Grande Vitória, Espírito Santo, constitui uma importante unidade de conservação, abrigando fragmentos preservados da mata atlântica. A região, contudo, carece de estudos específicos que auxiliem na preservação do meio abiótico, contribuição esta objetivada pelo presente trabalho. A área tem seu contexto geológico inserido no Orógeno Araçuaí, porção setentrional da Província Mantiqueira, edificado nos eventos colisionais reunidos no Ciclo Brasiliano durante o Neoproterozoico. A cartografia geológica da região salienta três unidades litológicas: Sillimanita-Cordierita-Granada-Biotita Gnaisse, Biotita Granito e Cobertura Sedimentar. Diques pegmatíticos e de diabásio são frequentes. A geomorfologia do parque é caracterizada pela ocorrência de patamares escalonados, moldados em níveis topográficos crescentes, resultante das variações entre conjuntos litológicos e estruturas resultantes de diversas interações tectônicas e elementos da dinâmica externa. Dados estruturais indicam dois trends principais de lineamentos: um dominante, de direção N10-30W, condicionando as principais cristas e vales; e outro, menos frequente, de direção N30-50E, condicionando a geomorfologia da porção sudeste do parque. A atual configuração da paisagem do Mochuara é resultado da interação entre agentes intempéricos, tipos litológicos e diversas estruturas geológicas. Os dados de geologia e geomorfologia gerados por este trabalho atuam como subsídios para o plano de manejo do parque e para a definição de pontos de interesse turístico e didático-pedagógico na região do Mochuara.
+KW  - E1
+KW  - E6
 ER  - 
 
 TY  - THES
@@ -38524,6 +38730,19 @@ KW  - E8
 ER  - 
 
 TY  - JOUR
+TI  - Mechanical Properties and Microstructural Characteristics of Concrete Made of Marble Powder as a Partial Replacement of Cement
+AU  - Noha M. Soliman
+PY  - 2022
+JO  - ERJ Engineering Research Journal
+DO  - 10.21608/erjm.2022.115103.1140
+UR  - https://doi.org/10.21608/erjm.2022.115103.1140
+AB  - Marble is a metamorphic rock and one of the most important decorative building materials. About 20-30% of a marble block becomes marble powder throughout the cutting process. Marble powder is harmful to human health and to the environment. The main purpse of this research is to study the microstructural characteristics and properties of hardened concrete made with WMP as partial replacement of cement. The main variables in this research are the percentage of marble powder (0, 5, 10, 15, 20, 30, and 40% ) as a partial replacement of cement content in concrete mixes and the age of testing (7, 28, and 56 days). Hardened concrete properties are driven in terms of compressive, splitting tensile, flexure modulus, and bond strengths. Also, the modulus of elasticity of different mixes was measured and microstructural scanning by an electronic microscope was carried out. The microstructural analysis was conducted on concrete matrix densification, attributed to pores refinement due to both physical and chemical changes in the concrete matrix. The results showed that replacing cement by 10% of marble powder increased the strength and improved the concrete microstructure.
+KW  - E6
+KW  - E8
+KW  - E9
+ER  - 
+
+TY  - JOUR
 TI  - Mechanical and Cost Analysis of the Effect of the Addition of Granite Powder Waste on Selected Properties of Cement-Lime Plasters
 AU  - Marlena Rudner
 AU  - Adrian Chajec
@@ -41188,6 +41407,20 @@ KW  - E11
 ER  - 
 
 TY  - JOUR
+TI  - A State-of-the-Art Review on Suitability of Granite Dust as a Sustainable Additive for Geotechnical Applications
+AU  - Gudla Amulya
+AU  - Arif Ali Baig Moghal
+AU  - Abdullah Almajed
+PY  - 2021
+JO  - Crystals
+DO  - 10.3390/cryst11121526
+UR  - https://doi.org/10.3390/cryst11121526
+AB  - The increase in infrastructure requirement drives people to use all types of soils, including poor soils. These poor soils, which are weak at construction, must be improved using different techniques. The extinction of natural resources and the increase in cost of available materials require us to think of alternate resources. The usage of industry by-products and related methods for improving the properties of different soils has been studied for several years. Granite dust is an industrial by-product originating from the primary crushing of aggregates. The production of huge quantities of granite dust in the industry causes severe problems from the handling to the disposal stage. Accordingly, in the civil engineering field, the massive utilization of granite dust has been proposed for various applications to resolve these issues. In this context, the present review provides precise and valuable content on granite dust characterization, its effect as a stabilizer on the behavior of different soils, and its interaction mechanisms. The efficacy of the granite dust in replacing sand in concrete is explored followed by its ability to improve the geotechnical characteristics of clays of varying plasticity are explored. The review is even extended to study the effect of binary stabilization on clays with granite dust in the presence of calcium-based binders. The practical limitations encountered and its efficiency over other stabilizers are also assessed. This review is further extended to analyze the effect of the granite dust dosage for various field applications.
+KW  - E7
+KW  - E8
+ER  - 
+
+TY  - JOUR
 TI  - A Study on Tensile Strength and Modulus Properties of Concrete Using Industrial Waste Vermiculite and Granite-Fines
 AU  - Damodhara Reddy Budda
 AU  - Kiran Kumar Narasimhan
@@ -42163,6 +42396,20 @@ KW  - E8
 ER  - 
 
 TY  - JOUR
+TI  - Characterization of fillers made of natural stones as a cement substitute
+AU  - Luboš Musil
+AU  - Tereza Cibulka
+AU  - Jan Vodička
+AU  - Roman Chylík
+PY  - 2021
+JO  - IOP Conference Series Materials Science and Engineering
+DO  - 10.1088/1757-899x/1039/1/012007
+UR  - https://doi.org/10.1088/1757-899x/1039/1/012007
+AB  - Abstract The article deals with the classification of fillers according to the type and method of rock processing and their use as a partial cement replacement in the concrete mixture. The aim is to better classify fillers by their origin, maximise their usability and design a concrete mixture with effective use of filler as a cement replacement. The article compares the fillers that originated from natural stone. The research is focused primarily on the granite filler, as it is not currently explored in detail. As the results of existing research differ, tests of the filler and its effect on the compressive strength of cement composites were performed, for better characterization of the effect of filler pozzolanic activity. The results of the tests are compared with each other, and the probable causes of differences in the individual research results are described.
+KW  - E7
+ER  - 
+
+TY  - JOUR
 TI  - Characterization of proposed waste disposal site of granite quarry pits near Hyderabad using hydro-geophysical and groundwater modeling studies
 AU  - Ratnakar Dhakate
 AU  - Nandan Jayaraja Mogali
@@ -42334,6 +42581,24 @@ PY  - 2021
 DO  - 10.3390/materproc2021005028
 UR  - https://doi.org/10.3390/materproc2021005028
 AB  - This study focuses on the investigation of possible relations betweenthe physical mechanical properties of natural stones from various places in Greece, i.e., limestones, marbles, sandstones and schists. Specimens were prepared to perform laboratory tests according to the applicable EN. Overall and “by stone type” correlation equations were established between flexural strength under concentrated load valueswithout and either after freeze–thaw cycling or thermal shock, indicating a linear and a powerrelationship, respectively. A power function was establishedbetween flexural strength under a concentrated load and under a constant moment. Results have also shown that water absorption increases linearly with open porosity.
+ER  - 
+
+TY  - JOUR
+TI  - Crystal-Chemical and Thermal Properties of Decorative Cement Composites
+AU  - V. Petkova
+AU  - Ventseslav Stoyanov
+AU  - Bilyana Kostova
+AU  - Vladislav V. Kostov-Kytin
+AU  - Alexander M. Kalinkin
+AU  - Irina A. Zvereva
+AU  - Yana Tzvetanova
+PY  - 2021
+JO  - Materials
+DO  - 10.3390/ma14174793
+UR  - https://doi.org/10.3390/ma14174793
+AB  - The advanced tendencies in building materials development are related to the design of cement composites with a reduced amount of Portland cement, contributing to reduced CO2 emissions, sustainable development of used non-renewal raw materials, and decreased energy consumption. This work deals with water cured for 28 and 120 days cement composites: Sample A—reference (white Portland cement + sand + water); Sample B—white Portland cement + marble powder + water; and Sample C white Portland cement + marble powder + polycarboxylate-based water reducer + water. By powder X-ray diffraction and FTIR spectroscopy, the redistribution of CO32−, SO42−, SiO44−, AlO45−, and OH− (as O-H bond in structural OH− anions and O-H bond belonging to crystal bonded water molecules) from raw minerals to newly formed minerals have been studied, and the scheme of samples hydration has been defined. By thermal analysis, the ranges of the sample’s decomposition mechanisms were distinct: dehydration, dehydroxylation, decarbonation, and desulphuration. Using mass spectroscopic analysis of evolving gases during thermal analysis, the reaction mechanism of samples thermal decomposition has been determined. These results have both practical (architecture and construction) and fundamental (study of archaeological artifacts as ancient mortars) applications.
+KW  - E7
+KW  - E8
 ER  - 
 
 TY  - JOUR
@@ -42538,6 +42803,21 @@ KW  - E3
 KW  - E4
 KW  - E7
 KW  - E11
+ER  - 
+
+TY  - JOUR
+TI  - Development of a novel engineered stone containing a CuO/SiO2 nanocomposite matrix with biocidal properties
+AU  - Rafael Zarzuela
+AU  - Maria Luisa Almoraima Gil
+AU  - Jesús Carretero
+AU  - María Carbú
+AU  - Jesús Manuel Cantoral
+AU  - María Jesús Mosquera
+PY  - 2021
+JO  - Construction and Building Materials
+DO  - 10.1016/j.conbuildmat.2021.124459
+UR  - https://doi.org/10.1016/j.conbuildmat.2021.124459
+KW  - E7
 ER  - 
 
 TY  - JOUR
@@ -45050,6 +45330,26 @@ KW  - E6
 ER  - 
 
 TY  - JOUR
+TI  - On the Thermal Stresses Due to Weathering in Natural Stones
+AU  - William Hideki Ito
+AU  - Talita Scussiato
+AU  - Federico Vagnon
+AU  - Anna María Ferrero
+AU  - M. Migliazza
+AU  - Jacqueline Elhage Ramis
+AU  - Paulo Ivo Braga de Queiroz
+PY  - 2021
+JO  - Applied Sciences
+DO  - 10.3390/app11031188
+UR  - https://doi.org/10.3390/app11031188
+AB  - Natural weathering is known as one of the key mechanisms causing degradation in building materials. Great efforts have been made to develop new materials and new processes for protecting those that already exist. Natural stones are an example of a natural material that has been extensively used for building construction since ancient times. In addition, they fit durability, aesthetic, and mechanical requirements. Thus, they still have great importance in the construction business nowadays. Though chemical interactions in natural stones, such as oxidation or hydrolyses, have been widely studied, in the last few decades, the physical weathering due to daily temperature variations has begun to be considered as a key mechanism of degradation and has been incorporated in international standards. This process is particularly important in calcitic marble slabs, where it can cause extensive damages to facades. Consequently, there are restrictive rules for the use of marble as an external coating material in many countries. In this paper, the thermal stresses induced by daily variations in temperature are calculated using geographic and meteorological information. The concept of sol-air temperature is used to estimate the temperatures of the hidden and exposed surfaces of a slab, and Fourier’s law and the theory of elasticity are used to calculate the temperature and stress distribution, respectively. The proposed methodology allows for a detailed reconstruction of the stress induced inside marble slabs using parameters commonly acquired in meteorological stations as input data. The developed methodology was validated by comparing in-situ measurements of the temperature of a building in Pescara (Central Italy). A good correlation between the theoretical and real temperatures was found; in particular, the peak tensile stresses inside the slabs were estimated at 75 kPa.
+KW  - E2
+KW  - E6
+KW  - E7
+KW  - E11
+ER  - 
+
+TY  - JOUR
 TI  - Optical Fiber Waste Used as Reinforcement for Concrete with Recycled Marble Aggregate
 AU  - Maria Teresa Gomes Barbosa
 AU  - White José dos Santos
@@ -47114,6 +47414,23 @@ KW  - E11
 ER  - 
 
 TY  - JOUR
+TI  - Ultra‐high temperature, mid‐crustal level, contact metamorphism imprinted on granulite facies paragneisses by a norite intrusion (São Gabriel da Baunilha, Araçuaí orogen, southeast Brazil)
+AU  - Laura Wisniowski
+AU  - Antônio Carlos Pedrosa‐Soares
+AU  - Edgar Batista de Medeiros
+AU  - Juliane Belém
+AU  - Ivo Dussin
+AU  - Gláucia Queiroga
+PY  - 2021
+JO  - Journal of Metamorphic Geology
+DO  - 10.1111/jmg.12594
+UR  - https://doi.org/10.1111/jmg.12594
+AB  - Abstract Large and hot intrusions may imprint relatively wide aureoles of ultra‐high temperature (UHT >900°C) contact metamorphism even on granulite facies rocks at mid‐crustal levels, especially on those still somewhat hydrated rocks like biotite‐rich paragneisses. After reaching UHT conditions, even followed by rapid cooling, such contact aureoles record reaction textures and newly formed mineral assemblages. Near intrusive contacts, high‐T to UHT contact aureoles present highly recrystallized hornfelsic rocks exhibiting conchoidal fracture that may also preserve inherited features. This paper describes a contact metamorphic aureole developed under high to ultra‐high temperatures at intermediate P conditions, imposed by a mafic intrusion on granulite facies paragneiss. In the Espírito Santo State (SE Brazil), many post‐collisional intrusions (the 525–480 Ma G5 supersuite) occur in the back‐arc region of the Araçuaí orogen. Among them, a greatly homogeneous norite forms a large intrusion hosted by Al‐rich migmatitic paragneisses previously metamorphosed to granulite facies during the collisional stage. Zircon U‐Pb (SHRIMP) data yield the age of 523 ± 7 Ma for the norite crystallization. This intrusion imprinted a contact metamorphism aureole on the migmatitic paragneiss, forming Al‐rich hornfelses free of biotite, near the intrusive contact, followed by recrystallized garnet‐rich rocks with relict gneissic fabrics progressively enriched in biotite towards the distal aureole. The Al‐rich hornfelses are very tenacious, massive, fine‐grained rocks with conchoidal fracture, resinous lustre, intergrowth of feldspars, simplectites of cordierite and hercynite, and show an increase calcium content in plagioclase towards the intrusion. The hornfelses comprise two mineral assemblages: (I) plagioclase–garnet–orthopyroxene–quartz and (II) plagioclase–garnet–quartz–cordierite–sillimanite–hercynite–K‐feldspar. Calculated temperatures for host rocks range from ~1,010°C, for a hornfels collected at 1 m from the intrusive contact, to ~732°C, for a paragneiss located at 262 m from the intrusion. Using Theriak‐Domino software, phase‐equilibrium modelling for the hornfels assemblage (II) provides temperatures between 970 and 1,010°C, at pressures from 5.6 to 6.0 kbar, characterizing UHT contact metamorphism at mid‐crustal level (21–22 km depth). Neocrystallized zircons with soccer ball morphology aged at 520 ± 19 Ma, and P–T conditions of 845°C at 6.35 kbar for a recrystallized paragneiss record the contact metamorphism at least up to 250 m distance from the intrusion. The presented data constrain a P–T–t peak ~5.8 kbar – 990°C – 520 Ma for the contact metamorphism while the P–T–t peak at 7.5 kbar – 785°C – 560 Ma was related to the collisional metamorphism of regional paragneisses in the literature. Therefore, the pressure–time relation between those metamorphic peaks gives a pressure difference of 1.7 kbar (~6.3 km thickness of continental crust) over 40 Ma, corr
+KW  - E1
+KW  - E3
+ER  - 
+
+TY  - JOUR
 TI  - Usability of Marble Waste as a Road Base Material, Case Study of Bilecik Province
 AU  - Ahmet Neim Kahveci
 AU  - Nazile Ural
@@ -47976,6 +48293,18 @@ KW  - E8
 ER  - 
 
 TY  - JOUR
+TI  - Alternative for potassic fertilization of vegetables in organic management in low fertility natural soil of the humid tropics
+AU  - Aline Moreno Ferreira dos Santos
+PY  - 2020
+JO  - Emirates Journal of Food and Agriculture
+DO  - 10.9755/ejfa.2020.v32.i3.2085
+UR  - https://doi.org/10.9755/ejfa.2020.v32.i3.2085
+AB  - The organic food production and mainly the demand for these products have been growing much worldwide, and with this rising demand there is need for more adequate soil management. Organic fertilization is one of the points to improve and the alternative sources of nutrients should be better evaluated. Potassium is an essential nutrient required in large quantities by greenery and fruit, but according to the legislation of organic production, it can only be used as crushed rocks such as potassium sulfate. The objective of this work was to evaluate the efficiency of potassium sulfate (soluble source), wood ash and marble powder as alternative sources of potassium in organic system, using hybrid maize AG 1051 as the indicator crop. The experimental design applied was in randomized blocks in the 3x4x2 factorial scheme, consisting of three potassium sources applied in four doses (0, 60, 90 and 120 kg ha-1 K2O) in the presence and absence of Biofertilizer, with four repetitions. The data were submitted to analysis of variance (ANOVA) and the averages were compared by the Tukey test (p < 0.05). Both wood ash and marble powder tested can be used as complementary potassium fertilization in organic production systems. Marble powder proved to be the most efficient among the treatments and the Biofertilizer did not have a significant effect on the evaluated characteristics.
+KW  - E7
+KW  - E10
+ER  - 
+
+TY  - JOUR
 TI  - An Effective Replacement of Granite and Marble Powder on Cement Mortar Subjected to Chloride Ion Penetration Test
 AU  - Meyyappan Palaniappan
 AU  - M. Jemimah Carmichael
@@ -48244,6 +48573,22 @@ DO  - 10.1016/j.chest.2020.03.026
 UR  - https://doi.org/10.1016/j.chest.2020.03.026
 AB  - PURPOSE OF REVIEW: This review details recent findings related to the health effects of occupational exposure to artificial stone dust and the rapid increase in cases of artificial stone associated silicosis around the world. RECENT FINDINGS: High crystalline silica content artificial stone is now commonly used for the production of kitchen benchtops. Reports of artificial stone silicosis from many countries have noted that workers were typically employed at small workplaces and were often diagnosed in their 30s or 40s. Poor exposure control measures were common, including the practice of 'dry processing'. Dust generated from artificial stone has been noted to have properties that influence toxicity, including high silica content, generation of nanosized particles and presence of metals and resins. Artificial stone silicosis differs from silicosis associated with other occupational settings including shorter latency and rapid disease progression. High-resolution computed tomography (CT) chest imaging of artificial stone silicosis has often noted the presence of ground glass opacities, which may not be detected in chest x-ray screening. Increased prevalence of autoimmune disease, such as scleroderma, has also been reported in this industry. SUMMARY: Further evaluation of the safety of work with artificial stone is required, including the effectiveness of dust control measures. Current reports of artificial stone silicosis indicate the potential for widespread undiagnosed respiratory disease in this industry. Provision of more sensitive health screening methods for all at-risk workers and the development of new treatment options particularly for this form of silicosis is urgently required.
 KW  - E9
+ER  - 
+
+TY  - JOUR
+TI  - Artificial stone production using iron ore tailing (IOT)
+AU  - C. B. da Silva
+AU  - Paulo Renato Perdigão Paiva
+PY  - 2020
+JO  - Cerâmica
+DO  - 10.1590/0366-69132020663782854
+UR  - https://doi.org/10.1590/0366-69132020663782854
+AB  - Abstract Artificial stone materials (ASM) were produced with an iron ore tailing (IOT) from the disruption of Fundão’s tailing dam, located in Mariana, Minas Gerais State, Brazil. The IOT was separated in 3 powders with different particle sizes: DAG (<600 μm), DAR (600 to 75 μm), and DSA (<75 μm); then, each powder was characterized and mixed with a polymer resin (polyester or epoxy). ASM samples were prepared using the transfer molding technique; vacuum vibration technology was also applied to half of the samples. After curing, the ASM samples were characterized for mechanical properties and physical parameters. The microstructure of polished ASM samples was also analyzed by scanning electron microscopy. All results indicated that ASM samples produced with epoxy resin were superior to the samples made with polyester resin. The features found for the different compositions and shaping conditions for the produced ASM samples can allow various applications for these alternative materials in the construction industry, such as floor and wall tiles, providing a means of reducing the amount of IOT deposited in the tailing dams and adding economic value to this waste.
+KW  - E1
+KW  - E3
+KW  - E7
+KW  - E8
+KW  - E11
 ER  - 
 
 TY  - JOUR
@@ -49783,6 +50128,20 @@ KW  - E8
 ER  - 
 
 TY  - JOUR
+TI  - Effect of the rock properties on sawability of granite using diamond wire saw in natural stone quarries
+AU  - Sohan Singh Rajpurohit
+AU  - Rabindra Kumar Sinha
+AU  - Phalguni Sen
+AU  - Vedanta Adak
+PY  - 2020
+JO  - Arabian Journal of Geosciences
+DO  - 10.1007/s12517-020-06139-3
+UR  - https://doi.org/10.1007/s12517-020-06139-3
+KW  - E1
+KW  - E2
+ER  - 
+
+TY  - JOUR
 TI  - Effects of Ceramic Waste, Marble Dust, and Cement in Pavement Sub-base Layer
 AU  - Sadek Deboucha
 AU  - Sidi Mohamed Aissa Mamoune
@@ -49959,6 +50318,24 @@ JO  - LA Referencia (Red Federada de Repositorios Institucionales de Publicacion
 UR  - http://tede.bc.uepb.edu.br/jspui/handle/tede/4208
 AB  - Conforme a associação brasileira de rochas ornamentais (ano-base 2019), a exportação dos minerais foi de 1.960 milhões de toneladas e estima-se que 30% de cada bloco extraído durante o processo produtivo vire resíduo. A disposição incorreta desses resíduos tem trazido grandes transtornos para a fauna, flora, aquíferos, ar e a população de comunidades vizinhas. Então á uma necessidade para a utilização de materiais alternativos que pode contribuir para mitigar os impactos ambientais e chegando a melhorar a qualidade dos materiais. Então a pesquisa tem como objetivo analisar e estudar o comportamento do resíduo industrial de granito em argamassas de assentamento e revestimento de paredes e tetos, com incorporação parcial no aglomerante. Foi determinado um traço de 1:1:5 (cimento, cal e areia), com uma variação da porcentagem de resíduo de 5% a 20% e utilizando o planejamento fatorial o fator água/cimento variou de 1,3 a 1,7. As argamassas foram analisadas no estado endurecido através da determinação da densidade de massa no estado endurecido, resistência à tração na flexão e compressão e do coeficiente de capilar, no estado fresco foram determinadas a retenção de água e densidade de massa no estado fresco. A caracterização dos resíduos foi química e física através da determinação do índice de finura. Entre os ensaios realizados destacou-se a resistência à compressão que obteve resultados bem satisfatórios e maiores que as argamassas sem resíduos na sua composição. O resíduo teve como principal característica de filler, assim reduzindo os espaços vazios e às vezes realizando o empacotamento granulométrico das partículas. Então no mundo que vivemos precisamos de alternativas que diminua o consumo de matéria prima e também de tecnologias para incorporação dos resíduos gerados novamente na cadeia produtiva.
 KW  - E6
+KW  - E7
+KW  - E8
+KW  - E10
+KW  - E11
+ER  - 
+
+TY  - JOUR
+TI  - Estudo da viabilidade da utilização de resíduos de polimento e retificação de cerâmica para fabricação de argamassa
+AU  - Lucas da Silva Barboza
+AU  - Vilsyane Martins Batista
+AU  - Kesiane Viana Neves
+AU  - Ramon Sousa Santos
+PY  - 2020
+JO  - Matéria (Rio de Janeiro)
+DO  - 10.1590/s1517-707620200004.1198
+UR  - https://doi.org/10.1590/s1517-707620200004.1198
+AB  - RESUMO O setor da construção civil é responsável por consumir grande parte dos recursos naturais existentes. Neste contexto, a necessidade de estudos relativos à viabilização do uso de materiais alternativos na produção de adições de compósitos cimentícios tornam-se relevantes. A crescente e intensa taxa de geração de resíduos de elementos e processos ligados à construção civil aos longos dos anos justifica esta pesquisa. O uso destes finos em adição e/ou substituição ao cimento no preparo de argamassas e concretos, tem sido considerado uma alternativa viável, no que diz respeito aos benefícios ambientais, econômicos, ganho de propriedades mecânicas e aumento de durabilidade. Portanto, este estudo busca a valorização dos resíduos da indústria cerâmica, através da produção de argamassas com substituições parciais de 10 e 20% do cimento por Resíduo de Polidora (RP) e Resíduo de Polidora e Retífica (RPR) para dois tipos de cimento, CP II F 32 e CPV ARI, respectivamente. O efeito da substituição para cada tipo de cimento pelo RP e RPR, a influência do tipo de resíduo e a porcentagem de substituição foram analisadas para as propriedades frescas e endurecidas das argamassas. As argamassas produzidas com RP e RPR apresentaram menor fluidez, necessitando da utilização de aditivo quando comparada com as preparadas somente com cimento. A resistência à compressão das argamassas, respectivamente, obtidas com resíduos de RP e RPR, apresentaram comportamento superior e/ou igual a argamassa de referência. Os resultados superiores obtidos nas propriedades mecânicas das argamassas produzidas com RP e RPR estão relacionados natureza pozolânica do resíduo, a interface da pasta e areia na mistura.
+KW  - E3
 KW  - E7
 KW  - E8
 KW  - E10
@@ -50271,6 +50648,20 @@ AB  - RESUMO: O objetivo deste é determinar o percentual de substituição de c
 KW  - E3
 KW  - E8
 KW  - E11
+ER  - 
+
+TY  - JOUR
+TI  - FATORES CONDICIONANTES NA EXPLORAÇÃO INDUSTRIAL DE GNAISSE PARA BRITA: CASO DE GNAISSES DE ANCHILO
+AU  - António Gonçalves Fortes
+AU  - Almerino da Conceição Munguambe
+PY  - 2020
+JO  - Revista Univap
+DO  - 10.18066/revistaunivap.v26i52.2285
+UR  - https://doi.org/10.18066/revistaunivap.v26i52.2285
+AB  - A exploração industrial de rochas para uso na construção civil é condicionada por vários fatores, como as características físico-químicas e mineralógicas das rochas, os aspectos legais, socioeconômicos e ambientais. Este artigo analisa os principais fatores que condicionam a exploração industrial do gnaisse para produção de brita usada na construção civil, na pedreira João Baptista Eusébio–Anchilo, numa época de muita procura de produtos de brita (pedra, areia e pó) na cidade de Nampula e região. Para o estudo, efetuou-se a revisão bibliográfica, trabalho de campo e estudo petrográfico no laboratório de Geologia da Universidade Pedagógica – Nampula (UPN). Das análises, retiraram-se as seguintes conclusões: (I) os gnaisses de Anchilo são de excelente qualidade para uso como brita; (II) a pedreira João Baptista Eusébio tem uma localização geoestratégica privilegiada para extração e comercialização de grandes volumes de brita; (III) a atividade mineira na pedreira está de acordo com a atual lei mineira, mas é preciso adequá-la a lei de ambiente; (IV) as atividades da pedreira contribuem no desenvolvimento socioeconômico regional.
+KW  - E1
+KW  - E7
+KW  - E8
 ER  - 
 
 TY  - JOUR
@@ -51920,6 +52311,17 @@ JO  - Studies in Indian Place Names
 UR  - https://archives.tpnsindia.org/index.php/sipn/article/view/6592
 AB  - major fluster problem today is related to disposal of waste generated in the industry and to find solution of reusing it. The marble industry produce desirable wastes, irrespective of improvements introduced in the 65% during manufacturing and 30% during cutting process. This study deals with reviewing the use of waste from marble industry in light-weight aggregate and the effect on fresh and hardened concrete properties. Light weight concrete reduce DL and overall cost as compare to concrete. These are basically cold materials which will helps to decrease Indore temp.Waste material utilization helps to maintain cleanliness. Lightweight concrete is porous which helps to control flood water and also the earthquake damage due to its light self-weight.
 KW  - E8
+ER  - 
+
+TY  - JOUR
+TI  - Partial replacement of cement with granular marble residue: effects on the properties of cement pastes and reduction of CO2 emission
+AU  - Tatiane Santos
+AU  - Jardel Pereira Gonçalves
+AU  - Heloysa Martins Carvalho Andrade
+PY  - 2020
+JO  - SN Applied Sciences
+DO  - 10.1007/s42452-020-03371-0
+UR  - https://doi.org/10.1007/s42452-020-03371-0
 ER  - 
 
 TY  - JOUR
@@ -54588,6 +54990,21 @@ KW  - E7
 ER  - 
 
 TY  - JOUR
+TI  - Analysis of Research Procedures for Testing Capillary Absorption Properties of Rock Materials with Respect to Standard Requirements
+AU  - Karol Skowera
+AU  - Przemysław Świercz
+PY  - 2019
+JO  - IOP Conference Series Materials Science and Engineering
+DO  - 10.1088/1757-899x/471/3/032070
+UR  - https://doi.org/10.1088/1757-899x/471/3/032070
+AB  - Currently, there are over twenty European quality standards related to the methods of testing natural stone. These quality standards describe the determinations of density, porosity, frost resistance or abrasiveness. In the paper, the authors focus on the tests of capillary absorbability of rock materials. The tests described in the paper present what the diversification of test results looks like, using all possible variants of the research procedure which are indicated by the quality standard in question. Samples of different dimensions and shapes were compared. The authors have also proposed an alternative methodology for testing capillary adsorption, involving the isolation of the side wall of a sample in order to enable the highest possible precision in representing the actual conditions under which rock elements work. The representation of the actual conditions under which the given material will be working in a laboratory is a very important factor, indicating the fact that the conducted tests have their reflection in reality. By getting acquainted with the quality standards in question and analysing the research procedures, it may be concluded that rocks are considered to be a homogeneous material. In reality, that is not the case. Rocks are the most diverse group of materials. Unlike ceramic materials or concrete products, for which we are capable of designing a mixture, which would fulfil our expectations without much trouble, rocks are an unpredictable material which was created thousands and millions of years ago, and on which at this moment we have no influence whatsoever. In this article, we are dealing with highly diverse porosity, microstructure or even anisotropy. All these factors affect the test results. Due to this, when conducting the tests of rock materials, the samples should be selected in a manner which would make them representative for the given portion of the rock. It is a very important process, which should be executed with awareness and care, in order to make sure that the results obtained by us accurately reflect the actual parameters of the material. To this end, it is necessary to possess proper knowledge about rocks, the whole deposit and the genesis of its creation.
+KW  - E1
+KW  - E4
+KW  - E6
+KW  - E7
+ER  - 
+
+TY  - JOUR
 TI  - Analysis of Rheological Behavior by the Method Squeeze Flow in Mortars Incorporated with Ornamental Stone Residue
 AU  - Gabrielly Carvalho Martins Azevedo
 AU  - Pamella Inacio Moreira
@@ -55677,6 +56094,23 @@ JO  - Resources Policy
 DO  - 10.1016/j.resourpol.2019.01.012
 UR  - https://doi.org/10.1016/j.resourpol.2019.01.012
 KW  - E10
+ER  - 
+
+TY  - JOUR
+TI  - Dosimetric evaluation of individuals to 238U series, 232Th series and 40K radionuclides present in Brazilian ornamental rocks using computational simulation
+AU  - Marco A. M. Pereira
+AU  - Lucas M. Silveira
+AU  - Felix Nannini
+AU  - Lucio Pereira Neves
+AU  - Ana Paula Perini
+AU  - Carla Jotta Justo dos Santos
+AU  - Walmir Belinato
+AU  - William S. Santos
+PY  - 2019
+JO  - Ecotoxicology and Environmental Safety
+DO  - 10.1016/j.ecoenv.2019.02.038
+UR  - https://doi.org/10.1016/j.ecoenv.2019.02.038
+KW  - E8
 ER  - 
 
 TY  - JOUR
@@ -56920,6 +57354,24 @@ KW  - E11
 ER  - 
 
 TY  - JOUR
+TI  - Influence of Design on the Service Life of Indirectly Fastened Natural Stone Cladding
+AU  - Seyed Hamid Reza Mousavi
+AU  - Ana Raquel Silva
+AU  - Jorge de Brito
+AU  - Ahmad Ekhlassi
+AU  - Seyed Bagher Hosseini
+PY  - 2019
+JO  - Journal of Performance of Constructed Facilities
+DO  - 10.1061/(asce)cf.1943-5509.0001277
+UR  - https://doi.org/10.1061/(asce)cf.1943-5509.0001277
+AB  - Indirect fastening is not yet a well-vetted method for attaching stone cladding from the point of view of designers and contractors, and a high incidence of failures has been observed in the field, suggesting inadequate design or inappropriate installation specifications. In fact, it has been shown that inadequate design is often responsible for significant defects that subsequently arise over the course of the facade life cycle. This study is intended to help determine the influence of cladding design parameters on the service life of natural stone cladding with an indirect fastening system. For that purpose, a survey of the state of degradation of 142 buildings in the Lisbon area was performed, based on visual inspections that allow describing the extent of the cladding area affected by the different anomalies evident on the cladding. A weighted numerical index of the extent of the cladding’s degradation (Ew) is established, thereby allowing identifying both the positive and negative impacts of each design characteristic on the service life of an indirectly fastened natural stone cladding system. This study analyzes the influence of parameters such as the type, size, color, density, and type of finishing of the stone plates; the location of the cladding in the facade; and the characteristics of the fastening system. The results obtained reveal that claddings with larger stone plates, with natural stones of lower density, located in taller areas of the buildings and with dowels located at less than 1/5 of the plate’s length from the corners present a higher incidence of defects, with higher deterioration rates. The information obtained in this study can be used by designers in order to mitigate the negative impact of some design characteristics, adopting adequate solutions that increase the durability and service life of indirectly fastened natural stone claddings.
+KW  - E3
+KW  - E7
+KW  - E8
+KW  - E11
+ER  - 
+
+TY  - JOUR
 TI  - Influence of Granite Cutting Waste Addition on the Geotechnical Parameters of Cohesive Soil
 AU  - Syed Husnain Ali Shah
 AU  - Muhammad Arif
@@ -57642,6 +58094,17 @@ KW  - E11
 ER  - 
 
 TY  - JOUR
+TI  - New engineered stones: Development and characterization of mineral-glass composites
+AU  - Gisele Guimarães dos Santos
+AU  - Murilo C. Crovace
+AU  - Edgar Dutra Zanotto
+PY  - 2019
+JO  - Composites Part B Engineering
+DO  - 10.1016/j.compositesb.2019.03.010
+UR  - https://doi.org/10.1016/j.compositesb.2019.03.010
+ER  - 
+
+TY  - JOUR
 TI  - Normative Parameters of the Pegmatite Ornamental Stones of the Eastern Seridó Paraibano - Pedra Lavrada/PB
 AU  - Anna Jamylle Dias Borges Leal
 AU  - Irani Clezar Mattos
@@ -58238,6 +58701,21 @@ KW  - E7
 KW  - E8
 KW  - E10
 KW  - E11
+ER  - 
+
+TY  - JOUR
+TI  - Preparation of engineered stones
+AU  - Saowanee Suta
+AU  - Darunee Wattanasiriwech
+AU  - Darunee Wattanasiriwech
+AU  - Sitthi Duangphet
+AU  - Chuleeporn Thanomsilp
+PY  - 2019
+JO  - IOP Conference Series Materials Science and Engineering
+DO  - 10.1088/1757-899x/600/1/012009
+UR  - https://doi.org/10.1088/1757-899x/600/1/012009
+AB  - Abstract Engineered Stones were produced in a laboratory using polyester resin and domestic quart stones. Selection of these particle sizes were based on packing theory and simple Stroke’s law. From combination of both scenario, three different sizes of quartz were calculated and selected. In this scenario, the smallest size was calculated to be 6 μm while the other size ranges were calculated based on the 7x factor. To test the idea, another two sets of samples were also prepared for comparison. The samples were fabricated by vibration or uniaxial pressing. It was found that all the sample sets fabricated by pressing offered better density and Vickers hardness due to the better packing and higher solid loading of the composite. However, the sample set which strictly followed the calculation did not provide the best density and hardness suggesting that the simple model may not be fully correct and some missing parameters may be required. The best sample set belonged to one which followed 7x factor but with a larger starting quartz size. Sample set with the best properties was comparable to the commercial products.
+KW  - E3
 ER  - 
 
 TY  - JOUR
@@ -61695,6 +62173,15 @@ UR  - https://doi.org/10.14455/isec.res.2018.96
 AB  - In this research attempt is made to examine Waste Marble Dust Mix (WMD) Concrete and Bentonite Mix Concrete. For physical and chemical properties of both concrete mixes, cylinders were examined in the laboratory for permeability testing, scanning electronic microscopy test, slump test, compressive strength test, and split tensile test. Cylinders were prepared in the ratio 1:2:4 with varying marble dust and bentonite content with 5% increment up to 20%. At 28 days with 10% replacement of marble dust and bentonite with cement, the permeability of WMD and Bentonite concrete were decreased by 21% and 34%. Increasing the percentage of WMD and bentonite from 10 to 20%, the MD concrete permeability was drastically increased. After crossing 10% limit it starts working as over burdening additives and allows water to flow through the cylinders, while with bentonite mix concrete by 20% replacement with cement, the permeability was further decreased up to 43%. The compressive and split strength test results of both mixes were totally different from each other. The compressive strength of WMD mix concrete decreased as the percentage of WMD was increased. At 28 days with 10% replacement, the compressive and split tensile strength were reduced by 8.9% and 2.1%. Whereas in bentonite mix, the concrete compressive and split strength were increased by 7.2% and 1.45 and were furthermore increased up to 20% replacement.
 KW  - E7
 KW  - E8
+ER  - 
+
+TY  - JOUR
+TI  - EVIDENCE FOR "FROZEN-IN" MAGMA MIXING IN BRASILIANO CALC-ALKALINE INTRUSIONS: THE SANTA ANGÉLICA PLUTON, SOUTHERN ESPIRITO SANTO, BRAZIL
+AU  - R. Schmidt-Thomé
+AU  - Klaus Weber-Diefenbach
+PY  - 2018
+UR  - https://biblat.unam.mx/ca/revista/revista-brasileira-de-geociencias/articulo/evidence-for-frozen-in-magma-mixing-in-brasiliano-calc-alkaline-intrusions-the-santa-angelica-pluton-southeastern-espirito-santo-brazil
+AB  - The Brazilian Coastal Mobile Belt in Southern Espirito Santo consists of Archean to Upper Proterozoic granulite-facies rocks, amphibolite-facies gneisses, and migrmtites. Towards the end of the Brasiliano Event (680-4S0 Ma) numerous calc-alkaline plutons intruded these deepseated rocks. They form eilliptic (50-150 km 2 ) bodies with cornplex, roughly concentric internal structures: basic rocks predominate in the center, whereas acidic rocks become more dominant in the outer portions. Mixing and commingling of contrasting magmas is a widespread phenomenon in these plutons. The Santa Angelica pluton, of the most complex and best investigated intrusions in this area, exhibits spectacular commingling structures: schlieren and banded textures of granite within hybrid rocks, as well as schol1en of hybrid rock within granite preserve different stages of mechanical mixing. Fine-grained hybrid rocks show phenocrysts from both gabbroic and granitic parental magmas, Phenocrysts have not been in equilibrium with the hybrid melt and therefore show corrosion, corona, and/or mantling structures. A model is presented for the Santa Angelica pluton: mantle derived basic magma of trasitional or alkali basalt affinity intruded the lower crust causing anatexis and production of granitic melts. Convection during diapiric ascent led to commingling of the contrasting magmas. Different stages of homogenization are preserved within the hybrid rocks which originated from commingling. They now represent frozen-in magma mixing.
 ER  - 
 
 TY  - JOUR
@@ -65635,6 +66122,15 @@ KW  - E11
 ER  - 
 
 TY  - JOUR
+TI  - Abrasion Wear Characterization Of Natural Stones Subjected To Foot Traffic And Correlation Between Abrasion And Mechanical Properties
+PY  - 2017
+JO  - i-manager s Journal on Material Science
+DO  - 10.26634/jms.4.4.10364
+UR  - https://doi.org/10.26634/jms.4.4.10364
+AB  - Abrasion resistance is a property of a marble which gives an indication of the marble wearing quality when it is exposed to foot traffic. This property is tested according to ASTM C241 standards. Abrasion further helps in determining whether a marble is economically desirable and practical for floors, stairs, etc. For this, 48 samples were selected from different processing units of Rajasthan and were tested. Regression analysis was carried out to investigate the relation between the abrasion resistance and the mechanical properties of marbles determined according to ASTM standards. Although, it is believed that abrasion resistance of many materials are greatly affected by its hardness and it increases with the increase in the hardness. The correlations of abrasion resistance was found to be highly related with mechanical 2 2 2 properties like modulus of rupture (R = 0.96), compressive strength (R = 0.94), flexural strength (R = 0.96) along with 2 2 2 hardness (R = 0.84) while the water absorption (R = 0.08) and density (R = 0.44) were found to be less correlated.
+ER  - 
+
+TY  - JOUR
 TI  - Additive Industries joins forces with F1 team
 PY  - 2017
 JO  - Metal Powder Report
@@ -68356,6 +68852,22 @@ KW  - E9
 ER  - 
 
 TY  - JOUR
+TI  - Petrogenesis and age of skarns associated with felsic and metamafic dykes from the Paraíba do Sul Complex, southern Espírito Santo State
+AU  - Raissa Beloti de Mesquita
+AU  - Hanna Jordt-Evangelista
+AU  - Gláucia Queiroga
+AU  - Edgar Batista de Medeiros Júnior
+AU  - Ivo Dussin
+PY  - 2017
+JO  - Brazilian Journal of Geology
+DO  - 10.1590/2317-4889201720160086
+UR  - https://doi.org/10.1590/2317-4889201720160086
+AB  - ABSTRACT: This paper concerns the study of petrography, mineral chemistry and geochronology of skarns generated at the contact of marbles of the Paraíba do Sul Complex with felsic and metamafic dykes in the southern Espírito Santo State. The marbles were metamorphosed under P-T granulite facies conditions during the syn-collisional stage of the Neoproterozoic Araçuaí orogen. Metamafic bodies are composed of amphibolite and hornblende granofels, while felsic dykes consist of alkali-feldspar granite, monzogranite or syenogranite. From marble towards the dyke, skarns related to the metamafic bodies are composed of carbonate + olivine and diopside + hornblende zones. Skarn associated to the granitic dykes are composed of three different zones: carbonate + tremolite, diopside, scapolite + diopside. Variations in mineral chemical compositions along the metasomatic zones suggest introduction of Mg and Ca from the marbles, Fe from the metamafic dykes and Na from the granitoids. The presence of spinel in the metamafic dykes and their skarns indicates that both were metamorphosed under granulite facies conditions during the 580-560 Ma syn-collisional stage. U-Pb zircon geochronology (LA-ICP-MS) of an alkali-feldspar granite dyke resulted in a crystallization age of ca.540 Ma, which suggests that its skarns are therefore younger than skarns associated with the syn-collisional metamafic dykes.
+KW  - E1
+KW  - E8
+ER  - 
+
+TY  - JOUR
 TI  - Petrografia e química mineral do Stock Granítico Serra do Barriga (Sobral, CE, nordeste do Brasil)
 AU  - Irani Clezar Mattos
 AU  - José de Araújo Nogueira Neto
@@ -69965,6 +70477,15 @@ KW  - E9
 ER  - 
 
 TY  - JOUR
+TI  - AN EXPERIMENTAL STUDY ON PROPERTIES OF TERNARY BLENDED CONCRETE USING GGBS AND MARBLE POWDER
+AU  - Journal Ijirae
+AU  - Shibi Varghese
+PY  - 2016
+DO  - 10.6084/m9.figshare.3837936.v1
+UR  - https://doi.org/10.6084/m9.figshare.3837936.v1
+ER  - 
+
+TY  - JOUR
 TI  - ANÁLISE AMBIENTAL DOS PROCESSOS DE BENEFICIAMENTO DAS MARMORARIAS DA CIDADE DE MANAUS
 AU  - Ercilia Socorro Souza Soares
 AU  - Raimundo Kennedy Vieira
@@ -70805,6 +71326,20 @@ KW  - E6
 ER  - 
 
 TY  - JOUR
+TI  - Comparison of Artificial Stone Made from Sludge Stone with Travertine Stone Waste of Stone Cutting Factory
+AU  - Nasim Sarami
+AU  - Leila Mahdavian
+PY  - 2016
+JO  - International journal of engineering research in Africa
+DO  - 10.4028/www.scientific.net/jera.23.64
+UR  - https://doi.org/10.4028/www.scientific.net/jera.23.64
+AB  - Using from Stone factory waste was obtained a high-quality artificial stone. The basis of these stones is factory waste; i. Sludge stone cutting factory (SSCF) and ii. The pure waste of travertine stone (WTS).Basic formulation of artificial stone is SSCF or WTS, 50 wt.% of sludge stone is cement, 12 wt.% of cement is unsaturated polyester resin (UPR), 25 wt.% is water, 7 wt.% is the filler consists of micro-silica and different amounts of TiO2-NP. Artificial stones production with this method than to natural stone are pressure-resistant, highly flexible, resistant to freezing and scrapes, lightweight, ability to cut and form the low thickness and is self-cleaning.Artificial stones made of SSCF in all mechanical properties are better than WTS, because the density of the SSCF is much greater than the powder prepared from WST and SSCF is all wastewater leaving the factory after cutting various types of decorative stones. As well as for preparation of artificial stone from WTS should be done once milled and powdered waste, this step increases the cost of them.Keywords: Artificial stone; Sludge stone cutting factory (SSCF); Waste of travertine stone (WTS); Nanoparticles of TiO2; Cement.
+KW  - E3
+KW  - E8
+KW  - E9
+ER  - 
+
+TY  - JOUR
 TI  - Compressive Strength and Abrasion Resistance of Concrete with Waste Marble and Demolition Aggregate
 AU  - Selim Cemalgil
 AU  - Onur Onat
@@ -71511,6 +72046,22 @@ UR  - https://doi.org/10.5281/zenodo.21599605
 AB  - The advancement of concrete technology can reduce the consumption of natural resources and energy sources and umpteen varieties of concretes (FAC, HVFAC, FRC, HPC, HSC, and others) were researched in several laboratories and brought to the field to suit the specific needs. Marble, granite and Spent Fire Brick industry has grown significantly in the last decades with the privatization trend in the early 1990s, and Accordingly, the amount of mining and processing waste has increased. Stone waste is generally a highly polluting waste due to both its highly alkaline nature, and its manufacturing and processing techniques. The objective of this paper is to utilize waste marble, granite and Spent Fire Brick waste of different sizes in the manufacturing of concrete bricks, with partial replacement of conventional coarse and fine aggregates with Marble, Granite and Spent Fire Brick waste content up to 25%.and design mix is m40 The produced bricks are tested for physical and properties according to the requirements of the American Standards for Testing Materials (ASTM) and the IDIAN Code . These tests were carried out to evaluate the mechanical properties for 7 ,14and 28 days. .150mmx150mx150mm cubes The test results revealed that the recycled products and Reuse of this kind of waste has advantages economic and environmental, reduction in the number of natural spaces employed as refuse dumps.
 KW  - E7
 KW  - E8
+KW  - E11
+ER  - 
+
+TY  - JOUR
+TI  - Experimental study of concrete made with granite and iron powders as partial replacement of sand
+AU  - Shehdeh Ghannam
+AU  - Husam Najm
+AU  - Rosa Vasconez
+PY  - 2016
+JO  - Sustainable materials and technologies
+DO  - 10.1016/j.susmat.2016.06.001
+UR  - https://doi.org/10.1016/j.susmat.2016.06.001
+AB  - Granite Powder (GP) and Iron Powder (IP) are industrial byproducts generated from the granite polishing and milling industry in powder form respectively. These byproducts are left largely unused and are hazardous materials to human health because they are airborne and can be easily inhaled. An experimental investigation has been carried out to explore the possibility of using the granite powder and iron powder as a partial replacement of sand in concrete. Twenty cubes and ten beams of concrete with GP and twenty cubes and ten beams of concrete with IP were prepared and tested. The percentages of GP and IP added to replace sand were 5%, 10%, 15%, and 20% of the sand by weight. It was observed that substitution of 10% of sand by weight with granite powder in concrete was the most effective in increasing the compressive and flexural strength compared to other ratios. The test resulted showed that for 10% ratio of GP in concrete, the increase in the compressive strength was about 30% compared to normal concrete. Similar results were also observed for the flexure . It was also observed that substitution of up to 20% of sand by weight with iron powder in concrete resulted in an increase in compressive and flexural strength of the concrete.
+KW  - E3
+KW  - E8
+KW  - E9
 KW  - E11
 ER  - 
 
@@ -72388,6 +72939,19 @@ UR  - https://doi.org/10.17580/gzh.2016.08.04
 AB  - The article gives a brief history of exploration of ornamental stone reserves in the Kyrgyz Republic and a description of the deposits, occurrences and sites of ornamental stones per regions of the country. At the present time, Kyrgyzstan holds 216 registered deposits and geological occurrences of natural ornamental stone. The ornamental stone deposits in the Republic are explored nonuniformly. Out of all known deposits, 15 deposits are proved, which is 6.4 % of the overall amount of the deposits; 28 deposits are covered by preliminary exploration (10.6 % of total number); prospecting and appraisal have been carried out at 25 deposits (11.5 %); prospecting with different degree of comprehensiveness is performed at 119 deposits and occurrences (55 %); geological surveying at a scale of 1:25 000, 1:50 000 and smaller identifies 36 deposits (16.5 %). The register of the State Agency for Geology and Mineral Resources contains 17 deposits of ornamental stone with the total reserves of the summed categories A+B+C1 as 43391 thou m2, category C2 as 7037 thou m3 and non-commercial reserves of 3930 thou m3. The largest despots of the economic reserves of over 2 Mm3 are limestone–shell rocks of Sary-Tash, black marmorized limestones of Bozbutoo, marbles of Chaartash and Akart, granites and grandiorites of Kainda deposit and Kyrtavalg granites. Out of all proved despots, periodic mining operations embrace marble deposits Arym I and Arym II, Kainda grandiorites and pink granites, limestone–shell rocks of Sary-Tash, Sartala, Aktash II, Chigirtash Severny and Sarykia-2, and Adzhike gypsum deposit. The rest economic reserves are the back-up supplies of the construction industry in the Republic. If needed to extend the raw material resources base, it is possible to carry out exploration in the identified promising areas. The available resources of natural ornamental stones, considering their promising growth, will ensure smooth performance of the stone dressing industry in the country for a long term.
 KW  - E1
 KW  - E7
+ER  - 
+
+TY  - JOUR
+TI  - Os usos do corpo-si no trabalho de transformação de granitos: evidências para saúde e segurança
+AU  - Thiara De Ângeli Porto
+AU  - Mônica de Fátima Bianco
+PY  - 2016
+JO  - Laboreal
+DO  - 10.4000/laboreal.3053
+UR  - https://doi.org/10.4000/laboreal.3053
+AB  - A análise ergológica é desenvolvida, tanto quanto possível, privilegiando o ponto de vista da atividade e com o intuito de evidenciar o debate de normas e de valores que em permanência renovam a atividade humana. A pesquisa foi conduzida numa empresa de transformação de granito do Estado do Espírito Santo, no Brasil. O objetivo consistiu em compreender os usos do corpo-si, tal como se configuram na tentativa de preservação da saúde e da segurança, no contexto dos processos de umidificação, associados ao tratamento do granito. Partindo do acompanhamento de processos concretos de trabalho - e assumindo a postura de um cartógrafo, através da exploração dos dados recolhidos no âmbito de um diário de campo, bem como no contexto de entrevistas conduzidas com dez trabalhadores - o estudo revelou exemplos de modos de uso do corpo-si na gestão da saúde e da segurança, na atividade em análise. Tornou-se visível um recurso inapropriado dos EPI’s à disposição, e a ausência de consciência das potencialidades decorrentes dos equipamentos de proteção coletiva (EPC), comprometendo-se desta forma o acesso a condições de trabalho dignas, e a preservação da saúde e segurança dos trabalhadores.
+KW  - E4
+KW  - E9
 ER  - 
 
 TY  - JOUR
@@ -73320,6 +73884,20 @@ JO  - Bilecik Şeyh Edebali University Institutional Repository
 UR  - https://hdl.handle.net/11552/2322
 AB  - The aim of this stııdy is ıo investigate ıhe usabiliıy of wasıe marble powder as filler in co/d vıılcani=ing adhesives and its effecı on ıhe physica/ and mechanical properties of ıhe cold vıılcanizing adhesives. Experimental tesis were performed ıo evaluaıe ıhe possibility of using the waste marble powder as replacemenı of ıhe convenlional calciıe powder in a formulaıion of cold vulcanizing cenıent. Cure characıerisıics, which are scorch ıime, cure time and minimum ıorque of the rubber compounds filled wiıh marble powder and calcite were determined at J90°C with a Moving Die Rheomeıer. Meusurements of adhesive sırength and capability of elongaıiorı of spliced fabric corıveyor belt samples were carried 0111 arı the tensile testirıg nıachirıe. lnexpensive and eco-friendly filler, marble powder, has been successfiılly utili=ed for ıhe process of cold vıılcani=ing adlıesives. A favorability of adlıesive sırengılı and capabiliıy of elongaıion was obtained for the wasıe marble powder filled adhesives w/ıen compared ıo the calcite filled adhesives. Recycling of wasıe marble powder as filler appears ıo be a feasible solııtion nol only ıo environmental problem, bııı also ıo ıhe problem of economical processing of sııch adhesives.
 KW  - E8
+ER  - 
+
+TY  - JOUR
+TI  - The Value of Original Natural Stone in the Context of Architectural Heritage
+AU  - Dolores Pereira
+AU  - Brian Marker
+PY  - 2016
+JO  - Geosciences
+DO  - 10.3390/geosciences6010013
+UR  - https://doi.org/10.3390/geosciences6010013
+AB  - Natural stone is required for maintenance and repair of historically, archaeologically and culturally important structures to prevent deterioration due to weathering and use. Those that have national or World Heritage significance are historically and culturally important. Sometimes, severely damaged buildings may require extensive or complete restoration. The choice of stone should be appropriate in physical and aesthetic terms, ideally from the original source. Researchers, architects, those who specify contracts and other stakeholders need reliable information, but access to, and awareness of, important sources such as manuscripts, publications and collections of samples is often limited. Easier access to information is needed when planning and commissioning works that require the replacement of stone. Making important information more widely available and promoting awareness of the need to maintain adequate supplies of natural stone of suitable quality is a task for both national and international organizations including the Heritage Stone Task Group of IUGS and IAEG. This paper provides some illustrative examples and pointers towards some recent major publications, as well as describing current Heritage Stone Resource and European Union initiatives, all the while requesting further participation from colleagues in this field.
+KW  - E6
+KW  - E7
+KW  - E11
 ER  - 
 
 TY  - JOUR
@@ -74557,6 +75135,19 @@ DO  - 10.1016/j.proeps.2015.08.051
 UR  - https://doi.org/10.1016/j.proeps.2015.08.051
 AB  - Granitoids are selected for ornamental purposes due to their texture and colour. The determination of granitoid durability has been slightly neglected since most of standard weathering tests have been developed for stones with more than 5% porosity. In addition, the evaluation of the decay is commonly focused on loss of mass or fracturation. In this study, the decay of granitoids was assessed with NDT such as colour and roughness. For this research, four granitoids commonly used as ornamental stones have been studied. They show differences in colour and texture, thought porosity is similar. Four weathering tests were carried out: salt crystallization, Freeze-Thaw cycles, SO2 exposure and heating to different temperatures. Standard test were adapted to focus the damage on the surface. Colour and roughness measurements were carried out before and after the tests. We concluded that, in the decay tests in which chemical reactions were not involved, roughness measurements gave accurate information about the decay. In the decay tests in which chemical reactions are produced, such as SO2 interaction or mineral transformation due to high temperatures, both colour and roughness could evidence the decay, even if colour change is faster and easier to observe and measure.
 KW  - E11
+ER  - 
+
+TY  - JOUR
+TI  - Concrete properties containing fine aggregate marble powder
+AU  - Kürşat Esat Alyamaç
+AU  - Alp Buğra Aydın
+PY  - 2015
+JO  - KSCE Journal of Civil Engineering
+DO  - 10.1007/s12205-015-0327-y
+UR  - https://doi.org/10.1007/s12205-015-0327-y
+AB  - The rapid growth of the marble industry introduces concerns regarding the negative impact of marble quarrying on the environment, because the cutting of marble creates sludge. The incorporation of marble sludge (powder) into concrete and cement-based products would make significant environmental and economic contributions. This study aims to develop a concrete mixture with maximum marble content that has strength properties comparable to that of the non-marble reference concrete (without marble powder), as opposed to developing a marble powder concrete with maximum compressive strength. The main purpose is to replace sand with marble powder in concrete because such a mixture will be environmentally friendly and economically feasible. The concrete samples are produced by replacing sand with marble powder at 10%, 20%, 30%, 40%, 50% and 90% by volume. The compressive strength values are determined after 7, 28 and 90 days with splitting tensile strength values at 28-th day including water absorption and abrasion resistance values. A feasibility evaluation is performed using parameters such as fresh concrete, compressive strength, sorptivity, abrasion resistance, and estimated cost. Based on the feasibility evaluation it is shown that using up to 40% marble powder in concrete is suitable in accordance with the requirements.
+KW  - E1
+KW  - E8
 ER  - 
 
 TY  - JOUR
@@ -76237,6 +76828,22 @@ KW  - E7
 ER  - 
 
 TY  - JOUR
+TI  - Os aspectos geológicos do Maciço Santa Angélica (ES): uma nova abordagem
+AU  - Marcela Lopes Zanon
+AU  - Alexandre de Oliveira Chaves
+AU  - Caio Vinícius Gabrig Turbay Rangel
+AU  - Leonan Gaburo
+AU  - Carlos Roberto Pires
+PY  - 2015
+JO  - Brazilian Journal of Geology
+DO  - 10.1590/2317-4889201520150005
+UR  - https://doi.org/10.1590/2317-4889201520150005
+AB  - O Maciço Santa Angélica (CISA) está localizado na região sul do Espírito Santo e corresponde a um dos corpos intrusivos mais importantes da Supersuíte G5 associada ao estágio pós-colisional do Orógeno Araçuaí. Ele é constituído por dois núcleos gabroicos e bordas félsicas, estas separadas por uma extensa zona de mistura de magmas. Suas rochas encaixantes fazem parte da Supersuíte G1 (fase pré-colisional) e do Grupo Bom Jesus do Itabapuana (antigo Complexo Paraíba do Sul). A fim de compreender os possíveis processos de dinâmica físico-química entre o magmatismo máfico e félsico desse maciço, bem como suas possíveis relações com sua borda ortoderivada (G1), foram realizados estudos de campo, petrográfico, litogeoquímico e em microssonda eletrônica. A análise dos dados confirmou o modelo tectono-magmático proposto pela literatura e indicou novas informações: as zonas de cisalhamento dextrais regionais favoreceram a entrada desse corpo intrusivo, dando a ele uma forma alongada e sigmoidal e causando a deformação dos gnaisses do G1. Sua formação foi acompanhada de processos de diferenciação magmática (cristalização fracionada) e da geração de uma extensa zona de mistura mecânica de magmas (mingling).
+KW  - E1
+KW  - E6
+ER  - 
+
+TY  - JOUR
 TI  - Outbreak of autoimmune disease in silicosis linked to artificial stone
 AU  - Osnat Shtraichman
 AU  - Paul David Blanc
@@ -76668,6 +77275,21 @@ KW  - E4
 KW  - E7
 KW  - E8
 KW  - E11
+ER  - 
+
+TY  - JOUR
+TI  - Sedimentation, metamorphism and granite generation in a back-arc region: Records from the Ediacaran Nova Venécia Complex (Araçuaí Orogen, Southeastern Brazil)
+AU  - Fabiana Richter
+AU  - CRISTIANO DE CARVALHO LANA
+AU  - Gary Stevens
+AU  - I. S. Buick
+AU  - Antônio Carlos Pedrosa‐Soares
+AU  - Fernando F. Alkmim
+AU  - Kathryn A. Cutts
+PY  - 2015
+JO  - Precambrian Research
+DO  - 10.1016/j.precamres.2015.10.012
+UR  - https://doi.org/10.1016/j.precamres.2015.10.012
 ER  - 
 
 TY  - JOUR
@@ -78605,6 +79227,23 @@ KW  - E11
 ER  - 
 
 TY  - JOUR
+TI  - Geotechnical Materials for Floor Covering: Dioritic Noritic “Granite” Plates Structural Behavior
+AU  - Sérgio Trajano Franco Moreiras
+AU  - Antenor Braga Paraguassú
+AU  - Rogério Pinto Ribeiro
+PY  - 2014
+JO  - International Journal of Engineering and Technology
+DO  - 10.7763/ijet.2015.v7.819
+UR  - https://doi.org/10.7763/ijet.2015.v7.819
+AB  - Polished finishing granites have great acceptance in non-adherent covering systems because of the slabs' shape design, color variety and the high level of mechanical properties and durability.The Brazilian practice for natural stone design applies only the bending tensile strength test results and other important characteristics are not taken in account.Thus, this study evaluated the mechanical properties of the stone for non-adherent paving uses as structural slab and pedestal paving system.The properties assessed for the dioritic noritic Black São Gabriel were the stress versus deformation diagram, the Young modulus (E) and the Poisson's ratio (μ).The tests were running in compression and in bending modes.The results showed a good correlation between the five Young modulus (E) obtained.
+KW  - E2
+KW  - E3
+KW  - E6
+KW  - E7
+KW  - E11
+ER  - 
+
+TY  - JOUR
 TI  - Global Heritage Stone: Estremoz Marbles, Portugal
 AU  - Luís Lopes
 AU  - Ruben Martins
@@ -79334,6 +79973,22 @@ PY  - 2014
 JO  - 한국토양비료학회 학술발표회 초록집
 UR  - http://www.dbpia.co.kr/Journal/ArticleDetail/NODE02446607
 KW  - E8
+ER  - 
+
+TY  - JOUR
+TI  - Polishing Knowledge: A Study of Marble and Granite Processing
+AU  - Simone De Bruim Babisk Mezadre
+AU  - Mônica de Fátima Bianco
+PY  - 2014
+JO  - BAR - Brazilian Administration Review
+DO  - 10.1590/1807-7692bar2014365
+UR  - https://doi.org/10.1590/1807-7692bar2014365
+AB  - The aim of this article is to understand the work situations and highlight aspects of the knowledge invested by workers when performing marble and granite processing activities. The survey is qualitative and was based on the reality of a small industrial company that deals with processing activities. The case study was based on theoretical and analytical ergology tools by analyzing the organizational documents and safety and health standards that regulate activity. It involved conducting individual interviews with nine workers, organizing a focus group with these workers, and directly observing work for four months while recording a field notebook. The workers’ experiences in the renormalization of working processes, or the introduction of improvements guided by singular aspects of the local work organization, were identified. The workers, through use of oneself, place more importance on meeting deadlines and production targets than on their own safety. Worker competency is directly related to the professional training obtained on the job and is associated with working experience in the absence of an a priori formal education. This article contributes to the field of organizational studies and human resource management because there is a lack of studies on workers from this field that describe the competencies used in actual work. Thus it may guide theoretical and practical management aspects in such working environments and small businesses regarding safer work organization.
+KW  - E3
+KW  - E6
+KW  - E8
+KW  - E9
+KW  - E10
 ER  - 
 
 TY  - JOUR
@@ -80866,6 +81521,35 @@ UR  - http://rigeo.cprm.gov.br/jspui/bitstream/doc/17787/1/atlas_rochas_es.pdf
 ER  - 
 
 TY  - JOUR
+TI  - Avaliação da incorporação de resíduo de gemas na massa cerâmica vermelha: um estudo de caso
+AU  - M. Weizenmann
+AU  - F. R. Bruxel
+AU  - Eduardo Rodrigo Ramos de Santana
+AU  - E. C. Oliveira
+PY  - 2013
+JO  - Cerâmica
+DO  - 10.1590/s0366-69132013000300014
+UR  - https://doi.org/10.1590/s0366-69132013000300014
+AB  - Ao longo dos últimos anos algumas preocupações ambientais tem se ressaltado, é o caso da contínua utilização de recursos naturais não renováveis bem como a geração de resíduos dos mais diversos segmentos. Felizmente, há possibilidade de empregar resíduos, por exemplo, como aditivos na indústria cerâmica. O objetivo deste trabalho é avaliar a viabilidade técnica da incorporação do resíduo de corte de gemas na fabricação de tijolos, comparando a outro trabalho desenvolvido no mesmo município. Foram produzidos cento e cinquenta corpos de prova com as concentrações de 0%, 2%, 6%, 10% e 14% (m/m) de resíduo na argila. Os resultados obtidos após os testes de absorção de água, massa específica aparente e resistência à compressão revelaram que é possível a utilização de até 2% do resíduo do corte de gemas junto à massa argilosa.
+KW  - E8
+ER  - 
+
+TY  - JOUR
+TI  - Avaliação do uso de resíduo de serragem de pedra Cariri (RSPC) para produção de concretos convencionais
+AU  - Washington Almeida Moura
+AU  - Mônica Batista Leite
+AU  - Adolfo Jacques Oliveira Bastos
+PY  - 2013
+JO  - Ambiente Construído
+DO  - 10.1590/s1678-86212013000100002
+UR  - https://doi.org/10.1590/s1678-86212013000100002
+AB  - No estado do Ceará, na região do Cariri, um minério calcário laminado, comercialmente conhecido como pedra Cariri, é muito explorado. Os processos de exploração e beneficiamento desse minério são causas da geração de resíduos. Um dos tipos de resíduo gerado é o decorrente da serragem de pedra Cariri, denominado de resíduo de serragem de pedra Cariri (RSPC). Nesta pesquisa, avalia-se a viabilidade do uso de RSPC como substituição parcial do cimento na produção de concretos convencionais. Foram determinadas as características químicas e físicas do RSPC. A influência foi avaliada através das propriedades mecânicas (resistência à compressão axial e diametral) e parâmetros de durabilidade (absorção por imersão e por sucção capilar). Foram produzidos 9 traços, variando a relação a/c (0,45; 0,55; 0,65) e os teores de substituição (0%, 10% e 20%) do cimento. Os resultados demonstram que a utilização de RSPC no concreto proporcionou uma redução nas resistências à compressão e à tração por compressão diametral. Entretanto, em relação aos parâmetros de durabilidade, os concretos com RSPC apresentaram comportamento compatível com os concretos de referência. De um modo geral, do ponto de vista técnico, o RSPC não proporcionou resultados satisfatórios para aplicação em concreto.
+KW  - E2
+KW  - E8
+KW  - E11
+ER  - 
+
+TY  - JOUR
 TI  - Avaliação dos granitos Giallo São Francisco Real, Branco Dallas e Branco Marfim, do muncípio de Barra de São Francisco/ES para aplicação como rocha ornamental e de revestimento
 AU  - Lara Cínthia Arndt Saar
 PY  - 2013
@@ -81209,6 +81893,33 @@ JO  - Jahresberichte und Mitteilungen des Oberrheinischen Geologischen Vereins
 DO  - 10.1127/jmogv/95/2013/27
 UR  - https://doi.org/10.1127/jmogv/95/2013/27
 KW  - E1
+ER  - 
+
+TY  - JOUR
+TI  - Durability and conservation of stone: coping with complexity
+AU  - HEATHER A. VILES
+PY  - 2013
+JO  - Quarterly Journal of Engineering Geology and Hydrogeology
+DO  - 10.1144/qjegh2012-053
+UR  - https://doi.org/10.1144/qjegh2012-053
+AB  - Natural stone of many types is used in a wide range of monuments and buildings dating from many periods and located in widely differing environmental conditions around the world. Thus, there is a great need for better understanding of the durability of stone, in terms of its resilience in the face of a wide range of deteriorative processes. Such knowledge will allow better conservation and management of both historic stonework and new build. This paper reviews the current challenges facing attempts to link studies of durability to conservation, and proposes a way forward. First, it outlines the current complexity of factors surrounding the use, deterioration and conservation of natural stone today, in the light of climatic change, globalization and sustainability. Second, it reviews three important issues surrounding durability; that is, the meaning of durability, how we measure durability, and the challenges for modelling and predicting durability. Third, it proposes a new approach to conceptualizing and assessing durability to make it more relevant and useful for practical conservation.
+KW  - E1
+KW  - E6
+KW  - E8
+KW  - E11
+ER  - 
+
+TY  - JOUR
+TI  - Durability assessment of natural stone
+AU  - Richard Přikryl
+PY  - 2013
+JO  - Quarterly Journal of Engineering Geology and Hydrogeology
+DO  - 10.1144/qjegh2012-052
+UR  - https://doi.org/10.1144/qjegh2012-052
+AB  - Durability is one of the most significant aspects of the behaviours of natural stone in the real environment. As it is not a fundamental property, it cannot be measured in situ or by using any simple laboratory test. Therefore, durability is assessed by using several approaches such as (1) accelerated laboratory durability tests (freeze–thaw cycling, wetting–drying, salt crystallization resistance), (2) complex environmental testing in test cabinets, and (3) exposure site testing. In this review paper, the advantages and drawbacks of these approaches are discussed and compared with other approaches such as practical experience and/or indirect assessments of selected physical properties, which have been found empirically to have a strong influence upon the durability of materials. Based on current information, accelerated laboratory durability tests (although the most widespread type of tests) exhibit serious limitations in terms of oversimplified test methods. Complex environmental testing provides more reliable results, but is less accessible for common testing owing to experiments’ long duration and high operational costs. Similar drawbacks are applicable for in situ testing. Practical experience combines the value of the material’s exposure in real-life conditions and the duration of interactions; but it is highly impractical when the sampling of experimental materials is required. Extrapolation of the durability of natural stone from the results of some common laboratory tests (porosimetry approach for complex evaluation of pore space; mechanical properties under various degrees of saturation; response of a natural stone exposed to water (i.e. swelling behaviour)) seems to be an appropriate alternative to previous approaches.
+KW  - E1
+KW  - E8
+KW  - E11
 ER  - 
 
 TY  - JOUR
@@ -81646,6 +82357,20 @@ JO  - DOAJ (DOAJ: Directory of Open Access Journals)
 UR  - https://doaj.org/article/e1cd13d9877b48d1a0363c8581ca9958
 AB  - Qareh Qeshlaq marble quarry as one of the valuable resources of ornamental stones in West Azarbaijan province formed through thermal carbonate springs while its mineral deposit thickness is limited in comparison with surface extension. In the present research, geological and blocky modeling of the marble deposit was carried out in order to develop a production planning for this quarry, identifying the position of single-marketable-block extracted from it and increasing its economical aspects for exploitation. During the study, in addition to preparing a geological and blocky model for the quarry, firstly the optimum dimensions of its extractable single marketable-block were quantified and then through representing the confining surfaces equation of marble strata in the computer, the optimal maximum dimension and the number and exact location of the single marketable-blocks were determined and presented to the operating team. Based on the findings of these studies and according to the existing 83 exploratory boreholes data, it is possible to extract 183 single marketable-block pink marble and 103 single marketable-block malachite both with 1.5 × 2.5 × 2.5 m raw dimensions while only 2 single marketable-block alabaster layer with 1.3 × 2.5 × 2.5 m dimensions. The results also show that with applying extraction consideration, regarding the productivity coefficient of the layers, and removing the gradual color changes zone, the maximum thickness of the single marketable-blocks for the pink marble, malachite, and alabaster will become 1.65, 1.65 and 1.4 m, respectively.
 KW  - E1
+KW  - E8
+ER  - 
+
+TY  - JOUR
+TI  - Global Stone Congress
+AU  - Lopes, Luis
+AU  - Silva, Zenaide
+AU  - Guerra Rosa, Luis
+PY  - 2013
+JO  - Key engineering materials
+DO  - 10.4028/www.scientific.net/kem.548
+UR  - https://doi.org/10.4028/www.scientific.net/kem.548
+AB  - Volume is indexed by Thomson Reuters CPCI-S (WoS).The collection of peer reviewed papers on Stone covers several topics and is conveniently divided into 6 chapters:- Resources, Exploration and Exploitation- Manufacturing Processes, Tools and Optimization- Environmental Management; Recycling and Valuation of Byproducts- Characterization and New Products- Natural Stone in Architecture and Design- Cultural, Economic and Social Issues.
+KW  - E7
 KW  - E8
 ER  - 
 
@@ -82401,6 +83126,19 @@ KW  - E8
 ER  - 
 
 TY  - JOUR
+TI  - ROCHAS GRANULÍTICAS DA SUÍTE CAPARAÓ NA REGIÃO DO PICO DA BANDEIRA: EMBASAMENTO ORIENTAL DO ORÓGENO ARAÇUAÍ
+AU  - Tiago Amâncio Novo
+AU  - Carlos Maurício Noce
+AU  - Antônio Carlos Pedrosa‐Soares
+AU  - Gustavo Antonio Pereira Batista
+PY  - 2013
+JO  - Revista Geonomos
+DO  - 10.18285/geonomos.v19i2.42
+UR  - https://doi.org/10.18285/geonomos.v19i2.42
+AB  - O Pico da Bandeira é o terceiro cume mais alto do Brasil com 2891,98 m de altitude. Localiza-se na Serra do Caparaó, divisa dos estados de Minas Gerais e Espírito Santo. Esta serra tem sido esculpida essencialmente sobre gnaisses e migmatitos de alto grau, ortoderivados, de composição diorítica a granítica, com encraves máficos, da Suíte Caparaó. Estruturalmente, a Serra do Caparaó configura uma lasca tectônica moldada em antiformal de proporções quilométricas, assimétrico, apertado, aproximadamente orientado segundo NNE-SSW, com o flanco oeste parcialmente invertido e charneira marcada por intensa migmatização. As poucas amostras analisadas sugerem rochas cálcio-alcalinas de médio a alto-K, um pouco enriquecidas em terras raras leves em relação a rochas similares do Complexo Juiz de Fora. A Suíte Caparaó, de idade riaciana (ca. 2,19 Ga), pode ser correlacionada ao Complexo Juiz de Fora e constitui uma porção do embasamento sudeste do Orógeno Araçuaí.Palavras-chave: Granulito, Suíte Caparaó, Orógeno Araçuaí ABSTRACT: GRANULITIC ROCKS FROM THE CAPARAÓ SUITE IN THE PICO DA BANDEIRA REGION: EASTERN BASEMENT OF THE ARAÇUAÍ OROGEN. In Brazil, the third highest mountain peak, with 2891.98 m high, is called Pico da Bandeira. It is located at Caparaó mountain ridge, along the boundary between Minas Gerais and Espírito Santo states. This ridge has been shaped on the orthoderived, dioritic to granitic, granulitic gneisses and migmatites with mafic enclaves of the Caparaó Suite. The regional structure of the Caparaó ridge is a folded thrust slice, forming a huge antiformal, asymmetric, tight fold roughly oriented to NNE-SSW, with the western limb partially inverted and the hinge marked by intense migmatization. The few analysed samples suggest medium to high-K calc-alkaline signatures, slightly enriched in light rare earth elements in relation to similar rocks of the Juiz de Fora Complex. The Caparaó Suite, Rhyacian in age (ca. 2.19 Ga), can be correlated to the Juiz de Fora Complex and forms part of the southeastern basement of the Araçuaí orogen.Keywords: Granulite, Caparaó Suite, Araçuaí orogen
+ER  - 
+
+TY  - JOUR
 TI  - ROCHAS ORNAMENTAIS SILICÁTICAS DO ESTADO DE PERNAMBUCO
 AU  - Felisbela Maria da Costa Oliveira
 AU  - T. M. F. Kálix
@@ -82721,6 +83459,22 @@ PY  - 2013
 DO  - 10.1520/c1527_c1527m
 UR  - https://doi.org/10.1520/c1527_c1527m
 AB  - This specification covers the material characteristics, physical requirements, and sampling method appropriate to the selection of travertine dimension stone for general building and structural purposes. Dimension travertine shall include stone th
+ER  - 
+
+TY  - JOUR
+TI  - Stability assessment of marble statuaries of the Schlossbrücke (Berlin, Germany) based on rock strength measurements and ultrasonic wave velocities
+AU  - Joerg Ruedrich
+AU  - Christian Knell
+AU  - J. Enseleit
+AU  - Y. Rieffel
+AU  - Siegfried Siegesmund
+PY  - 2013
+JO  - Environmental Earth Sciences
+DO  - 10.1007/s12665-013-2246-x
+UR  - https://doi.org/10.1007/s12665-013-2246-x
+AB  - The degree of weathering in natural stones on buildings and sculptures has been determined for many years in numerous cases by means of ultrasonic measurements. Conclusions concerning the strength of the rock and the type of weathering can thus be drawn. This relationship has not been established for all rock types. Most of the progress utilizing this method has been made in the analysis of marbles, where an increasing degree of weathering shows lower ultrasonic velocities. In the present study, four Carrara marble samples showing similar rock fabrics, but with respect to weathering exhibit considerable differences are investigated. Porosity varies between 0.2 vol. % and ca. 2.4 vol. %, whereby with increasing porosity the pore radii changes as well. Parallel to this the ultrasonic velocities change in dry samples from about 5.5 to 1.6 km/s, respectively. Model calculations reveal that the velocity reduction is caused by cracks with an extremely small aspect ratio of about 0.005 or even less. After a specific loss of strength, however, solution processes can become active, which modify the microcracks and generate an opposite trend. In the process a strong porosity increase correlates to a relatively small velocity reduction. With the presence of water the V p porosity weathering relationship experiences a considerable modification. Parallel to the reduction of the ultrasonic velocities, it was determined that the mechanical strength (compressive strength, flexural strength, etc.) as well as the static Young’s modulus is reduced almost equally by a progressive advancement of the weathering front. In one case study dealing with tensile strengths, it was clearly documented how tensile cracks develop and propagate in dependence of the rock fabric. The rock mechanical and ultrasonic velocity data were used for stability assessments applied to the marble statuaries from the Schlossbrücke in Berlin. Stability assessments of the sculpture group 4 reveal that some critical parts must be replaced due to safety reasons.
+KW  - E8
+KW  - E11
 ER  - 
 
 TY  - JOUR
@@ -83292,6 +84046,22 @@ DO  - 10.15396/eres2013_67
 UR  - https://doi.org/10.15396/eres2013_67
 AB  - In a highly competitive industry as is the current context, accentuated also by growing globalization, the perception of the quality of the building materials in residential use represents an impact on the estimation of the market value and consequently in the behavior of the user. Therefore the satisfaction of the needs and preferences of users should be clear, allowing evaluators to maximize the market value estimate and possibly increase profits in companies aimed at the construction industry.Starting from a critical analysis and reflecting on a previous research study that was designed an indicator of the perceived quality of the building materials used in houses (Alicante, 2009). In this article, we propose the study of the subjective perception by house users and professionals on the suitability of particular building materials in a specific location using the technique of Conjoint Analysis. To achieve this objective, a preliminary survey was designed and carried out in various public places throughout the province of Alicante (Spain) during the months of September and October (2011), and was completed by 36 users and 31 professionals. The obtained information was crucial to acquire scientific data that measures the implicit weight of variable quality for its subsequent application in the calculation of the market value estimate.In the case of paving, the best perceived materials according to users and professionals are parquet and wooden flooring when asked about bedrooms and living rooms and then ceramic or natural stone, for “humid areas” like bathrooms and kitchens. On the other hand, in the case of interior linings users and professionals prefer the marble and ceramics for “humid areas” and the paintings and the papers in “other rooms”.
 KW  - E7
+ER  - 
+
+TY  - JOUR
+TI  - Uso de ardósia na construção de celas de maternidade para suínos: II - ambiente térmico e avaliação dos ruídos
+AU  - Jaqueline de Oliveira Castro
+AU  - Rony Antônio Ferreira
+AU  - Alessandro Torres Campos
+AU  - Tadayuki Yanagi
+AU  - Hugo César Tadeu
+PY  - 2013
+JO  - Engenharia Agrícola
+DO  - 10.1590/s0100-69162013000100005
+UR  - https://doi.org/10.1590/s0100-69162013000100005
+AB  - Este trabalho teve o objetivo de avaliar o ambiente térmico e o ruído em celas de maternidade para suínos com divisórias de alvenaria ou com rochas de ardósia. Para as medidas das variáveis de conforto térmico e de ruídos, utilizaram-se de termômetros e decibelímetro. No interior das celas e para a análise estatística, foram usados doze matrizes e cento e trinta e nove leitões, distribuídos em delineamento em blocos casualizados, em esquema de parcelas subdivididas. Os resultados mostraram que, no período da manhã, em ambos os tratamentos, as condições de conforto térmico foram mais adequadas para as matrizes, enquanto no período da tarde, mais adequadas para os leitões; com relação ao ruído, este foi menor nas celas de alvenaria. De forma geral, o ambiente no interior das celas construídas em ardósia apresentou umidade relativa mais baixa, e ITGU e temperatura mais elevada que as celas construídas em alvenaria. O nível de ruídos permaneceu dentro dos limites considerados ideais para suínos em ambos os tratamentos.
+KW  - E7
+KW  - E8
 ER  - 
 
 TY  - JOUR
@@ -84183,6 +84953,25 @@ KW  - E1
 KW  - E3
 KW  - E4
 KW  - E7
+ER  - 
+
+TY  - JOUR
+TI  - Dolomitic slates from Uruguay: petrophysical and petromechanical characterization and deposit evaluation
+AU  - Manuela Morales Demarco
+AU  - Pedro Oyhantçabal
+AU  - Karl-Jochen Stein
+AU  - Siegfried Siegesmund
+PY  - 2012
+JO  - Environmental Earth Sciences
+DO  - 10.1007/s12665-012-1921-7
+UR  - https://doi.org/10.1007/s12665-012-1921-7
+AB  - Slates are internationally known as roof and façade-cladding material since prehistoric times. The methods required to mine and manufacture these dimensional stones are relatively simple in comparison to those utilized in granitic dimensional stones. This has led to a worldwide rentable commercialization of slate in the last centuries and also to the development of characteristic cultural landscapes. In Uruguay several slates are mined and used in architecture, especially as façade cladding and floor slabs. The most important slates regarding their production and utilization are the dolomitic slates. These dolomitic slates are associated with the Neoproterozoic thrust and fold belt of the Dom Feliciano belt. Representative samples have been geochemically and petrographically characterized, as well as petrophysically and petromechanically analyzed. The petrophysical and petromechanical properties were investigated in a very systematic way with respect to the new European standards, showing values comparable to those registered for internationally known slates. Detailed structural and deposit analysis were carried out in Uruguay in order to evaluate the dolomitic slate deposits. The slates are linked to calc-silicate strata in a greenschist facies volcano-sedimentary sequence and the deposits are located in the limb of a regional fold, where bedding and cleavage are parallel. The main lithotype is a layered and fine-grained dolomitic slate with a quite diverse palette of colors: light and dark green, gray, dark gray, reddish and black. The mined slate is split into slabs 0.5–2 cm thick. In the past, the average production in Uruguay was around 4,000 tons/year and a historical maximum of 13,000 tons was reached in 1993 (Oyhantçabal et al. in Z dt Ges Geowiss 158(3):417–428, 2007 ). The oscillations in the regional demand were the cause of several flourishing and decay cycles in the activity, but our investigation shows a considerable volume of indicated resources and therefore a very good potential.
+KW  - E1
+KW  - E2
+KW  - E6
+KW  - E7
+KW  - E8
+KW  - E9
 ER  - 
 
 TY  - JOUR
@@ -85319,6 +86108,18 @@ DO  - 10.15628/holos.2012.1057
 UR  - https://doi.org/10.15628/holos.2012.1057
 AB  - A natureza dos métodos de lavra de rochas ornamentais varia em função das características do maciço rochoso, condições topográficas, afloramento, fraturas, tipo e espessura da cobertura etc. O material de interesse na frente de lavra pode apresentar-se com foliação desenvolvida, viabilizando a extração em placas, ou em forma compacta, de onde são extraídos blocos. Quando a extração se dá por blocos, a mesma pode ser feita de maneira mais simples, a partir de matacões isolados ou por desabamento provocado por detonações, porém o tipo de extração em blocos mais usado é a explotação via “maciços rochosos”, quando se extraem blocos diretamente de um maciço rochoso compacto. Neste trabalho é apresentada uma revisão dos métodos de lavra, correlacionando os mesmos com a rocha de interesse e com as condições gerais de explotação.
 KW  - E1
+ER  - 
+
+TY  - JOUR
+TI  - Norite and charnockites from the Venda Nova Pluton, SE Brazil: Intensive parameters and some petrogenetic constraints
+AU  - Júlio Cézar Mendes
+AU  - Cristina Maria Pinheiro de Campos
+PY  - 2012
+JO  - Geoscience Frontiers
+DO  - 10.1016/j.gsf.2012.05.009
+UR  - https://doi.org/10.1016/j.gsf.2012.05.009
+AB  - The Venda Nova Pluton (VNP) is a zoned ring structure emplaced in the southern portion of the Neoproterozoic Araçuai Belt, in Espírito Santo, Brazil. It is a slightly westward tilted cylinder-like intrusion, with an almost circular horizontal section. In the center of this structure, an off-centered gabbro-noritic core, surrounded by syeno-monzonitic rocks, intrudes an outer ring of charnockites and norite. These envelop the syeno-monzonitic and gabbro-noritic center, as a narrow discontinuous belt. While, in the core intrusion, mingling and mixing processes are widespread and well documented in the literature, in the outer ring, the norite and charnockite layers show predominantly homogeneous and isotropic internal structures. Nevertheless, smaller interaction zones between charnockites and norite denote a comparatively more restricted mingling process. The norite is a fine-grained rock with hypidiomorphic granular to intergranular texture. The charnockites are medium-grained and made up of: (a) orthopyroxene-tonalite, (b) orthopyroxene-quartz-diorite, and (c) orthopyroxene-granodiorite with hypidiomorphic granular to porphyritic textures. In all lithotypes both ortho- and clinopyroxene are replaced by hornblende and biotite. Two contrasting compositional sequences have been recognized, based on whole rock geochemistry: (1) a basic, with tholeiitic affinities (norite) and, (2) an intermediate, medium-K calc-alkaline, comprising the charnockites. Estimated crystallization temperatures, which have been calculated from micro-probe analysis of pyroxenes, range from 915 ± 25 °C to 960 ± 50 °C. Re-equilibration temperature (ilmenite-magnetite calibration) is around 600 ± 50 °C. This indicates oxygen fugacities four order of magnitude below the FMQ-buffer and a reduced environment. Coeval pressure conditions estimated from the Al-content in hornblende range from 5.5 ± 0.6 kbar. Data obtained for the norite point toward an evolution from the partial melting of an anhydrous tholeiitic mantle magma. The charnockites may correspond to the differentiation of a calc-alkaline parental magma. The later could be the hybrid product from the contamination and mixing between the anhydrous tholeiitic magma with other deeper crustal sources. Further the magmatic system evolved through fractionation of orthopyroxene, clinopyroxene, plagioclase and ilmenite. Our results support the hypothesis for the evolution of the Venda Nova Pluton through a mantle-crust delamination process probably related to the collapse of the Araçuai orogeny.
+KW  - E8
 ER  - 
 
 TY  - JOUR
@@ -87949,6 +88750,19 @@ KW  - E11
 ER  - 
 
 TY  - JOUR
+TI  - Promoting ecological sustainable planning for natural stone quarrying. The case of the Orosei Marble Producing Area in Eastern Sardinia
+AU  - Nicola Careddu
+AU  - Giampaolo Siotto
+PY  - 2011
+JO  - Resources Policy
+DO  - 10.1016/j.resourpol.2011.07.002
+UR  - https://doi.org/10.1016/j.resourpol.2011.07.002
+KW  - E1
+KW  - E8
+KW  - E10
+ER  - 
+
+TY  - JOUR
 TI  - Properties and microstructures of Ceará granites and limestones used as coatings in civil construction.
 AU  - Luiz Henrique Carvalho Simões de MELO
 PY  - 2011
@@ -88852,6 +89666,18 @@ AB  - No presente trabalho salienta-se a importância dos estudos geológicos na
 KW  - E1
 KW  - E6
 KW  - E11
+ER  - 
+
+TY  - JOUR
+TI  - Alteration and alterability of the anorthosite from Angola
+AU  - Joaquim Simão
+AU  - Zenaide Carvalho Gonçalves da Silva
+PY  - 2010
+JO  - New University of Lisbon's Repository (New University of Lisbon)
+UR  - http://hdl.handle.net/10362/4671
+AB  - Siliceous rocks are widely used as dimension stone but the last decades have registered an increase rate of their alteration when exposed to polluted environments. Anorthosites were treated by acidified solutions of HCl, HN03 and H2S04 simulating acid rain and the response was recorded through different experiments such as on the surface of the polished rock and on the surface of uncovered thin sections. The main components, plagioclase and olivine, both responded in similar ways to each acid solution, although following different trends; while plagioclase develops a thin layer which acts as protection to the mineral, olivine at first undergoes alteration due to leaching of magnesium and iron and in a following stage, is mechanically removed from the rock. The action of warm water on the rock was tested through the use of the Soxhlet extractor which caused changes on the rock colour and leaching of several cations from its components.
+KW  - E3
+KW  - E8
 ER  - 
 
 TY  - THES
@@ -90949,6 +91775,22 @@ KW  - E8
 ER  - 
 
 TY  - JOUR
+TI  - Assessing exposure to granite countertops—part 2: Radon
+AU  - Joseph G. Allen
+AU  - Taeko Minegishi
+AU  - Theodore A. Myatt
+AU  - James H. Stewart
+AU  - John F. McCarthy
+AU  - David L. MacIntosh
+PY  - 2009
+JO  - Journal of Exposure Science & Environmental Epidemiology
+DO  - 10.1038/jes.2009.43
+UR  - https://doi.org/10.1038/jes.2009.43
+KW  - E3
+KW  - E8
+ER  - 
+
+TY  - JOUR
 TI  - B Complete Buildings/Structures/Units
 PY  - 2009
 JO  - Spon Press eBooks
@@ -91465,6 +92307,20 @@ UR  - https://doi.org/10.11606/d.3.2009.tde-19112010-093318
 AB  - Aos amigos de Marilândia, pelos momentos de alegria e diversão e que mesmo de longe me incentivaram nesta caminhada.A Camila Massola responsável pelo Laboratório de Resíduos e Áreas Contaminadas do IPT e a todos os técnicos que me ajudaram no desenvolvimento deste trabalho.
 KW  - E8
 KW  - E10
+ER  - 
+
+TY  - JOUR
+TI  - Estudo do resíduo de quartzito foliado para emprego em estruturas de pavimentos.
+AU  - Adson Viana Alecrim
+PY  - 2009
+DO  - 10.11606/d.3.2009.tde-08092010-124250
+UR  - https://doi.org/10.11606/d.3.2009.tde-08092010-124250
+AB  - RESUMOO presente trabalho tem o objetivo apresentar uma alternativa para a utilização dos resíduos das minerações de quartzito em sub-bases ou bases de pavimentos flexíveis.A adoção destes resíduos deverá não só diminuir o impacto ambiental das minerações, mas também possibilitar a valorização desses materiais, principalmente, para uso na pavimentação urbana ou rodoviária.A mineração dos quartzitos para uso ornamental mostra um aproveitamento de apenas 8 a 10% do total dos desmontes, gerando volumes de resíduos de enormes proporções.A falta de disposição regular de resíduos pode causar vários problemas ambientais, destacando-se o assoreamento de mananciais.Os quartzitos estudados estão localizados na região do Sudoeste Mineiro que compreende os municípios de Alpinópolis, São José da Barra, São João Batista do Glória e Guapé.Foram estudadas misturas desses resíduos com solos de maior ocorrência da região (Latossolo Vermelho-Escuro e Latossolo Vermelho-Amarelo).Após a classificação e caracterização dos materiais, foram preparadas misturas agregado-solo, com granulometria descontínua, segundo proposta de Nogami e Villibor (1984 e 1995).Com essas misturas foram realizados ensaios de compactação, índice de suporte Califórnia e módulo de resiliência.As misturas estudadas foram compostas com 70%, 60 e 50% de quartzito e 30, 40 e 50% de solo, respectivamente.
+KW  - E5
+KW  - E8
+KW  - E9
+KW  - E10
+KW  - E11
 ER  - 
 
 TY  - JOUR
@@ -92429,6 +93285,19 @@ DO  - 10.1016/j.clay.2009.10.013
 UR  - https://doi.org/10.1016/j.clay.2009.10.013
 KW  - E3
 KW  - E8
+ER  - 
+
+TY  - JOUR
+TI  - Theoretical modelling of bowing in cracked marble slabs under cyclic thermal loading
+AU  - Anna María Ferrero
+AU  - M. Migliazza
+AU  - Andrea Spagnoli
+PY  - 2009
+JO  - Construction and Building Materials
+DO  - 10.1016/j.conbuildmat.2008.12.015
+UR  - https://doi.org/10.1016/j.conbuildmat.2008.12.015
+KW  - E2
+KW  - E7
 ER  - 
 
 TY  - JOUR
@@ -93497,6 +94366,21 @@ KW  - E10
 ER  - 
 
 TY  - JOUR
+TI  - Marble bowing: comparative studies of three different public building facades
+AU  - Siegfried Siegesmund
+AU  - Joerg Ruedrich
+AU  - Andreas Koch
+PY  - 2008
+JO  - Environmental Geology
+DO  - 10.1007/s00254-008-1307-z
+UR  - https://doi.org/10.1007/s00254-008-1307-z
+AB  - The veneer cladding of the Oeconomicum (OEC, Göttingen), the State Theatre of Darmstadt (STD, Darmstadt) and of the State and University Library (SUB, Göttingen) is characterised by pronounced bowing after a short time of exposure. Direct comparison of bowing data related to measurements from 2000 to 2003 at the SUB clearly show that the amplitude in bowing had significantly increased. The bowing is different in intensity and orientation (concave, convex). The cladding material (Peccia marble, Rosa Estremoz marble and Carrara marble) are different in lattice preferred orientation, grain size distribution and grain interlocking. Depending on the bowing, panels may show cracks mostly initiated at the dowels. The percentage of visible cracks and breakouts increases with the amplitude of bowing except for the STD. Repetitive heating–cooling under dry conditions leads to considerable inelastic residual strain only after the first or second thermal cycle. The residual strain continuously increases again if water is present, whereby the moisture content after a thermal cycle has a certain impact on the decay rate. The water-enhanced thermal dilatation strongly correlates with the deterioration rate obtained from the laboratory bow test. Detailed petrophysical investigations provide evidence that with increasing bowing a decrease of mechanical properties (flexural strength or breaking load at dowel hole) occur. Marble degradation is also connected with the increase in porosity and a general shift of the maximum pore radii to larger pore sizes. On-site damage analyses were combined with laboratory tests of the bowing potential to constrain factors that may influence the risk failure. The experimental bowing data clearly demonstrate that after 40 heating cycles combined with the effect of moisture a certain impact on the decay rate is observed. In the case of demounted panels the bowing tests show that already strongly deformed panels from the building exhibit a lower bowing potential than those with lower amplitudes of bowing. This is not the general case for all marble types. Finally, the artificial bowing causes a significant reduction of the flexural strength and the breaking load at the dowel hole. The strength loss of the experimentally aged claddings combined with on-site damage analyses led to conclusions concerning risk assessment and the predicted lifetime of the investigated marble claddings.
+KW  - E1
+KW  - E7
+KW  - E8
+ER  - 
+
+TY  - JOUR
 TI  - Marble quarrying: an energy and waste intensive activity in the production of building materials
 AU  - Vincenzo Liguori
 AU  - Gianfranco Rizzo
@@ -94284,6 +95168,21 @@ KW  - E8
 ER  - 
 
 TY  - JOUR
+TI  - Análise e avaliação da deterioração do revestimento de mármore da cúpula da Catedral Metropolitana de Porto Alegre, RS
+AU  - Ruy Paulo Philipp
+AU  - Verônica Di Benedetti
+PY  - 2007
+JO  - Brazilian Journal of Geology
+DO  - 10.5327/rbg.v37i4.1302
+UR  - https://doi.org/10.5327/rbg.v37i4.1302
+AB  - The Metropolitan Cathedral of Porto Alegre, in Rio Grande do Sul state, was designed by roman architect Joao Batista Giovenalle. This construction was developed in a long time between 1921 and 1986. The external building design has a match of granite and marble. In the body of the church was used rose equigranular granite extracted from a quarry located in Porto Alegre. Its imposing dome has covering of siliceous dolomitic marble drew out from quarry of Espirito Santo state. Originally the author of the project planned to recover this architectural element with copper, but this material was replaced by marble due to financial difficulties. However it wasn’t planned the necessary suitableness structures to perfect operation of this new material and resulted in a series of pathologies that damaged its aesthetic satisfactory design and the own building. The structural and materials problems identified in external dome resulted of degradations mechanisms related to physical, chemical and biologic weathering.
+KW  - E1
+KW  - E5
+KW  - E7
+KW  - E11
+ER  - 
+
+TY  - JOUR
 TI  - Aproveitamento de resíduos gerados no corte de rochas ornamentais em pavimentação asfáltica
 AU  - Roberto Carlos da Conceição Ribeiro
 AU  - Julio Cesar Guedes Correia
@@ -94780,6 +95679,22 @@ KW  - E7
 ER  - 
 
 TY  - JOUR
+TI  - Durability of Marble Cladding—A Comprehensive Literature Review
+AU  - Bent Grelk
+AU  - Carla E. Christiansen
+AU  - Björn E. Schouenborg
+AU  - Katarina Malaga
+PY  - 2007
+JO  - Journal of ASTM International
+DO  - 10.1520/jai100857
+UR  - https://doi.org/10.1520/jai100857
+AB  - Abstract Natural stone has been used for centuries as building material. In historical time it was mainly used as load bearing elements, but within the past 50 years a new processing technique has made it commercially feasible to produce and use thin façade cladding. Unfortunately, a number of marble facades on buildings in both Europe and elsewhere have had serious problems with deterioration of the stone material. The TEAM (TEAM = TEsting and Assessment of Marble and limestone) project consortium represents nine European countries and comprises 16 partners, representing stone producers and trade associations, testing laboratories, standardization and certificate bodies, consultants, building owners and caretakers and producers of fixing and repair systems. The project had a budget of approximately 5 million dollars and was partly funded by the European Commission under the contract no. G5RD-CT-2000-00233. Two of the main objectives in the TEAM project were: — To understand and explain the mechanisms of the expansion, bowing, and loss of strength leading to degradation of marble and limestone clad facades. — To prevent the use of deleterious marble and limestone by introducing a draft for new European standards. This paper presents some of the important conclusions drawn from a literature review carried out within the TEAM project—and was based on an extensive review of literature on marble and limestone deterioration dating from the late 1800s to 2006 and the results of the TEAM project. The comprehensive information from more than 70 selected literature references is reviewed and discussed in order to describe the present knowledge on the causes and mechanisms responsible for the bowing and strength loss of thin marble cladding. In the following, the literature and TEAM findings are grouped under a number of headings proposed to explain observations. Thus, the information from the literature is compared and supplemented with the results from the TEAM project in order to present a good overview of the existing, most relevant, knowledge in the field. The literature review reveals that only few researchers have examined the durability problem from a broad perspective. In addition, no conclusive answer about the mechanisms and influencing factors can be given. The TEAM project has made it possible to identify several of the key influencing factors in marble degradation, the relative importance of various factors, and to gain a deeper understanding of the mechanisms involved.
+KW  - E6
+KW  - E7
+KW  - E11
+ER  - 
+
+TY  - JOUR
 TI  - ENGENHARIA DE MINAS E SEU PAPEL SOCIAL
 AU  - Carlos Alberto Pereira
 AU  - Luciana Maria Góis
@@ -94970,6 +95885,22 @@ AU  - F.J.M. Sossai
 PY  - 2007
 JO  - 11th ISRM Congress
 UR  - https://onepetro.org/conference-paper/ISRM-11CONGRESS-2007-069
+ER  - 
+
+TY  - JOUR
+TI  - Influence of marble and limestone dusts as additives on some mechanical properties of concrete
+AU  - Hanifi Binici
+AU  - Hasan Kaplan
+AU  - Salih Yılmaz
+PY  - 2007
+JO  - Scientific Research and Essays
+DO  - 10.5897/sre.9000594
+UR  - https://doi.org/10.5897/sre.9000594
+AB  - In this study, some mechanical properties of concrete containing marble dusts (MD) and limestone dusts (LD) were investigated. Seven concrete mixtures were produced in three series with control mixes having 400 kg cement content. These control mixes were modified to 5, 10 and 15 % MD and LD in place of fine sand aggregate. The compressive strengths of concrete were measured for 7, 28, 90 and 360 days and sodium sulphate resistance were for 12 months. Also, abrasion resistance and water penetration of concretes were investigated. Results indicate that MD and LD fine aggregate concrete has good workability and abrasion resistance is comparable to that of conventional concrete. They also showed that maximum abrasion rate is obtained from control specimen, while minimum abrasion rate is obtained from MD3 specimens. Abrasion resistance is increased as the rate of fine MD and LD is increased. Furthermore, the results indicated that the increase in the dust content caused a significant increase in the sodium sulphate resistance of the concretes. Therefore, the studied MD and LDcan be used for more durable concrete production.
+
+	 
+
+	Key words: Concrete, mechanical properties, marble, limestone, dust.
 ER  - 
 
 TY  - JOUR
@@ -95371,6 +96302,22 @@ KW  - E11
 ER  - 
 
 TY  - JOUR
+TI  - Reavaliação genética do modelo do Vulcão de Nova Iguaçu, RJ: origem eruptiva ou intrusão subvulcânica?
+AU  - Akihisa Motoki
+AU  - Rodrigo Soares
+AU  - Ana Maria Netto
+AU  - Susanna Eleonora Sichel
+AU  - José Ribeiro Aires
+AU  - Marcela Lobato
+PY  - 2007
+JO  - REM - International Engineering Journal
+DO  - 10.1590/s0370-44672007000400003
+UR  - https://doi.org/10.1590/s0370-44672007000400003
+AB  - O presente trabalho reexamina as estruturas geológicas que foram consideradas como de origem eruptiva do Complexo Alcalino de Mendanha, no Estado do Rio de Janeiro. O vale interpretado como cratera não é constituído por aglomerado piroclástico, mas por traquito maciço. O depósito aluvionar presente no referido vale é composto de materiais regolíticos de espessura de poucos metros. Não foi encontrado o tálus composto de grandes blocos sugestivo de colapso da cratera. Não ocorre a saliência morfológica correspondente ao cone vulcânico. Os afloramentos em torno da suposta cratera não apresentam a estratificação vulcânica. Desta forma, considera-se que esse vale não corresponde à cratera vulcânica, mas a uma morfologia originada de erosão. O traquito mais abundante é intrudido pelo álcali sienito e, portanto, não pode ser derrame de lava que cobre o sienito. O traquito ocorre até o topo do maciço, 600 m acima da suposta cratera. A disjunção colunar é originada de diques e a estrutura parecida à crosta-de-pão é atribuída a intemperismo. As observações anteriores indicam que esse traquito não é constituinte de derrames de lava, mas de corpos subvulcânicos. Os autores concluem que as rochas vulcânicas em questão não são constituintes de edifício vulcânico, mas de preenchimento de condutos e fissuras subvulcânicos, e a hipótese do Vulcão de Nova Iguaçu é inviável.
+KW  - E1
+ER  - 
+
+TY  - JOUR
 TI  - Reciclagem de escória cristalizada para a produção de argamassa
 AU  - V. A. S. Ribeiro
 AU  - Antonia Liandra Da Silva
@@ -95599,6 +96546,23 @@ DO  - 10.1520/c1353-07
 UR  - https://doi.org/10.1520/c1353-07
 AB  - Scope1.1 This test method covers the establishment of an index of abrasion resistance by determination of loss of weight resulting from abrasion of dimension stone as described in Terminology C 119 and is modeled after Test Method C 501. 1.2 The values st
 KW  - E11
+ER  - 
+
+TY  - JOUR
+TI  - The bowing potential of granitic rocks: rock fabrics, thermal properties and residual strain
+AU  - Siegfried Siegesmund
+AU  - S. Mosch
+AU  - Ch. Scheffzük
+AU  - Dmitry I. Nikolayev
+PY  - 2007
+JO  - Environmental Geology
+DO  - 10.1007/s00254-007-1094-y
+UR  - https://doi.org/10.1007/s00254-007-1094-y
+AB  - The bowing of natural stone panels is especially known for marble slabs. The bowing of granite is mainly known from tombstones in subtropical humid climate. Field inspections in combination with laboratory investigations with respect to the thermal expansion and the bowing potential was performed on two different granitoids (Cezlak granodiorite and Flossenbürg granite) which differ in the composition and rock fabrics. In addition, to describe and explain the effect of bowing of granitoid facade panels, neutron time-of-flight diffraction was applied to determine residual macro- and microstrain. The measurements were combined with investigations of the crystallographic preferred orientation of quartz and biotite. Both samples show a significant bowing as a function of panel thickness and destination temperature. In comparison to marbles the effect of bowing is more pronounced in granitoids at temperatures of 120°C. The bowing as well as the thermal expansion of the Cezlak sample is also anisotropic with respect to the rock fabrics. A quantitative estimate was performed based on the observed textures. The effect of the locked-in stresses may also have a control on the bowing together with the thermal stresses related to the different volume expansion of the rock-forming minerals.
+KW  - E1
+KW  - E2
+KW  - E7
+KW  - E8
 ER  - 
 
 TY  - JOUR
@@ -96745,6 +97709,23 @@ KW  - E8
 KW  - E11
 ER  - 
 
+TY  - JOUR
+TI  - ROTEIRO GEOLÓGICO PELOS EDIFÍCIOS E MONUMENTOS HISTÓRICOS DO CENTRO DA CIDADE DE SÃO PAULO
+AU  - André Giannotti Stern
+AU  - Cláudio Riccomini
+AU  - Gélson Luís Fambrini
+AU  - Marlei Antônio Carrari Chamani
+PY  - 2006
+JO  - Brazilian Journal of Geology
+DO  - 10.5327/rbg.v36i4.1253
+UR  - https://doi.org/10.5327/rbg.v36i4.1253
+AB  - Dimension stone was the main building material since the remote past until recent times. Ancient civilizations used stones in the construction of fortresses, bridges, temples, castles, palaces, houses and walls. Such monuments, many of them in ruins, are not only important record of previous cultures, but also source of information concerning past technology and social and economical conditions. The use of stone in construction has a practical aspect because it is a durable, easy to obtain natural material that can be cut or shaped to a specific size. The choice is basically due to its esthetical (artistic) aspects, overlooking its geological characteristics, such as mineral and chemical composition, texture and primary and secondary structure. All these factors are related to the physical nature of the materials and of great importance to their technological performance. The proposed geological walk, with the observation of dimension stones used in historical monuments and building facades in downtown Sao Paulo, back us to the past and allows to correlate the main types of rocks with different historical, economical and social periods of the city.
+KW  - E1
+KW  - E6
+KW  - E7
+KW  - E11
+ER  - 
+
 TY  - THES
 TI  - Reciclagem de escória cristalizada para a produção de argamassas
 AU  - SILVA, Alessandro Leonardo da
@@ -97824,6 +98805,18 @@ PY  - 2005
 JO  - Nova Science Publishers (Nova Science Publishers, Inc.)
 UR  - http://hdl.handle.net/10447/12818
 KW  - E1
+ER  - 
+
+TY  - JOUR
+TI  - PETROLOGIA E TERMOCRONOLOGIA DE GNAISSES MIGMATÍTICOS DA FAIXA DE DOBRAMENTOS ARAÇUAÍ (ESPÍRITO SANTO, BRASIL)
+AU  - J. Munhá
+AU  - Umberto G. Cordani
+AU  - Colombo Celso Gaeta Tassinari
+AU  - T. Palácios
+PY  - 2005
+JO  - Revista Brasileira de Geociências
+DO  - 10.25249/0375-7536.2005351123134
+UR  - https://doi.org/10.25249/0375-7536.2005351123134
 ER  - 
 
 TY  - JOUR
@@ -99142,6 +100135,20 @@ KW  - E10
 ER  - 
 
 TY  - JOUR
+TI  - Revestimento cerâmico com granito e argila caulinítica
+AU  - E. T. A. de Souza
+AU  - Sérgio Neves Monteiro
+AU  - Carlos Maurício Fontes Vieira
+PY  - 2004
+JO  - Cerâmica
+DO  - 10.1590/s0366-69132004000200008
+UR  - https://doi.org/10.1590/s0366-69132004000200008
+AB  - Este trabalho teve por objetivo a obtenção de revestimento cerâmico prensado do tipo semiporoso por meio da mistura de argila plástica caulinítica e granito. Foram preparadas misturas com 0%, 20%, 30% e 40% em peso de granito. Para um estudo comparativo, avaliou-se também uma massa cerâmica industrial proveniente da região de Santa Gertrudes. Foram preparados corpos-de-prova por prensagem uniaxial para queima em temperaturas variando de 1000 a 1200 ºC. Nas amostras queimadas foram realizados ensaios tecnológicos para determinação da retração linear, resistência mecânica (flexão em 3 pontos) e absorção de água. Análise microestrutural foi realizada por microscopia eletrônica de varredura. Os resultados mostraram que a incorporação de granito à argila caulinítica não possibilitou uma redução da temperatura de queima necessária para se alcançar o patamar de 10% de absorção de água requerido por norma. Também foi observado um decréscimo da resistência mecânica com o aumento de granito incorporado. Em comparação com a massa industrial, tanto a argila caulinítica quanto às misturas elaboradas apresentaram uma composição química com menor teor de fundentes e maior perda ao fogo e comportamento refratário durante a queima.
+KW  - E7
+KW  - E11
+ER  - 
+
+TY  - JOUR
 TI  - Rocas ornamentales en la provincia de Alicante en el primer tercio del siglo XX según observaciones realizadas por Daniel Jiménez de Cisneros
 AU  - María Ángeles García del Cura
 AU  - M. Rodríguez
@@ -99305,6 +100312,17 @@ AB  - The Verbano Cusio Ossola province (Piedmont, north-western Italy) is one o
 KW  - E1
 KW  - E6
 KW  - E8
+KW  - E11
+ER  - 
+
+TY  - JOUR
+TI  - The laboratory testing of potential bowing and expansion of marble
+AU  - Björn E. Schouenborg
+PY  - 2004
+UR  - http://www.diva-portal.org/smash/record.jsf?pid=diva2:969313
+AB  - The use of thin marble and limestone panels for facade cladding has increased substantially during the last five decades. The durability of such thin slabs (often only 30 mm thick) has been assumed ...
+KW  - E2
+KW  - E7
 KW  - E11
 ER  - 
 
@@ -100130,6 +101148,18 @@ PY  - 2003
 JO  - CETEM/SBG eBooks
 UR  - http://mineralis.cetem.gov.br/bitstream/cetem/1473/1/20-IV_simposio_de_rochas_ornamentais_do_nordeste.pdf
 KW  - E7
+ER  - 
+
+TY  - JOUR
+TI  - Processing of Diamond Composites for Cutting Tools by Powder Metallurgy and Rotary Forging
+AU  - Marcello Filgueira
+AU  - Daltro Garcia Pinatti
+PY  - 2003
+JO  - Materials science forum
+DO  - 10.4028/www.scientific.net/msf.416-418.228
+UR  - https://doi.org/10.4028/www.scientific.net/msf.416-418.228
+AB  - This paper shows the manufacture route of the bronze 4% weight diamond composite rope for direct application as diamond wires, and linear saws in the slabbing and cutting of dimension stones. This route consists of powder mix compaction, sintering and rotary forging techniques. Tensile tests were performed, reaching an ultimate tensile strength of 230MPa for the diameter of O=1.84mm. Scanning electron microscopy showed the diamond crystals distribution along the composite rope during its manufacture, as well as the diamond adhesion to the bronze matrix. Cutting tests were carried out with the external cutting rope, showing a probable performance 4 times higher than the diamond sawing discs, however its probable performance was about 5 to 8 times less than the conventional diamond wires (pearl system) due to the low abrasion resistance of the bronze matrix, low adhesion between the pair bronze-diamond due to the use of not metallized diamond single crystals.
+KW  - E2
 ER  - 
 
 TY  - JOUR
@@ -102276,6 +103306,19 @@ KW  - E1
 ER  - 
 
 TY  - JOUR
+TI  - POST-COLLISIONAL MULTISTAGE MAGMATISM IN THE RIBEIRA MOBILE BELT: GEOCHEMICAL AND ISOTOPIC STUDY OF THE VÁRZEA ALEGRE INTRUSIVE COMPLEX, ESPÍRITO SANTO, BRAZIL
+AU  - Sílvia Regina de Medeiros
+AU  - Cristina Maria Wiedemann-Leonardos
+AU  - Júlio Cézar Mendes
+PY  - 2000
+JO  - Revista Brasileira de Geociências
+DO  - 10.25249/0375-7536.2000301030034
+UR  - https://doi.org/10.25249/0375-7536.2000301030034
+AB  - The Várzea Alegre Intrusive Complex (VAIC) corresponds to a post-collisional (late orogenic) pluton, related to the Brasiliano cycle, situated in the central part of the Espírito Santo State. It intrudes amphibolite to granulite facies metamorphic rocks of the Ribeira Belt. Two distinct domains were recognised in this zoned pluton: an inner domain with opx-gabbro, monzogabbro, diorite, quartz-diorite and megaporphyritic granite, and an outer one comprising an irregular and large ring of charnockitic rocks. Geochemical data from the former reveal medium to high-K calc-alkalic rocks, enriched in incompatible elements, mainly Ba, Sr, La, Ce and Pb and partially depleted in HFS elements. The charnockitic rocks show a high-K alkali-calcic signature; they are rich in Ba, K and some HFS elements, such as Zr, P and Nb. The incompatible element enrichment detected in the rocks of the VAIC has been reported for several intrusions from this part of the Ribeira Belt. A Rb-Sr isochronic age of 508±12 Ma was determined for the megaporphyritic granite. The T DM model age varies from 1.3 Ga (opx-gabbro) to ca. 1.67 Ga (charnockitic rocks), which can be related to an important Mesoproterozoic crustal event. The calculated T CHUR model ages of the cogenetic opx-gabbros and intermediary rocks is ca. 1.0 Ga, interpreted as the time when the basic magma was extracted from the source.
+KW  - E6
+ER  - 
+
+TY  - JOUR
 TI  - Predicting the Durability of Building Stone Using Accelerated Weathering
 AU  - SA Bortz
 AU  - Bernhard Wonneberger
@@ -102555,6 +103598,18 @@ KW  - E11
 ER  - 
 
 TY  - JOUR
+TI  - CONDITIONS OF FORMATION OF CHARNOCKITIC MAGMATIC ROCKS FROM THE VÁRZEA ALEGRE MASSIF, ESPÍRITO SANTO, SOUTHEASTERN BRAZIL
+AU  - J.C. MENDES
+AU  - Cristina Maria Wiedemann
+AU  - Ian McReath
+PY  - 1999
+JO  - Revista Brasileira de Geociências
+DO  - 10.25249/0375-7536.1999294754
+UR  - https://doi.org/10.25249/0375-7536.1999294754
+AB  - The Várzea Alegre intrusive massif, in the central portion of the Espírito Santo State, is related to the late to post-tectonic Brasíliano magmatic arc in this region. It is an inversely zoned pluton with an almost circular shape, enclosed by ortho and paragneisses metamorphosed to the amphibolite and granulite facies. The pluton has a gabbroic center surrounded by diorites/quartz diorites, monzodiorites and megaporphyritic granites. All these magmatites are involved by a large and irregular ring of charnockitic rocks (opdalites, jotunites, opx-quartz diorites and quartz mangerites). The charnockites are composed of plagioclase, perthitic alkali feldspar/mesoperthite, orthopyroxene, biotite, hornblende, ilmenite, magnetite, pyrite, apatite, zircon, rare allanite and hematite. Chemical composition of these rocks points towards a high-K calc-alkalic magmatism enriched in LIL and HFS elements. Orthopyroxene (Wo 1.6-2.5 , En 30,4-41.2 to Fs 57-67.4 ) is partly replaced by biotite, amphibole and opaque minerals. Amphiboles (Mg-hastingsitic hornblende to magnesian hastingsite) show limited variations in the Al-contents. Biotite has compositions close to the annite end member, with high Ti-contents. The X Mg of orthopyroxene, amphibole and biotite are larger than those calculated for host whole rocks. Megacrysts feldspar and from the matrix present similar compositional variation. Plagioclase (Ab 65 An 32 to Ab 57 An 40 ) show small variations in the Or molecule. Compositional variations in the alkali feldspar ((Or 89 Ab 11 to Or 69 Ab 31 ) are associated to an unequal exsolution of the Na component. Zr and P 2 O 5 saturation levels of the Várzea Alegre charnockites indicate magmatic crystallization temperature around 950°C. Subsolidus temperatures, estimated through the ilmenite-magnetite and plagioclase-alkali feldspar pairs, are between 550°C and 630°C. Estimated crystallization pressure ranges from 6.5 to 7 kbar. Calculated fO 2 is consistent with highly reducing conditions, which is confirmed by the low Mg/(Mg+Fe) ratios of the rocks.
+ER  - 
+
+TY  - JOUR
 TI  - Dimension stone quarrying: a long tradition in Finland.
 AU  - R. Matikainen
 AU  - Jouko Pukkila
@@ -102744,6 +103799,22 @@ AU  - Slavko Vujec
 PY  - 1999
 UR  - https://bib.irb.hr/prikazi-rad?&rad=45580
 AB  - Osnovni problemi kod podzemnog otkopavanja arhitektonsko građevnog kamena u Istri su dimenzioniranje stupova i raspona komora. Osiguravanje stabilnosti pri minimalnom podgrađivanju i zadovoljavajucoj sigurnosti u radnim prostorima provodi se in situ mjerenjima te numerickim analizama. U radu su opisana dosada provedena laboratorijska ispitivanja, in situ mjerenja i numericke analize. Prvi rezultati su ohrabrujuci.
+ER  - 
+
+TY  - JOUR
+TI  - Silica Exposure During Granite Countertop Fabrication
+AU  - Nancy J. Simcox
+AU  - Don J. Lofgren
+AU  - Jeff Leons
+AU  - Janice Camp
+PY  - 1999
+JO  - Applied Occupational and Environmental Hygiene
+DO  - 10.1080/104732299302350
+UR  - https://doi.org/10.1080/104732299302350
+AB  - (1999). Silica Exposure During Granite Countertop Fabrication. Applied Occupational and Environmental Hygiene: Vol. 14, No. 9, pp. 577-582.
+KW  - E3
+KW  - E8
+KW  - E9
 ER  - 
 
 TY  - JOUR
@@ -104189,6 +105260,17 @@ UR  - http://hrcak.srce.hr/14553
 AB  - The geology, petrographycal composition and properties of dimension stone deposits in Croatia are described. Dimension stone deposits in the conception of mobilistic view of the genesis and structure of Dinarides, as well as after stratigraphic units, are considered. Valuation of the dimension stones of the active quarries is exposed. The marketable categories of dimension stone in Croatia are different varietes of limestones and calcareous clastites, primarly of Cretaceous age, and to lesser degree of Jurassic and Paleogene. The greatest part of deposits is concentrated in the Adriatic carbonate platform or Adriaticum.
 KW  - E1
 KW  - E8
+ER  - 
+
+TY  - JOUR
+TI  - Diamond wire for quarrying hard rocks
+AU  - G Biasco
+PY  - 1993
+JO  - IDR. Industrial diamond review
+UR  - http://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=3965659
+AB  - A summary of eight years'experience in the extraction of hard dimensional stones in Italy, using diamond wire sawing tolls and techniques developed by the internationaly renowed companies Pellegrini and Diamant Boart.
+KW  - E1
+KW  - E2
 ER  - 
 
 TY  - JOUR
