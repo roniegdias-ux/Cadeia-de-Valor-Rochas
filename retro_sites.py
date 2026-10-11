@@ -151,6 +151,9 @@ def coletar_site(s, max_paginas, log, pdfs):
         n, d, n_urls, erro_sm = coletar_sitemap(s, existentes, pdfs, max_paginas)
         novos, descartados, via = novos + n, descartados + d, f"sitemap ({n_urls} URLs)"
         erro = None if n_urls else f"{erro or 'API sem posts'}; {erro_sm}"
+    for r in existentes.values():
+        r.setdefault("tipo", tipo_de(r["link"]))
+    enriquecer_relatorios(existentes, pdfs)
     gravar_site(s, caminho, existentes, log, novos, vistos, descartados, erro, via)
 
 
@@ -201,7 +204,37 @@ def coletar_api(s, tipo, max_paginas, existentes, pdfs):
     return novos, vistos, descartados, erro
 
 
+MESES_PT = {m: i for i, m in enumerate(["janeiro", "fevereiro", "marco", "abril", "maio", "junho", "julho",
+                                        "agosto", "setembro", "outubro", "novembro", "dezembro"], 1)}
+
+
+def tipo_de(link):
+    """Tipo pela 1ª parte do caminho (noticia, relatorio, associado...), ignorando o prefixo de idioma."""
+    partes = [p for p in link.split("/")[3:] if p and p not in ("en", "es", "it")]
+    return partes[0] if len(partes) > 1 else "pagina"
+
+
+def enriquecer_relatorios(existentes, pdfs):
+    """Relatórios mensais: o conteúdo está num PDF anexo e a data do post é a da migração do site.
+    Abre a página, registra os PDFs e data o relatório pelo período do endereço (ex.: marco-2021)."""
+    for r in existentes.values():
+        if r.get("tipo") != "relatorio":
+            continue
+        m = re.search(r"/(\w+)-(\d{4})/?$", r["link"])
+        if m and rede.sem_acento(m.group(1)).lower() in MESES_PT:
+            r["periodo"] = f"{m.group(2)}-{MESES_PT[rede.sem_acento(m.group(1)).lower()]:02d}"
+        if r.get("pdfs") is not None:
+            continue
+        pg = pagina_html(r["link"])
+        time.sleep(0.8)
+        r["pdfs"] = pg[3] if pg else []
+        for u in r["pdfs"]:
+            pdfs[u] = {"site": r["site"], "post": r["link"], "data": r.get("periodo", r["data"])}
+
+
 def gravar_site(s, caminho, existentes, log, novos, vistos, descartados, erro, via):
+    for r in existentes.values():
+        r.setdefault("tipo", tipo_de(r["link"]))
     os.makedirs(DIR, exist_ok=True)
     with open(caminho + ".tmp", "w", encoding="utf-8") as f:
         for r in sorted(existentes.values(), key=lambda r: r["data"], reverse=True):
@@ -210,6 +243,7 @@ def gravar_site(s, caminho, existentes, log, novos, vistos, descartados, erro, v
     anos = collections.Counter(r["data"][:4] for r in existentes.values())
     log.append({"site": s["id"], "nome": s["nome"], "erro": erro, "via": via, "posts_lidos": vistos,
                 "novos": novos, "descartados": descartados, "total": len(existentes),
+                "tipos": dict(collections.Counter(r.get("tipo", "?") for r in existentes.values()).most_common()),
                 "de": min(anos) if anos else None, "ate": max(anos) if anos else None, "por_ano": dict(sorted(anos.items()))})
 
 
@@ -234,6 +268,10 @@ def main():
           "| Site | Via | Posts no acervo | Novos nesta execução | Período | Descartados (filtro) | Erro |", "|---|---|---|---|---|---|---|"]
     for l in log:
         md.append(f"| {l['nome']} | {l['via']} | {l['total']} | {l['novos']} | {l['de'] or '—'}–{l['ate'] or '—'} | {l['descartados']} | {(l['erro'] or '').replace('|', '/')[:120]} |")
+    md += ["", "Tipos de página por site (só `noticia` e `pagina` são noticiário; `relatorio` vira PDF na literatura cinzenta):", ""]
+    for l in log:
+        if l.get("tipos"):
+            md.append(f"- {l['nome']}: " + ", ".join(f"{k} {v}" for k, v in l["tipos"].items()))
     md += ["", f"PDFs citados nos posts (Informes, estudos): **{len(pdfs)}** — lista em `pdfs.json`.", "",
            "## Posts por ano", "", "| Site | " + " | ".join(str(y) for y in range(2008, datetime.now().year + 1)) + " |",
            "|---|" + "---|" * (datetime.now().year + 1 - 2008)]
