@@ -71,7 +71,92 @@
  },
  "cfem": {
   "_nota": "CFEM por substância/município mapeia a geografia da lavra. ATENÇÃO: 'GRANITO' na CFEM mistura brita (construção) e rocha ornamental; não somar sem recorte. a_validar: nomes das colunas e da URL.",
-  "substancias_regex": "GRANITO|M[AÁ]RMORE|QUARTZITO|ARD[OÓ]SIA|GNAISSE|SIENITO|CHARNOQUITO|MIGMATITO|TRAVERTINO|PEDRA[ -]SAB[AÃ]O|SERPENTINITO|ROCHAS? ORNAMENTA|PEDRAS? ORNAMENTA|ORNAMENTA|PEDRAS? DE REVESTIMENTO|ROCHAS? DE REVESTIMENTO|BASALTO P|ARENITO P|PEDRA (DE )?CANTARIA|CANTARIA"
+  "substancias_regex": "GRANITO|M[AÁ]RMORE|QUARTZITO|ARD[OÓ]SIA|GNAISSE|SIENITO|CHARNOQUITO|MIGMATITO|TRAVERTINO|PEDRA[ -]SAB[AÃ]O|SERPENTINITO|ROCHAS? ORNAMENTA|PEDRAS? ORNAMENTA|ORNAMENTA|PEDRAS? DE REVESTIMENTO|ROCHAS? DE REVESTIMENTO|BASALTO P|ARENITO P|PEDRA (DE )?CANTARIA|CANTARIA",
+  "recorte": {
+   "_nota": "Classificação da CFEM. 'inequivoco' = o nome da substância já indica uso ornamental; 'brita' = agregado; 'ambiguo' (granito/gnaisse sem qualificador) só conta como ornamental nos municípios do polo. Lista do polo A VALIDAR com o setor.",
+   "inequivoco_regex": "ORNAMENTAL|REVESTIMENTO|QUARTZITO(?! (INDUSTRIAL|FRI[AÁ]VEL))|^M[AÁ]RMORE$|ARD[OÓ]SIA|ARDOSIANO|SERPENTINITO|PEDRA[ -]SAB[AÃ]O|CHARNOQUITO|^SIENITO$|GRANITO (AMARELO|VERDE)",
+   "brita_regex": "BRITA|INDUSTRIAL|NEFELINA|DOLOM[IÍ]TICO",
+   "municipios_polo": {
+    "ES": [
+     "CACHOEIRO DE ITAPEMIRIM",
+     "NOVA VENÉCIA",
+     "BARRA DE SÃO FRANCISCO",
+     "VARGEM ALTA",
+     "CASTELO",
+     "ECOPORANGA",
+     "ÁGUA DOCE DO NORTE",
+     "MANTENÓPOLIS",
+     "BAIXO GUANDU",
+     "COLATINA",
+     "PANCAS",
+     "ATÍLIO VIVÁCQUA",
+     "MUNIZ FREIRE",
+     "SÃO DOMINGOS DO NORTE",
+     "ÁGUIA BRANCA",
+     "SÃO GABRIEL DA PALHA",
+     "VILA PAVÃO",
+     "BOA ESPERANÇA",
+     "SILVA JARDIM",
+     "ALEGRE",
+     "JERÔNIMO MONTEIRO",
+     "MIMOSO DO SUL",
+     "PRESIDENTE KENNEDY",
+     "ITAPEMIRIM",
+     "RIO NOVO DO SUL"
+    ],
+    "MG": [
+     "MEDINA",
+     "TEÓFILO OTONI",
+     "PADRE PARAÍSO",
+     "PEDRA AZUL",
+     "CARLOS CHAGAS",
+     "NANUQUE",
+     "SANTO ANTÔNIO DO JACINTO",
+     "ITAOBIM",
+     "CARAÍ",
+     "ATALÉIA",
+     "OURO VERDE DE MINAS",
+     "CAPELINHA",
+     "PAPAGAIOS",
+     "POMPÉU",
+     "DIAMANTINA",
+     "SÃO TOMÉ DAS LETRAS",
+     "LUMINÁRIAS",
+     "GOVERNADOR VALADARES",
+     "MANTENA",
+     "ITAMBACURI"
+    ],
+    "RJ": [
+     "SANTO ANTÔNIO DE PÁDUA",
+     "MIRACEMA",
+     "ITAOCARA"
+    ],
+    "BA": [
+     "OUROLÂNDIA",
+     "MORRO DO CHAPÉU",
+     "JACOBINA",
+     "ITABERABA",
+     "MEDEIROS NETO",
+     "ITANHÉM"
+    ],
+    "CE": [
+     "SANTA QUITÉRIA",
+     "SOBRAL",
+     "FORQUILHA",
+     "GRANJA"
+    ],
+    "RN": [
+     "CURRAIS NOVOS",
+     "PARELHAS",
+     "EQUADOR"
+    ],
+    "PB": [
+     "PICUÍ",
+     "SOLEDADE",
+     "VÁRZEA"
+    ]
+   }
+  }
  },
  "noticias_consultas": {
   "_nota": "Google News RSS. Só manchete + veículo + data; nunca corpo. Cada consulta é uma 'fonte' no log.",

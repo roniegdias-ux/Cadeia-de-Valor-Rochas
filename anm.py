@@ -75,6 +75,53 @@ def linhas_csv(b):
     return csv.DictReader(io.StringIO(t), dialect=dial)
 
 
+def nomes_ibge():
+    """código IBGE (7 dígitos) -> nome do município, pelo serviço de localidades do IBGE."""
+    obj, cod, erro, _ = rede.buscar_json("https://servicodados.ibge.gov.br/api/v1/localidades/municipios")
+    return {str(m["id"]): m["nome"] for m in (obj or [])} if not erro else {}
+
+
+def recorte_cfem(cfg, hoje):
+    """Classifica a CFEM de rochas em inequívoco / polo / brita / ambíguo e grava a série ornamental."""
+    p = f"{dados.SERIES}/anm_cfem_rochas.csv"
+    if not os.path.exists(p):
+        return []
+    rc = cfg["cfem"]["recorte"]
+    inq, brita = re.compile(rc["inequivoco_regex"], re.I), re.compile(rc["brita_regex"], re.I)
+    polo = {(uf, rede.sem_acento(m).upper()) for uf, ms in rc["municipios_polo"].items() for m in ms}
+    linhas, tot = [], collections.defaultdict(lambda: collections.defaultdict(float))
+    todas = list(csv.DictReader(open(p, encoding="utf-8")))
+    nomes = nomes_ibge() if any(r["municipio"].strip().isdigit() for r in todas[:50]) else {}
+    for r in todas:
+        if r["municipio"].strip().isdigit() and nomes:
+            r["municipio_codigo"], r["municipio"] = r["municipio"].strip(), nomes.get(r["municipio"].strip(), r["municipio"])
+        sub = r["substancia"].strip().upper()
+        if brita.search(sub):
+            classe = "brita"
+        elif inq.search(sub):
+            classe = "inequivoco"
+        elif (r["uf"], rede.sem_acento(r["municipio"]).upper()) in polo:
+            classe = "polo"
+        else:
+            classe = "ambiguo"
+        tot[r["ano"]][classe] += float(r["valor_recolhido"] or 0)
+        if classe in ("inequivoco", "polo"):
+            linhas.append(dict(r, classe=classe, coletado_em=hoje))
+    alvo = f"{dados.SERIES}/anm_cfem_ornamental.csv"
+    if os.path.exists(alvo):
+        os.remove(alvo)
+    dados.gravar_serie("anm_cfem_ornamental", linhas)
+    out = ["", "### Recorte ornamental da CFEM (R$ milhões recolhidos)", "",
+           "| Ano | Inequívoco | Granito/gnaisse no polo | Soma ornamental | Brita | Ambíguo fora do polo |",
+           "|---|---|---|---|---|---|"]
+    for ano in sorted(tot)[-12:]:
+        t = tot[ano]
+        out.append(f"| {ano} | {t['inequivoco']/1e6:,.1f} | {t['polo']/1e6:,.1f} | **{(t['inequivoco']+t['polo'])/1e6:,.1f}** | "
+                   f"{t['brita']/1e6:,.1f} | {t['ambiguo']/1e6:,.1f} |")
+    out.append("_Regra e lista de municípios do polo em config.json (cfem.recorte), a validar com o setor._")
+    return out
+
+
 def main():
     os.chdir(os.path.dirname(os.path.abspath(__file__)))
     cfg = rede.ler_json("config.json")
@@ -103,7 +150,10 @@ def main():
             leitor = linhas_csv(b)
             cab = leitor.fieldnames or []
             c_ano, c_sub = dados._col(cab, "ano"), dados._col(cab, "subst")
-            c_uf, c_mun = dados._col(cab, "uf", "estado"), dados._col(cab, "munic")
+            c_uf = dados._col(cab, "uf", "estado")
+            # prefere a coluna com o NOME do município; o código IBGE é traduzido depois
+            c_mun = next((c for c in cab if "munic" in rede.sem_acento(c).lower()
+                          and "cod" not in rede.sem_acento(c).lower()), None) or dados._col(cab, "munic")
             c_val = dados._col(cab, "valorrecolhido", "valor recolhido", "valor")
             c_qtd, c_un = dados._col(cab, "quantidade"), dados._col(cab, "unidade")
             if not (c_ano and c_sub and c_val):
@@ -150,7 +200,8 @@ def main():
                 log.append(f"{nome}: CSV ilegível ({e})")
                 continue
             cab = leitor.fieldnames or []
-            c_sub = dados._col(cab, "subst")
+            c_sub = next((c for c in cab if "subst" in rede.sem_acento(c).lower()
+                          and "classe" not in rede.sem_acento(c).lower()), None) or dados._col(cab, "subst")
             if not c_sub:
                 resumo.append(f"`{nome}`: sem coluna de substância, ignorado (colunas: {cab[:8]})")
                 continue
@@ -167,6 +218,7 @@ def main():
                 total, _, _ = dados.gravar_serie(serie, sel)
                 resumo.append(f"**{serie}**: {total} linhas de rochas ornamentais")
 
+    resumo += recorte_cfem(cfg, hoje)
     md = [f"# ANM — geografia da lavra — {hoje}", "",
           f"- Arquivos encontrados no servidor de dados abertos: {len(arquivos)} (lista em `fontes/anm-arquivos.json`)",
           f"- Arquivos CFEM de arrecadação: {len(cfem_urls)}; arquivos de produção (AMB/RAL): {len(prod_urls)}", ""]
