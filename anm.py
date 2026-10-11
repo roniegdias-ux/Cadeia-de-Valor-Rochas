@@ -157,7 +157,11 @@ def main():
             sel = [dict(r, fonte="anm", arquivo=nome, coletado_em=hoje) for r in leitor
                    if rx.search(rede.sem_acento((r.get(c_sub) or "").upper()))]
             if not sel:
-                resumo.append(f"`{nome}`: nenhuma substância de rocha ornamental casou (coluna {c_sub})")
+                vistas = collections.Counter()
+                for r in linhas_csv(b):
+                    vistas[(r.get(c_sub) or "").strip()] += 1
+                resumo.append(f"`{nome}`: nenhuma substância de rocha ornamental casou (coluna {c_sub}). "
+                              f"Classes existentes: {', '.join(k for k, _ in vistas.most_common(60))}")
             if sel:
                 serie = "anm_" + re.sub(r"\W+", "_", nome.rsplit(".", 1)[0]).lower()[:50]
                 total, _, _ = dados.gravar_serie(serie, sel)
