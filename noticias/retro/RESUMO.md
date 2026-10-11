@@ -1,6 +1,6 @@
 # Acervo de notícias do setor — 2026-10-11
 
-**1032 notícias únicas**, das quais 753 com texto completo (sites do setor); as demais só com manchete, veículo e data.
+**1033 notícias únicas**, das quais 753 com texto completo (sites do setor); as demais só com manchete, veículo e data.
 
 ## Por fonte
 
@@ -12,7 +12,7 @@
 | site:minerios | 49 |
 | site:brasilmineral | 30 |
 | gdelt | 30 |
-| diario | 15 |
+| diario | 16 |
 
 ## Por ano
 
@@ -35,7 +35,7 @@
 | 2023 | 112 |
 | 2024 | 140 |
 | 2025 | 140 |
-| 2026 | 146 |
+| 2026 | 147 |
 
 ## Fora do acervo (não é notícia ou não passou no filtro)
 
