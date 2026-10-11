@@ -87,8 +87,13 @@ def main():
     resumo = []
 
     # CFEM: arrecadação por substância e município
+    # O servidor tem o arquivo completo E os arquivos por período: somar todos conta cada ano
+    # em dobro. Cada ano vem de um único arquivo — por período primeiro; o completo só preenche
+    # anos que faltarem.
     agg = collections.defaultdict(lambda: [0.0, 0.0])
-    cfem_urls = [u for u in arquivos if re.search(r"cfem", u, re.I) and re.search(r"arrecad", u, re.I)]
+    anos_cobertos = set()
+    cfem_urls = sorted((u for u in arquivos if re.search(r"cfem", u, re.I) and re.search(r"arrecad", u, re.I)),
+                       key=lambda u: (not re.search(r"\d{4}_\d{4}", u), u))
     for u in cfem_urls:
         cod, corpo, erro, _ = rede.buscar(u, tentativas=3)
         if erro:
@@ -104,17 +109,25 @@ def main():
             if not (c_ano and c_sub and c_val):
                 log.append(f"{nome}: colunas não reconhecidas {cab[:12]}")
                 continue
-            n = 0
+            n, anos_arquivo, pulados = 0, set(), 0
             for r in leitor:
                 sub = (r.get(c_sub) or "").upper()
                 if not rx.search(rede.sem_acento(sub)):
                     continue
+                if r.get(c_ano) in anos_cobertos:
+                    pulados += 1
+                    continue
+                anos_arquivo.add(r.get(c_ano))
                 k = (r.get(c_ano), r.get(c_uf) if c_uf else "", r.get(c_mun) if c_mun else "", sub,
                      r.get(c_un) if c_un else "")
                 agg[k][0] += dados._num(r.get(c_val))
                 agg[k][1] += dados._num(r.get(c_qtd)) if c_qtd else 0
                 n += 1
-            resumo.append(f"CFEM `{nome}`: {n} linhas de rochas (colunas: ano={c_ano}, substância={c_sub}, valor={c_val})")
+            anos_cobertos |= anos_arquivo
+            resumo.append(f"CFEM `{nome}`: {n} linhas de rochas usadas, {pulados} puladas por ano já coberto "
+                          f"(anos {min(anos_arquivo, default='—')}–{max(anos_arquivo, default='—')})")
+    if agg and os.path.exists(f"{dados.SERIES}/anm_cfem_rochas.csv"):
+        os.remove(f"{dados.SERIES}/anm_cfem_rochas.csv")   # série anterior somava arquivos sobrepostos
     if agg:
         linhas = [{"ano": k[0], "uf": k[1], "municipio": k[2], "substancia": k[3], "unidade": k[4],
                    "valor_recolhido": round(v[0], 2), "quantidade": round(v[1], 3), "fonte": "anm_cfem",
@@ -143,6 +156,8 @@ def main():
                 continue
             sel = [dict(r, fonte="anm", arquivo=nome, coletado_em=hoje) for r in leitor
                    if rx.search(rede.sem_acento((r.get(c_sub) or "").upper()))]
+            if not sel:
+                resumo.append(f"`{nome}`: nenhuma substância de rocha ornamental casou (coluna {c_sub})")
             if sel:
                 serie = "anm_" + re.sub(r"\W+", "_", nome.rsplit(".", 1)[0]).lower()[:50]
                 total, _, _ = dados.gravar_serie(serie, sel)

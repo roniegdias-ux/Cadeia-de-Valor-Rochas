@@ -71,7 +71,7 @@
  },
  "cfem": {
   "_nota": "CFEM por substância/município mapeia a geografia da lavra. ATENÇÃO: 'GRANITO' na CFEM mistura brita (construção) e rocha ornamental; não somar sem recorte. a_validar: nomes das colunas e da URL.",
-  "substancias_regex": "GRANITO|M[AÁ]RMORE|QUARTZITO|ARD[OÓ]SIA|GNAISSE|SIENITO|CHARNOQUITO|MIGMATITO|TRAVERTINO|PEDRA[ -]SAB[AÃ]O|SERPENTINITO|ROCHA ORNAMENTAL|PEDRA ORNAMENTAL|PEDRA DE REVESTIMENTO|BASALTO P|ARENITO P"
+  "substancias_regex": "GRANITO|M[AÁ]RMORE|QUARTZITO|ARD[OÓ]SIA|GNAISSE|SIENITO|CHARNOQUITO|MIGMATITO|TRAVERTINO|PEDRA[ -]SAB[AÃ]O|SERPENTINITO|ROCHAS? ORNAMENTA|PEDRAS? ORNAMENTA|ORNAMENTA|PEDRAS? DE REVESTIMENTO|ROCHAS? DE REVESTIMENTO|BASALTO P|ARENITO P|PEDRA (DE )?CANTARIA|CANTARIA"
  },
  "noticias_consultas": {
   "_nota": "Google News RSS. Só manchete + veículo + data; nunca corpo. Cada consulta é uma 'fonte' no log.",
