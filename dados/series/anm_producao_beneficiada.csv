@@ -1,0 +1,299 @@
+Ano base,UF,Classe Substância,Substância Mineral,Quantidade Produção,Unidade de Medida - Produção,Quantidade Contido,Unidade de Medida - Contido,Indicação Contido,Quantidade Venda,Unidade de Medida - Venda,Valor Venda (R$),Quantidade Consumo/Utilização na Usina,Unidade de Medida - Consumo/Utilização na Usina,Valor Consumo / Utilização na Usina (R$),Quantidade Transferência para Transformação / Utilização / Consumo,Unidade de Medida - Transferência para Transformação / Utilização / Consumo,Valor Transferência para Transformação / Utilização / Consumo (R$),fonte,arquivo,coletado_em
+2010,ES,Não-Metálicos,Rochas Ornamentais,"124630,29999999999",t,",000000000000000",-,,"122201,59999999999",t,"77800220,61999999",0,t,0,"1850,74",t,"1615032,27",anm,Producao_Beneficiada.csv,2026-10-11
+2010,GO,Não-Metálicos,Rochas Ornamentais,6980,t,",000000000000000",-,,6980,t,35196,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2010,MG,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","146122,16",t,",000000000000000",-,,"136867,32000000001",t,"16397493,530000001",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2010,MG,Não-Metálicos,Rochas Ornamentais,"5491,5699999999997",t,",000000000000000",-,,"5353,1999999999998",t,"2727617,6600000001",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2010,PA,Não-Metálicos,Rochas Ornamentais,0,t,",000000000000000",-,,0,t,0,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2010,PB,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito",1785,t,",000000000000000",-,,1785,t,"189012,28",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2010,PB,Não-Metálicos,Rochas Ornamentais,10796,t,",000000000000000",-,,8058,t,"7669024,7700000005",2716,t,1362504,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2010,PE,Não-Metálicos,Rochas Ornamentais,0,t,",000000000000000",-,,"358,11000000000001",t,"213271,87",0,t,0,"54,950000000000003",t,"15480,379999999999",anm,Producao_Beneficiada.csv,2026-10-11
+2010,PI,Não-Metálicos,Rochas Ornamentais,"4954,5799999999999",t,",000000000000000",-,,"3107,8299999999999",t,"2255747,3799999999","552,63999999999999",t,"69637,539999999994",0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2010,PR,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito",88820,t,",000000000000000",-,,0,t,0,0,t,0,"108238,05",t,"2626006,0099999998",anm,Producao_Beneficiada.csv,2026-10-11
+2010,PR,Não-Metálicos,Rochas Ornamentais,"3727,8299999999999",t,",000000000000000",-,,"2410,6500000000001",t,"422134,83999999997",0,t,0,"1317,1799999999998",t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2010,RJ,Não-Metálicos,Rochas Ornamentais,"9224,2899999999991",t,",000000000000000",-,,"10750,77",t,"12395449,93",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2010,RN,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito",6328,t,",000000000000000",-,,6328,t,478800,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2010,SC,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","102350,64999999999",t,",000000000000000",-,,"102992,72",t,"12784089,819999998",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2010,SP,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","19922,880000000001",t,",000000000000000",-,,"18232,880000000001",t,"3353564,0799999996",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2010,SP,Não-Metálicos,Rochas Ornamentais,3960,t,",000000000000000",-,,"3955,3400000000001",t,"4032392,7599999998",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2011,ES,Não-Metálicos,Rochas Ornamentais,"197762,23000000001",t,",000000000000000",-,,"171690,11000000002",t,"99811927,700000018",0,t,0,"3769,6099999999997",t,"3229427,6899999999",anm,Producao_Beneficiada.csv,2026-10-11
+2011,GO,Não-Metálicos,Rochas Ornamentais,395,t,",000000000000000",-,,355,t,7250,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2011,GO,Não-Metálicos,Rochas Ornamentais - Outras,395,t,",000000000000000",-,,355,t,7250,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2011,MG,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","151257,37",t,",000000000000000",-,,"150286,20000000001",t,"14496756,82",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2011,MG,Não-Metálicos,Rochas Ornamentais,"3874,52",t,",000000000000000",-,,"4080,5599999999999",t,"1965780,77",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2011,PA,Não-Metálicos,Rochas Ornamentais,0,t,",000000000000000",-,,0,t,0,0,t,0,"0,01",t,"0,01",anm,Producao_Beneficiada.csv,2026-10-11
+2011,PB,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito",1334,t,",000000000000000",-,,1334,t,154479,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2011,PB,Não-Metálicos,Rochas Ornamentais,"9957,3500000000004",t,",000000000000000",-,,"9007,6900000000005",t,"9368829,9600000009","953,36000000000001",t,"718703,17999999993",0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2011,PE,Não-Metálicos,Rochas Ornamentais,0,t,",000000000000000",-,,0,t,0,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2011,PI,Não-Metálicos,Rochas Ornamentais,"12601,299999999999",t,",000000000000000",-,,"12467,389999999999",t,"1717981,52",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2011,PR,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","132717,10999999999",t,",000000000000000",-,,0,t,0,0,t,0,"123546,75",t,"3354690,1299999999",anm,Producao_Beneficiada.csv,2026-10-11
+2011,PR,Não-Metálicos,Rochas Ornamentais,"6575,9799999999996",t,",000000000000000",-,,"4873,0799999999999",t,"7032802,3500000006",0,t,0,"5102,8999999999996",t,"6642587,6500000004",anm,Producao_Beneficiada.csv,2026-10-11
+2011,PR,Não-Metálicos,Rochas Ornamentais - Outras,3095,t,",000000000000000",-,,3095,t,24750,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2011,RJ,Não-Metálicos,Rochas Ornamentais,"8142,2700000000004",t,",000000000000000",-,,"11359,120000000001",t,"9345889,8000000007",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2011,RN,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito",12178,t,",000000000000000",-,,"12148,5",t,965990,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2011,RN,Não-Metálicos,Rochas Ornamentais,0,t,",000000000000000",-,,0,t,0,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2011,SC,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","118514,89999999999",t,",000000000000000",-,,"115514,29999999999",t,"17746868,850000001",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2011,SP,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito",20631,t,",000000000000000",-,,20631,t,"3007931,5099999998",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2011,SP,Não-Metálicos,Rochas Ornamentais,4595,t,",000000000000000",-,,"4579,71",t,"3360465,7400000002",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2012,CE,Não-Metálicos,Rochas Ornamentais,1627,t,",000000000000000",-,,1625,t,1039106,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2012,ES,Não-Metálicos,Rochas Ornamentais,"427388,7699999999",t,",000000000000000",-,,"404802,92999999988",t,"399893726,63999993",0,t,0,"20,34",t,"13594,76",anm,Producao_Beneficiada.csv,2026-10-11
+2012,GO,Não-Metálicos,Rochas Ornamentais,350,t,",000000000000000",-,,350,t,7250,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2012,MG,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","86665,149999999994",t,",000000000000000",-,,"116429,50999999999",t,"15590203,58",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2012,MG,Não-Metálicos,Rochas Ornamentais,"4940,3899999999994",t,",000000000000000",-,,"4300,4899999999998",t,"2629672,6399999997",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2012,PB,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","59122,470000000001",t,",000000000000000",-,,"59122,470000000001",t,"1975787,0900000001",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2012,PB,Não-Metálicos,Rochas Ornamentais,"9171,7899999999991",t,",000000000000000",-,,"8518,1000000000004",t,"8744526,4800000004","634,24000000000001",t,"331977,5",0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2012,PE,Não-Metálicos,Rochas Ornamentais,0,t,",000000000000000",-,,0,t,0,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2012,PI,Não-Metálicos,Rochas Ornamentais,"16078,710000000003",t,",000000000000000",-,,"15428,910000000002",t,"1980797,9300000002",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2012,PR,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito",117609,t,",000000000000000",-,,0,t,0,0,t,0,"117606,56",t,"3403420,54",anm,Producao_Beneficiada.csv,2026-10-11
+2012,PR,Não-Metálicos,Rochas Ornamentais,"6008,3800000000001",t,",000000000000000",-,,"4617,3800000000001",t,"1216464,74",0,t,0,"4274,6000000000004",t,"647271,76000000001",anm,Producao_Beneficiada.csv,2026-10-11
+2012,RJ,Não-Metálicos,Rochas Ornamentais,"20142,639999999999",t,",000000000000000",-,,"22925,360000000001",t,"29776559,640000001",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2012,RN,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito",4726,t,",000000000000000",-,,4703,t,466680,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2012,RR,Não-Metálicos,Rochas Ornamentais,1200,t,",000000000000000",-,,1200,t,207000,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2012,SC,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","134822,34",t,",000000000000000",-,,"134822,34",t,"17796140,260000002",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2012,SP,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito",18995,t,",000000000000000",-,,"21659,75",t,"4846772,6799999997",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2012,SP,Não-Metálicos,Rochas Ornamentais,5090,t,",000000000000000",-,,"5074,04",t,"6213411,5499999998",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2013,BA,Não-Metálicos,Rochas Ornamentais,"5509,4700000000003",t,",000000000000000",-,,"4610,3400000000001",t,"2068087,8399999999",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2013,CE,Não-Metálicos,Rochas Ornamentais,568,t,",000000000000000",-,,568,t,321414,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2013,ES,Não-Metálicos,Rochas Ornamentais,"144334,11000000002",t,",000000000000000",-,,"138738,94",t,"179201679,5",0,t,0,"112,13",t,"111585,36",anm,Producao_Beneficiada.csv,2026-10-11
+2013,MG,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","100990,64999999999",t,",000000000000000",-,,"130429,2",t,"18004367,420000002",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2013,MG,Não-Metálicos,Rochas Ornamentais,"1951,02",t,",000000000000000",-,,"1935,5799999999999",t,"604137,95999999996",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2013,PB,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito",66113,t,",000000000000000",-,,66113,t,"2362103,73",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2013,PB,Não-Metálicos,Rochas Ornamentais,"63317,970000000001",t,",000000000000000",-,,"50832,040000000001",t,"8681558,7199999988","12412,870000000001",t,"759943,15000000002",0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2013,PE,Não-Metálicos,Rochas Ornamentais,0,t,",000000000000000",-,,0,t,0,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2013,PI,Não-Metálicos,Rochas Ornamentais,"1653,7",t,",000000000000000",-,,"1653,7",t,"1731741,0600000001",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2013,PR,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","178424,51000000001",t,",000000000000000",-,,0,t,0,0,t,0,"178428,33000000002",t,"6645758,8700000001",anm,Producao_Beneficiada.csv,2026-10-11
+2013,PR,Não-Metálicos,Rochas Ornamentais,"4777,3199999999997",t,",000000000000000",-,,"4323,8199999999997",t,"1096163,7100000002",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2013,RJ,Não-Metálicos,Rochas Ornamentais,0,t,",000000000000000",-,,0,t,0,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2013,RN,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito",16768,t,",000000000000000",-,,16625,t,2042300,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2013,RN,Não-Metálicos,Rochas Ornamentais,"54,600000000000001",t,",000000000000000",-,,0,t,0,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2013,SC,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","140275,26999999999",t,",000000000000000",-,,"140289,31",t,"17337059,98",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2013,SP,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","24046,48",t,",000000000000000",-,,"23998,48",t,"3705503,2199999997",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2013,SP,Não-Metálicos,Rochas Ornamentais,"5081,2299999999996",t,",000000000000000",-,,"4875,4499999999998",t,"5826631,2300000004",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2014,BA,Não-Metálicos,Rochas Ornamentais,"4404,8699999999999",t,",000000000000000",-,,"4396,1700000000001",t,"2548634,7600000002",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2014,CE,Não-Metálicos,Rochas Ornamentais,0,t,",000000000000000",-,,0,t,0,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2014,ES,Não-Metálicos,Rochas Ornamentais,"158404,02000000002",t,",000000000000000",-,,"130526,11000000002",t,"205150381,30000004",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2014,GO,Não-Metálicos,Rochas Ornamentais,"13048,4",t,",000000000000000",-,,"13048,4",t,"440521,28999999998",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2014,MG,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito",143938,t,",000000000000000",-,,"150198,09",t,"20954742,059999999",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2014,MG,Não-Metálicos,Rochas Ornamentais,"1110,9000000000001",t,",000000000000000",-,,"1083,71",t,"852396,65999999992",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2014,MG,Não-Metálicos,Rochas Ornamentais - Outras,0,t,",000000000000000",-,,0,t,0,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2014,PB,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","139703,16",t,",000000000000000",-,,"139703,16",t,"4983209,4100000001",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2014,PB,Não-Metálicos,Rochas Ornamentais,"10537,519999999999",t,",000000000000000",-,,"8993,5199999999986",t,"17266442,939999998",1256,t,"1019369,37",0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2014,PE,Não-Metálicos,Rochas Ornamentais,0,t,",000000000000000",-,,0,t,0,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2014,PI,Não-Metálicos,Rochas Ornamentais,2370,t,",000000000000000",-,,"2359,4099999999999",t,"1757255,1299999999",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2014,PR,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","204299,53999999998",t,",000000000000000",-,,0,t,0,0,t,0,"201424,20000000001",t,"8285240,2199999997",anm,Producao_Beneficiada.csv,2026-10-11
+2014,PR,Não-Metálicos,Rochas Ornamentais,"2212,0700000000002",t,",000000000000000",-,,"1894,0700000000002",t,"765600,73999999999",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2014,RN,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito",13178,t,",000000000000000",-,,"13166,5",t,"2876863,5499999998",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2014,RN,Não-Metálicos,Rochas Ornamentais,"118,09999999999999",t,",000000000000000",-,,0,t,0,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2014,SC,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","171295,16",t,",000000000000000",-,,"170772,19",t,"19747955,390000001",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2014,SC,Não-Metálicos,Rochas Ornamentais - Outras,5321,t,",000000000000000",-,,5321,t,"87277,880000000005",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2014,SP,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","8547,4500000000007",t,",000000000000000",-,,"13756,799999999999",t,"2754496,5199999996",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2014,SP,Não-Metálicos,Rochas Ornamentais,"4170,1800000000003",t,",000000000000000",-,,"4170,1800000000003",t,"5839190,21",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2015,BA,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","123,5",t,",000000000000000",-,,"123,5",t,14689,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2015,BA,Não-Metálicos,Rochas Ornamentais,"4537,5799999999999",t,",000000000000000",-,,"5720,3199999999997",t,"3930310,71",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2015,ES,Não-Metálicos,Rochas Ornamentais,"390157,63000000012",t,",000000000000000",-,,"372783,08000000013",t,"575379714,11000013",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2015,MG,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","166783,14999999999",t,",000000000000000",-,,"199994,14000000001",t,"30053151,210000001",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2015,MG,Não-Metálicos,Rochas Ornamentais,"499,73000000000002",t,",000000000000000",-,,"499,73000000000002",t,"476144,60999999999",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2015,PB,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","143602,20000000001",t,",000000000000000",-,,"143602,20000000001",t,"5701422,2000000002",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2015,PB,Não-Metálicos,Rochas Ornamentais,"10505,5",t,",000000000000000",-,,"8864,8099999999995",t,"20088688,280000001","1894,53",t,"329700,98999999999",0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2015,PE,Não-Metálicos,Rochas Ornamentais,0,t,",000000000000000",-,,0,t,0,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2015,PI,Não-Metálicos,Rochas Ornamentais,3185,t,",000000000000000",-,,"3080,3800000000001",t,"2506463,7200000002",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2015,PR,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito",213103,t,",000000000000000",-,,0,t,0,0,t,0,"215979,96000000002",t,"10589654,800000001",anm,Producao_Beneficiada.csv,2026-10-11
+2015,PR,Não-Metálicos,Rochas Ornamentais,"10539,6",t,",000000000000000",-,,"9651,1599999999999",t,"2394190,71",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2015,PR,Não-Metálicos,Rochas Ornamentais - Outras,0,t,",000000000000000",-,,0,t,0,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2015,RN,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito",7030,t,",000000000000000",-,,"6998,5299999999997",t,"2686937,71",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2015,RN,Não-Metálicos,Rochas Ornamentais,"89,900000000000006",t,",000000000000000",-,,"64,400000000000006",t,"64094,129999999997",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2015,SC,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","172427,26999999999",t,",000000000000000",-,,"156187,94999999998",t,"19838233,75",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2015,SC,Não-Metálicos,Rochas Ornamentais - Outras,"20800,279999999999",t,",000000000000000",-,,"20800,279999999999",t,"275961,94",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2015,SP,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","1486,54",t,",000000000000000",-,,"1482,54",t,"499079,79999999999",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2015,SP,Não-Metálicos,Rochas Ornamentais,3735,t,",000000000000000",-,,"3764,5999999999999",t,"4119675,6099999999",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2016,BA,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","1554,5999999999999",t,",000000000000000",-,,"1554,5999999999999",t,220790,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2016,BA,Não-Metálicos,Rochas Ornamentais,"5618,6400000000003",t,",000000000000000",-,,"5946,7700000000004",t,"4176768,6699999999",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2016,BA,Não-Metálicos,Rochas Ornamentais - Outras,1619,t,",000000000000000",-,,1619,t,56756,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2016,ES,Não-Metálicos,Rochas Ornamentais,"336029,36999999994",t,",000000000000000",-,,"320006,28999999992",t,"541668050,08999991",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2016,MG,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","162661,37",t,",000000000000000",-,,"181556,07999999999",t,"28783318,109999999",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2016,MG,Não-Metálicos,Rochas Ornamentais,"9884,7999999999993",t,",000000000000000",-,,0,t,0,"9593,9799999999996",t,"1845275,5900000001",0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2016,MG,Não-Metálicos,Rochas Ornamentais - Outras,"150,91999999999999",t,",000000000000000",-,,"137,19999999999999",t,"90962,850000000006",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2016,PB,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito",13609,t,",000000000000000",-,,13609,t,"735850,69999999995",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2016,PB,Não-Metálicos,Rochas Ornamentais,9071,t,",000000000000000",-,,"7960,04",t,"16388994,57","1285,54",t,"948860,93999999994",0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2016,PR,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito",78330,t,",000000000000000",-,,0,t,0,0,t,0,"72062,279999999999",t,"2161868,3999999999",anm,Producao_Beneficiada.csv,2026-10-11
+2016,PR,Não-Metálicos,Rochas Ornamentais,"5750,4300000000003",t,",000000000000000",-,,"4824,1499999999996",t,"872296,57000000007",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2016,RN,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito",6047,t,",000000000000000",-,,"6038,3500000000004",t,"2674497,3599999999",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2016,RN,Não-Metálicos,Rochas Ornamentais,"7987,3200000000006",t,",000000000000000",-,,"7116,1999999999998",t,"14781284,58",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2016,SC,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","101253,35000000001",t,",000000000000000",-,,"122382,70000000001",t,"21871620,879999999",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2016,SC,Não-Metálicos,Rochas Ornamentais - Outras,"34545,450000000004",t,",000000000000000",-,,"34523,450000000004",t,"296634,82999999996",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2016,SP,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","1188,99",t,",000000000000000",-,,"1188,99",t,"454591,82000000001",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2016,SP,Não-Metálicos,Rochas Ornamentais,1550,t,",000000000000000",-,,"628,50999999999999",t,"1391278,5",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2017,BA,Não-Metálicos,Rochas Ornamentais,"5192,7600000000002",t,",000000000000000",-,,"4980,2300000000005",t,"2840795,7199999997",0,t,0,"506,00999999999999",t,"519553,62",anm,Producao_Beneficiada.csv,2026-10-11
+2017,ES,Não-Metálicos,Rochas Ornamentais,"88881,179999999993",t,",000000000000000",-,,"102139,58999999998",t,"178099211,24000004",0,t,0,"7238,8199999999997",t,"2581330,8599999999",anm,Producao_Beneficiada.csv,2026-10-11
+2017,MG,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","164747,95000000001",t,",000000000000000",-,,"189883,29000000001",t,"31441243,48",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2017,MG,Não-Metálicos,Rochas Ornamentais,"2472,8800000000001",t,",000000000000000",-,,"2472,7399999999998",t,"747457,22999999998",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2017,MT,Não-Metálicos,Rochas Ornamentais,"960,82000000000005",t,",000000000000000",-,,"960,82000000000005",t,"215687,81",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2017,PB,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","130978,89999999999",t,",000000000000000",-,,"130978,89999999999",t,"5410327,3700000001",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2017,PB,Não-Metálicos,Rochas Ornamentais,"7710,6899999999996",t,",000000000000000",-,,"7031,5199999999995",t,"11498129,93","378,44",t,"759943,14000000001",0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2017,PR,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito",65945,t,",000000000000000",-,,0,t,0,0,t,0,"58765,900000000001",t,"2261851,2000000002",anm,Producao_Beneficiada.csv,2026-10-11
+2017,PR,Não-Metálicos,Rochas Ornamentais,"17560,389999999999",t,",000000000000000",-,,"16669,800000000003",t,"3740185,0599999996",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2017,PR,Não-Metálicos,Rochas Ornamentais - Outras,10480,t,",000000000000000",-,,10480,t,10540,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2017,RN,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito",7062,t,",000000000000000",-,,"7053,1700000000001",t,"2967153,2400000002",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2017,RN,Não-Metálicos,Rochas Ornamentais,"7351,8899999999994",t,",000000000000000",-,,"7204,6999999999998",t,"19107156,5",0,t,0,"102,79000000000001",t,"177702,13",anm,Producao_Beneficiada.csv,2026-10-11
+2017,SC,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","149482,03",t,",000000000000000",-,,"118275,23000000001",t,"23762743,920000002",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2017,SC,Não-Metálicos,Rochas Ornamentais - Outras,"88072,75",t,",000000000000000",-,,"87535,75",t,"363675,03999999998",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2017,SP,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","1389,3",t,",000000000000000",-,,"1389,3",t,633619,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2017,SP,Não-Metálicos,Rochas Ornamentais,267,t,",000000000000000",-,,"5098,3699999999999",t,"657471,40000000002",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2017,SP,Não-Metálicos,Rochas Ornamentais - Outras,"18,100000000000001",t,",000000000000000",-,,"18,100000000000001",t,3525,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2018,BA,Não-Metálicos,Rochas Ornamentais,"9031,8700000000008",t,",000000000000000",-,,"8629,5299999999988",t,"6854222,9000000004",0,t,0,"359,91999999999996",t,"308970,98000000004",anm,Producao_Beneficiada.csv,2026-10-11
+2018,CE,Não-Metálicos,Rochas Ornamentais,"5241,0799999999999",t,",000000000000000",-,,"5241,0799999999999",t,"11796834,27",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2018,ES,Não-Metálicos,Rochas Ornamentais,"141840,78999999998",t,",000000000000000",-,,"125958,39000000001",t,"217872577,50999999","8281,8899999999994",t,"2779310,3599999999",0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2018,MG,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","212059,60999999999",t,",000000000000000",-,,"203169,76000000001",t,"35200529,25",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2018,MG,Não-Metálicos,Rochas Ornamentais,"152,97",t,",000000000000000",-,,"100,97",t,"141320,17000000001",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2018,PB,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","148708,20999999999",t,",000000000000000",-,,"148708,20999999999",t,"6042217,6900000004",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2018,PB,Não-Metálicos,Rochas Ornamentais,"6684,0599999999995",t,",000000000000000",-,,"6288,6300000000001",t,"10598160,449999999","283,02999999999997",t,"275048,17999999999",0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2018,PR,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","82339,729999999996",t,",000000000000000",-,,0,t,0,0,t,0,"88240,619999999995",t,"3655230,5499999998",anm,Producao_Beneficiada.csv,2026-10-11
+2018,PR,Não-Metálicos,Rochas Ornamentais,"9771,6000000000004",t,",000000000000000",-,,"7921,5600000000004",t,"439477,28999999998",0,t,0,"1828,3399999999999",t,"1880852,1299999999",anm,Producao_Beneficiada.csv,2026-10-11
+2018,RJ,Não-Metálicos,Rochas Ornamentais - Outras,"16252,77",t,",000000000000000",-,,"16252,77",t,"566534,09999999998",0,t,0,"16252,77",t,"566534,09999999998",anm,Producao_Beneficiada.csv,2026-10-11
+2018,RN,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","7799,0200000000004",t,",000000000000000",-,,"7799,0200000000004",t,"3264757,3500000001",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2018,RN,Não-Metálicos,Rochas Ornamentais,"7871,4300000000003",t,",000000000000000",-,,"6021,1400000000003",t,"19911830,890000001",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2018,SC,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","139896,39000000001",t,",000000000000000",-,,"148840,78999999998",t,"26615478,389999997",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2018,SC,Não-Metálicos,Rochas Ornamentais - Outras,"66110,150000000009",t,",000000000000000",-,,"66489,790000000008",t,"275983,73999999999",50,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2018,SP,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","1481,5",t,",000000000000000",-,,"1481,5",t,"878273,75",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2018,SP,Não-Metálicos,Rochas Ornamentais,"4178,0100000000002",t,",000000000000000",-,,"4178,0100000000002",t,"398338,16999999998",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2019,BA,Não-Metálicos,Rochas Ornamentais,"13427,530000000002",t,",000000000000000",-,,"13106,030000000002",t,"8098342,9500000002",0,t,0,"441,19999999999999",t,"385220,22999999998",anm,Producao_Beneficiada.csv,2026-10-11
+2019,BA,Não-Metálicos,Rochas Ornamentais - Outras,"639,07000000000005",t,",000000000000000",-,,"222,06",t,"252655,14000000001",0,t,0,"417,13",t,"25615,380000000001",anm,Producao_Beneficiada.csv,2026-10-11
+2019,CE,Não-Metálicos,Rochas Ornamentais,"9651,2999999999993",t,",000000000000000",-,,"7238,8500000000004",t,"19755364,52",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2019,ES,Não-Metálicos,Rochas Ornamentais,"81400,420000000027",t,",000000000000000",-,,"65794,180000000008",t,"170450633,66999996","11198,33",t,"3974112,6400000001",0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2019,MG,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","252093,5",t,",000000000000000",-,,"218248,17000000001",t,"38772601,579999998",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2019,MG,Não-Metálicos,Rochas Ornamentais,"7259,5900000000001",t,",000000000000000",-,,"7259,5900000000001",t,"1021333,8500000001",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2019,MG,Não-Metálicos,Rochas Ornamentais - Outras,"132,41999999999999",t,",000000000000000",-,,"132,41999999999999",t,"417478,19",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2019,PB,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","100660,25",t,",000000000000000",-,,"100660,25",t,"5193828,4500000002",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2019,PB,Não-Metálicos,Rochas Ornamentais,"6684,0599999999995",t,",000000000000000",-,,"6288,6300000000001",t,"10598160,449999999","283,02999999999997",t,"275048,17999999999",0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2019,PR,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito",96427,t,",000000000000000",-,,0,t,0,0,t,0,"97428,600000000006",t,"2942668,23",anm,Producao_Beneficiada.csv,2026-10-11
+2019,PR,Não-Metálicos,Rochas Ornamentais,"17030,970000000001",t,",000000000000000",-,,"16986,970000000001",t,"829328,05000000005",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2019,RJ,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito",1860,t,",000000000000000",-,,"513,07635000000005",t,"18680,775150000001",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2019,RJ,Não-Metálicos,Rochas Ornamentais - Outras,"11191,620000000001",t,",000000000000000",-,,"11191,620000000001",t,"391707,15999999997",0,t,0,"11191,620000000001",t,"391707,15999999997",anm,Producao_Beneficiada.csv,2026-10-11
+2019,RN,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","3203,79",t,",000000000000000",-,,"3171,79",t,"1420570,28",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2019,RN,Não-Metálicos,Rochas Ornamentais,"7879,4899999999998",t,",000000000000000",-,,"6550,6000000000004",t,"21250640,379999999",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2019,RS,Não-Metálicos,Rochas Ornamentais - Outras,2100,t,",000000000000000",-,,2100,t,"74742,360000000001",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2019,SC,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","176371,45000000001",t,",000000000000000",-,,"178568,35000000001",t,"30371018,560000002",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2019,SC,Não-Metálicos,Rochas Ornamentais - Outras,"6987,4299999999994",t,",000000000000000",-,,"6852,3099999999995",t,"123571,05",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2019,SP,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","1732,75",t,",000000000000000",-,,"1732,75",t,"1077651,8999999999",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2020,BA,Não-Metálicos,Rochas Ornamentais,"12534,440000000001",t,",000000000000000",-,,"12040,110000000001",t,"9124344,8499999996",0,t,0,"188,93000000000001",t,"153914,51000000001",anm,Producao_Beneficiada.csv,2026-10-11
+2020,CE,Não-Metálicos,Rochas Ornamentais,"9301,9300000000003",t,",000000000000000",-,,"4664,6599999999999",t,"16184373,560000001",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2020,ES,Não-Metálicos,Rochas Ornamentais,"81293,760000000009",t,",000000000000000",-,,"69414,479999999996",t,"212326835,19999996","6571,3400000000001",t,"7682495,5600000005",0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2020,MG,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","119380,82000000001",t,",000000000000000",-,,"152953,48000000001",t,"25007029,07",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2020,MG,Não-Metálicos,Rochas Ornamentais,175,t,",000000000000000",-,,0,t,0,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2020,MG,Não-Metálicos,Rochas Ornamentais - Outras,"1732,8099999999999",t,",000000000000000",-,,"1732,8099999999999",t,"5861171,9100000001",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2020,PB,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito",2640,t,",000000000000000",-,,"2534,3200000000002",t,"195628,39999999999",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2020,PB,Não-Metálicos,Rochas Ornamentais,"5683,4799999999996",t,",000000000000000",-,,"5564,7200000000003",t,"8145738,8399999999",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2020,PI,Não-Metálicos,Rochas Ornamentais,"1159,72",t,",000000000000000",-,,"3306,2399999999998",t,"1635681,1899999999",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2020,PR,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito",142828,t,",000000000000000",-,,34405,t,2511565,0,t,0,"109652,17999999999",t,"4397052,2199999997",anm,Producao_Beneficiada.csv,2026-10-11
+2020,PR,Não-Metálicos,Rochas Ornamentais,"11154,379999999999",t,",000000000000000",-,,"9777,8999999999996",t,"1523142,4000000001",0,t,0,"1480,48",t,"1262461,48",anm,Producao_Beneficiada.csv,2026-10-11
+2020,PR,Não-Metálicos,Rochas Ornamentais - Outras,"9679,5",t,",000000000000000",-,,0,t,0,"5604,75",t,95000,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2020,RJ,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito",5000,t,",000000000000000",-,,"834,67999999999995",t,"74538,410000000003",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2020,RJ,Não-Metálicos,Rochas Ornamentais - Outras,"10999,940000000001",t,",000000000000000",-,,"10999,940000000001",t,"384998,27000000002",0,t,0,"10999,940000000001",t,"384998,27000000002",anm,Producao_Beneficiada.csv,2026-10-11
+2020,RN,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito",7667,t,",000000000000000",-,,"7531,8299999999999",t,"1935323,3699999999",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2020,RN,Não-Metálicos,Rochas Ornamentais,"9430,2399999999998",t,",000000000000000",-,,"9430,2399999999998",t,"34067575,489999995",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2020,RS,Não-Metálicos,Rochas Ornamentais - Outras,"17120,779999999999",t,",000000000000000",-,,"17120,779999999999",t,452858,"10999,26",t,244000,"10999,26",t,244000,anm,Producao_Beneficiada.csv,2026-10-11
+2020,SC,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","170477,23000000001",t,",000000000000000",-,,"167171,38",t,"29334323,539999999",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2020,SC,Não-Metálicos,Rochas Ornamentais - Outras,"29308,48",t,",000000000000000",-,,"28371,969999999998",t,"432486,17999999999",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2020,SP,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","2580,0799999999999",t,",000000000000000",-,,"2580,0799999999999",t,"1272833,6000000001",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2021,BA,Não-Metálicos,Rochas Ornamentais,"10053,959999999999",t,",000000000000000",-,,"9556,5300000000007",t,"7663971,6799999997",0,t,0,"25,099999999999998",t,"26845,699999999997",anm,Producao_Beneficiada.csv,2026-10-11
+2021,CE,Não-Metálicos,Rochas Ornamentais,"7401,6400000000003",t,",000000000000000",-,,"7401,6400000000003",t,"17802810,93",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2021,ES,Não-Metálicos,Rochas Ornamentais,"144607,01999999996",t,",000000000000000",-,,"123444,71999999999",t,"381040412,05000007","17570,920000000002",t,"8524338,5199999996",0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2021,MG,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","155397,69",t,",000000000000000",-,,"183594,98999999999",t,"30091620,420000002",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2021,MG,Não-Metálicos,Rochas Ornamentais,"357,67000000000002",t,",000000000000000",-,,"313,07999999999998",t,"452875,98999999999",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2021,MG,Não-Metálicos,Rochas Ornamentais - Outras,"4667,8900000000003",t,",000000000000000",-,,"4667,8900000000003",t,"8418888,8499999996",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2021,PB,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","43661,739999999998",t,",000000000000000",-,,"43661,739999999998",t,"6005958,3300000001",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2021,PB,Não-Metálicos,Rochas Ornamentais,"6294,6300000000001",t,",000000000000000",-,,"6339,3599999999997",t,"13862002,82",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2021,PI,Não-Metálicos,Rochas Ornamentais,"4614,0200000000004",t,",000000000000000",-,,"4614,0200000000004",t,"3011100,8799999999",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2021,PR,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito",130625,t,",000000000000000",-,,0,t,0,0,t,0,"126860,99000000001",t,"5087125,71",anm,Producao_Beneficiada.csv,2026-10-11
+2021,PR,Não-Metálicos,Rochas Ornamentais,"26535,426200000002",t,",000000000000000",-,,"21328,1162",t,"1085934,7779999999","5419,6999999999998",t,"5953371,6500000004","41,729999999999997",t,"72851,210000000006",anm,Producao_Beneficiada.csv,2026-10-11
+2021,PR,Não-Metálicos,Rochas Ornamentais - Outras,38922,t,",000000000000000",-,,35049,t,407060,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2021,RJ,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","1643,9100000000001",t,",000000000000000",-,,"1643,9100000000001",t,"65756,100000000006",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2021,RJ,Não-Metálicos,Rochas Ornamentais - Outras,22694,t,",000000000000000",-,,22694,t,"794289,76000000001",0,t,0,22694,t,"794289,76000000001",anm,Producao_Beneficiada.csv,2026-10-11
+2021,RN,Não-Metálicos,Rochas Ornamentais,"11647,09",t,",000000000000000",-,,"10103,82",t,"40178320,210000001",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2021,RS,Não-Metálicos,Rochas Ornamentais - Outras,"57954,565000000002",t,",000000000000000",-,,"57954,565000000002",t,"1834907,325",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2021,SC,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","157132,10999999999",t,",000000000000000",-,,"151866,69",t,"37818559,859999999",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2021,SC,Não-Metálicos,Rochas Ornamentais,0,t,",000000000000000",-,,0,t,0,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2021,SC,Não-Metálicos,Rochas Ornamentais - Outras,"4362,6499999999996",t,",000000000000000",-,,"5447,5400000000009",t,"181543,43000000002",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2021,SP,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","2581,3200000000002",t,",000000000000000",-,,"2581,3200000000002",t,"1382408,8200000001",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2021,TO,Não-Metálicos,Rochas Ornamentais,1200,t,",000000000000000",-,,"295,05000000000001",t,"295,05000000000001",0,t,0,1200,t,106424,anm,Producao_Beneficiada.csv,2026-10-11
+2022,BA,Não-Metálicos,Rochas Ornamentais,"11561,58",t,",000000000000000",-,,"10672,470000000001",t,"8902874,2400000002",0,t,0,"76,799999999999997",t,"13261,379999999999",anm,Producao_Beneficiada.csv,2026-10-11
+2022,CE,Não-Metálicos,Rochas Ornamentais,19331,t,",000000000000000",-,,19331,t,"27042732,75",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2022,ES,Não-Metálicos,Rochas Ornamentais,"124230,58000000002",t,",000000000000000",-,,"105769,27999999998",t,"388565689,13000017","12415,360000000001",t,"6226853,1899999995","977,49000000000001",t,"1945642,71",anm,Producao_Beneficiada.csv,2026-10-11
+2022,GO,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","133676,26000000001",t,",000000000000000",-,,"133676,26000000001",t,"30348374,289999999",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2022,MG,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","257766,82000000001",t,",000000000000000",-,,"267979,04999999999",t,"39947825,32",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2022,MG,Não-Metálicos,Rochas Ornamentais,"1079,8799999999999",t,",000000000000000",-,,"750,25",t,"1969451,8100000001",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2022,MG,Não-Metálicos,Rochas Ornamentais - Outras,"6651,1700000000001",t,",000000000000000",-,,"6630,0900000000001",t,"11976695,870000001",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2022,PB,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","85255,039999999994",t,",000000000000000",-,,"85255,039999999994",t,"6662669,1200000001",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2022,PB,Não-Metálicos,Rochas Ornamentais,"7232,8599999999997",t,",000000000000000",-,,"7175,6199999999999",t,"23553502,919999998",0,t,0,"102,38",t,"74225,389999999999",anm,Producao_Beneficiada.csv,2026-10-11
+2022,PI,Não-Metálicos,Rochas Ornamentais,"2226,77",t,",000000000000000",-,,"2226,77",t,"3588316,46",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2022,PR,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","120924,75",t,",000000000000000",-,,9619,t,"2607163,5299999998",0,t,0,"103160,81",t,"4136748,5099999998",anm,Producao_Beneficiada.csv,2026-10-11
+2022,PR,Não-Metálicos,Rochas Ornamentais,"16344,849999999999",t,",000000000000000",-,,"11075,449999999999",t,"1029889,08","5113,1999999999998",t,"9352157,3200000003",0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2022,PR,Não-Metálicos,Rochas Ornamentais - Outras,"20743,200000000001",t,",000000000000000",-,,"18763,200000000001",t,115240,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2022,RJ,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito",271,t,",000000000000000",-,,271,t,"26133,400000000001",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2022,RN,Não-Metálicos,Rochas Ornamentais,"7461,7700000000004",t,",000000000000000",-,,"7032,3900000000003",t,32047325,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2022,RS,Não-Metálicos,Rochas Ornamentais - Outras,"54241,690000000002",t,",000000000000000",-,,"48449,5",t,"1663865,9350000001",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2022,SC,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","155158,38",t,",000000000000000",-,,"145988,47",t,"43683113,340000004",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2022,SC,Não-Metálicos,Rochas Ornamentais - Outras,"45370,389999999999",t,",000000000000000",-,,"45212,989999999998",t,"775022,19999999995",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2022,SP,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito",3312,t,",000000000000000",-,,3312,t,"3320680,7999999998",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2023,BA,Não-Metálicos,Rochas Ornamentais,"11951,73",t,",000000000000000",-,,"10484,16",t,"6295346,459999999",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2023,CE,Não-Metálicos,Rochas Ornamentais,"9904,4699999999993",t,",000000000000000",-,,"7454,1999999999998",t,"32956317,07",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2023,ES,Não-Metálicos,Rochas Ornamentais,"92266,790000000008",t,",000000000000000",-,,"66334,389999999999",t,"253418465,05000001","13696,280000000001",t,"6850435,7300000004","1353,3599999999999",t,"2703753,5",anm,Producao_Beneficiada.csv,2026-10-11
+2023,ES,Não-Metálicos,Rochas Ornamentais - Outras,"19596,110000000001",t,",000000000000000",-,,"21309,799999999999",t,"34100826,329999998",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2023,GO,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","19813,970000000001",t,",000000000000000",-,,"19419,189999999999",t,"4616073,6900000004",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2023,MG,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","243729,5",t,",000000000000000",-,,"244160,54000000001",t,"37902718,130000003",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2023,MG,Não-Metálicos,Rochas Ornamentais,"1190,48",t,",000000000000000",-,,"680,97000000000003",t,"1601591,1599999999",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2023,MG,Não-Metálicos,Rochas Ornamentais - Outras,"4760,2299999999996",t,",000000000000000",-,,"4760,2299999999996",t,"1280634,8600000001",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2023,MT,Não-Metálicos,Rochas Ornamentais,"32322,25",t,",000000000000000",-,,"32322,25",t,"2747395,46",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2023,PB,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","80347,430000000008",t,",000000000000000",-,,"70339,139999999999",t,"6880768,7000000002",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2023,PB,Não-Metálicos,Rochas Ornamentais,"9044,9600000000009",t,",000000000000000",-,,"8741,6499999999996",t,"28096083,34",0,t,0,"52,850000000000001",t,"25617,040000000001",anm,Producao_Beneficiada.csv,2026-10-11
+2023,PI,Não-Metálicos,Rochas Ornamentais,"2490,1300000000001",t,",000000000000000",-,,"2445,75",t,"2254537,1499999999",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2023,PR,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","103361,78",t,",000000000000000",-,,0,t,0,0,t,0,"103361,78",t,"4204957,3600000003",anm,Producao_Beneficiada.csv,2026-10-11
+2023,PR,Não-Metálicos,Rochas Ornamentais,"58032,349999999999",t,",000000000000000",-,,"47593,089999999997",t,"1253546,75","10413,709999999999",t,"10323947,76",0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2023,PR,Não-Metálicos,Rochas Ornamentais - Outras,15960,t,",000000000000000",-,,15960,t,552000,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2023,RJ,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","172,5",t,",000000000000000",-,,"172,5",t,13800,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2023,RN,Não-Metálicos,Rochas Ornamentais,"5484,0799999999999",t,",000000000000000",-,,"4522,0900000000001",t,"23150402,93",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2023,RS,Não-Metálicos,Rochas Ornamentais - Outras,"795,20000000000005",t,",000000000000000",-,,"795,20000000000005",t,"42456,509999999995",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2023,SC,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","170170,04999999999",t,",000000000000000",-,,"167848,47",t,"49973497,480000004",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2023,SC,Não-Metálicos,Rochas Ornamentais - Outras,"21628,209999999999",t,",000000000000000",-,,"21674,709999999999",t,"1022307,38",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2023,SP,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito",3480,t,",000000000000000",-,,3480,t,"3360962,3999999999",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2023,SP,Não-Metálicos,Rochas Ornamentais - Outras,"5367,2799999999997",t,",000000000000000",-,,"5099,6199999999999",t,"1964638,5800000001",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2024,BA,Não-Metálicos,Rochas Ornamentais,"13586,67",t,"13365,020000000000000",-,,"12809,77",t,"9444672,0899999999",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2024,CE,Não-Metálicos,Rochas Ornamentais,"8407,8299999999999",t,"8407,830000000000000",-,,"5824,6199999999999",t,"14859564,52",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2024,ES,Não-Metálicos,Rochas Ornamentais,"93650,559999999983",t,"26743,750000000000000",-,,"80245,609999999986",t,"332515260,12","11667,290000000001",t,"5769001,2400000002","2550,8200000000002",t,"4715712,1200000001",anm,Producao_Beneficiada.csv,2026-10-11
+2024,GO,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","14500,41",t,",000000000000000",-,,"14174,190000000001",t,"2086072,78",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2024,MG,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","251119,5",t,"251119,500000000000000",-,,"245897,62",t,"38933387,479999997",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2024,MG,Não-Metálicos,Rochas Ornamentais,"12120,35",t,"11851,000000000000000",-,,"9476,6200000000008",t,"2348098,3799999999",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2024,MG,Não-Metálicos,Rochas Ornamentais - Outras,"3775,8100000000004",t,"2000,000000000000000",-,,"3775,8100000000004",t,"995381,35999999999",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2024,MT,Não-Metálicos,Rochas Ornamentais,17000,t,",000000000000000",-,,17000,t,"2899660,9399999999",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2024,PB,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","192435,64999999999",t,",000000000000000",-,,"188675,01999999999",t,"12259962,310000001",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2024,PB,Não-Metálicos,Rochas Ornamentais,"10100,650000000001",t,",000000000000000",-,,"10084,910000000002",t,"21996610,34","0,12",t,"56919,050000000003",0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2024,PI,Não-Metálicos,Rochas Ornamentais,"3336,9299999999998",t,",000000000000000",-,,"3336,9299999999998",t,"485840,14000000001",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2024,PR,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito",84297,t,"100,000000000000000",-,,0,t,0,0,t,0,"95891,759999999995",t,"5623327,3899999997",anm,Producao_Beneficiada.csv,2026-10-11
+2024,PR,Não-Metálicos,Rochas Ornamentais,"80220,910000000003",t,"226,000000000000000",-,,"68412,590000000011",t,"2452672,96","11437,92",t,"10884299,060000001",0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2024,PR,Não-Metálicos,Rochas Ornamentais - Outras,13200,t,",000000000000000",-,,13200,t,434000,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2024,RJ,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","36739,989999999998",t,"36739,990000000000000",-,,22044,t,1851696,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2024,RN,Não-Metálicos,Rochas Ornamentais,"3919,8299999999999",t,"3919,830000000000000",-,,"5148,6700000000001",t,"30571822,260000002",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2024,RS,Não-Metálicos,Rochas Ornamentais - Outras,3400,t,"3400,000000000000000",-,,"259,07999999999998",t,"28932,759999999998",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2024,SC,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","192175,21000000002",t,"100,000000000000000",-,,"184321,51000000001",t,"61429845,909999996",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2024,SC,Não-Metálicos,Rochas Ornamentais - Outras,"28369,029999999999",t,",000000000000000",-,,"27881,529999999999",t,"1025727,74",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2024,SP,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito",2190,t,"2190,000000000000000",-,,2190,t,1878522,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2024,SP,Não-Metálicos,Rochas Ornamentais - Outras,6000,t,",000000000000000",-,,"6237,8299999999999",t,"2172817,4500000002",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2025,BA,Não-Metálicos,Rochas Ornamentais,"10052,910000000002",t,"9985,940000000000000",-,,"9717,7799999999988",t,"8731626,6600000001",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2025,CE,Não-Metálicos,Rochas Ornamentais,"24472,82",t,"24472,810000000000000",-,,"17512,02",t,"100514087,50999999",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2025,ES,Não-Metálicos,Rochas Ornamentais,"113640,45999999998",t,"54620,170000000000000",-,,"76611,090000000011",t,"321956684,63999993","11955,309999999999",t,"6108894,1299999999","933,5",t,"1798217,4199999999",anm,Producao_Beneficiada.csv,2026-10-11
+2025,GO,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","37101,589999999997",t,",000000000000000",-,,"37139,360000000001",t,"5940185,0999999996",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2025,MG,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","242117,22",t,"242117,220000000000000",-,,"247981,20999999999",t,"42147174,979999997",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2025,MG,Não-Metálicos,Rochas Ornamentais,"1218,76",t,"1217,860000000000000",-,,"1317,73",t,"946023,58000000007",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2025,MG,Não-Metálicos,Rochas Ornamentais - Outras,"1646,6199999999999",t,",000000000000000",-,,"1646,6199999999999",t,"1742110,1299999999",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2025,PB,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","283121,82000000001",t,"140500,000000000000000",-,,"250140,10000000001",t,"15113654,07",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2025,PB,Não-Metálicos,Rochas Ornamentais,"9760,7999999999993",t,",000000000000000",-,,"8997,5699999999997",t,"23591420,600000001","597,38",t,"58571,589999999997",0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2025,PI,Não-Metálicos,Rochas Ornamentais,"21968,200000000001",t,",000000000000000",-,,"21968,200000000001",t,"1839746,3899999999",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2025,PR,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito",102905,t,",000000000000000",-,,0,t,0,0,t,0,"102381,50999999999",t,"7728958,6100000003",anm,Producao_Beneficiada.csv,2026-10-11
+2025,PR,Não-Metálicos,Rochas Ornamentais,"71795,209999999992",t,"1356,000000000000000",-,,"70786,799999999988",t,"4194807,8099999996",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2025,PR,Não-Metálicos,Rochas Ornamentais - Outras,3480,t,",000000000000000",-,,3480,t,40000,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2025,RJ,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","13480,549999999999",t,"13480,550000000000000",-,,"13480,549999999999",t,403840,0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2025,RN,Não-Metálicos,Rochas Ornamentais,"5997,6000000000004",t,"5997,580000000000000",-,,"4290,0100000000002",t,"31114886,199999999",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2025,RS,Não-Metálicos,Rochas Ornamentais - Outras,"6215,3999999999996",t,"4293,000000000000000",-,,"6057,3999999999996",t,899023,0,t,0,"1922,4000000000001",t,49840,anm,Producao_Beneficiada.csv,2026-10-11
+2025,SC,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","157717,90000000002",t,",000000000000000",-,,"144894,98000000001",t,"48695313,030000001",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2025,SC,Não-Metálicos,Rochas Ornamentais - Outras,"33397,050000000003",t,"1519,800000000000000",-,,"32589,549999999999",t,"798633,19999999995",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2025,SP,Não-Metálicos,"Feldspato, Leucita e Nefelina-Sienito","324,38",t,"324,380000000000000",-,,"324,38",t,"89261,899999999994",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
+2025,SP,Não-Metálicos,Rochas Ornamentais - Outras,4200,t,"4200,000000000000000",-,,"4098,5699999999997",t,"1468883,8500000001",0,t,0,0,t,0,anm,Producao_Beneficiada.csv,2026-10-11
