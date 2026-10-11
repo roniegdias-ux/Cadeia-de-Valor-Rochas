@@ -1,0 +1,282 @@
+Fonte: https://centrorochas.org.br/wp-content/uploads/2026/07/Apresentacao-Drawback-Miryam-Paschke-Heuller.pdf
+Post de origem: https://centrorochas.org.br/noticia/especialistas-detalham-processos-de-tributacao-e-logistica-nas-operacoes-de-comercio-exterior-durante-webinar/
+
+Regime Aduaneiro Especial
+Drawback
+Míryam Paschke Heuller
+25/11/2020
+LEGISLAÇÃO BÁSICA
+
+• Decreto-Lei nº 37, de 18 de novembro de 1966. Norma instituidora do regime de drawback.
+• Lei nº 11.945, de 4 de junho de 2009. Define regras gerais do regime de drawback na modalidade
+suspensão.
+• Lei nº 12.350, de 20 de dezembro de 2010. Define regras gerais do regime de drawback na modalidade
+isenção.
+• Decreto nº 6.759, de 5 de fevereiro de 2009. Regulamento Aduaneiro. Define regras e procedimentos
+relativos ao regime de drawback e confere à RFB e à Secex a competência para disciplinar, em ato conjunto, as
+modalidades suspensão e isenção.
+• Portaria Conjunta RFB/Secex nº 467, de 25 de março de 2010. Disciplina o regime especial de Drawback
+Integrado, que suspende o pagamento de tributos que especifica.
+• Portaria Conjunta RFB/Secex nº 3, de 17 de dezembro de 2010. Disciplina o regime especial de Drawback
+Integrado Isenção.
+• Portaria Secex nº 23, de 14 de julho de 2011 (consolidada). Norma consolidada da Secex sobre diversas
+operações de comércio exterior. Define regras e procedimentos relativos à concessão, acompanhamento e
+comprovação de operações de drawback.
+• Portaria SECEX nº 44, de 24 de julho de 2020. Dispõe sobre o regime aduaneiro especial de drawback e
+altera a Portaria SECEX nº 23, de 14 de julho de 2011, que dispõe sobre operações de comércio exterior.
+CONCEITO
+
+• Regime aduaneiro especial que permite adquirir, por meio de
+  importação ou compra no mercado interno, insumos utilizados na
+  industrialização de produto a ser exportado com desoneração da carga
+  tributária.
+
+• Permite às empresas reduzir custos e consequentemente aumentar a
+  competitividade dos produtos nacionais.
+
+• As principais modalidades de drawback são: Drawback Suspensão e
+  Drawback Isenção.
+Abrangência
+
+• Caracteriza-se como industrialização qualquer operação que modifique
+  a natureza, o funcionamento, o acabamento, a apresentação ou a
+  finalidade do produto, ou o aperfeiçoe para consumo:
+    I – Transformação;
+    II – Beneficiamento;
+    III - Montagem;
+    IV – Renovação ou Recondicionamento;
+    V - Acondicionamento ou reacondicionamento.
+Aspectos Gerais
+
+• Concessão compete à SUEXT (Subsecretaria de Operações de Comércio
+  Exterior);
+• Empresa tem que estar habilitada no Radar;
+• Apresentar Certidão Negativa Federal;
+• Solicitação realizada através do sistema Siscomex;
+• Necessidade de Laudo Técnico com índices de consumo;
+• Instrumento de controle do drawback é o ATO CONCESSÓRIO.
+DRAWBACK SUSPENSÃO
+Drawback Suspensão
+
+• Aquisição no mercado interno ou a importação, de forma combinada ou não, de
+  mercadoria para emprego ou consumo na industrialização de produto a ser exportado
+  poderá ser realizada com suspensão:
+    • II - Imposto de Importação;
+    • IPI - Imposto sobre Produtos Industrializados;
+    • PIS;
+    • PIS-Importação;
+    • Cofins;
+    • Cofins-Importação;
+    • AFRMM;
+    • ICMS*;
+*Apenas nas importações
+Processo Geral do Drawback Suspensão
+
+          1 – Solicita Drawback
+                Suspensão
+Empresa
+                                              Fornecedor         3 - Importação de    Fornecedor
+                                                              Insumos com suspensão
+                                                                     de tributos
+          2 – Analisa e concede
+             Ato Concessório          3 – Aquisição de
+                                  Insumos com suspensão
+                                         de tributos
+
+
+
+
+          4 – Adquire insumos e
+               industrializa
+Empresa                                      5 – Exportação
+                                              produto final
+
+
+
+          6 – Atesta Operação
+              de Drawback
+                                                                                       Importador
+Prazo de Vigência
+
+• Regra Geral: 1 ano (prorrogável por mais 1 ano) a partir do deferimento
+  do Ato Concessório;
+• Exceção:
+    • Bens de Capital de longo ciclo de fabricação – prorrogações até 5
+      anos (art. 20, Portaria Secex 44/2020).
+Fluxo Operacional
+
+• Pedido – Registro do AC
+   ✓ Deve ser informado as quantidades previstas a serem exportadas, aplicados os índices
+     de consumo e informadas as quantidades e valores das aquisições planejadas.
+• Análise
+   ✓ A SUEXT tem até 30 dias para analisar o pedido de AC.
+• Deferimento – concessão do AC, quando começa a contar o prazo
+• Ajustes
+   ✓ Dentro do prazo de vigência, é possível fazer ajustes no AC, sendo inclusive necessário
+     fazer os ajustes antes da baixa.
+• Comprovação – baixa
+   ✓ Confirmar se todas as DU-E’s e Notas Fiscais de aquisição no mercado interno estão
+     devidamente registradas no AC e solicitar a baixa.
+Impossibilidade de Comprovação
+
+• Em relação às mercadorias importadas:
+    ✓ devolução ao exterior;
+    ✓ destruição, sob controle aduaneiro, às expensas do interessado;
+    ✓ destinação para consumo das mercadorias remanescentes, com o pagamento dos
+      tributos suspensos e dos acréscimos legais;
+    ✓ entrega à Fazenda Nacional, livres de quaisquer despesas e ônus, desde que a
+      autoridade aduaneira concorde em recebê-las.
+• Em relação às mercadorias adquiridos no mercado interno, o pagamento dos tributos
+  suspensos e dos acréscimos legais, observada a legislação de cada tributo.
+DRAWBACK ISENÇÃO
+Drawback Isenção
+
+• Aquisição no mercado interno ou a importação, de forma
+  combinada ou não, de mercadoria equivalente à empregada
+  ou consumida na industrialização de produto exportado
+  poderá ser realizada:
+  ✓Com isenção do II;
+  ✓Com redução a zero do IPI, PIS, Cofins, PIS-Importação e da Cofins-
+   Importação.
+       Processo Geral do Drawback Isenção
+                                                    1 – Importação com recolhimento de tributos
+
+
+                                                    1 – Aquisição com
+                 Empresa                            recolhimento de tributos
+                                2 – Industrializa                                                           Fornecedor
+                                                                                 Fornecedor
+                                                            3 – Exportação
+                                                             produto final
+
+
+                                                                                                            Importador
+
+
+
+                                                                   5 – Analisa e concede Ato
+                                                                         Concessório
+      Empresa
+      4 – Solicita Drawback Isenção
+
+
+
+                                                       6 – Aquisição com                       Fornecedor
+                                                      isenção de tributos
+
+       Empresa
+                                                        6 – Importação com                                  Fornecedor
+7 – Repõe estoques de insumos                           isenção de tributos
+Prazo de Vigência
+
+• 1 ano (prorrogável por mais 1 ano) a partir do
+  deferimento do Ato Concessório
+Fluxo Operacional
+
+• Pedido – Registro do AC
+   ✓ Vincular todas as DI’s e Notas fiscais de aquisição de até 2 anos antes do deferimento
+     do AC;
+   ✓ Vincular as DU-E’s que comprovam as exportações realizadas.
+• Análise
+   ✓ A SUEXT tem até 30 dias para analisar o AC.
+• Deferimento
+   ✓ Concessão do AC, quando começa a contar o prazo
+• Ajustes
+   ✓ Vinculações das notas fiscais de aquisição no mercado interno
+• Comprovação
+   ✓ Neste caso a comprovação já ocorreu, a partir do vencimento do AC não são mais
+     autorizadas aquisições com utilização do beneficio.
+Drawback Intermediário
+Processo Geral do Drawback Intermediário
+Suspensão
+
+  Fabricante      1 – Solicita Drawback
+Intermediário           Suspensão
+
+                                                          Fornecedor           3 – Importação de Insumos   Fornecedor
+                                                                               com suspensão de tributos
+
+                2 – Analisa e concede Ato
+                      Concessório
+                                             3 – Aquisição de Insumos
+                                            com suspensão de tributos
+
+
+
+
+                4 – Adquire insumos e
+  Fabricante         industrializa
+Intermediário
+
+                                                   5 – Exportação produto
+                                                            final
+                                                      6 – Informa o AC do
+  Empresa                                           Fabricante Intermediário                                  Importador
+             Processo Geral do Drawback Intermediário
+             Isenção
+                                  1 – Importação com recolhimento de tributos
+      Fabricante
+    Intermediário
+                                          1 – Aquisição com
+     2 – Industrializa                                                                               Fornecedor
+                                          recolhimento de tributos
+
+
+                                                                                    Fornecedor
+
+                                                 3 – Exportação
+       Empresa                                                                                       Importador
+                                                  produto final
+
+
+
+
+                                                            5 – Analisa e concede
+     Fabricante                                                Ato Concessório
+   Intermediário
+4 – Solicita Drawback Isenção
+
+
+                                                    6 – Aquisição com                   Fornecedor
+                                                   isenção de tributos
+     Fabricante
+   Intermediário
+  7 – Repõe estoques de insumos                      6 – Importação com                              Fornecedor
+                                                     isenção de tributos
+Regimes Atípicos de Drawback
+
+• Drawback para a Industrialização de Embarcações
+   Permite a importação de insumos utilizados na industrialização de embarcação
+   destinada ao mercado interno.
+   Não se aplica a compras no mercado interno.
+   Prazo de 1 ano, podendo ser prorrogável por até 7 anos.
+• Drawback para Fornecimento no Mercado Interno em Decorrência de
+  Licitações
+   Suspensão do pagamento de impostos na importação de matérias-primas, produtos
+   intermediários e componentes destinados à fabricação, no País, de máquinas e
+   equipamentos a serem fornecidos no mercado interno, em decorrência de licitação
+   internacional.
+Portaria SECEX nº 44, 24 de Julho de 2020
+
+• Vigência a partir de 11/08/2020;
+• Unificou a legislação de drawback da Portaria 23/2011 e revogou o capítulo 3 e seus
+  respectivos anexos;
+• Trata de Drawback e outros assuntos;
+• Trouxe clareza na definição das modalidades de drawback;
+• Admite exportação de até 20% acima do autorizado;
+• Não faz referencia ao percentual de perda admitido;
+• Não faz referencia sobre operações sem cobertura cambial;
+• Determina o indeferimento do AC para empresas nos últimos 2 anos tenha AC sem
+  nenhum exportação vinculada;
+• Laudo técnico pode ser solicitado a qualquer tempo;
+• Falta de resposta às exigências, acarreta no indeferimento do AC.
+Dicas
+
+• Planejar o AC antes de solicitar a abertura do AC;
+• Iniciar o planejamento pela quantidade prevista a ser exportada;
+• Utilizar os manuais de drawback disponíveis no site do SISCOMEX;
+• Ter alguém na empresa responsável pelo controle do beneficio;
+• Verificar na legislação estadual se há alguma exigência quanto à
+  comprovação do Drawback junto ao Estado.
+Obrigada!
+miryampaschke@gmail.com
