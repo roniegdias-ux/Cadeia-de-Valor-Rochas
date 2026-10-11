@@ -1,8 +1,8 @@
 # Literatura cinzenta em PDF — 2026-10-11
 
-- PDFs candidatos (filtro `informe|exporta|balan[cç]o|estudo|perfil|panorama|boletim|relat[oó]rio|anu[aá]rio|diagn[oó]stico|rochas`): 165
-- Com texto extraído: **22**; falhas acumuladas: 143
-- Novos nesta execução: 13; falhas nesta execução: 136
+- PDFs candidatos (filtro `informe|exporta|balan[cç]o|estudo|perfil|panorama|boletim|relat[oó]rio|anu[aá]rio|diagn[oó]stico|rochas`): 655
+- Com texto extraído: **34**; falhas acumuladas: 236
+- Novos nesta execução: 14; falhas nesta execução: 93; pendentes por orçamento de tempo: 527 (retomar)
 
 - sitemap https://abirochas.com.br/sitemap.xml: HTTP 404 HTTPError 404: Not Found | <?xml version="1.0" encoding="UTF-8"?> <?xml-styleshe
 
@@ -22,29 +22,114 @@
 | [1774882265521_2022_11_11_documento_da_defesa_civil_mostrando_o_risco_de_rolament](https://www.netdeal.com.br/api/images/producao.spayce.com.br/1774882265521_2022_11_11_documento_da_defesa_civil_mostrando_o_risco_de_rolamento_de_rochas_em_paredao_no_parque_pedra_da_cebola_909648.pdf) | agazeta | 0 | PDF sem texto extraível (provavelmente imagem escaneada) |
 | [25-20240712_carta_aberta_as_autoridades_publicas.pdf](https://centrorochas.org.br/wp-content/uploads/2026/07/25-20240712_carta_aberta_as_autoridades_publicas.pdf) | centrorochas | 6246 | ok |
 | [ANMFINDES2019-1.pdf](https://centrorochas.org.br/website/wp-content/uploads/2020/01/ANMFINDES2019-1.pdf) | wb-centrorochas-antigo | 0 | URLError: <urlopen error [Errno 111] Connection refused> |
+| [Agentes_Transformacao_Setorial_b.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/Panorama/Agentes_Transformacao_Setorial_b.pdf) | wb-abirochas | 0 | URLError: <urlopen error _ssl.c:993: The handshake operation |
+| [Agentes_Transformação_Setorial.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/Panorama/Agentes_Transforma%C3%A7%C3%A3o_Setorial.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
 | [Agosto-•-2021.pdf](https://centrorochas.org.br/website/wp-content/uploads/2021/09/Agosto-%E2%80%A2-2021.pdf) | wb-centrorochas-antigo | 0 | HTTPError 429: Too Many Requests | Your request is being blo |
 | [Apresentacao-Drawback-Miryam-Paschke-Heuller.pdf](https://centrorochas.org.br/wp-content/uploads/2026/07/Apresentacao-Drawback-Miryam-Paschke-Heuller.pdf) | centrorochas | 11894 | ok |
 | [Apresentacao-Drawback-Miryam-Paschke-Heuller.pdf](https://centrorochas.org.br/website/wp-content/uploads/2020/11/Apresentacao-Drawback-Miryam-Paschke-Heuller.pdf) | wb-centrorochas-antigo | 0 | URLError: <urlopen error _ssl.c:993: The handshake operation |
 | [Apresentacao-Imetame-Logistica-Porto-CENTROROCHAS-2024-PDF.pdf](https://centrorochas.org.br/wp-content/uploads/2026/07/Apresentacao-Imetame-Logistica-Porto-CENTROROCHAS-2024-PDF.pdf) | centrorochas | 34919 | ok |
 | [Apresentacao-Imetame-Logistica-Porto-CENTROROCHAS-2024-PDF.pdf](https://centrorochas.org.br/website/wp-content/uploads/2024/05/Apresentacao-Imetame-Logistica-Porto-CENTROROCHAS-2024-PDF.pdf) | wb-centrorochas-antigo | 0 | HTTPError 429: Too Many Requests | Your request is being blo |
 | [Arquivo-da-apresentacao-da-RFB.pdf](https://centrorochas.org.br/wp-content/uploads/2026/07/Arquivo-da-apresentacao-da-RFB.pdf) | centrorochas | 2067 | ok |
+| [Atividades_Setoriais_Brasil.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/Panorama/Atividades_Setoriais_Brasil.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Bloco_K.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/Informes/Bloco_K.pdf) | wb-abirochas | 0 | URLError: <urlopen error _ssl.c:993: The handshake operation |
 | [Book_Moveis-e-Colchoes.pdf](https://centrorochas.org.br/wp-content/uploads/2026/07/Book_Moveis-e-Colchoes.pdf) | centrorochas | 22644 | ok |
 | [Book_Moveis-e-Colchoes.pdf](https://centrorochas.org.br/website/wp-content/uploads/2021/07/Book_Moveis-e-Colchoes.pdf) | wb-centrorochas-antigo | 0 | URLError: <urlopen error [Errno 111] Connection refused> |
+| [Brasil_no_Mercado_Internacional_2017.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/Panorama/Brasil_no_Mercado_Internacional_2017.pdf) | wb-abirochas | 16278 | ok |
+| [Brasil_no_Mercado_Internacional_2017_b.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/Panorama/Brasil_no_Mercado_Internacional_2017_b.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
 | [CenarioMar2020_CentroRochas.pdf](https://centrorochas.org.br/wp-content/uploads/2026/07/CenarioMar2020_CentroRochas.pdf) | centrorochas | 7808 | ok |
 | [CenarioMar2020_CentroRochas.pdf](https://centrorochas.org.br/website/wp-content/uploads/2020/03/CenarioMar2020_CentroRochas.pdf) | wb-centrorochas-antigo | 0 | URLError: <urlopen error [Errno 111] Connection refused> |
+| [Cenario_Mundial_2017.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/Panorama/Cenario_Mundial_2017.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Cenario_Mundial_2017_b.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/Panorama/Cenario_Mundial_2017_b.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
 | [Centrorochas-•-Relatorio-de-Exportacoes-Outubro-2022.pdf](https://centrorochas.org.br/website/wp-content/uploads/2022/11/Centrorochas-%E2%80%A2-Relatorio-de-Exportacoes-Outubro-2022.pdf) | wb-centrorochas-antigo | 0 | URLError: <urlopen error [Errno 111] Connection refused> |
 | [Codigo-etica-e-conduta2025.pdf](https://centrorochas.org.br/website/wp-content/uploads/2025/10/Codigo-etica-e-conduta2025.pdf) | wb-centrorochas-antigo | 0 | HTTPError 429: Too Many Requests | Your request is being blo |
+| [Consumo_Interno_Aparente.pdf](http://abirochas.com.br:80/wp-content/uploads/2018/06/Panorama/Consumo_Interno_Aparente.pdf) | wb-abirochas | 8691 | ok |
+| [Consumo_Interno_Aparente_b.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/Panorama/Consumo_Interno_Aparente_b.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
 | [Contratos-de-Cambio-Resultado-Coleta-Info.pdf](https://centrorochas.org.br/wp-content/uploads/2026/07/Contratos-de-Cambio-Resultado-Coleta-Info.pdf) | centrorochas | 9705 | ok |
 | [Contratos-de-Câmbio-Resultado-Coleta-Info.pdf](http://centrorochas.org.br/wp-content/uploads/2020/09/Contratos-de-C%C3%A2mbio-Resultado-Coleta-Info.pdf) | wb-centrorochas-antigo | 0 | HTTPError 429: Too Many Requests | Your request is being blo |
 | [Dezembro-2020-2.pdf](https://centrorochas.org.br/website/wp-content/uploads/2021/01/Dezembro-2020-2.pdf) | wb-centrorochas-antigo | 0 | URLError: <urlopen error [Errno 111] Connection refused> |
+| [Efeitos_Regulatorios_Globalizacao_b.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/Panorama/Efeitos_Regulatorios_Globalizacao_b.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Efeitos_Regulatórios_Globalização.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/Panorama/Efeitos_Regulat%C3%B3rios_Globaliza%C3%A7%C3%A3o.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Estrutura_de_Comercializacao_Mercado_Interno.pdf](http://www.abirochas.com.br/info_mercado/Estrutura_de_Comercializacao_Mercado_Interno.pdf) | wb-abirochas | 0 | URLError: <urlopen error _ssl.c:993: The handshake operation |
+| [Exporta_Importa Novembro_2019.pdf](https://abirochas.com.br/wp-content/uploads/2019/09/Exporta_Importa%20Novembro_2019.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Exporta_Importa Outubro_2019.pdf](https://abirochas.com.br/wp-content/uploads/2019/09/Exporta_Importa%20Outubro_2019.pdf) | wb-abirochas | 0 | URLError: <urlopen error _ssl.c:993: The handshake operation |
+| [Exporta_Importa-Abril_2019.pdf](https://abirochas.com.br/wp-content/uploads/2019/05/Exporta_Importa-Abril_2019.pdf) | wb-abirochas | 0 | URLError: <urlopen error _ssl.c:993: The handshake operation |
+| [Exporta_Importa-Julho_2021.pdf](http://abirochas.com.br/wp-content/uploads/2021/08/Exporta_Importa-Julho_2021.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Exporta_Importa-Junho-2018.pdf](http://abirochas.com.br/wp-content/uploads/2018/07/Exporta_Importa-Junho-2018.pdf) | wb-abirochas | 0 | HTTPError 429: Too Many Requests | Your request is being blo |
+| [Exporta_Importa-Junho_2021.pdf](http://abirochas.com.br/wp-content/uploads/2021/07/Exporta_Importa-Junho_2021.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Exporta_Importa-Maio_2021-v2.pdf](http://abirochas.com.br/wp-content/uploads/2021/06/Exporta_Importa-Maio_2021-v2.pdf) | wb-abirochas | 0 | URLError: <urlopen error _ssl.c:993: The handshake operation |
+| [Exporta_Importa-Marco_2021.pdf](http://abirochas.com.br/wp-content/uploads/2021/04/Exporta_Importa-Marco_2021.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Exporta_Importa-Outubro_2021.pdf](http://abirochas.com.br/wp-content/uploads/2021/11/Exporta_Importa-Outubro_2021.pdf) | wb-abirochas | 0 | HTTPError 429: Too Many Requests | Your request is being blo |
+| [Exporta_Importa-Setembro_2021.pdf](http://abirochas.com.br/wp-content/uploads/2021/10/Exporta_Importa-Setembro_2021.pdf) | wb-abirochas | 0 | URLError: <urlopen error _ssl.c:993: The handshake operation |
+| [Exporta_Importa_Abril_2018.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/planilhas/Exporta_Importa_Abril_2018.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Exporta_Importa_Agosto_2018.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/planilhas/Exporta_Importa_Agosto_2018.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Exporta_Importa_Agosto_2019.pdf](https://abirochas.com.br/wp-content/uploads/2019/05/Exporta_Importa_Agosto_2019.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Exporta_Importa_Dezembro_2018.pdf](http://abirochas.com.br:80/wp-content/uploads/2018/06/planilhas/Exporta_Importa_Dezembro_2018.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Exporta_Importa_Fevereiro_2019.pdf](https://abirochas.com.br/wp-content/uploads/2018/06/planilhas/Exporta_Importa_Fevereiro_2019.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Exporta_Importa_Janeiro_2019.pdf](https://abirochas.com.br/wp-content/uploads/2018/06/planilhas/Exporta_Importa_Janeiro_2019.pdf) | wb-abirochas | 0 | URLError: <urlopen error _ssl.c:993: The handshake operation |
+| [Exporta_Importa_Julho_2018.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/planilhas/Exporta_Importa_Julho_2018.pdf) | wb-abirochas | 0 | URLError: <urlopen error _ssl.c:993: The handshake operation |
+| [Exporta_Importa_Julho_2019.pdf](https://abirochas.com.br/wp-content/uploads/2019/05/Exporta_Importa_Julho_2019.pdf) | wb-abirochas | 0 | URLError: <urlopen error _ssl.c:993: The handshake operation |
+| [Exporta_Importa_Junho 2018.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/planilhas/Exporta_Importa_Junho%202018.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Exporta_Importa_Junho_2019.pdf](https://abirochas.com.br/wp-content/uploads/2019/05/Exporta_Importa_Junho_2019.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Exporta_Importa_Maio_2018.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/planilhas/Exporta_Importa_Maio_2018.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Exporta_Importa_Maio_2019.pdf](https://abirochas.com.br/wp-content/uploads/2019/05/Exporta_Importa_Maio_2019.pdf) | wb-abirochas | 0 | HTTPError 429: Too Many Requests | Your request is being blo |
+| [Exporta_Importa_Marco_2018.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/planilhas/Exporta_Importa_Marco_2018.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Exporta_Importa_Marco_2019_2.pdf](https://abirochas.com.br/wp-content/uploads/2018/06/planilhas/Exporta_Importa_Marco_2019_2.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Exporta_Importa_Novembro_2018.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/planilhas/Exporta_Importa_Novembro_2018.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Exporta_Importa_Novembro_2018.pdf](http://abirochas.com.br/wp-content/uploads/2018/12/Exporta_Importa_Novembro_2018.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Exporta_Importa_Outubro_2018.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/planilhas/Exporta_Importa_Outubro_2018.pdf) | wb-abirochas | 0 | URLError: <urlopen error _ssl.c:993: The handshake operation |
+| [Exporta_Importa_Setembro_2018.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/planilhas/Exporta_Importa_Setembro_2018.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Exporta_Importa_Setembro_2019.pdf](https://abirochas.com.br/wp-content/uploads/2019/10/Exporta_Importa_Setembro_2019.pdf) | wb-abirochas | 0 | HTTPError 429: Too Many Requests | Your request is being blo |
+| [Exporta_importa-fevereiro_2020.pdf](https://abirochas.com.br/wp-content/uploads/2020/05/Exporta_importa-fevereiro_2020.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Exporta_importa-janeiro_2020.pdf](https://abirochas.com.br/wp-content/uploads/2020/05/Exporta_importa-janeiro_2020.pdf) | wb-abirochas | 30198 | ok |
+| [Exporta_importa-junho_2020.pdf](https://abirochas.com.br/wp-content/uploads/2020/07/Exporta_importa-junho_2020.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Exporta_importa-maio_2020.pdf](https://abirochas.com.br/wp-content/uploads/2020/06/Exporta_importa-maio_2020.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Exporta_importa-marco_2020.pdf](https://abirochas.com.br/wp-content/uploads/2020/05/Exporta_importa-marco_2020.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Exporta_importa_Fevereiro_2018.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/planilhas/Exporta_importa_Fevereiro_2018.pdf) | wb-abirochas | 0 | URLError: <urlopen error _ssl.c:993: The handshake operation |
+| [Exporta_importa_Janeiro_2018.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/planilhas/Exporta_importa_Janeiro_2018.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Exporta_importa_abril_2020.pdf](https://abirochas.com.br/wp-content/uploads/2020/05/Exporta_importa_abril_2020.pdf) | wb-abirochas | 0 | URLError: <urlopen error _ssl.c:993: The handshake operation |
+| [Exportacoes_e_Importacoes_Brasileiras_2017_c.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/Panorama/Exportacoes_e_Importacoes_Brasileiras_2017_c.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Exportacoes_rochas_2004.pdf](http://www.abirochas.com.br:80/br/info_mercado/Exportacoes_rochas_2004.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Exportações_e_Importações_Brasileiras_2017.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/Panorama/Exporta%C3%A7%C3%B5es_e_Importa%C3%A7%C3%B5es_Brasileiras_2017.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
 | [FINANEXPAGOSTO.pdf](http://www.centrorochas.org.br/download/FINANEXPAGOSTO.pdf) | wb-centrorochas-antigo | 0 | URLError: <urlopen error [Errno 111] Connection refused> |
+| [Indicadores_Tendencias_Setoriais.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/Panorama/Indicadores_Tendencias_Setoriais.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Indicadores_Tendencias_Setoriais_b.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/Panorama/Indicadores_Tendencias_Setoriais_b.pdf) | wb-abirochas | 0 | URLError: <urlopen error _ssl.c:993: The handshake operation |
+| [Informe-01-2018-Balanco-2017.pdf](http://abirochas.com.br/wp-content/uploads/2018/03/Informe-01-2018-Balanco-2017.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Informe-01_2020-Balanço-2019.pdf](https://abirochas.com.br/wp-content/uploads/2020/06/Informe-01_2020-Balan%C3%A7o-2019.pdf) | wb-abirochas | 0 | URLError: <urlopen error _ssl.c:993: The handshake operation |
+| [Informe-a-industria-brasileira-de-rochas.pdf](https://abirochas.com.br/wp-content/uploads/2020/03/Informe-a-industria-brasileira-de-rochas.pdf) | wb-abirochas | 0 | URLError: <urlopen error _ssl.c:993: The handshake operation |
+| [Informe_01_2018_Balanco_2017.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/Informes/Informe_01_2018_Balanco_2017.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Informe_01_2018_Balanco_2017_v2.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/balancos/Informe_01_2018_Balanco_2017_v2.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Informe_01_2019_Balanco_2018.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/Informes/Informe_01_2019_Balanco_2018.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Informe_01_2020_Balanco_2019.pdf](https://abirochas.com.br/wp-content/uploads/2020/02/Informe_01_2020_Balanco_2019.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Informe_02_2018_Balanco_1_Trimestre.pdf](http://abirochas.com.br/wp-content/uploads/2018/01/Informe_02_2018_Balanco_1_Trimestre.pdf) | wb-abirochas | 0 | URLError: <urlopen error _ssl.c:993: The handshake operation |
+| [Informe_02_2018_Balanco_1_Trimestre.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/balancos/Informe_02_2018_Balanco_1_Trimestre.pdf) | wb-abirochas | 0 | HTTPError 429: Too Many Requests | Your request is being blo |
+| [Informe_02_2018_Balanço_1_Trimestre.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/Informes/Informe_02_2018_Balan%C3%A7o_1_Trimestre.pdf) | wb-abirochas | 0 | URLError: <urlopen error _ssl.c:993: The handshake operation |
+| [Informe_02_2020_Primeiro_Trimestre_2020_v2.pdf](https://abirochas.com.br/wp-content/uploads/2020/03/Informe_02_2020_Primeiro_Trimestre_2020_v2.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Informe_02_2020_Primeiro_Trimestre_2020_v2.pdf](https://abirochas.com.br/wp-content/uploads/2020/04/Informe_02_2020_Primeiro_Trimestre_2020_v2.pdf) | wb-abirochas | 0 | URLError: <urlopen error _ssl.c:993: The handshake operation |
+| [Informe_03_2018_Balanco_1_Semestre.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/balancos/Informe_03_2018_Balanco_1_Semestre.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Informe_03_2018_Balanço_1Semestre.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/Informes/Informe_03_2018_Balan%C3%A7o_1Semestre.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Informe_03_2018_Balanço_1º_Semestre.pdf](http://abirochas.com.br/wp-content/uploads/2018/01/Informe_03_2018_Balan%C3%A7o_1%C2%BA_Semestre.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Informe_03_2019_Maio.pdf](https://abirochas.com.br/wp-content/uploads/2019/04/Informe_03_2019_Maio.pdf) | wb-abirochas | 0 | HTTPError 429: Too Many Requests | Your request is being blo |
+| [Informe_04_2018Designacoes_Comerciais.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/Informes/Informe_04_2018Designacoes_Comerciais.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Informe_04_2019_1_Semestre.pdf](https://abirochas.com.br/wp-content/uploads/2019/05/Informe_04_2019_1_Semestre.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Informe_05_2018_Setor_de_Rochas_Ornamentais_c.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/Informes/Informe_05_2018_Setor_de_Rochas_Ornamentais_c.pdf) | wb-abirochas | 0 | URLError: <urlopen error _ssl.c:993: The handshake operation |
+| [Informe_06_2018_Exporta_Jan_Set_2018.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/Informes/Informe_06_2018_Exporta_Jan_Set_2018.pdf) | wb-abirochas | 27986 | ok |
+| [Informe_06_2018_Exporta_Jan_Set_2018_b.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/balancos/Informe_06_2018_Exporta_Jan_Set_2018_b.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
 | [Julho-•-2021.pdf](https://centrorochas.org.br/website/wp-content/uploads/2021/08/Julho-%E2%80%A2-2021.pdf) | wb-centrorochas-antigo | 0 | URLError: <urlopen error [Errno 111] Connection refused> |
+| [Livro_Guia_de_Aplicacao_de_Rochas_01_08_2013.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/guia/Livro_Guia_de_Aplicacao_de_Rochas_01_08_2013.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Livro_Guia_de_Aplicacao_de_Rochas_14_04_2019.pdf](https://abirochas.com.br/wp-content/themes/abirochas-theme/assets/files/Livro_Guia_de_Aplicacao_de_Rochas_14_04_2019.pdf) | wb-abirochas | 0 | URLError: <urlopen error _ssl.c:993: The handshake operation |
+| [Livro_Guia_de_Aplicacao_de_Rochas_14_04_2019_compressed.pdf](https://abirochas.com.br/wp-content/uploads/2019/04/Livro_Guia_de_Aplicacao_de_Rochas_14_04_2019_compressed.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Livro_Guia_de_Aplicacao_de_Rochas_1_08_2013.pdf](http://abirochas.com.br/wp-content/themes/abirochas-theme/assets/files/Livro_Guia_de_Aplicacao_de_Rochas_1_08_2013.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
 | [MANUAL-DE-CONTRAPARTIDA.pdf](https://centrorochas.org.br/wp-content/uploads/2026/07/MANUAL-DE-CONTRAPARTIDA.pdf) | centrorochas | 11190 | ok |
 | [Mercado-Dezembro_Pesquisa-Resultado-2.pdf](https://centrorochas.org.br/wp-content/uploads/2026/07/Mercado-Dezembro_Pesquisa-Resultado-2.pdf) | centrorochas | 17101 | ok |
 | [OEA-APRESENTACAO-ES-CENTROROCHAS.pdf](https://centrorochas.org.br/wp-content/uploads/2026/07/OEA-APRESENTACAO-ES-CENTROROCHAS.pdf) | centrorochas | 2587 | ok |
 | [Outubro-•-2021.pdf](https://centrorochas.org.br/website/wp-content/uploads/2021/11/Outubro-%E2%80%A2-2021.pdf) | wb-centrorochas-antigo | 0 | URLError: <urlopen error [Errno 111] Connection refused> |
+| [Perfil_das_Atividades_Setoriais_Brasil_b.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/Panorama/Perfil_das_Atividades_Setoriais_Brasil_b.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [Producao_Brasileira_Lavra_b.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/Panorama/Producao_Brasileira_Lavra_b.pdf) | wb-abirochas | 0 | URLError: <urlopen error _ssl.c:993: The handshake operation |
+| [Quartzitos_Sao_Tome.pdf](http://www.abirochas.com.br/info_mercado/Quartzitos_Sao_Tome.pdf) | wb-abirochas | 25168 | ok |
+| [Quartzitos_Sao_Tome.pdf](http://www.abirochas.com.br:80/br/info_mercado/Quartzitos_Sao_Tome.pdf) | wb-abirochas | 0 | URLError: <urlopen error _ssl.c:993: The handshake operation |
 | [RESOLUCAO-ANTAQ-7586.pdf](https://centrorochas.org.br/wp-content/uploads/2026/07/RESOLUCAO-ANTAQ-7586.pdf) | centrorochas | 2404 | ok |
 | [RESOLUÇÃO-ANTAQ-7586.pdf](http://centrorochas.org.br/wp-content/uploads/2020/03/RESOLU%C3%87%C3%83O-ANTAQ-7586.pdf) | wb-centrorochas-antigo | 0 | URLError: <urlopen error [Errno 111] Connection refused> |
+| [Rapporto_2017.pdf](http://abirochas.com.br/wp-content/uploads/2018/06/relatorio/Rapporto_2017.pdf) | wb-abirochas | 0 | URLError: <urlopen error _ssl.c:993: The handshake operation |
 | [Relatorio-Mensal-Exportacoes-De-Rochas-Dezembro-2024.pdf](https://centrorochas.org.br/website/wp-content/uploads/2025/01/Relatorio-Mensal-Exportacoes-De-Rochas-Dezembro-2024.pdf) | wb-centrorochas-antigo | 0 | URLError: <urlopen error [Errno 111] Connection refused> |
 | [Relatorio-Mensal-Exportacoes-De-Rochas-Fevereiro-2025_v3.pdf](https://centrorochas.org.br/website/wp-content/uploads/2025/04/Relatorio-Mensal-Exportacoes-De-Rochas-Fevereiro-2025_v3.pdf) | wb-centrorochas-antigo | 0 | HTTPError 429: Too Many Requests | Your request is being blo |
 | [Relatorio-Mensal-Exportacoes-De-Rochas-Janeiro-2025_v7.pdf](https://centrorochas.org.br/website/wp-content/uploads/2025/04/Relatorio-Mensal-Exportacoes-De-Rochas-Janeiro-2025_v7.pdf) | wb-centrorochas-antigo | 0 | URLError: <urlopen error [Errno 111] Connection refused> |
@@ -58,10 +143,10 @@
 | [Relatorio-de-Exportacoes-•-Abril-•-2022.pdf](https://centrorochas.org.br/website/wp-content/uploads/2022/07/Relatorio-de-Exportacoes-%E2%80%A2-Abril-%E2%80%A2-2022.pdf) | wb-centrorochas-antigo | 6394 | ok |
 | [Relatorio-de-Exportacoes-•-Agosto-2023.pdf](https://centrorochas.org.br/website/wp-content/uploads/2023/09/Relatorio-de-Exportacoes-%E2%80%A2-Agosto-2023.pdf) | wb-centrorochas-antigo | 0 | URLError: <urlopen error [Errno 111] Connection refused> |
 | [Relatorio-de-Exportacoes-•-Dezembro-•-2021.pdf](https://centrorochas.org.br/website/wp-content/uploads/2022/07/Relatorio-de-Exportacoes-%E2%80%A2-Dezembro-%E2%80%A2-2021.pdf) | wb-centrorochas-antigo | 0 | URLError: <urlopen error [Errno 111] Connection refused> |
-| [Relatorio-de-Exportacoes-•-Fevereiro-2023.pdf](http://centrorochas.org.br/website/wp-content/uploads/2023/03/Relatorio-de-Exportacoes-%E2%80%A2-Fevereiro-2023.pdf) | wb-centrorochas-antigo | 0 | HTTPError 429: Too Many Requests | Your request is being blo |
+| [Relatorio-de-Exportacoes-•-Fevereiro-2023.pdf](http://centrorochas.org.br/website/wp-content/uploads/2023/03/Relatorio-de-Exportacoes-%E2%80%A2-Fevereiro-2023.pdf) | wb-centrorochas-antigo | 0 | URLError: <urlopen error timed out> |
 | [Relatorio-de-Exportacoes-•-Fevereiro-•-2022.pdf](https://centrorochas.org.br/website/wp-content/uploads/2022/07/Relatorio-de-Exportacoes-%E2%80%A2-Fevereiro-%E2%80%A2-2022.pdf) | wb-centrorochas-antigo | 0 | URLError: <urlopen error [Errno 111] Connection refused> |
 | [Relatorio-de-Exportacoes-•-Janeiro-2024.pdf](https://centrorochas.org.br/website/wp-content/uploads/2024/02/Relatorio-de-Exportacoes-%E2%80%A2-Janeiro-2024.pdf) | wb-centrorochas-antigo | 0 | URLError: <urlopen error [Errno 111] Connection refused> |
-| [Relatorio-de-Exportacoes-•-Julho-2023.pdf](http://centrorochas.org.br/website/wp-content/uploads/2023/08/Relatorio-de-Exportacoes-%E2%80%A2-Julho-2023.pdf) | wb-centrorochas-antigo | 0 | URLError: <urlopen error [Errno 111] Connection refused> |
+| [Relatorio-de-Exportacoes-•-Julho-2023.pdf](http://centrorochas.org.br/website/wp-content/uploads/2023/08/Relatorio-de-Exportacoes-%E2%80%A2-Julho-2023.pdf) | wb-centrorochas-antigo | 0 | URLError: <urlopen error timed out> |
 | [Relatorio-de-Exportacoes-•-Julho-•-2022.pdf](https://centrorochas.org.br/website/wp-content/uploads/2022/08/Relatorio-de-Exportacoes-%E2%80%A2-Julho-%E2%80%A2-2022.pdf) | wb-centrorochas-antigo | 0 | URLError: <urlopen error [Errno 111] Connection refused> |
 | [Relatorio-de-Exportacoes-•-Junho-•-2022.pdf](https://centrorochas.org.br/website/wp-content/uploads/2022/07/Relatorio-de-Exportacoes-%E2%80%A2-Junho-%E2%80%A2-2022.pdf) | wb-centrorochas-antigo | 0 | URLError: <urlopen error [Errno 111] Connection refused> |
 | [Relatorio-de-Exportacoes-•-Maio-2021.pdf](https://centrorochas.org.br/website/wp-content/uploads/2021/06/Relatorio-de-Exportacoes-%E2%80%A2-Maio-2021.pdf) | wb-centrorochas-antigo | 0 | URLError: <urlopen error [Errno 111] Connection refused> |
@@ -78,6 +163,13 @@
 | [Setembro-•-2021.pdf](https://centrorochas.org.br/website/wp-content/uploads/2021/10/Setembro-%E2%80%A2-2021.pdf) | wb-centrorochas-antigo | 0 | HTTPError 429: Too Many Requests | Your request is being blo |
 | [codigo-etica-e-conduta-2025.pdf](https://centrorochas.org.br/wp-content/uploads/2026/09/codigo-etica-e-conduta-2025.pdf) | centrorochas | 23375 | ok |
 | [estatuto.pdf](http://www.centrorochas.org.br/site/estatuto.pdf) | wb-centrorochas-antigo | 0 | URLError: <urlopen error [Errno 111] Connection refused> |
+| [exportacoes-brasileiras-2019.pdf](https://abirochas.com.br/wp-content/uploads/2019/05/exportacoes-brasileiras-2019.pdf) | wb-abirochas | 0 | URLError: <urlopen error _ssl.c:993: The handshake operation |
+| [exportacoes-de-rochas-dezembro-2018.pdf](http://www.sindirochas.com:80/downloads/relatorios/exportacoes-de-rochas-dezembro-2018.pdf) | wb-sindirochas | 0 | PDF sem texto extraível (provavelmente imagem escaneada) |
+| [exportacoes-de-rochas-janeiro-2019.pdf](http://www.sindirochas.com:80/downloads/relatorios/exportacoes-de-rochas-janeiro-2019.pdf) | wb-sindirochas | 4086 | ok |
+| [exportacoes-de-rochas-junho-2019.pdf](http://www.sindirochas.com:80/downloads/relatorios/exportacoes-de-rochas-junho-2019.pdf) | wb-sindirochas | 4824 | ok |
+| [exportacoes-de-rochas-maio-2019.pdf](http://www.sindirochas.com:80/downloads/relatorios/exportacoes-de-rochas-maio-2019.pdf) | wb-sindirochas | 4830 | ok |
+| [exportacoes-de-rochas-novembro-2018.pdf](http://www.sindirochas.com:80/downloads/relatorios/exportacoes-de-rochas-novembro-2018.pdf) | wb-sindirochas | 5594 | ok |
+| [exportacoes-de-rochas-setembro-2018.pdf](http://www.sindirochas.com:80/downloads/relatorios/exportacoes-de-rochas-setembro-2018.pdf) | wb-sindirochas | 5290 | ok |
 | [index.php?view=article&catid=34:politics&id=1055:negocios-ate-com-iranianos&form](http://www.centrorochas.org.br/site/index.php?view=article&catid=34%3Apolitics&id=1055%3Anegocios-ate-com-iranianos&format=pdf&option=com_content) | wb-centrorochas-antigo | 0 | URLError: <urlopen error [Errno 111] Connection refused> |
 | [index.php?view=article&catid=34:politics&id=2093:uma-importante-contribuicao-par](http://www.centrorochas.org.br/site/index.php?view=article&catid=34%3Apolitics&id=2093%3Auma-importante-contribuicao-para-o-setor&format=pdf&option=com_content) | wb-centrorochas-antigo | 0 | URLError: <urlopen error [Errno 111] Connection refused> |
 | [index.php?view=article&catid=34:politics&id=2129:demanda-da-china&format=pdf&opt](http://www.centrorochas.org.br/site/index.php?view=article&catid=34%3Apolitics&id=2129%3Ademanda-da-china&format=pdf&option=com_content) | wb-centrorochas-antigo | 0 | HTTPError 429: Too Many Requests | Your request is being blo |
@@ -172,4 +264,17 @@
 | [informativo julho 2016.pdf](http://www.centrorochas.org.br/site/images/informativo%20julho%202016.pdf) | wb-centrorochas-antigo | 0 | URLError: <urlopen error [Errno 111] Connection refused> |
 | [informativo junho 2015.pdf](http://www.centrorochas.org.br/site/images/informativo%20junho%202015.pdf) | wb-centrorochas-antigo | 0 | URLError: <urlopen error _ssl.c:993: The handshake operation |
 | [informativo_novembro_2016.pdf](http://www.centrorochas.org.br/site/images/informativo_novembro_2016.pdf) | wb-centrorochas-antigo | 0 | HTTPError 429: Too Many Requests | Your request is being blo |
+| [notas-sobre-exportacao-periodo-janeiro.pdf](https://abirochas.com.br/wp-content/uploads/2019/05/notas-sobre-exportacao-periodo-janeiro.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [pauta-de-precos-2014-doe-es-de-20122013.pdf](http://sindirochas.com/arquivos/pauta-de-precos-2014-doe-es-de-20122013.pdf) | wb-sindirochas | 0 | PDF sem texto extraível (provavelmente imagem escaneada) |
+| [pauta-de-precos-2014-doe-es-de-20122013.pdf](http://sindirochas.com/wp-content/uploads/2014/01/pauta-de-precos-2014-doe-es-de-20122013.pdf) | wb-sindirochas | 0 | URLError: <urlopen error timed out> |
 | [protocolo-agenda-20-21.pdf](http://www.sindirochas.com/arquivos/protocolo-agenda-20-21.pdf) | centrorochas | 15526 | ok |
+| [sumario-link3-tabela1br.pdf](http://www.abirochas.com.br:80/br/livro/sumario-link3-tabela1br.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [sumario-link4-tabela1br.pdf](http://www.abirochas.com.br:80/livro/sumario-link4-tabela1br.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [sumario-link4-tabela2br.pdf](http://www.abirochas.com.br:80/livro/sumario-link4-tabela2br.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [sumario-link4-tabela3br.pdf](http://www.abirochas.com.br:80/livro/sumario-link4-tabela3br.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [sumario-link4-tabela4br.pdf](http://www.abirochas.com.br:80/livro/sumario-link4-tabela4br.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [sumario-link4-tabela5br.pdf](http://www.abirochas.com.br:80/livro/sumario-link4-tabela5br.pdf) | wb-abirochas | 3772 | ok |
+| [sumario-link4-tabela6br.pdf](http://www.abirochas.com.br:80/livro/sumario-link4-tabela6br.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [sumario-link4-tabela7br.pdf](http://www.abirochas.com.br:80/br/livro/sumario-link4-tabela7br.pdf) | wb-abirochas | 0 | URLError: <urlopen error _ssl.c:993: The handshake operation |
+| [sumario-link4-tabela7br.pdf](http://www.abirochas.com.br:80/livro/sumario-link4-tabela7br.pdf) | wb-abirochas | 0 | URLError: <urlopen error timed out> |
+| [sumario-link5-tabela1br.pdf](http://www.abirochas.com.br:80/br/livro/sumario-link5-tabela1br.pdf) | wb-abirochas | 982 | ok |

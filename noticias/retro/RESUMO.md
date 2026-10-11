@@ -1,6 +1,6 @@
 # Acervo de notícias do setor — 2026-10-11
 
-**1033 notícias únicas**, das quais 753 com texto completo (sites do setor); as demais só com manchete, veículo e data.
+**1040 notícias únicas**, das quais 759 com texto completo (sites do setor); as demais só com manchete, veículo e data.
 
 ## Por fonte
 
@@ -13,11 +13,13 @@
 | site:brasilmineral | 30 |
 | gdelt | 30 |
 | diario | 16 |
+| site:wb-abirochas | 7 |
 
 ## Por ano
 
 | Ano | Notícias |
 |---|---|
+| 2003 | 1 |
 | 2008 | 2 |
 | 2009 | 4 |
 | 2011 | 2 |
@@ -27,9 +29,9 @@
 | 2015 | 12 |
 | 2016 | 10 |
 | 2017 | 8 |
-| 2018 | 22 |
-| 2019 | 82 |
-| 2020 | 141 |
+| 2018 | 25 |
+| 2019 | 83 |
+| 2020 | 143 |
 | 2021 | 117 |
 | 2022 | 89 |
 | 2023 | 112 |
