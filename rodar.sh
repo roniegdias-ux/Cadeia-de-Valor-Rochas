@@ -22,7 +22,7 @@ case "$modo" in
   backfill-dados)  python3 dados.py --backfill || st=$? ;;
   retro-sites) python3 retro_sites.py || st=$?
                python3 retro_pdfs.py || st=$? ;;
-  retro-gn)    python3 retro_gn.py --minutos 190 || st=$? ;;
+  retro-gn)    python3 retro_gn.py --minutos "${MINUTOS:-40}" || st=$? ;;
   anm)         python3 anm.py || st=$? ;;
   *) echo "modo desconhecido: $modo"; exit 64 ;;
 esac

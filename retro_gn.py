@@ -58,41 +58,55 @@ def gravar_ano(ano, itens):
     os.replace(p + ".tmp", p)
 
 
+def combo(consultas):
+    """Uma busca com OR por idioma: ~5x menos requisições que uma por termo."""
+    return " OR ".join(f"({q})" if " " in q and not q.startswith('"') else q for q in consultas)
+
+
 def main():
     p = argparse.ArgumentParser()
     p.add_argument("--minutos", type=float, default=180)
-    p.add_argument("--pausa", type=float, default=2.0)
+    p.add_argument("--pausa", type=float, default=5.0)
     a = p.parse_args()
     cfg = rede.ler_json("config.json")["retro"]
     estado = rede.ler_json(ESTADO, {"feito": {}})
     agora = datetime.now(timezone.utc)
     limite = time.time() + a.minutos * 60
-    fila = [(lang, q, mes, ini, fim)
-            for mes, ini, fim in meses(cfg["gn_inicio"], (agora.year, agora.month))
-            for lang, consultas in cfg["gn_consultas"].items() for q in consultas
-            if f"{lang}|{q}|{mes}" not in estado["feito"]]
-    print(f"retro_gn: {len(fila)} (consulta, mês) pendentes")
+    # Do mais recente para o mais antigo: confirma cedo que o filtro de datas
+    # funciona e prioriza os anos com mais cobertura no Google News.
+    todos = list(meses(cfg["gn_inicio"], (agora.year, agora.month)))[::-1]
+    fila = collections.deque()
+    for mes, ini, fim in todos:
+        for lang, consultas in cfg["gn_consultas"].items():
+            q = combo(consultas)
+            if f"{lang}|COMBO|{mes}" not in estado["feito"]:
+                fila.append((lang, q, "COMBO", mes, ini, fim))
+            elif estado["feito"][f"{lang}|COMBO|{mes}"]["n"] >= 95:   # mês cheio: abre por termo
+                fila.extend((lang, t, t, mes, ini, fim) for t in consultas
+                            if f"{lang}|{t}|{mes}" not in estado["feito"])
+    print(f"retro_gn: {len(fila)} buscas pendentes na fila inicial")
 
     anos, sujos = {}, set()
-    falhas_seguidas, feitos_agora, erros = 0, 0, collections.Counter()
-    for lang, q, mes, ini, fim in fila:
-        if time.time() > limite:
-            break
+    recusas, feitos_agora, erros = 0, 0, collections.Counter()
+    while fila and time.time() < limite:
+        lang, q, rotulo, mes, ini, fim = fila.popleft()
         hl, gl, ceid = LOCALE[lang]
         url = GN.format(q=urllib.parse.quote_plus(f"{q} after:{ini} before:{fim}"), hl=hl, gl=gl, ceid=ceid)
-        cod, corpo, erro, _ = rede.buscar(url)
+        cod, corpo, erro, _ = rede.buscar(url, tentativas=1)
         if erro:
             erros[str(cod)] += 1
-            falhas_seguidas += 1
-            if falhas_seguidas >= 15:   # bloqueio do Google: parar e retomar depois
-                print(f"  15 falhas seguidas (último HTTP {cod}); parando para retomar na próxima execução")
-                break
-            time.sleep(a.pausa * 3)
+            if cod in (429, 503):   # Google limitando: espera longa e repete a mesma busca
+                recusas += 1
+                if recusas > 6:
+                    print(f"  7 recusas seguidas (HTTP {cod}); parando para retomar na próxima execução")
+                    break
+                fila.appendleft((lang, q, rotulo, mes, ini, fim))
+                time.sleep(120 * recusas)
             continue
-        falhas_seguidas = 0
+        recusas = 0
         try:
             crus = rede.extrair_itens(corpo)
-        except ValueError as e:
+        except ValueError:
             erros["xml"] += 1
             continue
         reg = {"n": len(crus), "rel": 0, "fora_mes": 0}
@@ -110,16 +124,20 @@ def main():
             if ano not in anos:
                 anos[ano] = carregar_ano(ano)
             k = rede.normalizar(c["titulo"])
+            fonte = f"{lang}:{rotulo}"
             if k in anos[ano]:
-                anos[ano][k]["consultas"] = sorted(set(anos[ano][k]["consultas"]) | {f"{lang}:{q}"})
+                anos[ano][k]["consultas"] = sorted(set(anos[ano][k]["consultas"]) | {fonte})
                 continue
             anos[ano][k] = {"publicado": d.isoformat(), "titulo": c["titulo"], "link": c["link"],
                             "veiculo": c["fonte_declarada"], "relevancia": motivo, "elos_pre": elos,
-                            "consultas": [f"{lang}:{q}"], "chave": k}
+                            "consultas": [fonte], "chave": k}
             sujos.add(ano)
-        estado["feito"][f"{lang}|{q}|{mes}"] = reg
+        estado["feito"][f"{lang}|{rotulo}|{mes}"] = reg
+        if rotulo == "COMBO" and reg["n"] >= 95:
+            for t in cfg["gn_consultas"][lang]:
+                fila.appendleft((lang, t, t, mes, ini, fim))
         feitos_agora += 1
-        if feitos_agora % 50 == 0:   # grava aos poucos: um timeout não perde o que já veio
+        if feitos_agora % 25 == 0:   # grava aos poucos: um timeout não perde o que já veio
             for ano in sujos:
                 gravar_ano(ano, anos[ano])
             sujos.clear()
@@ -129,9 +147,8 @@ def main():
     for ano in sujos:
         gravar_ano(ano, anos[ano])
     rede.gravar_json(ESTADO, estado)
-    pend = len(fila) - feitos_agora
-    relatorio(estado, pend, erros)
-    print(f"retro_gn: {feitos_agora} feitos agora, {pend} pendentes, erros {dict(erros)}")
+    relatorio(estado, len(fila), erros)
+    print(f"retro_gn: {feitos_agora} buscas feitas agora, {len(fila)} pendentes, erros {dict(erros)}")
     sys.exit(0 if feitos_agora else 2)
 
 
