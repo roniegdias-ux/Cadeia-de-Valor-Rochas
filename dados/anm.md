@@ -10,9 +10,9 @@
 - CFEM `CFEM_Arrecadacao_2022_2026.csv`: 82178 linhas de rochas usadas, 0 puladas por ano já coberto (anos 2022–2026)
 - CFEM `CFEM_Arrecadacao.csv`: 0 linhas de rochas usadas, 311670 puladas por ano já coberto (anos —–—)
 - **anm_cfem_rochas**: 18827 linhas (ano × UF × município × substância)
-- `Agua_Mineral_Producao.csv`: nenhuma substância de rocha ornamental casou (coluna Classe Substância Mineral)
-- `Producao_Beneficiada.csv`: nenhuma substância de rocha ornamental casou (coluna Classe Substância)
-- `Producao_Bruta.csv`: nenhuma substância de rocha ornamental casou (coluna Classe Substância)
+- `Agua_Mineral_Producao.csv`: nenhuma substância de rocha ornamental casou (coluna Classe Substância Mineral). Classes existentes: Água
+- `Producao_Beneficiada.csv`: nenhuma substância de rocha ornamental casou (coluna Classe Substância). Classes existentes: Não-Metálicos, Metálicos, Gemas e Diamantes, Energéticos
+- `Producao_Bruta.csv`: nenhuma substância de rocha ornamental casou (coluna Classe Substância). Classes existentes: Não-Metálicos, Metálicos, Gemas e Diamantes, Energéticos
 - **anm_investimentopesquisamineralbrasil**: 226 linhas de rochas ornamentais
 - **anm_investimentopesquisamineralmunicipio**: 4507 linhas de rochas ornamentais
 - **anm_investimentopesquisamineraluf**: 1110 linhas de rochas ornamentais
