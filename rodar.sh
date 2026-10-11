@@ -24,6 +24,7 @@ case "$modo" in
                python3 retro_pdfs.py || st=$? ;;
   retro-gn)    python3 retro_gn.py --minutos "${MINUTOS:-40}" || st=$? ;;
   anm)         python3 anm.py || st=$? ;;
+  retro-gdelt) python3 retro_gdelt.py --minutos "${MINUTOS:-120}" || st=$? ;;
   *) echo "modo desconhecido: $modo"; exit 64 ;;
 esac
 echo "rodar.sh $modo -> saída $st"
