@@ -1,0 +1,874 @@
+{
+ "feito": {
+  "pt|\"rochas ornamentais\"|2005-01": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"setor de rochas\"|2005-01": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"mármore e granito\"|2005-01": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|Centrorochas|2005-01": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|Abirochas|2005-01": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"Vitória Stone Fair\"|2005-01": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|quartzito exportação|2005-01": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"Cachoeiro de Itapemirim\" rochas|2005-01": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "en|\"Brazilian granite\"|2005-01": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "en|\"Brazilian quartzite\"|2005-01": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"rochas ornamentais\"|2005-02": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"setor de rochas\"|2005-02": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"mármore e granito\"|2005-02": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|Centrorochas|2005-02": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|Abirochas|2005-02": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"Vitória Stone Fair\"|2005-02": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|quartzito exportação|2005-02": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"Cachoeiro de Itapemirim\" rochas|2005-02": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "en|\"Brazilian granite\"|2005-02": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "en|\"Brazilian quartzite\"|2005-02": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"rochas ornamentais\"|2005-03": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"setor de rochas\"|2005-03": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"mármore e granito\"|2005-03": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|Centrorochas|2005-03": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|Abirochas|2005-03": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"Vitória Stone Fair\"|2005-03": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|quartzito exportação|2005-03": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"Cachoeiro de Itapemirim\" rochas|2005-03": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "en|\"Brazilian granite\"|2005-03": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "en|\"Brazilian quartzite\"|2005-03": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"rochas ornamentais\"|2005-04": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"setor de rochas\"|2005-04": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"mármore e granito\"|2005-04": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|Centrorochas|2005-04": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|Abirochas|2005-04": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"Vitória Stone Fair\"|2005-04": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|quartzito exportação|2005-04": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"Cachoeiro de Itapemirim\" rochas|2005-04": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "en|\"Brazilian granite\"|2005-04": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "en|\"Brazilian quartzite\"|2005-04": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"rochas ornamentais\"|2005-05": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"setor de rochas\"|2005-05": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"mármore e granito\"|2005-05": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|Centrorochas|2005-05": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|Abirochas|2005-05": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"Vitória Stone Fair\"|2005-05": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|quartzito exportação|2005-05": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"Cachoeiro de Itapemirim\" rochas|2005-05": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "en|\"Brazilian granite\"|2005-05": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "en|\"Brazilian quartzite\"|2005-05": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"rochas ornamentais\"|2005-06": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"setor de rochas\"|2005-06": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"mármore e granito\"|2005-06": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|Centrorochas|2005-06": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|Abirochas|2005-06": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"Vitória Stone Fair\"|2005-06": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|quartzito exportação|2005-06": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"Cachoeiro de Itapemirim\" rochas|2005-06": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "en|\"Brazilian granite\"|2005-06": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "en|\"Brazilian quartzite\"|2005-06": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"rochas ornamentais\"|2005-07": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"setor de rochas\"|2005-07": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"mármore e granito\"|2005-07": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|Centrorochas|2005-07": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|Abirochas|2005-07": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"Vitória Stone Fair\"|2005-07": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|quartzito exportação|2005-07": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"Cachoeiro de Itapemirim\" rochas|2005-07": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "en|\"Brazilian granite\"|2005-07": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "en|\"Brazilian quartzite\"|2005-07": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"rochas ornamentais\"|2005-08": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"setor de rochas\"|2005-08": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"mármore e granito\"|2005-08": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|Centrorochas|2005-08": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|Abirochas|2005-08": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"Vitória Stone Fair\"|2005-08": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|quartzito exportação|2005-08": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"Cachoeiro de Itapemirim\" rochas|2005-08": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "en|\"Brazilian granite\"|2005-08": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "en|\"Brazilian quartzite\"|2005-08": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"rochas ornamentais\"|2005-09": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"setor de rochas\"|2005-09": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"mármore e granito\"|2005-09": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|Centrorochas|2005-09": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|Abirochas|2005-09": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"Vitória Stone Fair\"|2005-09": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|quartzito exportação|2005-09": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"Cachoeiro de Itapemirim\" rochas|2005-09": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "en|\"Brazilian granite\"|2005-09": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "en|\"Brazilian quartzite\"|2005-09": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"rochas ornamentais\"|2005-10": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"setor de rochas\"|2005-10": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"mármore e granito\"|2005-10": {
+   "n": 1,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|Centrorochas|2005-10": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|Abirochas|2005-10": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"Vitória Stone Fair\"|2005-10": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|quartzito exportação|2005-10": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"Cachoeiro de Itapemirim\" rochas|2005-10": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "en|\"Brazilian granite\"|2005-10": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "en|\"Brazilian quartzite\"|2005-10": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"rochas ornamentais\"|2005-11": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"setor de rochas\"|2005-11": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"mármore e granito\"|2005-11": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|Centrorochas|2005-11": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|Abirochas|2005-11": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"Vitória Stone Fair\"|2005-11": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|quartzito exportação|2005-11": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"Cachoeiro de Itapemirim\" rochas|2005-11": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "en|\"Brazilian granite\"|2005-11": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "en|\"Brazilian quartzite\"|2005-11": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"rochas ornamentais\"|2005-12": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"setor de rochas\"|2005-12": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"mármore e granito\"|2005-12": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|Centrorochas|2005-12": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|Abirochas|2005-12": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"Vitória Stone Fair\"|2005-12": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|quartzito exportação|2005-12": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"Cachoeiro de Itapemirim\" rochas|2005-12": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "en|\"Brazilian granite\"|2005-12": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "en|\"Brazilian quartzite\"|2005-12": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"rochas ornamentais\"|2006-01": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"setor de rochas\"|2006-01": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"mármore e granito\"|2006-01": {
+   "n": 1,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|Centrorochas|2006-01": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|Abirochas|2006-01": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"Vitória Stone Fair\"|2006-01": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|quartzito exportação|2006-01": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"Cachoeiro de Itapemirim\" rochas|2006-01": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "en|\"Brazilian granite\"|2006-01": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "en|\"Brazilian quartzite\"|2006-01": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"rochas ornamentais\"|2006-02": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"setor de rochas\"|2006-02": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"mármore e granito\"|2006-02": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|Centrorochas|2006-02": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|Abirochas|2006-02": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"Vitória Stone Fair\"|2006-02": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|quartzito exportação|2006-02": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"Cachoeiro de Itapemirim\" rochas|2006-02": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "en|\"Brazilian granite\"|2006-02": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "en|\"Brazilian quartzite\"|2006-02": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"rochas ornamentais\"|2006-03": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"setor de rochas\"|2006-03": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"mármore e granito\"|2006-03": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|Centrorochas|2006-03": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|Abirochas|2006-03": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"Vitória Stone Fair\"|2006-03": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|quartzito exportação|2006-03": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"Cachoeiro de Itapemirim\" rochas|2006-03": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "en|\"Brazilian granite\"|2006-03": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "en|\"Brazilian quartzite\"|2006-03": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"rochas ornamentais\"|2006-04": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"setor de rochas\"|2006-04": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"mármore e granito\"|2006-04": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|Centrorochas|2006-04": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|Abirochas|2006-04": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"Vitória Stone Fair\"|2006-04": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|quartzito exportação|2006-04": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"Cachoeiro de Itapemirim\" rochas|2006-04": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "en|\"Brazilian granite\"|2006-04": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "en|\"Brazilian quartzite\"|2006-04": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"rochas ornamentais\"|2006-05": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"setor de rochas\"|2006-05": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"mármore e granito\"|2006-05": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|Centrorochas|2006-05": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|Abirochas|2006-05": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"Vitória Stone Fair\"|2006-05": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|quartzito exportação|2006-05": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"Cachoeiro de Itapemirim\" rochas|2006-05": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "en|\"Brazilian granite\"|2006-05": {
+   "n": 1,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "en|\"Brazilian quartzite\"|2006-05": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"rochas ornamentais\"|2006-06": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"setor de rochas\"|2006-06": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|\"mármore e granito\"|2006-06": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  },
+  "pt|Centrorochas|2006-06": {
+   "n": 0,
+   "rel": 0,
+   "fora_mes": 0
+  }
+ }
+}
