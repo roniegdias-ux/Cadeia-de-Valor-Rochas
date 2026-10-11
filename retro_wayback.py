@@ -39,7 +39,7 @@ def cdx(prefixo):
     for espera in (0, 60, 180):   # o índice CDX recusa conexões quando se pede rápido demais
         time.sleep(espera)
         obj, cod, erro, _ = rede.buscar_json(url, ua=rede.UA_API, tentativas=1)
-        if not erro or not re.search(r"429|refused|111|timed out", erro):
+        if not erro or not re.search(r"429|503|refused|111|timed out", erro):
             break
     if erro or not obj:
         return [], erro or "vazio"
@@ -64,6 +64,10 @@ def main():
         existentes = retro_sites.ler_existentes(caminho)
         capturas, erro = cdx(alvo["prefixo"])
         time.sleep(20)
+        if capturas:   # lista bruta do índice, para auditoria e diagnóstico do filtro
+            os.makedirs("noticias/retro/cdx", exist_ok=True)
+            with open(f"noticias/retro/cdx/{alvo['id']}.tsv", "w", encoding="utf-8") as fh:
+                fh.writelines(f"{c['timestamp']}\t{c.get('mimetype', '')}\t{c['original']}\n" for c in capturas)
         n_pdf = n_pag = n_rel = 0
         paginas = []
         for c in capturas:

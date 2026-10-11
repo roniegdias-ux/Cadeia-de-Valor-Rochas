@@ -11,6 +11,7 @@ Saída: biblio/cinzenta/textos/<id>.txt · biblio/cinzenta/indice.jsonl · bibli
 Retomável: PDF já extraído não é baixado de novo.
 """
 
+import argparse
 import hashlib
 import json
 import os
@@ -28,6 +29,20 @@ import rede
 DIR = "biblio/cinzenta"
 INDICE = f"{DIR}/indice.jsonl"
 LOC = re.compile(r"<loc>\s*([^<\s]+)\s*</loc>", re.I)
+PRIORIDADE = re.compile(r"informe|exporta|balan[cç]o|boletim|relat[oó]rio|anu[aá]rio|panorama|perfil|estudo|diagn|info_mercado|livro|pauta", re.I)
+
+
+def canonico(url):
+    """Mesmo PDF com http/https, www, :80 ou ?carimbo vira uma chave só."""
+    u = urllib.parse.urlsplit(url.strip())
+    host = (u.hostname or "").removeprefix("www.")
+    return host + urllib.parse.unquote(u.path)
+
+
+def gravar_indice(indice):
+    with open(INDICE, "w", encoding="utf-8") as f:
+        for r in sorted(indice.values(), key=lambda r: r["arquivo"]):
+            f.write(json.dumps(r, ensure_ascii=False) + "\n")
 
 
 def de_sitemaps(urls, rx, log, profundidade=0):
@@ -49,22 +64,37 @@ def de_sitemaps(urls, rx, log, profundidade=0):
 
 def main():
     os.chdir(os.path.dirname(os.path.abspath(__file__)))
+    p = argparse.ArgumentParser()
+    p.add_argument("--minutos", type=float, default=150)
+    limite = time.time() + p.parse_args().minutos * 60
     cfg = rede.ler_json("config.json")["retro"]
     rx = re.compile(cfg["pdf_regex"], re.I)
     log = []
     candidatos = {u: m for u, m in rede.ler_json("noticias/retro/pdfs.json", {}).items()
                   if rx.search(urllib.parse.unquote(u))}
     candidatos.update(de_sitemaps(cfg.get("sitemaps_pdf", []), rx, log))
+    # uma entrada por PDF (prefere a que tem cópia no Internet Archive)
+    unicos = {}
+    for u, m in sorted(candidatos.items(), key=lambda kv: (not kv[1].get("arquivado"), "?" in kv[0], kv[0])):
+        unicos.setdefault(canonico(u), (u, m))
+    candidatos = dict(unicos.values())
     indice = {}
     if os.path.exists(INDICE):
         with open(INDICE, encoding="utf-8") as f:
             indice = {r["url"]: r for r in map(json.loads, f)}
+    feitos = {canonico(u) for u, r in indice.items() if r.get("caracteres")}
     tem_pdftotext = shutil.which("pdftotext") is not None
     os.makedirs(f"{DIR}/textos", exist_ok=True)
-    novos = falhas = recusas_ia = 0
-    for url, meta in sorted(candidatos.items()):
-        if url in indice and indice[url].get("caracteres"):
+    novos = falhas = recusas_ia = pendentes = 0
+    fila = sorted(candidatos.items(), key=lambda kv: (not PRIORIDADE.search(urllib.parse.unquote(kv[0])), kv[0]))
+    for i, (url, meta) in enumerate(fila):
+        if canonico(url) in feitos:
             continue
+        if time.time() > limite:
+            pendentes += 1
+            continue
+        if i % 10 == 0:
+            gravar_indice(indice)   # se o passo for interrompido, o que já foi extraído fica
         nome = urllib.parse.unquote(url.rsplit("/", 1)[-1])
         ident = re.sub(r"[^\w-]+", "_", nome[:-4])[:80] + "_" + hashlib.sha1(url.encode()).hexdigest()[:6]
         reg = {"url": url, "arquivo": nome, "id": ident, "site": meta.get("site"), "post": meta.get("post"),
@@ -104,21 +134,20 @@ def main():
             novos += 1
         indice[url] = reg
         time.sleep(1)
-    with open(INDICE, "w", encoding="utf-8") as f:
-        for r in sorted(indice.values(), key=lambda r: r["arquivo"]):
-            f.write(json.dumps(r, ensure_ascii=False) + "\n")
+    gravar_indice(indice)
     ok = [r for r in indice.values() if r["caracteres"] >= 200]
     md = [f"# Literatura cinzenta em PDF — {datetime.now(timezone.utc):%Y-%m-%d}", "",
           f"- PDFs candidatos (filtro `{cfg['pdf_regex']}`): {len(candidatos)}",
           f"- Com texto extraído: **{len(ok)}**; falhas acumuladas: {sum(1 for r in indice.values() if r['erro'])}",
-          f"- Novos nesta execução: {novos}; falhas nesta execução: {falhas}", ""]
+          f"- Novos nesta execução: {novos}; falhas nesta execução: {falhas}; "
+          f"pendentes por orçamento de tempo: {pendentes} (retomar)", ""]
     md += [f"- {l}" for l in log]
     md += ["", "| Arquivo | Site | Caracteres | Situação |", "|---|---|---|---|"]
     for r in sorted(indice.values(), key=lambda r: r["arquivo"]):
         md.append(f"| [{r['arquivo'][:80]}]({r['url']}) | {r['site']} | {r['caracteres']} | {(r['erro'] or 'ok')[:60]} |")
     with open("biblio/cinzenta.md", "w", encoding="utf-8") as f:
         f.write("\n".join(md) + "\n")
-    print(f"retro_pdfs: {len(candidatos)} candidatos, {len(ok)} com texto, {novos} novos, {falhas} falhas")
+    print(f"retro_pdfs: {len(candidatos)} candidatos, {len(ok)} com texto, {novos} novos, {falhas} falhas, {pendentes} pendentes")
     sys.exit(0)
 
 

@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
     inputs:
       modo:
-        description: "matriz | diario | semanal | mensal | backfill | backfill-biblio | backfill-dados | retro-sites | retro-gn | retro-gdelt | anm | neve | retro-wayback"
+        description: "matriz | diario | semanal | mensal | backfill | backfill-biblio | backfill-dados | retro-sites | retro-gn | retro-gdelt | anm | neve | retro-wayback | retro-pdfs"
         required: true
         default: diario
 permissions:
