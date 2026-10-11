@@ -36,7 +36,11 @@ LIXO = re.compile(r"\.(css|js|jpg|jpeg|png|gif|svg|ico|woff2?|ttf|xml|json)(\?|$
 def cdx(prefixo):
     url = CDX + "?" + rede.qs(url=prefixo, output="json", fl="timestamp,original,mimetype,statuscode",
                               filter="statuscode:200", collapse="urlkey", limit=20000)
-    obj, cod, erro, _ = rede.buscar_json(url, ua=rede.UA_API, tentativas=4)
+    for espera in (0, 60, 180):   # o índice CDX recusa conexões quando se pede rápido demais
+        time.sleep(espera)
+        obj, cod, erro, _ = rede.buscar_json(url, ua=rede.UA_API, tentativas=1)
+        if not erro or not re.search(r"429|refused|111|timed out", erro):
+            break
     if erro or not obj:
         return [], erro or "vazio"
     cab, *linhas = obj
@@ -59,7 +63,7 @@ def main():
         caminho = f"{retro_sites.DIR}/wb-{alvo['id']}.jsonl"
         existentes = retro_sites.ler_existentes(caminho)
         capturas, erro = cdx(alvo["prefixo"])
-        time.sleep(2)
+        time.sleep(20)
         n_pdf = n_pag = n_rel = 0
         paginas = []
         for c in capturas:
@@ -79,7 +83,7 @@ def main():
             if orig in lidas or orig in existentes:
                 continue
             pg = retro_sites.pagina_html(f"https://web.archive.org/web/{ts}id_/{orig}")
-            time.sleep(1.5)   # Internet Archive pede moderação
+            time.sleep(4)   # Internet Archive pede moderação (~15 requisições/minuto)
             lidas.add(orig)
             n_pag += 1
             if not pg:

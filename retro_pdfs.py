@@ -61,7 +61,7 @@ def main():
             indice = {r["url"]: r for r in map(json.loads, f)}
     tem_pdftotext = shutil.which("pdftotext") is not None
     os.makedirs(f"{DIR}/textos", exist_ok=True)
-    novos = falhas = 0
+    novos = falhas = recusas_ia = 0
     for url, meta in sorted(candidatos.items()):
         if url in indice and indice[url].get("caracteres"):
             continue
@@ -71,9 +71,20 @@ def main():
                "data_post": meta.get("data"), "caracteres": 0, "erro": None}
         cod, corpo, erro, _ = rede.buscar(url, tentativas=3)
         if (erro or not corpo.startswith(b"%PDF")) and meta.get("arquivado"):
-            # endereço original fora do ar: usa a cópia do Internet Archive
-            cod, corpo, erro, _ = rede.buscar(meta["arquivado"], tentativas=3)
+            # endereço original fora do ar: usa a cópia do Internet Archive, devagar —
+            # na 1ª execução 130 de 165 downloads levaram 429/conexão recusada.
+            if recusas_ia >= 5:
+                reg["erro"] = "Internet Archive bloqueando; retomar na próxima execução"
+                indice[url] = reg
+                continue
+            for espera in (0, 90, 180):
+                time.sleep(espera)
+                cod, corpo, erro, _ = rede.buscar(meta["arquivado"], tentativas=1)
+                if not erro or not re.search(r"429|refused|111", erro or ""):
+                    break
+            recusas_ia = recusas_ia + 1 if erro and re.search(r"429|refused|111", erro) else 0
             reg["via"] = "wayback"
+            time.sleep(5)
         if erro or not corpo.startswith(b"%PDF"):
             reg["erro"] = erro or f"HTTP {cod} mas não é PDF"
             falhas += 1
