@@ -61,6 +61,15 @@ def sonda_agazeta():
         f.write((corpo or b"")[:400000] if not erro else f"erro: HTTP {cod} {erro}".encode())
 
 
+def salvar(anos, estado):
+    os.makedirs(DIR, exist_ok=True)
+    for ano, itens in anos.items():
+        with open(f"{DIR}/{ano}.jsonl", "w", encoding="utf-8") as f:
+            for r in sorted(itens.values(), key=lambda r: r["publicado"]):
+                f.write(json.dumps(r, ensure_ascii=False) + "\n")
+    rede.gravar_json(ESTADO, estado)
+
+
 def main():
     os.chdir(os.path.dirname(os.path.abspath(__file__)))
     p = argparse.ArgumentParser()
@@ -102,12 +111,9 @@ def main():
                                      "relevancia": motivo, "elos_pre": elos, "chave": k})
         estado["feito"][rotulo] = reg
         feitos += 1
-    os.makedirs(DIR, exist_ok=True)
-    for ano, itens in anos.items():
-        with open(f"{DIR}/{ano}.jsonl", "w", encoding="utf-8") as f:
-            for r in sorted(itens.values(), key=lambda r: r["publicado"]):
-                f.write(json.dumps(r, ensure_ascii=False) + "\n")
-    rede.gravar_json(ESTADO, estado)
+        if feitos % 10 == 0:   # grava aos poucos: o GDELT pode ser lento e o tempo acabar
+            salvar(anos, estado)
+    salvar(anos, estado)
 
     por_ano, veic, total = collections.Counter(), collections.Counter(), 0
     for nome in sorted(os.listdir(DIR)):
