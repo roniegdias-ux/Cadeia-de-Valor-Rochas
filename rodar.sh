@@ -21,11 +21,13 @@ case "$modo" in
   backfill-biblio) python3 biblio.py --backfill || st=$? ;;
   backfill-dados)  python3 dados.py --backfill || st=$? ;;
   retro-sites) python3 retro_sites.py || st=$?
-               python3 retro_pdfs.py || st=$? ;;
+               python3 retro_pdfs.py || st=$?
+               python3 retro_resumo.py || st=$? ;;
   retro-gn)    python3 retro_gn.py --minutos "${MINUTOS:-40}" || st=$? ;;
   anm)         python3 anm.py || st=$? ;;
   neve)        python3 biblio_neve.py || st=$? ;;
-  retro-gdelt) python3 retro_gdelt.py --minutos "${MINUTOS:-120}" || st=$? ;;
+  retro-gdelt) python3 retro_gdelt.py --minutos "${MINUTOS:-120}" || st=$?
+               python3 retro_resumo.py || st=$? ;;
   *) echo "modo desconhecido: $modo"; exit 64 ;;
 esac
 echo "rodar.sh $modo -> saída $st"
