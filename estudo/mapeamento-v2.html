@@ -1,0 +1,314 @@
+<title>Cadeia das Rochas Ornamentais</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: relatório de coluna única para leitura (~68ch), figuras e tabelas um pouco mais largas; cor de quartzito azul como acento e ocre de granito amarelo como segunda série */
+:root{
+  --bg:#f4f5f3; --surface:#ffffff; --fg:#1d2225; --muted:#5b6569; --line:#d9dddb;
+  --accent:#2b6a88; --ochre:#a8701f; --stone:#a3abae; --c3:#7a4f8c; --c4:#3f7d4e; --c5:#b04a3a;
+  --warn-bg:#fbf3e4; --warn-fg:#6d4a12;
+  --f-display:"Newsreader",Georgia,"Times New Roman",serif;
+  --f-body:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --f-data:"IBM Plex Mono",ui-monospace,"SFMono-Regular",Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#14181a; --surface:#1b2023; --fg:#e3e7e6; --muted:#9aa5a9; --line:#2d3438;
+  --accent:#6fb2d1; --ochre:#d9a24e; --stone:#6c777b; --c3:#b48ac6; --c4:#79b98a; --c5:#e08372;
+  --warn-bg:#2b2416; --warn-fg:#e8c88a; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#14181a; --surface:#1b2023; --fg:#e3e7e6; --muted:#9aa5a9; --line:#2d3438;
+  --accent:#6fb2d1; --ochre:#d9a24e; --stone:#6c777b; --c3:#b48ac6; --c4:#79b98a; --c5:#e08372;
+  --warn-bg:#2b2416; --warn-fg:#e8c88a; color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font:16px/1.6 var(--f-body)}
+.wrap{max-width:880px;margin:0 auto;padding-inline:20px;padding-block:40px 64px}
+.prose{max-width:68ch}
+h1,h2,h3{font-family:var(--f-display);font-weight:600;line-height:1.2;text-wrap:balance;margin:0}
+h1{font-size:clamp(1.9rem,4.5vw,2.75rem);letter-spacing:-.01em}
+h2{font-size:1.6rem;margin-top:3.2rem;padding-top:1.2rem;border-top:1px solid var(--line)}
+h3{font-size:1.18rem;margin-top:1.8rem}
+p,li{margin:.6rem 0}
+.eyebrow{font:500 .75rem/1 var(--f-data);letter-spacing:.12em;text-transform:uppercase;color:var(--accent);margin-bottom:.9rem}
+.meta{color:var(--muted);font-size:.92rem;margin-top:.9rem}
+.status{background:var(--warn-bg);color:var(--warn-fg);padding:14px 16px;border-radius:6px;margin-top:1.4rem;font-size:.93rem}
+.status strong{color:inherit}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin-top:2rem}
+.kpi{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:14px 16px;min-width:0}
+.kpi b{display:block;font:500 1.35rem/1.15 var(--f-data);font-variant-numeric:tabular-nums}
+.kpi span{color:var(--muted);font-size:.86rem;line-height:1.35;display:block;margin-top:.35rem}
+.findings{counter-reset:f;list-style:none;padding:0;margin-top:1.2rem}
+.findings li{counter-increment:f;position:relative;padding-left:2.2rem;margin:1rem 0}
+.findings li::before{content:counter(f);position:absolute;left:0;top:.05rem;font:500 .85rem/1.6 var(--f-data);color:var(--accent);width:1.6rem;text-align:right}
+figure{margin:1.6rem 0;background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:14px 14px 10px;min-width:0}
+figcaption{font-size:.86rem;color:var(--muted);margin-top:.4rem}
+figcaption b{color:var(--fg);font-weight:600}
+.fig-scroll{overflow-x:auto}
+svg{display:block;width:100%;height:auto;min-width:520px}
+svg .grid{stroke:var(--line);stroke-width:1}
+svg .ax{fill:var(--muted);font:11px var(--f-data)}
+svg .lab{fill:var(--fg);font:500 12px var(--f-data)}
+svg .note{fill:var(--fg);font:500 11px var(--f-body)}
+svg .s1{fill:var(--accent)} svg .s2{fill:var(--stone)} svg .s3{fill:var(--line)}
+svg .mark{stroke:var(--ochre);stroke-width:1.5;stroke-dasharray:3 3}
+svg polyline{fill:none;stroke-width:2.2;stroke-linejoin:round}
+svg .l1{stroke:var(--accent);stroke-width:3} svg .l2{stroke:var(--ochre)} svg .l3{stroke:var(--c5)} svg .l4{stroke:var(--c3)} svg .l5{stroke:var(--c4)}
+svg .l1d{fill:var(--accent)} svg .l2d{fill:var(--ochre)}
+svg .l1t{fill:var(--accent)} svg .l2t{fill:var(--ochre)} svg .l3t{fill:var(--c5)} svg .l4t{fill:var(--c3)} svg .l5t{fill:var(--c4)}
+.legend{display:flex;flex-wrap:wrap;gap:6px 16px;font-size:.84rem;color:var(--muted);margin:.2rem 0 .6rem}
+.legend i{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:6px;vertical-align:-1px}
+.tbl{overflow-x:auto;margin:1.2rem 0}
+table{border-collapse:collapse;width:100%;font-size:.92rem}
+th,td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-weight:600;font-size:.8rem;letter-spacing:.04em;text-transform:uppercase;color:var(--muted)}
+td.n,th.n{text-align:right;font-family:var(--f-data);font-variant-numeric:tabular-nums;white-space:nowrap}
+.tag{display:inline-block;font:500 .72rem/1 var(--f-data);padding:4px 7px;border-radius:3px;white-space:nowrap}
+.tag.ok{background:color-mix(in srgb,var(--c4) 18%,transparent);color:var(--fg)}
+.tag.hip{background:color-mix(in srgb,var(--ochre) 22%,transparent);color:var(--fg)}
+.tag.px{background:color-mix(in srgb,var(--stone) 30%,transparent);color:var(--fg)}
+.tag.mat{background:color-mix(in srgb,var(--c5) 20%,transparent);color:var(--fg)}
+.hip-inline{font-weight:600;color:var(--ochre)}
+.ufs{display:grid;gap:8px;margin:1rem 0}
+.uf{display:grid;grid-template-columns:minmax(110px,1.2fr) 2fr 3.2rem 2fr 3.2rem;gap:8px;align-items:center;font-size:.9rem}
+.uf-h{color:var(--muted);font:500 .75rem var(--f-data);letter-spacing:.06em}
+.uf-b{background:color-mix(in srgb,var(--line) 60%,transparent);height:12px;border-radius:2px;overflow:hidden}
+.uf-b i{display:block;height:100%}
+.b0{background:var(--stone)} .b1{background:var(--accent)}
+.uf-v{font:400 .82rem var(--f-data);font-variant-numeric:tabular-nums;text-align:right}
+pre.mermaid{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:12px;overflow-x:auto}
+.foot{margin-top:3rem;padding-top:1rem;border-top:1px solid var(--line);color:var(--muted);font-size:.85rem}
+a{color:var(--accent)}
+a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+@media (max-width:560px){.uf{grid-template-columns:90px 1fr 2.8rem 1fr 2.8rem;font-size:.82rem}}
+</style>
+
+<div class="wrap">
+<header class="prose">
+  <div class="eyebrow">Estudo setorial · versão 2</div>
+  <h1>Cadeia produtiva e cadeia de valor das rochas ornamentais brasileiras</h1>
+  <p class="meta">Data-base 12/10/2026 · Comércio exterior até set/2026 (ComexStat) · Concorrentes até 2025 (UN Comtrade) · Lavra: ANM (CFEM 2005–2026, RAL 2010–2025) · 76 Informes e estudos setoriais fichados</p>
+  <div class="status"><strong>O que mudou da versão 1.</strong> A hipótese de mix foi testada e confirmada. Entraram a geografia da lavra (ANM) e a leitura que o próprio setor faz de cada ciclo, tirada de 76 documentos da Abirochas, Centrorochas e outros, com 1.645 itens, todos com trecho literal conferido contra o PDF. O choque tarifário foi detalhado por produto. Convenções: <span class="tag ok">dado</span> série oficial; <span class="tag px">setor</span> afirmação ou estimativa dos Informes, fonte interessada; <span class="tag hip">hipótese</span> interpretação deste estudo.</div>
+</header>
+
+<section class="kpis" aria-label="Indicadores de 2025">
+  <div class="kpi"><b>US$ 1,475 bi</b><span>exportado em 2025, recorde nominal</span></div>
+  <div class="kpi"><b>65%</b><span>do valor beneficiado vem de um código: chapa de quartzito (6802.99.90)</span></div>
+  <div class="kpi"><b>×1,44</b><span>efeito da troca de produto no preço por tonelada, 2021–2025</span></div>
+  <div class="kpi"><b>10,6 Mt</b><span>produção estimada pelo setor; 8,5 Mt declaradas à ANM</span></div>
+  <div class="kpi"><b>&gt;90%</b><span>da capacidade de serragem está no Espírito Santo</span></div>
+</section>
+
+<section class="prose">
+<h2>Sumário executivo</h2>
+<ol class="findings">
+  <li><strong>O preço por tonelada subiu por troca de produto, não por aumento de preço.</strong> Entre 2021 e 2025 o preço médio das beneficiadas foi de US$ 803 para 1.294 por tonelada. Separando por código de 8 dígitos, a troca de produto responde por um fator de 1,44 e a alta de preço dentro de cada produto por 1,12. Entre 2013 e 2025 o preço dentro de cada produto ficou estável.</li>
+  <li><strong>O motor é um só material.</strong> As chapas do código 6802.99.90, que a Abirochas identifica como quartzito maciço, passaram de 35% para 65% do valor beneficiado, a US$ 2.369/t. A chapa de granito sai a US$ 608/t e encolhe.</li>
+  <li><strong>Um material e um mercado.</strong> O quartzito em chapa vai sobretudo aos EUA, que levam 53,9% do valor total exportado. O setor já aponta o limite: o bloco de quartzito perde preço, e a chapa teve a primeira queda de preço em janeiro a abril de 2026.</li>
+  <li><strong>A lavra se desloca para Minas, Bahia e Nordeste; a serragem fica no Espírito Santo.</strong> O setor estima 2,1 Mt extraídas na Bahia em 2024. As minas baianas declaram à ANM cerca de 0,45 Mt por ano. O dado oficial não enxerga a fronteira que mais cresce.</li>
+  <li><strong>O tarifaço de agosto de 2025 atingiu as chapas vendidas aos EUA.</strong> As exportações do código 6802 para os EUA caíram de US$ 85 milhões em julho para 35 milhões em agosto e voltaram a 45–93 milhões por mês desde março de 2026. Segundo a Abirochas, a tarifa acabou isentando o código 6802.99.90; falta confirmar no ato americano.</li>
+  <li><strong>A tese do próprio setor.</strong> O ciclo exportador de blocos e chapas "já teria alcançado o seu limite de expansão", e só produtos acabados para obras romperiam a estagnação.</li>
+</ol>
+</section>
+
+<section>
+<h2 class="prose">1. Evolução das exportações, 1997–2025</h2>
+<figure>
+  <div class="legend"><span><i style="background:var(--accent)"></i>beneficiadas (chapas, ladrilhos, obras)</span><span><i style="background:var(--stone)"></i>brutas e ardósia (blocos)</span></div>
+  <div class="fig-scroll"><svg viewBox="0 0 760 300" role="img" aria-label="Exportação anual 1997–2025 em US$ milhões, beneficiadas e brutas"><line class="grid" x1="52" x2="748" y1="266.0" y2="266.0"/><text class="ax" x="46" y="270.0" text-anchor="end">0</text><line class="grid" x1="52" x2="748" y1="203.5" y2="203.5"/><text class="ax" x="46" y="207.5" text-anchor="end">400</text><line class="grid" x1="52" x2="748" y1="141.0" y2="141.0"/><text class="ax" x="46" y="145.0" text-anchor="end">800</text><line class="grid" x1="52" x2="748" y1="78.5" y2="78.5"/><text class="ax" x="46" y="82.5" text-anchor="end">1.200</text><line class="grid" x1="52" x2="748" y1="16.0" y2="16.0"/><text class="ax" x="46" y="20.0" text-anchor="end">1.600</text><rect class="s2" x="55.4" y="263.6" width="17.3" height="2.4"><title>1997: brutas e ardósia US$ 15 mi</title></rect><rect class="s1" x="55.4" y="235.6" width="17.3" height="28.0"><title>1997: beneficiadas US$ 179 mi</title></rect><text class="ax" x="64.0" y="282" text-anchor="middle">1997</text><rect class="s2" x="79.4" y="263.4" width="17.3" height="2.6"><title>1998: brutas e ardósia US$ 16 mi</title></rect><rect class="s1" x="79.4" y="233.7" width="17.3" height="29.8"><title>1998: beneficiadas US$ 190 mi</title></rect><rect class="s2" x="103.4" y="259.6" width="17.3" height="6.4"><title>1999: brutas e ardósia US$ 41 mi</title></rect><rect class="s1" x="103.4" y="230.4" width="17.3" height="29.2"><title>1999: beneficiadas US$ 187 mi</title></rect><rect class="s2" x="127.4" y="255.0" width="17.3" height="11.0"><title>2000: brutas e ardósia US$ 70 mi</title></rect><rect class="s1" x="127.4" y="224.6" width="17.3" height="30.4"><title>2000: beneficiadas US$ 194 mi</title></rect><rect class="s2" x="151.4" y="255.3" width="17.3" height="10.7"><title>2001: brutas e ardósia US$ 69 mi</title></rect><rect class="s1" x="151.4" y="223.0" width="17.3" height="32.3"><title>2001: beneficiadas US$ 207 mi</title></rect><text class="ax" x="160.0" y="282" text-anchor="middle">2001</text><rect class="s2" x="175.4" y="253.3" width="17.3" height="12.7"><title>2002: brutas e ardósia US$ 82 mi</title></rect><rect class="s1" x="175.4" y="213.6" width="17.3" height="39.6"><title>2002: beneficiadas US$ 254 mi</title></rect><rect class="s2" x="199.4" y="241.7" width="17.3" height="24.3"><title>2003: brutas e ardósia US$ 156 mi</title></rect><rect class="s1" x="199.4" y="199.8" width="17.3" height="41.9"><title>2003: beneficiadas US$ 268 mi</title></rect><rect class="s2" x="223.4" y="236.6" width="17.3" height="29.4"><title>2004: brutas e ardósia US$ 188 mi</title></rect><rect class="s1" x="223.4" y="173.7" width="17.3" height="63.0"><title>2004: beneficiadas US$ 403 mi</title></rect><rect class="s2" x="247.4" y="230.6" width="17.3" height="35.4"><title>2005: brutas e ardósia US$ 227 mi</title></rect><rect class="s1" x="247.4" y="144.7" width="17.3" height="85.9"><title>2005: beneficiadas US$ 550 mi</title></rect><text class="ax" x="256.0" y="282" text-anchor="middle">2005</text><rect class="s2" x="271.4" y="221.2" width="17.3" height="44.8"><title>2006: brutas e ardósia US$ 287 mi</title></rect><rect class="s1" x="271.4" y="105.0" width="17.3" height="116.2"><title>2006: beneficiadas US$ 744 mi</title></rect><rect class="s2" x="295.4" y="218.9" width="17.3" height="47.1"><title>2007: brutas e ardósia US$ 301 mi</title></rect><rect class="s1" x="295.4" y="94.8" width="17.3" height="124.1"><title>2007: beneficiadas US$ 794 mi</title></rect><rect class="s2" x="319.4" y="222.1" width="17.3" height="43.9"><title>2008: brutas e ardósia US$ 281 mi</title></rect><rect class="s1" x="319.4" y="117.0" width="17.3" height="105.1"><title>2008: beneficiadas US$ 672 mi</title></rect><rect class="s2" x="343.4" y="233.3" width="17.3" height="32.7"><title>2009: brutas e ardósia US$ 209 mi</title></rect><rect class="s1" x="343.4" y="153.0" width="17.3" height="80.3"><title>2009: beneficiadas US$ 514 mi</title></rect><text class="ax" x="352.0" y="282" text-anchor="middle">2009</text><rect class="s2" x="367.4" y="219.9" width="17.3" height="46.1"><title>2010: brutas e ardósia US$ 295 mi</title></rect><rect class="s1" x="367.4" y="116.3" width="17.3" height="103.6"><title>2010: beneficiadas US$ 663 mi</title></rect><rect class="s2" x="391.4" y="217.1" width="17.3" height="48.9"><title>2011: brutas e ardósia US$ 313 mi</title></rect><rect class="s1" x="391.4" y="110.0" width="17.3" height="107.1"><title>2011: beneficiadas US$ 685 mi</title></rect><rect class="s2" x="415.4" y="219.4" width="17.3" height="46.6"><title>2012: brutas e ardósia US$ 298 mi</title></rect><rect class="s1" x="415.4" y="100.4" width="17.3" height="119.0"><title>2012: beneficiadas US$ 762 mi</title></rect><rect class="s2" x="439.4" y="211.3" width="17.3" height="54.7"><title>2013: brutas e ardósia US$ 350 mi</title></rect><rect class="s1" x="439.4" y="62.7" width="17.3" height="148.6"><title>2013: beneficiadas US$ 951 mi</title></rect><text class="ax" x="448.0" y="282" text-anchor="middle">2013</text><rect class="s2" x="463.4" y="217.3" width="17.3" height="48.7"><title>2014: brutas e ardósia US$ 311 mi</title></rect><rect class="s1" x="463.4" y="66.6" width="17.3" height="150.7"><title>2014: beneficiadas US$ 965 mi</title></rect><rect class="s2" x="487.4" y="225.3" width="17.3" height="40.7"><title>2015: brutas e ardósia US$ 260 mi</title></rect><rect class="s1" x="487.4" y="77.2" width="17.3" height="148.1"><title>2015: beneficiadas US$ 948 mi</title></rect><rect class="s2" x="511.4" y="224.5" width="17.3" height="41.5"><title>2016: brutas e ardósia US$ 266 mi</title></rect><rect class="s1" x="511.4" y="88.2" width="17.3" height="136.3"><title>2016: beneficiadas US$ 873 mi</title></rect><rect class="s2" x="535.4" y="226.0" width="17.3" height="40.0"><title>2017: brutas e ardósia US$ 256 mi</title></rect><rect class="s1" x="535.4" y="93.1" width="17.3" height="132.9"><title>2017: beneficiadas US$ 851 mi</title></rect><text class="ax" x="544.0" y="282" text-anchor="middle">2017</text><rect class="s2" x="559.4" y="224.7" width="17.3" height="41.3"><title>2018: brutas e ardósia US$ 265 mi</title></rect><rect class="s1" x="559.4" y="111.2" width="17.3" height="113.5"><title>2018: beneficiadas US$ 726 mi</title></rect><rect class="s2" x="583.4" y="227.3" width="17.3" height="38.7"><title>2019: brutas e ardósia US$ 247 mi</title></rect><rect class="s1" x="583.4" y="107.6" width="17.3" height="119.7"><title>2019: beneficiadas US$ 766 mi</title></rect><rect class="s2" x="607.4" y="228.4" width="17.3" height="37.6"><title>2020: brutas e ardósia US$ 241 mi</title></rect><rect class="s1" x="607.4" y="111.8" width="17.3" height="116.6"><title>2020: beneficiadas US$ 746 mi</title></rect><rect class="s2" x="631.4" y="217.0" width="17.3" height="49.0"><title>2021: brutas e ardósia US$ 313 mi</title></rect><rect class="s1" x="631.4" y="57.3" width="17.3" height="159.8"><title>2021: beneficiadas US$ 1.023 mi</title></rect><text class="ax" x="640.0" y="282" text-anchor="middle">2021</text><rect class="s2" x="655.4" y="214.1" width="17.3" height="51.9"><title>2022: brutas e ardósia US$ 332 mi</title></rect><rect class="s1" x="655.4" y="65.7" width="17.3" height="148.4"><title>2022: beneficiadas US$ 950 mi</title></rect><rect class="s2" x="679.4" y="219.6" width="17.3" height="46.4"><title>2023: brutas e ardósia US$ 297 mi</title></rect><rect class="s1" x="679.4" y="92.4" width="17.3" height="127.2"><title>2023: beneficiadas US$ 814 mi</title></rect><rect class="s2" x="703.4" y="213.2" width="17.3" height="52.8"><title>2024: brutas e ardósia US$ 338 mi</title></rect><rect class="s1" x="703.4" y="69.9" width="17.3" height="143.3"><title>2024: beneficiadas US$ 917 mi</title></rect><rect class="s2" x="727.4" y="201.5" width="17.3" height="64.5"><title>2025: brutas e ardósia US$ 413 mi</title></rect><rect class="s1" x="727.4" y="35.5" width="17.3" height="166.1"><title>2025: beneficiadas US$ 1.063 mi</title></rect><text class="ax" x="736.0" y="282" text-anchor="middle">2025</text><text class="note" x="448.0" y="54.7" text-anchor="middle">2013: pico de volume, 2,72 Mt</text><text class="note" x="736.0" y="27.5" text-anchor="end">2025: US$ 1.475 mi</text></svg></div>
+  <figcaption><b>US$ milhões FOB, correntes.</b> ComexStat. Quartzito bruto (NCM 2506.20) só aparece a partir de 2007.</figcaption>
+</figure>
+<div class="tbl prose"><table>
+  <thead><tr><th>Fase</th><th class="n">US$ mi</th><th>O setor atribui a</th></tr></thead>
+  <tbody>
+    <tr><td>Expansão 2000–2008</td><td class="n">265 → 953</td><td>chapas polidas para os EUA e blocos para a China; produção mundial saindo da Europa</td></tr>
+    <tr><td>Crise 2009</td><td class="n">723</td><td>estouro da bolha imobiliária nos EUA</td></tr>
+    <tr><td>Pico 2011–2014</td><td class="n">até 1.301</td><td>recomposição de estoques nos EUA, construção chinesa, teares multifio, real desvalorizado</td></tr>
+    <tr><td>Estagnação 2014–2020</td><td class="n">1.301 → 987</td><td>avanço de artificiais e porcelanatos nos EUA, China desacelerando, custo Brasil</td></tr>
+    <tr><td>Recuperação 2021–2022</td><td class="n">1.336</td><td>pacotes anticíclicos nos EUA, quartzitos e mármores de maior valor, câmbio</td></tr>
+    <tr><td>Recuo 2023</td><td class="n">1.112</td><td>juros nos EUA, crise imobiliária chinesa, frete; fechamento de pedreiras de granito comum</td></tr>
+    <tr><td>Antecipação 2024–jul/2025</td><td class="n">1.475 (2025)</td><td>importadores dos EUA comprando antes do tarifaço</td></tr>
+    <tr><td>Choque desde ago/2025</td><td class="n">12 m: 1.462</td><td>tarifaço, estoques antecipados, concorrência chinesa</td></tr>
+  </tbody>
+</table></div>
+</section>
+
+<section>
+<h2 class="prose">2. A troca de produto que explica o preço</h2>
+<figure>
+  <div class="legend"><span><i style="background:var(--accent)"></i>chapa de quartzito e outras (6802.99.90)</span><span><i style="background:var(--stone)"></i>chapa de granito (6802.93.90)</span><span><i style="background:var(--line)"></i>demais beneficiadas</span></div>
+  <div class="fig-scroll"><svg viewBox="0 0 760 290" role="img" aria-label="Exportação de beneficiadas por produto, 2008–2025, US$ milhões"><line class="grid" x1="52" x2="748" y1="256.0" y2="256.0"/><text class="ax" x="46" y="260.0" text-anchor="end">0</text><line class="grid" x1="52" x2="748" y1="196.0" y2="196.0"/><text class="ax" x="46" y="200.0" text-anchor="end">300</text><line class="grid" x1="52" x2="748" y1="136.0" y2="136.0"/><text class="ax" x="46" y="140.0" text-anchor="end">600</text><line class="grid" x1="52" x2="748" y1="76.0" y2="76.0"/><text class="ax" x="46" y="80.0" text-anchor="end">900</text><line class="grid" x1="52" x2="748" y1="16.0" y2="16.0"/><text class="ax" x="46" y="20.0" text-anchor="end">1.200</text><rect class="s2" x="57.4" y="143.5" width="27.8" height="112.5"><title>2008: chapa de granito US$ 563 mi</title></rect><rect class="s3" x="57.4" y="122.7" width="27.8" height="20.7"><title>2008: demais US$ 104 mi</title></rect><rect class="s1" x="57.4" y="121.5" width="27.8" height="1.2"><title>2008: quartzito e outras (6802.99.90) US$ 6 mi</title></rect><rect class="s2" x="96.1" y="169.4" width="27.8" height="86.6"><title>2009: chapa de granito US$ 433 mi</title></rect><rect class="s3" x="96.1" y="154.1" width="27.8" height="15.3"><title>2009: demais US$ 76 mi</title></rect><rect class="s1" x="96.1" y="153.2" width="27.8" height="0.9"><title>2009: quartzito e outras (6802.99.90) US$ 4 mi</title></rect><text class="ax" x="110.0" y="272" text-anchor="middle">2009</text><rect class="s2" x="134.7" y="140.9" width="27.8" height="115.1"><title>2010: chapa de granito US$ 575 mi</title></rect><rect class="s3" x="134.7" y="124.8" width="27.8" height="16.1"><title>2010: demais US$ 81 mi</title></rect><rect class="s1" x="134.7" y="123.4" width="27.8" height="1.3"><title>2010: quartzito e outras (6802.99.90) US$ 7 mi</title></rect><rect class="s2" x="173.4" y="139.8" width="27.8" height="116.2"><title>2011: chapa de granito US$ 581 mi</title></rect><rect class="s3" x="173.4" y="120.6" width="27.8" height="19.2"><title>2011: demais US$ 96 mi</title></rect><rect class="s1" x="173.4" y="118.9" width="27.8" height="1.7"><title>2011: quartzito e outras (6802.99.90) US$ 9 mi</title></rect><rect class="s2" x="212.1" y="125.8" width="27.8" height="130.2"><title>2012: chapa de granito US$ 651 mi</title></rect><rect class="s3" x="212.1" y="105.8" width="27.8" height="20.0"><title>2012: demais US$ 100 mi</title></rect><rect class="s1" x="212.1" y="103.6" width="27.8" height="2.2"><title>2012: quartzito e outras (6802.99.90) US$ 11 mi</title></rect><text class="ax" x="226.0" y="272" text-anchor="middle">2012</text><rect class="s2" x="250.7" y="92.6" width="27.8" height="163.4"><title>2013: chapa de granito US$ 817 mi</title></rect><rect class="s3" x="250.7" y="70.3" width="27.8" height="22.3"><title>2013: demais US$ 111 mi</title></rect><rect class="s1" x="250.7" y="65.8" width="27.8" height="4.5"><title>2013: quartzito e outras (6802.99.90) US$ 23 mi</title></rect><rect class="s2" x="289.4" y="92.5" width="27.8" height="163.5"><title>2014: chapa de granito US$ 818 mi</title></rect><rect class="s3" x="289.4" y="68.2" width="27.8" height="24.3"><title>2014: demais US$ 121 mi</title></rect><rect class="s1" x="289.4" y="63.1" width="27.8" height="5.1"><title>2014: quartzito e outras (6802.99.90) US$ 26 mi</title></rect><rect class="s2" x="328.1" y="98.3" width="27.8" height="157.7"><title>2015: chapa de granito US$ 789 mi</title></rect><rect class="s3" x="328.1" y="73.0" width="27.8" height="25.2"><title>2015: demais US$ 126 mi</title></rect><rect class="s1" x="328.1" y="66.4" width="27.8" height="6.6"><title>2015: quartzito e outras (6802.99.90) US$ 33 mi</title></rect><text class="ax" x="342.0" y="272" text-anchor="middle">2015</text><rect class="s2" x="366.7" y="121.0" width="27.8" height="135.0"><title>2016: chapa de granito US$ 675 mi</title></rect><rect class="s3" x="366.7" y="91.9" width="27.8" height="29.1"><title>2016: demais US$ 146 mi</title></rect><rect class="s1" x="366.7" y="81.5" width="27.8" height="10.4"><title>2016: quartzito e outras (6802.99.90) US$ 52 mi</title></rect><rect class="s2" x="405.4" y="134.0" width="27.8" height="122.0"><title>2017: chapa de granito US$ 610 mi</title></rect><rect class="s3" x="405.4" y="103.2" width="27.8" height="30.8"><title>2017: demais US$ 154 mi</title></rect><rect class="s1" x="405.4" y="85.8" width="27.8" height="17.3"><title>2017: quartzito e outras (6802.99.90) US$ 87 mi</title></rect><rect class="s2" x="444.1" y="162.4" width="27.8" height="93.6"><title>2018: chapa de granito US$ 468 mi</title></rect><rect class="s3" x="444.1" y="135.6" width="27.8" height="26.8"><title>2018: demais US$ 134 mi</title></rect><rect class="s1" x="444.1" y="110.7" width="27.8" height="24.9"><title>2018: quartzito e outras (6802.99.90) US$ 125 mi</title></rect><text class="ax" x="458.0" y="272" text-anchor="middle">2018</text><rect class="s2" x="482.7" y="170.9" width="27.8" height="85.1"><title>2019: chapa de granito US$ 426 mi</title></rect><rect class="s3" x="482.7" y="140.5" width="27.8" height="30.4"><title>2019: demais US$ 152 mi</title></rect><rect class="s1" x="482.7" y="102.7" width="27.8" height="37.8"><title>2019: quartzito e outras (6802.99.90) US$ 189 mi</title></rect><rect class="s2" x="521.4" y="179.1" width="27.8" height="76.9"><title>2020: chapa de granito US$ 385 mi</title></rect><rect class="s3" x="521.4" y="147.4" width="27.8" height="31.6"><title>2020: demais US$ 158 mi</title></rect><rect class="s1" x="521.4" y="106.7" width="27.8" height="40.7"><title>2020: quartzito e outras (6802.99.90) US$ 204 mi</title></rect><rect class="s2" x="560.1" y="160.9" width="27.8" height="95.1"><title>2021: chapa de granito US$ 475 mi</title></rect><rect class="s3" x="560.1" y="122.1" width="27.8" height="38.8"><title>2021: demais US$ 194 mi</title></rect><rect class="s1" x="560.1" y="51.5" width="27.8" height="70.6"><title>2021: quartzito e outras (6802.99.90) US$ 353 mi</title></rect><text class="ax" x="574.0" y="272" text-anchor="middle">2021</text><rect class="s2" x="598.7" y="173.2" width="27.8" height="82.8"><title>2022: chapa de granito US$ 414 mi</title></rect><rect class="s3" x="598.7" y="142.1" width="27.8" height="31.1"><title>2022: demais US$ 156 mi</title></rect><rect class="s1" x="598.7" y="66.0" width="27.8" height="76.1"><title>2022: quartzito e outras (6802.99.90) US$ 380 mi</title></rect><rect class="s2" x="637.4" y="187.8" width="27.8" height="68.2"><title>2023: chapa de granito US$ 341 mi</title></rect><rect class="s3" x="637.4" y="165.5" width="27.8" height="22.2"><title>2023: demais US$ 111 mi</title></rect><rect class="s1" x="637.4" y="93.2" width="27.8" height="72.3"><title>2023: quartzito e outras (6802.99.90) US$ 362 mi</title></rect><rect class="s2" x="676.1" y="192.2" width="27.8" height="63.8"><title>2024: chapa de granito US$ 319 mi</title></rect><rect class="s3" x="676.1" y="171.9" width="27.8" height="20.2"><title>2024: demais US$ 101 mi</title></rect><rect class="s1" x="676.1" y="72.5" width="27.8" height="99.4"><title>2024: quartzito e outras (6802.99.90) US$ 497 mi</title></rect><rect class="s2" x="714.7" y="201.5" width="27.8" height="54.5"><title>2025: chapa de granito US$ 273 mi</title></rect><rect class="s3" x="714.7" y="182.4" width="27.8" height="19.1"><title>2025: demais US$ 95 mi</title></rect><rect class="s1" x="714.7" y="43.4" width="27.8" height="139.0"><title>2025: quartzito e outras (6802.99.90) US$ 695 mi</title></rect><text class="ax" x="728.7" y="272" text-anchor="middle">2025</text><text class="note" x="728.7" y="35.4" text-anchor="end">2025: quartzito = 65% do valor</text></svg></div>
+  <figcaption><b>Exportação de beneficiadas (SH 6801 e 6802) por produto, US$ milhões.</b> ComexStat, NCM de 8 dígitos. O código 6802.99.90 é residual ("outras pedras"); que ele corresponda essencialmente a quartzito maciço é afirmação da Abirochas.</figcaption>
+</figure>
+<div class="tbl prose"><table>
+  <thead><tr><th>Período</th><th class="n">Preço médio US$/t</th><th class="n">Efeito preço</th><th class="n">Efeito composição</th></tr></thead>
+  <tbody>
+    <tr><td>2013 → 2025</td><td class="n">811 → 1.294</td><td class="n">×0,99</td><td class="n"><b>×1,61</b></td></tr>
+    <tr><td>2019 → 2025</td><td class="n">727 → 1.294</td><td class="n">×1,15</td><td class="n"><b>×1,54</b></td></tr>
+    <tr><td>2021 → 2025</td><td class="n">803 → 1.294</td><td class="n">×1,12</td><td class="n"><b>×1,44</b></td></tr>
+  </tbody>
+</table></div>
+<div class="prose">
+<p><span class="tag ok">dado</span> O efeito preço mede quanto subiu o preço dentro de cada código; o efeito composição, quanto o peso migrou para códigos mais caros. A hipótese da versão 1 está confirmada.</p>
+<p><span class="tag px">setor</span> O quartzito já mostra sinais de virar commodity. A Abirochas registrou, no 1º quadrimestre de 2025, volume de blocos em alta com preço caindo 6,8%, e escreveu que isso "sinaliza um processo indesejável de comoditização destes produtos comerciais, que deverá futuramente estender-se para suas chapas". Em janeiro a abril de 2026, o preço da chapa caiu pela primeira vez.</p>
+</div>
+</section>
+
+<section>
+<h2 class="prose">3. Mapa da cadeia produtiva</h2>
+<pre class="mermaid">
+flowchart LR
+  subgraph IN["Insumos e bens de capital"]
+    M["Máquinas SH 8464<br/>China 40% · Itália 24%<br/>350 de 600 multifio são nacionais"]
+    A["Abrasivos SH 6804<br/>China 69%"]
+  end
+  subgraph LAV["E1 Lavra · 10,6 Mt (setor) · 8,5 Mt (ANM)"]
+    LES["Espírito Santo ~2,5 Mt<br/>granitos"]
+    LNE["MG · BA · CE · RN · PB<br/>quartzitos maciços e exóticos"]
+  end
+  LNE -->|"blocos por rodovia"| S
+  LES --> S["E2 Serragem no ES<br/>mais de 90% da capacidade<br/>~100 milhões m²/ano"]
+  LNE -->|"blocos de quartzito<br/>preço em queda"| CN["China e Itália<br/>beneficiam e reexportam"]
+  S --> P["E3 Polimento e resina"]
+  M -.-> S
+  A -.-> P
+  P -->|"chapas 6802.99.90<br/>US$ 2.369/t"| US["EUA"]
+  P --> DM["Mercado interno<br/>4,8 Mt · SP 44%"]
+  CN -->|"concorrem"| US
+  CN -.->|"artificiais chineses"| DM
+</pre>
+<p class="prose" style="color:var(--muted);font-size:.86rem">Lavra, capacidade, teares e mercado interno são estimativas da Abirochas (Informes 01/2024 e 01/2026). Os blocos de MG, BA e Nordeste são serrados e exportados pelo Espírito Santo; chapas saem pelos portos do Rio e de Santos.</p>
+</section>
+
+<section class="prose">
+<h2>4. Lavra: onde se extrai</h2>
+<p><span class="tag ok">dado</span> A produção bruta declarada à ANM no Relatório Anual de Lavra foi de 3,5 Mt em 2010 a 8,5 Mt em 2025, com o Espírito Santo entre 35% e 50%. A CFEM atribuível a rocha ornamental foi de R$ 5,4 milhões em 2005 a R$ 33,4 milhões em 2025.</p>
+<p><span class="tag px">setor</span> A Abirochas estima 10,6 Mt em 2025, das quais 3,0 Mt de quartzito maciço (28%) e 3,3 Mt de granitos (31%). Em 2020 o quartzito maciço era 1,5 Mt: dobrou em cinco anos.</p>
+</section>
+<section>
+<figure>
+  <div class="legend"><span><i style="background:var(--accent)"></i>estimativa da Abirochas</span><span><i style="background:var(--ochre)"></i>declarada à ANM (RAL)</span></div>
+  <div class="fig-scroll"><svg viewBox="0 0 760 240" role="img" aria-label="Produção de rochas ornamentais: estimativa do setor e declarada à ANM, 2017–2025, milhões de toneladas"><line class="grid" x1="40" x2="650" y1="210.0" y2="210.0"/><text class="ax" x="34" y="214.0" text-anchor="end">0</text><line class="grid" x1="40" x2="650" y1="161.0" y2="161.0"/><text class="ax" x="34" y="165.0" text-anchor="end">3</text><line class="grid" x1="40" x2="650" y1="112.0" y2="112.0"/><text class="ax" x="34" y="116.0" text-anchor="end">6</text><line class="grid" x1="40" x2="650" y1="63.0" y2="63.0"/><text class="ax" x="34" y="67.0" text-anchor="end">9</text><line class="grid" x1="40" x2="650" y1="14.0" y2="14.0"/><text class="ax" x="34" y="18.0" text-anchor="end">12</text><text class="ax" x="40.0" y="226" text-anchor="middle">2017</text><text class="ax" x="116.2" y="226" text-anchor="middle">2018</text><text class="ax" x="192.5" y="226" text-anchor="middle">2019</text><text class="ax" x="268.8" y="226" text-anchor="middle">2020</text><text class="ax" x="345.0" y="226" text-anchor="middle">2021</text><text class="ax" x="421.2" y="226" text-anchor="middle">2022</text><text class="ax" x="497.5" y="226" text-anchor="middle">2023</text><text class="ax" x="573.8" y="226" text-anchor="middle">2024</text><text class="ax" x="650.0" y="226" text-anchor="middle">2025</text><polyline class="l1" points="40.0,59.7 116.2,63.0 192.5,59.7 268.8,63.0 345.0,43.4 421.2,46.7 497.5,46.7 573.8,38.5 650.0,36.5"/><circle class="l1d" cx="40.0" cy="59.7" r="3"><title>2017: 9,2 Mt</title></circle><circle class="l1d" cx="116.2" cy="63.0" r="3"><title>2018: 9,0 Mt</title></circle><circle class="l1d" cx="192.5" cy="59.7" r="3"><title>2019: 9,2 Mt</title></circle><circle class="l1d" cx="268.8" cy="63.0" r="3"><title>2020: 9,0 Mt</title></circle><circle class="l1d" cx="345.0" cy="43.4" r="3"><title>2021: 10,2 Mt</title></circle><circle class="l1d" cx="421.2" cy="46.7" r="3"><title>2022: 10,0 Mt</title></circle><circle class="l1d" cx="497.5" cy="46.7" r="3"><title>2023: 10,0 Mt</title></circle><circle class="l1d" cx="573.8" cy="38.5" r="3"><title>2024: 10,5 Mt</title></circle><circle class="l1d" cx="650.0" cy="36.5" r="3"><title>2025: 10,6 Mt</title></circle><text class="lab l1t" x="658.0" y="40.5">10,6 Mt</text><text class="ax" x="658.0" y="54.5">Abirochas</text><polyline class="l2" points="40.0,120.2 116.2,122.8 192.5,114.9 268.8,102.7 345.0,75.4 421.2,93.7 497.5,104.5"/><line class="mark" x1="497.5" y1="104.5" x2="650.0" y2="71.5"/><text class="ax" x="573.8" y="109.5" text-anchor="middle">2024 excluído</text><circle class="l2d" cx="40.0" cy="120.2" r="3"><title>2017: 5,5 Mt</title></circle><circle class="l2d" cx="116.2" cy="122.8" r="3"><title>2018: 5,3 Mt</title></circle><circle class="l2d" cx="192.5" cy="114.9" r="3"><title>2019: 5,8 Mt</title></circle><circle class="l2d" cx="268.8" cy="102.7" r="3"><title>2020: 6,6 Mt</title></circle><circle class="l2d" cx="345.0" cy="75.4" r="3"><title>2021: 8,2 Mt</title></circle><circle class="l2d" cx="421.2" cy="93.7" r="3"><title>2022: 7,1 Mt</title></circle><circle class="l2d" cx="497.5" cy="104.5" r="3"><title>2023: 6,5 Mt</title></circle><circle class="l2d" cx="650.0" cy="71.5" r="3"><title>2025: 8,5 Mt</title></circle><text class="lab l2t" x="658.0" y="75.5">8,5 Mt</text><text class="ax" x="658.0" y="89.5">ANM/RAL</text></svg></div>
+  <figcaption><b>Produção de rochas ornamentais, milhões de toneladas.</b> O RAL de 2024 (20,8 Mt, sendo 12,6 Mt só no ES) é quase certamente erro de declaração e foi excluído.</figcaption>
+</figure>
+</section>
+<section class="prose">
+<div class="tbl"><table>
+  <thead><tr><th></th><th class="n">Espírito Santo</th><th class="n">Bahia</th><th class="n">Brasil</th></tr></thead>
+  <tbody>
+    <tr><td>Abirochas, 2024</td><td class="n">2,4 Mt</td><td class="n">2,1 Mt</td><td class="n">10,5 Mt</td></tr>
+    <tr><td>ANM/RAL, média 2022–2025 sem 2024</td><td class="n">~2,5 Mt</td><td class="n">~0,45 Mt</td><td class="n">~7,4 Mt</td></tr>
+  </tbody>
+</table></div>
+<p>No Espírito Santo as fontes batem; na Bahia o setor estima quase cinco vezes o que as minas declaram. <span class="tag hip">hipótese</span> Parte da lavra de quartzito no Nordeste opera com titulação ou declaração incompleta. O deslocamento da lavra que o setor descreve não é mensurável com dado oficial hoje.</p>
+<p><span class="tag px">setor</span> A Abirochas atribui a "paralisação de dezenas de frentes de lavra, especialmente no estado do Espírito Santo" à "perda de economicidade de vários materiais comuns ou de batalha" (Informe 01/2024).</p>
+<p>Ressalva: a CFEM tem quebra de série em 2017–2018 (Lei 13.540/2017 mudou base e, ao que consta, a alíquota de rochas ornamentais). Não comparar níveis antes e depois.</p>
+</section>
+
+<section class="prose">
+<h2>5. Beneficiamento e logística</h2>
+<p><span class="tag px">setor</span> A capacidade de serragem é de cerca de 100 milhões de m² de chapas por ano, com 600 teares multifio diamantados, 350 deles nacionais (2023). Em 2020 eram 470 teares multilâmina e 360 multifio: a tecnologia foi trocada em uma década. O Espírito Santo concentra mais de 90% dessa capacidade.</p>
+<p>Por isso o elo de máquinas é menos importado do que a versão 1 sugeria: a importação de máquinas mede o fluxo, e o estoque instalado já é majoritariamente nacional.</p>
+<p><span class="tag px">setor</span> A mesma restrição aparece em Informes de 2018, 2019, 2021, 2022, 2023, 2024 e 2025: o porto de Vitória não atende carga de chapas em contêiner. Em carta aberta de julho de 2024, a Centrorochas registra que a taxa de utilização do terminal de contêiner "corresponde a 155% da sua capacidade natural". Vitória embarca sobretudo blocos (US$ 210/t em jan–abr/2024); as chapas saem pelo Rio e por Santos.</p>
+<p><span class="tag hip">hipótese</span> O custo logístico é parte do diferencial de preço do Brasil no mercado americano. Testável com dado de frete da ANTAQ, ainda não coletado.</p>
+</section>
+
+<section class="prose">
+<h2>6. Comercialização e o choque tarifário</h2>
+<p>Foram 132 países de destino em 2025, mas a concentração é alta: EUA 53,9%, China 17,2%, Itália 7,8%, México 3,7%.</p>
+</section>
+<section>
+<figure>
+  <div class="legend"><span><i style="background:var(--accent)"></i>para os EUA</span><span><i style="background:var(--line)"></i>demais destinos</span></div>
+  <div class="fig-scroll"><svg viewBox="0 0 760 250" role="img" aria-label="Exportação mensal, total e para os EUA, últimos 24 meses"><line class="grid" x1="46" x2="748" y1="210.0" y2="210.0"/><text class="ax" x="40" y="214.0" text-anchor="end">0</text><line class="grid" x1="46" x2="748" y1="154.6" y2="154.6"/><text class="ax" x="40" y="158.6" text-anchor="end">50</text><line class="grid" x1="46" x2="748" y1="99.1" y2="99.1"/><text class="ax" x="40" y="103.1" text-anchor="end">100</text><line class="grid" x1="46" x2="748" y1="43.7" y2="43.7"/><text class="ax" x="40" y="47.7" text-anchor="end">150</text><rect class="s3" x="50.4" y="90.3" width="20.5" height="119.7"><title>2024-10: total US$ 107,9 mi</title></rect><rect class="s1" x="50.4" y="146.2" width="20.5" height="63.8"><title>2024-10: EUA US$ 57,5 mi (53%)</title></rect><rect class="s3" x="79.6" y="95.5" width="20.5" height="114.5"><title>2024-11: total US$ 103,3 mi</title></rect><rect class="s1" x="79.6" y="139.2" width="20.5" height="70.8"><title>2024-11: EUA US$ 63,9 mi (62%)</title></rect><rect class="s3" x="108.9" y="71.8" width="20.5" height="138.2"><title>2024-12: total US$ 124,6 mi</title></rect><rect class="s1" x="108.9" y="126.0" width="20.5" height="84.0"><title>2024-12: EUA US$ 75,8 mi (61%)</title></rect><rect class="s3" x="138.1" y="68.4" width="20.5" height="141.6"><title>2025-01: total US$ 127,8 mi</title></rect><rect class="s1" x="138.1" y="126.5" width="20.5" height="83.5"><title>2025-01: EUA US$ 75,3 mi (59%)</title></rect><text class="ax" x="148.4" y="226" text-anchor="middle">01/25</text><rect class="s3" x="167.4" y="97.6" width="20.5" height="112.4"><title>2025-02: total US$ 101,4 mi</title></rect><rect class="s1" x="167.4" y="140.2" width="20.5" height="69.8"><title>2025-02: EUA US$ 63,0 mi (62%)</title></rect><rect class="s3" x="196.6" y="72.3" width="20.5" height="137.7"><title>2025-03: total US$ 124,3 mi</title></rect><rect class="s1" x="196.6" y="136.5" width="20.5" height="73.5"><title>2025-03: EUA US$ 66,3 mi (53%)</title></rect><rect class="s3" x="225.9" y="93.2" width="20.5" height="116.8"><title>2025-04: total US$ 105,4 mi</title></rect><rect class="s1" x="225.9" y="143.6" width="20.5" height="66.4"><title>2025-04: EUA US$ 59,9 mi (57%)</title></rect><rect class="s3" x="255.1" y="35.5" width="20.5" height="174.5"><title>2025-05: total US$ 157,4 mi</title></rect><rect class="s1" x="255.1" y="102.5" width="20.5" height="107.5"><title>2025-05: EUA US$ 96,9 mi (62%)</title></rect><rect class="s3" x="284.4" y="74.5" width="20.5" height="135.5"><title>2025-06: total US$ 122,3 mi</title></rect><rect class="s1" x="284.4" y="138.7" width="20.5" height="71.3"><title>2025-06: EUA US$ 64,3 mi (53%)</title></rect><rect class="s3" x="313.6" y="47.4" width="20.5" height="162.6"><title>2025-07: total US$ 146,7 mi</title></rect><rect class="s1" x="313.6" y="115.5" width="20.5" height="94.5"><title>2025-07: EUA US$ 85,3 mi (58%)</title></rect><text class="ax" x="323.9" y="226" text-anchor="middle">07/25</text><rect class="s3" x="342.9" y="102.8" width="20.5" height="107.2"><title>2025-08: total US$ 96,7 mi</title></rect><rect class="s1" x="342.9" y="170.3" width="20.5" height="39.7"><title>2025-08: EUA US$ 35,9 mi (37%)</title></rect><line class="mark" x1="353.1" x2="353.1" y1="16" y2="210.0"/><text class="note" x="359.1" y="26">ago/25: EUA caem a 37%</text><rect class="s3" x="372.1" y="81.6" width="20.5" height="128.4"><title>2025-09: total US$ 115,8 mi</title></rect><rect class="s1" x="372.1" y="152.3" width="20.5" height="57.7"><title>2025-09: EUA US$ 52,1 mi (45%)</title></rect><rect class="s3" x="401.4" y="55.3" width="20.5" height="154.7"><title>2025-10: total US$ 139,5 mi</title></rect><rect class="s1" x="401.4" y="130.4" width="20.5" height="79.6"><title>2025-10: EUA US$ 71,8 mi (51%)</title></rect><rect class="s3" x="430.6" y="93.3" width="20.5" height="116.7"><title>2025-11: total US$ 105,3 mi</title></rect><rect class="s1" x="430.6" y="138.3" width="20.5" height="71.7"><title>2025-11: EUA US$ 64,7 mi (61%)</title></rect><rect class="s3" x="459.9" y="62.8" width="20.5" height="147.2"><title>2025-12: total US$ 132,8 mi</title></rect><rect class="s1" x="459.9" y="143.9" width="20.5" height="66.1"><title>2025-12: EUA US$ 59,6 mi (45%)</title></rect><rect class="s3" x="489.1" y="106.9" width="20.5" height="103.1"><title>2026-01: total US$ 93,0 mi</title></rect><rect class="s1" x="489.1" y="157.8" width="20.5" height="52.2"><title>2026-01: EUA US$ 47,1 mi (51%)</title></rect><text class="ax" x="499.4" y="226" text-anchor="middle">01/26</text><rect class="s3" x="518.4" y="121.2" width="20.5" height="88.8"><title>2026-02: total US$ 80,1 mi</title></rect><rect class="s1" x="518.4" y="175.0" width="20.5" height="35.0"><title>2026-02: EUA US$ 31,6 mi (39%)</title></rect><rect class="s3" x="547.6" y="93.7" width="20.5" height="116.3"><title>2026-03: total US$ 104,9 mi</title></rect><rect class="s1" x="547.6" y="159.8" width="20.5" height="50.2"><title>2026-03: EUA US$ 45,3 mi (43%)</title></rect><rect class="s3" x="576.9" y="47.3" width="20.5" height="162.7"><title>2026-04: total US$ 146,7 mi</title></rect><rect class="s1" x="576.9" y="117.3" width="20.5" height="92.7"><title>2026-04: EUA US$ 83,7 mi (57%)</title></rect><rect class="s3" x="606.1" y="80.9" width="20.5" height="129.1"><title>2026-05: total US$ 116,4 mi</title></rect><rect class="s1" x="606.1" y="140.8" width="20.5" height="69.2"><title>2026-05: EUA US$ 62,4 mi (54%)</title></rect><rect class="s3" x="635.4" y="29.2" width="20.5" height="180.8"><title>2026-06: total US$ 163,1 mi</title></rect><rect class="s1" x="635.4" y="105.8" width="20.5" height="104.2"><title>2026-06: EUA US$ 94,0 mi (58%)</title></rect><rect class="s3" x="664.6" y="72.6" width="20.5" height="137.4"><title>2026-07: total US$ 123,9 mi</title></rect><rect class="s1" x="664.6" y="142.0" width="20.5" height="68.0"><title>2026-07: EUA US$ 61,4 mi (50%)</title></rect><text class="ax" x="674.9" y="226" text-anchor="middle">07/26</text><rect class="s3" x="693.9" y="72.2" width="20.5" height="137.8"><title>2026-08: total US$ 124,3 mi</title></rect><rect class="s1" x="693.9" y="130.8" width="20.5" height="79.2"><title>2026-08: EUA US$ 71,4 mi (57%)</title></rect><rect class="s3" x="723.1" y="64.2" width="20.5" height="145.8"><title>2026-09: total US$ 131,6 mi</title></rect><rect class="s1" x="723.1" y="138.1" width="20.5" height="71.9"><title>2026-09: EUA US$ 64,8 mi (49%)</title></rect></svg></div>
+  <figcaption><b>Exportação mensal, US$ milhões, últimos 24 meses.</b> A participação americana caiu de 58% em julho para 37% em agosto de 2025.</figcaption>
+</figure>
+</section>
+<section class="prose">
+<div class="tbl"><table>
+  <thead><tr><th>Mês</th><th class="n">Total, US$ mi</th><th class="n">Chapas e obras (6802) para os EUA, US$ mi</th></tr></thead>
+  <tbody>
+    <tr><td>jul/2025</td><td class="n">147</td><td class="n">85</td></tr>
+    <tr><td>ago/2025</td><td class="n">97</td><td class="n"><b>35</b></td></tr>
+    <tr><td>set–dez/2025</td><td class="n">105–140</td><td class="n">51–71</td></tr>
+    <tr><td>jan–fev/2026</td><td class="n">80–93</td><td class="n">31–47</td></tr>
+    <tr><td>mar–set/2026</td><td class="n">105–163</td><td class="n">45–93</td></tr>
+  </tbody>
+</table></div>
+<p><span class="tag px">setor</span> A Abirochas atribui a alta de janeiro a julho de 2025 à "antecipação de importações pelos EUA, no sentido de evitar os efeitos diretos e indiretos do tarifaço" (Informe 08/2025), e a queda do início de 2026 ao esgotamento desses estoques. Segundo o Informe 12/2025, a nova tarifação "acabou por isentar" o código 6802.99.90. <span class="tag hip">a confirmar</span> no ato oficial dos EUA antes de citar.</p>
+<p><span class="tag px">setor</span> Para a China, no 1º trimestre de 2026, as exportações subiram 44% em valor e 10% em peso, o que o setor atribui à "crescente e já grande participação de blocos de quartzito". E alerta que "uma quantidade cada vez maior de rochas brasileiras está sendo processada na China e posteriormente comercializada no mercado internacional".</p>
+</section>
+<section>
+<figure>
+  <div class="fig-scroll"><svg viewBox="0 0 760 260" role="img" aria-label="Participação nas importações dos EUA de beneficiadas, por origem, 2000–2025"><line class="grid" x1="40" x2="682" y1="230.0" y2="230.0"/><text class="ax" x="34" y="234.0" text-anchor="end">0%</text><line class="grid" x1="40" x2="682" y1="158.0" y2="158.0"/><text class="ax" x="34" y="162.0" text-anchor="end">10%</text><line class="grid" x1="40" x2="682" y1="86.0" y2="86.0"/><text class="ax" x="34" y="90.0" text-anchor="end">20%</text><line class="grid" x1="40" x2="682" y1="14.0" y2="14.0"/><text class="ax" x="34" y="18.0" text-anchor="end">30%</text><text class="ax" x="40.0" y="246" text-anchor="middle">2000</text><text class="ax" x="168.4" y="246" text-anchor="middle">2005</text><text class="ax" x="296.8" y="246" text-anchor="middle">2010</text><text class="ax" x="425.2" y="246" text-anchor="middle">2015</text><text class="ax" x="553.6" y="246" text-anchor="middle">2020</text><text class="ax" x="682.0" y="246" text-anchor="middle">2025</text><polyline class="l1" points="40.0,173.5 65.7,172.9 91.4,151.7 117.0,138.4 142.7,122.4 168.4,103.5 194.1,86.1 219.8,85.4 245.4,93.3 271.1,84.2 296.8,45.5 322.5,47.8 348.2,45.0 373.8,29.2 399.5,29.8 425.2,35.3 450.9,45.0 476.6,49.2 502.2,72.2 527.9,51.0 553.6,42.3 579.3,43.4 605.0,51.0 630.6,64.9 656.3,59.7 682.0,35.7"/><polyline class="l3" points="40.0,196.0 65.7,188.7 91.4,178.1 117.0,168.6 142.7,151.1 168.4,138.0 194.1,128.5 219.8,113.4 245.4,99.6 271.1,79.6 296.8,91.3 322.5,97.3 348.2,93.7 373.8,91.8 399.5,90.9 425.2,83.8 450.9,71.6 476.6,66.6 502.2,52.0 527.9,87.4 553.6,92.4 579.3,98.3 605.0,102.2 630.6,109.7 656.3,121.9 682.0,156.8"/><polyline class="l2" points="40.0,-59.2 65.7,-43.1 91.4,-14.8 117.0,9.2 142.7,43.4 168.4,71.0 194.1,86.6 219.8,96.1 245.4,96.7 271.1,116.0 296.8,129.0 322.5,126.4 348.2,121.8 373.8,111.9 399.5,111.8 425.2,111.5 450.9,108.6 476.6,114.3 502.2,110.8 527.9,114.0 553.6,128.8 579.3,125.2 605.0,115.8 630.6,96.7 656.3,91.0 682.0,81.7"/><polyline class="l5" points="40.0,179.6 65.7,179.0 91.4,173.8 117.0,165.4 142.7,158.7 168.4,158.6 194.1,158.3 219.8,163.7 245.4,159.3 271.1,161.0 296.8,152.4 322.5,150.1 348.2,149.4 373.8,157.3 399.5,156.8 425.2,153.5 450.9,150.2 476.6,140.9 502.2,141.8 527.9,134.3 553.6,125.7 579.3,125.3 605.0,130.2 630.6,138.5 656.3,143.3 682.0,151.4"/><polyline class="l4" points="40.0,192.2 65.7,184.5 91.4,167.5 117.0,151.7 142.7,142.6 168.4,127.1 194.1,128.8 219.8,128.9 245.4,135.2 271.1,134.7 296.8,137.2 322.5,131.7 348.2,136.4 373.8,141.2 399.5,136.9 425.2,139.4 450.9,152.6 476.6,155.3 502.2,150.8 527.9,148.2 553.6,146.4 579.3,141.4 605.0,135.9 630.6,135.5 656.3,131.0 682.0,126.7"/><text class="lab l1t" x="688" y="39.7">Brasil 27%</text><text class="lab l2t" x="688" y="85.7">Itália 21%</text><text class="lab l4t" x="688" y="130.7">Turquia 14%</text><text class="lab l5t" x="688" y="155.4">Índia 11%</text><text class="lab l3t" x="688" y="168.4">China 10%</text></svg></div>
+  <figcaption><b>Participação nas importações dos EUA de pedra beneficiada (SH 6802), por origem.</b> UN Comtrade, valores declarados pelos EUA.</figcaption>
+</figure>
+</section>
+
+<section class="prose">
+<h2>7. Cadeia de valor: onde o valor fica</h2>
+<div class="tbl"><table>
+  <thead><tr><th>Estágio</th><th class="n">US$/t</th><th>Fonte</th></tr></thead>
+  <tbody>
+    <tr><td>Bloco silicático exportado, média</td><td class="n">302 (2025)</td><td>ComexStat</td></tr>
+    <tr><td>Chapa de granito (6802.93.90)</td><td class="n">608 (2025)</td><td>ComexStat</td></tr>
+    <tr><td>Beneficiada exportada pela Itália</td><td class="n">2.027 (2024)</td><td>Comtrade</td></tr>
+    <tr><td>Chapa de quartzito e outras (6802.99.90)</td><td class="n">2.369 (2025)</td><td>ComexStat</td></tr>
+  </tbody>
+</table></div>
+<p><strong>Revisão da versão 1.</strong> A comparação do preço médio brasileiro (US$ 1.088/t) com o italiano (2.027) sugeria que a Itália captura valor em marca e distribuição. Com o detalhe por produto, a chapa de quartzito brasileira já é vendida acima da média italiana. O que puxa a média brasileira para baixo é o granito comum, o produto em declínio. A hipótese de marca e distribuição vale para o granito, não para o quartzito.</p>
+<p><strong>Duas ameaças ao motor de valor.</strong> A primeira é a perda de preço do bloco de quartzito, que o setor chama de comoditização. A segunda é a venda do mesmo bloco à China, que o serra e compete no mercado final.</p>
+<p><strong>Mercado interno.</strong> <span class="tag px">setor</span> 4,8 Mt ou 89 milhões de m² em 2025, 74% da produção, com São Paulo consumindo 44%. A Abirochas alerta para a "crescente pressão de produtos chineses, especialmente materiais artificiais de revestimento, no mercado interno" (Informe 01/2026).</p>
+</section>
+
+<section class="prose">
+<h2>8. Polos: exportação e lavra</h2>
+<p>Participação no valor exportado, por estado exportador.</p>
+<div class="ufs"><div class="uf uf-h"><span></span><span>2000</span><span></span><span>2025</span><span></span></div><div class="uf"><span class="uf-n">Espírito Santo</span><span class="uf-b"><i class="b0" style="width:43.6%"></i></span><span class="uf-v">43,6%</span><span class="uf-b"><i class="b1" style="width:84.1%"></i></span><span class="uf-v">84,1%</span></div><div class="uf"><span class="uf-n">Minas Gerais</span><span class="uf-b"><i class="b0" style="width:27.5%"></i></span><span class="uf-v">27,5%</span><span class="uf-b"><i class="b1" style="width:9.2%"></i></span><span class="uf-v">9,2%</span></div><div class="uf"><span class="uf-n">Ceará</span><span class="uf-b"><i class="b0" style="width:0.3%"></i></span><span class="uf-v">0,3%</span><span class="uf-b"><i class="b1" style="width:2.4%"></i></span><span class="uf-v">2,4%</span></div><div class="uf"><span class="uf-n">Bahia</span><span class="uf-b"><i class="b0" style="width:6.5%"></i></span><span class="uf-v">6,5%</span><span class="uf-b"><i class="b1" style="width:1.2%"></i></span><span class="uf-v">1,2%</span></div><div class="uf"><span class="uf-n">Rio Grande do Norte</span><span class="uf-b"><i class="b0" style="width:0.0%"></i></span><span class="uf-v">0,0%</span><span class="uf-b"><i class="b1" style="width:1.1%"></i></span><span class="uf-v">1,1%</span></div><div class="uf"><span class="uf-n">Paraíba</span><span class="uf-b"><i class="b0" style="width:0.3%"></i></span><span class="uf-v">0,3%</span><span class="uf-b"><i class="b1" style="width:0.8%"></i></span><span class="uf-v">0,8%</span></div></div>
+<div class="tbl"><table>
+  <thead><tr><th></th><th class="n">Exportação 2025</th><th class="n">CFEM ornamental 2025</th><th class="n">ANM/RAL 2025</th></tr></thead>
+  <tbody>
+    <tr><td>Espírito Santo</td><td class="n">84,1%</td><td class="n">17,6%</td><td class="n">32%</td></tr>
+    <tr><td>Minas Gerais</td><td class="n">9,2%</td><td class="n">14,1%</td><td class="n">16%</td></tr>
+    <tr><td>Bahia</td><td class="n">1,2%</td><td class="n">n/d</td><td class="n">5%</td></tr>
+  </tbody>
+</table></div>
+<p>A distância entre a coluna de exportação e as de lavra é o mapa da cadeia: o Espírito Santo serra e exporta o que Minas, Bahia e Nordeste extraem. A fatia do ES na CFEM depende da lista de municípios do polo, ainda a validar com o setor.</p>
+</section>
+
+<section class="prose">
+<h2>9. Achados e grau de evidência</h2>
+<div class="tbl"><table>
+  <thead><tr><th>Achado</th><th>Evidência</th></tr></thead>
+  <tbody>
+    <tr><td>A alta do preço por tonelada é troca de produto (quartzito), não preço</td><td><span class="tag ok">dado</span></td></tr>
+    <tr><td>Um motor de valor: quartzito em chapa para os EUA</td><td><span class="tag ok">dado</span></td></tr>
+    <tr><td>Diferencial de preço Brasil × Itália é sobretudo composição</td><td><span class="tag ok">dado</span></td></tr>
+    <tr><td>Comoditização do bloco de quartzito</td><td><span class="tag px">setor</span></td></tr>
+    <tr><td>Lavra migra para MG, BA e Nordeste; serragem fica no ES</td><td><span class="tag px">setor</span> dado oficial não capta</td></tr>
+    <tr><td>Porto de Vitória como restrição recorrente</td><td><span class="tag px">setor</span> falta dado de frete</td></tr>
+    <tr><td>Mercado interno é 74% do volume e sofre pressão de artificiais chineses</td><td><span class="tag px">setor</span></td></tr>
+  </tbody>
+</table></div>
+</section>
+
+<section class="prose">
+<h2>10. Lacunas e próximos passos</h2>
+<div class="tbl"><table>
+  <thead><tr><th>Lacuna</th><th>Peso</th><th>Caminho</th></tr></thead>
+  <tbody>
+    <tr><td>Produção da Bahia e do Nordeste</td><td><span class="tag mat">material</span></td><td>SIGMINE e entrevistas</td></tr>
+    <tr><td>Emprego por elo</td><td><span class="tag mat">material</span></td><td>RAIS/CAGED</td></tr>
+    <tr><td>Frete e custo portuário</td><td><span class="tag mat">material</span></td><td>ANTAQ</td></tr>
+    <tr><td>Isenção do 6802.99.90 na tarifa dos EUA</td><td><span class="tag mat">material</span></td><td>Federal Register e tabela tarifária dos EUA</td></tr>
+    <tr><td>Alíquota da CFEM após a Lei 13.540/2017</td><td><span class="tag px">moderada</span></td><td>texto legal</td></tr>
+    <tr><td>Lista de municípios do polo</td><td><span class="tag px">moderada</span></td><td>validação com o setor</td></tr>
+    <tr><td>Informes anteriores a 2018</td><td><span class="tag px">moderada</span></td><td>coleta de PDFs agendada duas vezes por semana</td></tr>
+  </tbody>
+</table></div>
+<h3>Ressalvas</h3>
+<p>Valores em US$ e R$ correntes, sem deflação. As estimativas da Abirochas (produção, consumo, emprego, capacidade) não trazem método publicado nos documentos lidos: use como ordem de grandeza. Numa amostra auditada à mão, cerca de 15% das causas fichadas eram atribuições fracas. A unidade da federação no ComexStat é a do exportador, não a da lavra. 2026 é parcial (janeiro a setembro).</p>
+</section>
+
+<footer class="foot prose">
+  Fontes: ComexStat/MDIC, UN Comtrade, ANM (CFEM e Relatório Anual de Lavra), Banco Central, OpenAlex, Crossref, BDTD/IBICT, Informes Abirochas e documentos Centrorochas. Dados, fichas com trechos literais e método no repositório <a href="https://github.com/roniegdias-ux/Cadeia-de-Valor-Rochas" target="_blank" rel="noopener">Cadeia-de-Valor-Rochas</a>, atualizado automaticamente.
+</footer>
+</div>

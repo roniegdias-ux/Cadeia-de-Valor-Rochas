@@ -170,13 +170,13 @@ carga conteinerizada de chapas. Trechos:
 
 - **Choque tarifário por produto:**
 
-| Mês | Exportação total (US$ mi) | 6802 para os EUA (US$ mi) |
+| Mês | Exportação total, com quartzito bruto (US$ mi) | 6802 para os EUA (US$ mi) |
 |---|---|---|
-| jul/2025 | 132 | 85 |
-| ago/2025 | 79 | **35** |
-| set–dez/2025 | 100–123 | 51–71 |
-| jan–fev/2026 | 70–84 | 31–47 |
-| mar–set/2026 | 92–147 | 45–93 |
+| jul/2025 | 147 | 85 |
+| ago/2025 | 97 | **35** |
+| set–dez/2025 | 105–140 | 51–71 |
+| jan–fev/2026 | 80–93 | 31–47 |
+| mar–set/2026 | 105–163 | 45–93 |
 
   O setor atribui a alta de jan-jul/2025 à "antecipação de importações pelos EUA, no sentido de evitar os efeitos
   diretos e indiretos do tarifaço" (Informe 08/2025) e a queda do início de 2026 ao esgotamento desses estoques.
