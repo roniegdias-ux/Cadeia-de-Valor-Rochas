@@ -174,6 +174,73 @@ def secao_eua():
     return md
 
 
+def secao_cfem():
+    rs = ler("anm_cfem_ornamental")
+    if not rs:
+        return []
+    a = C.defaultdict(lambda: C.defaultdict(float))
+    uf = C.defaultdict(lambda: C.defaultdict(float))
+    for r in rs:
+        v = float(r["valor_recolhido"] or 0)
+        a[r["ano"]][r["classe"]] += v
+        if r["classe"] in ("inequivoco", "polo"):
+            uf[r["ano"]][r["uf"]] += v
+    anos = sorted(k for k in a if k and k >= "2005")
+    md = ["## A9. CFEM — royalty da lavra atribuível a rocha ornamental (R$ milhões correntes)", "",
+          "Fonte: ANM, arrecadação da CFEM por substância e município. A CFEM não separa uso ornamental de brita "
+          "para granito/gnaisse: **inequívoco** = nome da substância já indica uso ornamental; **polo** = granito/gnaisse "
+          "sem qualificador em municípios do polo (lista em config.json, a validar); **ambíguo** = granito/gnaisse fora do "
+          "polo (não somado; ver dados/anm.md). **Quebra de série em 2017–2018:** a Lei 13.540/2017 mudou a base de cálculo "
+          "(faturamento líquido → receita bruta) e, pelo que consta no anexo da lei, a alíquota de rochas ornamentais (2% → 1%) "
+          "— a conferir no texto legal antes de citar. Não comparar níveis antes e depois.", "",
+          "| Ano | Inequívoco | Polo | **Soma ornamental** | ES % da soma | MG % |",
+          "|---|---|---|---|---|---|"]
+    for y in anos:
+        t = a[y]
+        soma = t["inequivoco"] + t["polo"]
+        md.append(f"| {y} | {mi(t['inequivoco'])} | {mi(t['polo'])} | **{mi(soma)}** | {pct(uf[y]['ES'], soma)} | "
+                  f"{pct(uf[y]['MG'], soma)} |")
+    md.append("")
+    md.append("Leitura: a migração de nomes (\"GRANITO\" → \"GRANITO ORNAMENTAL\" etc.) move valor da coluna polo "
+              "para inequívoco ao longo do tempo; compare a soma, não as colunas. A queda da fatia do ES depende da lista do "
+              "polo: em 2025, Pinheiros, Afonso Cláudio, Rio Bananal, Governador Lindenberg e Itaguaçu recolheram CFEM de "
+              "\"GRANITO\" e estão fora da lista (Serra, Cariacica e Aracruz, provavelmente brita, também).")
+    return md
+
+
+def secao_ral():
+    rs = [r for r in ler("anm_producao_bruta") if r.get("Substância Mineral", "").startswith("Rochas")]
+    if not rs:
+        return []
+    def f(x):
+        try:
+            return float((x or "0").strip().replace(",", "."))
+        except ValueError:
+            return 0.0
+    t = C.defaultdict(lambda: C.defaultdict(float))
+    for r in rs:
+        y = r["Ano base"]
+        q = f(r["Quantidade Produção - Minério ROM (t)"])
+        t[y]["rom"] += q
+        t[y]["uf_" + r["UF"]] += q
+        t[y]["venda_t"] += f(r["Quantidade Venda (t)"])
+        t[y]["venda_r"] += f(r["Valor Venda (R$)"])
+    anos = sorted(t)
+    md = ["## A10. Produção bruta declarada à ANM (RAL) — rochas ornamentais", "",
+          "Fonte: ANM, Relatório Anual de Lavra (dados abertos, `Producao_Bruta.csv`), substâncias \"Rochas Ornamentais\" e "
+          "\"Rochas Ornamentais - Outras\". Cobre só minas com título que declararam o RAL — a lavra informal fica de fora. "
+          "R$ correntes. ⚠ = salto de mais de 60% sobre a média dos dois anos vizinhos (provável erro de declaração; "
+          "não usar sem conferir).", "",
+          "| Ano | Produção ROM (Mt) | ES (Mt) | MG (Mt) | Venda (Mt) | Venda (R$ mi) | R$/t vendida |", "|---|---|---|---|---|---|---|"]
+    for i, y in enumerate(anos):
+        v = t[y]
+        viz = [t[anos[j]]["rom"] for j in (i - 1, i + 1) if 0 <= j < len(anos)]
+        alerta = " ⚠" if viz and v["rom"] > 1.6 * sum(viz) / len(viz) else ""
+        md.append(f"| {y} | {num(v['rom'] / 1e6, 2)}{alerta} | {num(v['uf_ES'] / 1e6, 2)} | {num(v['uf_MG'] / 1e6, 2)} | "
+                  f"{num(v['venda_t'] / 1e6, 2)} | {mi(v['venda_r'])} | {num(v['venda_r'] / v['venda_t']) if v['venda_t'] else '—'} |")
+    return md
+
+
 def secao_literatura():
     p = "biblio/corpus.jsonl"
     if not os.path.exists(p):
@@ -185,7 +252,7 @@ def secao_literatura():
              "E10": "governança/política", "E11": "tecnologia"}
     el = C.Counter(e for r in n for e in r.get("elos_pre", []))
     dec = C.Counter((r["ano"] // 10 * 10) for r in n if r.get("ano"))
-    md = ["## A8. Literatura — núcleo Brasil (NÃO TRIADA)", "",
+    md = ["## A11. Literatura — núcleo Brasil (NÃO TRIADA)", "",
           f"Corpus total: {len(c)} obras; escopo Brasil: **{len(n)}**. Classificação por palavra-chave sobre título e "
           "resumo; uma obra pode estar em vários elos. Ainda sem triagem PRISMA.", "",
           "| Elo | Obras |", "|---|---|"]
@@ -203,7 +270,7 @@ def main():
                f"Gerado em {hoje} por `mapeamento.py` a partir de `dados/series/` e `biblio/corpus.jsonl`. "
                "Valores em US$ correntes (FOB). Recorte NCM validado contra os Informes Abirochas (diferença de 0,1–0,2%)."],
               secao_serie(ex), secao_destinos(ex, ano_cheio), secao_mensal_eua(ex), secao_uf(), secao_insumos(),
-              secao_concorrentes(), secao_eua(), secao_literatura()]
+              secao_concorrentes(), secao_eua(), secao_cfem(), secao_ral(), secao_literatura()]
     os.makedirs("estudo", exist_ok=True)
     with open("estudo/anexo-estatistico.md", "w", encoding="utf-8") as f:
         f.write("\n\n".join("\n".join(p) for p in partes if p) + "\n")

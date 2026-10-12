@@ -205,5 +205,29 @@ class TestRetro(unittest.TestCase):
         self.assertEqual(retro_sites.PDF_RX.findall(h), ["https://litosonline.com/x/Informe%2009_2024.pdf"])
 
 
+class TestCinzenta(unittest.TestCase):
+    def test_trecho_literal_confere_com_quebras_e_ligaduras(self):
+        import cinzenta_tabela as ct
+        texto = ct.norm("A queda se deve à tari-\nfação   dos EUA e ao ﬁm do\n estoque")
+        ficha = {"explicacoes": [{"trecho": "à tarifação dos EUA e ao fim do estoque"},
+                                 {"trecho": "frete marítimo encareceu"}]}
+        ok, ruins = ct.conferir(ficha, texto)
+        self.assertEqual(len(ok["explicacoes"]), 1)
+        self.assertEqual(ruins, 1)
+
+    def test_mesmo_pdf_em_pastas_e_versoes(self):
+        import retro_pdfs as rp
+        self.assertEqual(rp.canonico("http://www.abirochas.com.br:80/a/X%20Y.pdf?123"), "abirochas.com.br/a/X Y.pdf")
+        self.assertEqual(rp.nome_base("https://a.br/2018/01/Informe_02_2018_Balanço-v2.pdf"),
+                         rp.nome_base("https://a.br/2018/03/Informe_02_2018_Balanco.pdf"))
+
+    def test_fila_separa_tabelas_de_informes(self):
+        import cinzenta_fila as cf
+        self.assertTrue(cf.TABELA.search("Exporta_Importa-Abril-2025.pdf"))
+        self.assertTrue(cf.TABELA.search("relatorio-de-exportacoes-julho-2022.pdf"))
+        self.assertFalse(cf.TABELA.search("Informe-06_2025-Tarifacao-EUA-v2.pdf"))
+        self.assertEqual(cf.chave_versao("Informe-01_2021-Balanço-2020-1.pdf"), cf.chave_versao("Informe-01_2021-Balanco-2020.pdf"))
+
+
 if __name__ == "__main__":
     unittest.main()

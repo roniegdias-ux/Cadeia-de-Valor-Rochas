@@ -125,7 +125,13 @@ def recorte_cfem(cfg, hoje):
 def main():
     os.chdir(os.path.dirname(os.path.abspath(__file__)))
     cfg = rede.ler_json("config.json")
-    rx = re.compile(cfg["cfem"]["substancias_regex"], re.I)
+    rx_sim = re.compile(cfg["cfem"]["substancias_regex"], re.I)
+    rx_nao = re.compile(cfg["cfem"].get("substancias_excluir_regex") or r"(?!x)x", re.I)
+
+    class rx:   # casa substância de rocha e descarta minerais industriais (ex.: nefelina-sienito)
+        @staticmethod
+        def search(s):
+            return rx_sim.search(s) and not rx_nao.search(s)
     log, arquivos = [], {}
     for b in BASES:
         arquivos.update(listar(b, log))

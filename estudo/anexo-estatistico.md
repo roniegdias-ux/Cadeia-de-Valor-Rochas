@@ -1,6 +1,6 @@
 # Anexo estatístico — mapeamento da cadeia de rochas ornamentais
 
-Gerado em 2026-10-10 por `mapeamento.py` a partir de `dados/series/` e `biblio/corpus.jsonl`. Valores em US$ correntes (FOB). Recorte NCM validado contra os Informes Abirochas (diferença de 0,1–0,2%).
+Gerado em 2026-10-12 por `mapeamento.py` a partir de `dados/series/` e `biblio/corpus.jsonl`. Valores em US$ correntes (FOB). Recorte NCM validado contra os Informes Abirochas (diferença de 0,1–0,2%).
 
 ## A1. Exportação brasileira de rochas ornamentais, 1997–2026
 
@@ -174,29 +174,83 @@ Preço médio de exportação de beneficiadas (SH 6802), 2024:
 | México | 4,4% | 3,2% | 1,9% | 1,8% | 3,1% | 2,7% |
 | **Total EUA, US$ mi** | 3.064,4 | 2.161,9 | 3.238,5 | 2.538,9 | 3.079,2 | 3.092,5 |
 
-## A8. Literatura — núcleo Brasil (NÃO TRIADA)
+## A9. CFEM — royalty da lavra atribuível a rocha ornamental (R$ milhões correntes)
 
-Corpus total: 7267 obras; escopo Brasil: **2230**. Classificação por palavra-chave sobre título e resumo; uma obra pode estar em vários elos. Ainda sem triagem PRISMA.
+Fonte: ANM, arrecadação da CFEM por substância e município. A CFEM não separa uso ornamental de brita para granito/gnaisse: **inequívoco** = nome da substância já indica uso ornamental; **polo** = granito/gnaisse sem qualificador em municípios do polo (lista em config.json, a validar); **ambíguo** = granito/gnaisse fora do polo (não somado; ver dados/anm.md). **Quebra de série em 2017–2018:** a Lei 13.540/2017 mudou a base de cálculo (faturamento líquido → receita bruta) e, pelo que consta no anexo da lei, a alíquota de rochas ornamentais (2% → 1%) — a conferir no texto legal antes de citar. Não comparar níveis antes e depois.
+
+| Ano | Inequívoco | Polo | **Soma ornamental** | ES % da soma | MG % |
+|---|---|---|---|---|---|
+| 2005 | 2,8 | 2,6 | **5,4** | 60,6% | 18,4% |
+| 2006 | 1,8 | 3,2 | **4,9** | 61,4% | 20,6% |
+| 2007 | 2,2 | 3,4 | **5,6** | 55,0% | 23,3% |
+| 2008 | 2,4 | 2,7 | **5,1** | 49,9% | 24,2% |
+| 2009 | 2,1 | 2,6 | **4,7** | 48,0% | 23,0% |
+| 2010 | 2,5 | 3,6 | **6,1** | 48,8% | 22,0% |
+| 2011 | 3,3 | 4,6 | **7,9** | 46,9% | 21,1% |
+| 2012 | 4,4 | 6,3 | **10,7** | 47,3% | 22,1% |
+| 2013 | 4,9 | 8,0 | **12,9** | 50,5% | 21,0% |
+| 2014 | 5,9 | 9,5 | **15,3** | 52,2% | 19,0% |
+| 2015 | 6,3 | 13,7 | **20,0** | 62,0% | 16,6% |
+| 2016 | 7,7 | 11,2 | **18,9** | 51,1% | 17,2% |
+| 2017 | 7,2 | 8,5 | **15,7** | 46,3% | 18,1% |
+| 2018 | 8,1 | 5,3 | **13,4** | 35,7% | 21,0% |
+| 2019 | 8,7 | 4,9 | **13,6** | 34,1% | 19,0% |
+| 2020 | 10,1 | 5,7 | **15,8** | 34,9% | 17,5% |
+| 2021 | 14,5 | 7,2 | **21,7** | 31,6% | 21,8% |
+| 2022 | 16,5 | 6,3 | **22,8** | 27,0% | 20,8% |
+| 2023 | 14,5 | 7,2 | **21,6** | 30,9% | 17,8% |
+| 2024 | 19,8 | 7,7 | **27,5** | 26,2% | 16,5% |
+| 2025 | 26,8 | 6,6 | **33,4** | 17,6% | 14,1% |
+| 2026 | 12,0 | 3,3 | **15,3** | 18,7% | 14,8% |
+
+Leitura: a migração de nomes ("GRANITO" → "GRANITO ORNAMENTAL" etc.) move valor da coluna polo para inequívoco ao longo do tempo; compare a soma, não as colunas. A queda da fatia do ES depende da lista do polo: em 2025, Pinheiros, Afonso Cláudio, Rio Bananal, Governador Lindenberg e Itaguaçu recolheram CFEM de "GRANITO" e estão fora da lista (Serra, Cariacica e Aracruz, provavelmente brita, também).
+
+## A10. Produção bruta declarada à ANM (RAL) — rochas ornamentais
+
+Fonte: ANM, Relatório Anual de Lavra (dados abertos, `Producao_Bruta.csv`), substâncias "Rochas Ornamentais" e "Rochas Ornamentais - Outras". Cobre só minas com título que declararam o RAL — a lavra informal fica de fora. R$ correntes. ⚠ = salto de mais de 60% sobre a média dos dois anos vizinhos (provável erro de declaração; não usar sem conferir).
+
+| Ano | Produção ROM (Mt) | ES (Mt) | MG (Mt) | Venda (Mt) | Venda (R$ mi) | R$/t vendida |
+|---|---|---|---|---|---|---|
+| 2010 | 3,47 | 1,45 | 0,83 | 3,03 | 403,8 | 133 |
+| 2011 | 4,31 | 1,80 | 1,00 | 3,88 | 548,5 | 141 |
+| 2012 | 4,87 | 2,20 | 1,09 | 4,65 | 643,4 | 138 |
+| 2013 | 5,25 | 2,64 | 1,16 | 4,71 | 880,4 | 187 |
+| 2014 | 5,51 | 2,60 | 1,22 | 4,78 | 978,3 | 205 |
+| 2015 | 5,51 | 2,53 | 1,15 | 4,74 | 1.107,5 | 234 |
+| 2016 | 5,94 | 2,57 | 1,13 | 5,21 | 1.138,1 | 219 |
+| 2017 | 5,50 | 2,42 | 1,34 | 5,57 | 1.120,7 | 201 |
+| 2018 | 5,34 | 2,23 | 1,03 | 4,49 | 1.244,7 | 277 |
+| 2019 | 5,82 | 2,18 | 1,39 | 5,06 | 1.368,5 | 270 |
+| 2020 | 6,57 | 3,40 | 1,08 | 5,92 | 1.771,2 | 299 |
+| 2021 | 8,24 | 2,94 | 1,48 | 9,69 | 2.508,8 | 259 |
+| 2022 | 7,12 | 2,49 | 1,37 | 5,99 | 2.503,8 | 418 |
+| 2023 | 6,46 | 2,41 | 1,44 | 5,62 | 2.505,7 | 446 |
+| 2024 | 20,76 ⚠ | 12,56 | 2,11 | 16,81 | 3.099,0 | 184 |
+| 2025 | 8,48 | 2,71 | 1,32 | 5,84 | 3.680,0 | 630 |
+
+## A11. Literatura — núcleo Brasil (NÃO TRIADA)
+
+Corpus total: 7555 obras; escopo Brasil: **2342**. Classificação por palavra-chave sobre título e resumo; uma obra pode estar em vários elos. Ainda sem triagem PRISMA.
 
 | Elo | Obras |
 |---|---|
-| E8 resíduos/ambiente | 1407 |
-| E11 tecnologia | 929 |
-| E1 lavra | 781 |
-| E7 mercado/construção | 766 |
-| E6 comércio/exportação | 632 |
-| E3 benef. final | 488 |
-| E9 trabalho/saúde | 312 |
-| E10 governança/política | 282 |
-| E4 insumos/máquinas | 211 |
-| E2 benef. primário | 200 |
-| E5 logística | 66 |
+| E8 resíduos/ambiente | 1481 |
+| E11 tecnologia | 955 |
+| E1 lavra | 810 |
+| E7 mercado/construção | 810 |
+| E6 comércio/exportação | 656 |
+| E3 benef. final | 510 |
+| E9 trabalho/saúde | 321 |
+| E10 governança/política | 291 |
+| E4 insumos/máquinas | 216 |
+| E2 benef. primário | 215 |
+| E5 logística | 69 |
 
 | Década | Obras |
 |---|---|
 | 1970s | 4 |
 | 1980s | 4 |
-| 1990s | 48 |
-| 2000s | 405 |
-| 2010s | 973 |
-| 2020s | 796 |
+| 1990s | 50 |
+| 2000s | 424 |
+| 2010s | 1014 |
+| 2020s | 846 |
