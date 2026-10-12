@@ -1,0 +1,36 @@
+{
+  "id": "Informe-06_2024-Exportacoes-Julho_5de37b",
+  "arquivo": "Informe-06_2024-Exportacoes-Julho.pdf",
+  "emissor": "Abirochas",
+  "titulo": "Síntese das Exportações Brasileiras de Rochas Ornamentais e de Revestimento – Janeiro a Julho de 2024 (Informe 06/2024)",
+  "data_publicacao": "2024-08",
+  "periodo_coberto": "jan-jul/2024",
+  "tipo": "relatorio-mensal",
+  "tema": "Síntese das exportações e importações brasileiras de rochas em jan-jul/2024, com crescimento sustentado pelas chapas de quartzito e inversão da tendência de importações naturais versus artificiais.",
+  "elos": ["E6", "E7"],
+  "indicadores": [
+    {"nome": "Participação das chapas de quartzito e quartzo natural (6802.99.90) no faturamento", "valor": "37,5% (preço médio US$ 2.280/t; +28,7%)", "unidade": "%", "periodo": "jan-jul/2024", "trecho": "Com incremento de 28,7% e preço médio de US$ 2.280/t, essas chapas representaram 37,5% do total do faturamento em 2024."},
+    {"nome": "Participação das chapas graníticas (6802.93.90) no faturamento", "valor": "26,7", "unidade": "%", "periodo": "jan-jul/2024", "trecho": "mas por sua ainda importante par�cipação no total do faturamento das exportações brasileiras de rochas (26,7%)."},
+    {"nome": "Preço médio das importações de rochas naturais", "valor": "519", "unidade": "US$/t", "periodo": "jan-jul/2024", "trecho": "O preço médio das importações foi de US$ 519/t."},
+    {"nome": "Importações de materiais artificiais", "valor": "50,1 mil t; US$ 29,9 milhões; US$ 597/t; China 95%", "unidade": "t / US$", "periodo": "jan-jul/2024", "trecho": "somaram 50,1 mil t e um valor de US$ 29,9 milhões, com preço médio de US$ 597/t. A China respondeu por 47,5 mil t (95%) do volume �sico total importado pelo Brasil."},
+    {"nome": "Número de países de destino", "valor": "111", "unidade": "países", "periodo": "jan-jul/2024", "trecho": "Exportações para 111 países. Fonte dos dados: Comex Stat"}
+  ],
+  "explicacoes": [
+    {"fenomeno": "Variação positiva do faturamento das exportações em 2024", "causa_atribuida": "Venda de chapas de quartzitos e quartzo natural (código 6802.99.90)", "trecho": "do faturamento dessas exportações está sendo basicamente sustentada pela venda de chapas de quartzitos e quartzo natural, abrigadas no código 6802.99.90."},
+    {"fenomeno": "Inversão da tendência de 5 anos nas importações", "causa_atribuida": "Crescimento das importações de naturais contra queda das de artificiais", "trecho": "contra a queda dos ar�ﬁciais, representa uma inversão da tendência registrada ao longo dos úl�mos 5 anos."}
+  ],
+  "mercados": [
+    {"pais": "EUA", "afirmacao": "Principal destino em faturamento (US$ 400,8 milhões)", "trecho": "Com US$ 400,8 milhões, os EUA con�nuam sendo o principal des�no das exportações em faturamento."},
+    {"pais": "China", "afirmacao": "1º lugar em volume (592,4 mil t)", "trecho": "Com 592,4 mil toneladas, a China conquistou o 1º lugar em volume."},
+    {"pais": "Turquia, México, Espanha", "afirmacao": "Principais fornecedores de rochas naturais ao Brasil", "trecho": "Nossos principais fornecedores, nesta ordem, foram a Turquia (12,2 mil t), México (9,3 mil t) e Espanha (4,0 mil t)."},
+    {"pais": "China (importações de artificiais)", "afirmacao": "95% do volume de artificiais importados", "trecho": "A China respondeu por 47,5 mil t (95%) do volume �sico total importado pelo Brasil."}
+  ],
+  "politicas": [],
+  "precos": [
+    {"produto": "Blocos de granito (2516.12.00) e de quartzito maciço (2506.20.00)", "afirmacao": "Crescimento do valor exportado com queda de quase 10% no preço médio", "trecho": "ambos, no entanto, com queda de quase 10% em seu preço médio."},
+    {"produto": "Chapas de quartzito (6802.99.90)", "afirmacao": "Preço médio de US$ 2.280/t", "trecho": "Com incremento de 28,7% e preço médio de US$ 2.280/t"}
+  ],
+  "desafios": [],
+  "pleitos": [],
+  "observacao": "Texto extraído com caracteres de substituição (U+FFFD) no lugar de 'ti'/'fi'; trechos copiados com esses caracteres. Documento breve, sem atribuições causais além do mix de produtos."
+}

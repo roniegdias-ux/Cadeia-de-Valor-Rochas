@@ -1,0 +1,38 @@
+{
+  "id": "05-Relatorio-Mensal-Exportacoes-De-Rochas-Maio-2024_v1_6b785a",
+  "arquivo": "05-Relatorio-Mensal-Exportacoes-De-Rochas-Maio-2024_v1.pdf",
+  "emissor": "Centrorochas",
+  "titulo": "Informativo Mensal Exportações de Rochas - Maio 2024",
+  "data_publicacao": "2024-06",
+  "periodo_coberto": "mai/2024 e jan-mai/2024",
+  "tipo": "relatorio-mensal",
+  "tema": "Relatório estatístico mensal das exportações brasileiras e capixabas de rochas ornamentais (maio e jan-mai 2023/2024), por produto, preço médio, estado, município, porto e destino.",
+  "elos": ["E5", "E6"],
+  "indicadores": [
+    {"nome": "Participação do ES nas exportações brasileiras (valor e peso)", "valor": "84,75% e 76,07% (mai/2023); 84,34% e 77,27% (mai/2024)", "unidade": "%", "periodo": "mai/2023 e mai/2024", "trecho": "Participação do ES                                    84,75%          76,07%           84,34%          77,27%"},
+    {"nome": "Participação do ES nas exportações brasileiras acumuladas (valor e peso)", "valor": "80,67% e 73,44% (2023); 83,67% e 76,79% (2024)", "unidade": "%", "periodo": "jan-mai/2023 e jan-mai/2024", "trecho": "Participação do ES                                   80,67%          73,44%           83,67%          76,79%"},
+    {"nome": "Preço médio geral das exportações brasileiras", "valor": "675,05 (mai/2023) vs 565,09 (mai/2024), -16,29%", "unidade": "US$/t", "periodo": "mai/2023-mai/2024", "trecho": "TOTAIS                                           675,05           565,09          -16,29%"},
+    {"nome": "Preço médio geral das exportações brasileiras acumuladas", "valor": "610,43 vs 594,12, -2,67%", "unidade": "US$/t", "periodo": "jan-mai/2023 a jan-mai/2024", "trecho": "TOTAIS                                            610,43         594,12            -2,67%"},
+    {"nome": "Preço médio mensal das exportações capixabas", "valor": "663,56 (dez/23); 723,77; 638,49; 509,62; 753,97; 616,78 (mai/24)", "unidade": "US$/t", "periodo": "dez/2023-mai/2024", "trecho": "Preço médio das exportações capixabas\n                                                         663,56           723,77            638,49            509,62           753,97         616,78"},
+    {"nome": "Participação dos principais municípios capixabas nas exportações do Brasil (acumulado)", "valor": "Serra 25,7%; Cachoeiro de Itapemirim 23,2%", "unidade": "%", "periodo": "jan-mai/2024", "trecho": "Serra - ES                             130.077.187        25,7"},
+    {"nome": "Participação dos EUA nas exportações brasileiras", "valor": "56,4%", "unidade": "%", "periodo": "mai/2024", "trecho": "Estados Unidos             66.335.834       56,4"},
+    {"nome": "Exportações de blocos de Barra de São Francisco (peso)", "valor": "62.674.001 kg para 112.843.763 kg", "unidade": "kg", "periodo": "jan-mai/2023 a jan-mai/2024", "trecho": "Barra de São Francisco - ES                               8.838.539                      62.674.001                    15.143.433          112.843.763"}
+  ],
+  "explicacoes": [],
+  "mercados": [
+    {"pais": "Estados Unidos", "afirmacao": "Principal mercado das exportações capixabas (62,9%) em maio de 2024.", "trecho": "Principais Mercados    1   Estados Unidos         62,9%"},
+    {"pais": "China", "afirmacao": "Principal mercado das exportações mineiras (44,8%) em maio de 2024.", "trecho": "Principais Mercados    1   China                  44,8%"},
+    {"pais": "China", "afirmacao": "Principal mercado das exportações baianas (53,7%) em maio de 2024.", "trecho": "Principais Mercados    1   China                  53,7%"},
+    {"pais": "Estados Unidos", "afirmacao": "Principal mercado das exportações cearenses (60,8%) em maio de 2024.", "trecho": "Principais Mercados    1   Estados Unidos         60,8%"}
+  ],
+  "politicas": [],
+  "precos": [
+    {"produto": "Blocos de granitos e similares (Brasil)", "afirmacao": "Preço médio caiu de US$ 299,67 para US$ 211,07 (-29,57%) entre maio de 2023 e maio de 2024.", "trecho": "Blocos de granitos e similares                                        299,67           211,07          -29,57%"},
+    {"produto": "Blocos de mármores e similares (Brasil)", "afirmacao": "Preço médio caiu de US$ 647,93 para US$ 327,45 (-49,46%).", "trecho": "Blocos de mármores e similares                                        647,93           327,45          -49,46%"},
+    {"produto": "Chapas e outras peças de granitos e similares (Brasil)", "afirmacao": "Preço médio subiu de US$ 871,40 para US$ 1.090,82 (+25,18%).", "trecho": "Chapas e outras peças de granitos e similares                         871,40         1.090,82           25,18%"},
+    {"produto": "Blocos de granitos e similares (Brasil, acumulado)", "afirmacao": "Preço médio caiu de US$ 284,92 para US$ 231,55 (-18,73%) em jan-mai.", "trecho": "Blocos de granitos e similares                                         284,92         231,55          -18,73%"}
+  ],
+  "desafios": [],
+  "pleitos": [],
+  "observacao": "Documento exclusivamente estatístico (tabelas e gráficos a partir do Comex Stat), sem texto analítico: não há atribuição de causas, políticas, desafios ou pleitos. Trechos extraídos de linhas de tabela."
+}

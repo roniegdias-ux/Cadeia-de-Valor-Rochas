@@ -1,0 +1,147 @@
+{
+ "id": "Informe-02_2023-Balanco-Maio-2023_2ec863",
+ "arquivo": "Informe-02_2023-Balanco-Maio-2023.pdf",
+ "emissor": "Abirochas",
+ "titulo": "Balanço das Exportações e Importações de Rochas – Janeiro a Maio de 2023 (Informe 02/2023)",
+ "data_publicacao": "2023-05",
+ "periodo_coberto": "jan-mai/2023",
+ "tipo": "conjuntura",
+ "tema": "Balanço de exportações e importações de rochas em jan-mai/2023, com queda atribuída ao desaquecimento de EUA e China e à concorrência de artificiais e porcelanatos.",
+ "elos": [
+  "E3",
+  "E6",
+  "E7",
+  "E11"
+ ],
+ "indicadores": [
+  {
+   "nome": "Preço médio das rochas carbonáticas brutas exportadas (SH4 2515)",
+   "valor": "522,8 (-2,9%)",
+   "unidade": "US$/t",
+   "periodo": "jan-mai/2023",
+   "trecho": "Seu preço\nmédio foi de US$ 522,8/t, o que representou desvalorização de 2,9% frente a 2022."
+  },
+  {
+   "nome": "Preço médio das rochas silicáticas e silicosas brutas exportadas",
+   "valor": "285 (-0,4%)",
+   "unidade": "US$/t",
+   "periodo": "jan-mai/2023",
+   "trecho": "Seu preço médio foi de US$ 285/t, com desvalorização de 0,4%\nfrente a 2022."
+  },
+  {
+   "nome": "Preço médio das rochas processadas exportadas",
+   "valor": "856 (+2,6%)",
+   "unidade": "US$/t",
+   "periodo": "jan-mai/2023",
+   "trecho": "Seu preço médio foi de US$\n856/t, representando um incremento de 2,6% frente a 2022."
+  },
+  {
+   "nome": "Participação das rochas processadas nas exportações",
+   "valor": "78% do faturamento e 55,4% do volume",
+   "unidade": "%",
+   "periodo": "jan-mai/2023",
+   "trecho": "representando 78% do faturamento e 55,4% do volume\nfísico do total exportado no período janeiro-maio/2023."
+  },
+  {
+   "nome": "Preço médio das importações de rochas",
+   "valor": "497,1 (+2,7%), abaixo do preço médio das exportações (607,2)",
+   "unidade": "US$/t",
+   "periodo": "jan-mai/2023",
+   "trecho": "Seu preço médio teve incremento de 2,7%, passando de US$\n484,3/t para US$ 497,1/t e permanecendo abaixo do preço médio das exportações\nbrasileiras de rochas (US$ 607,2/t)."
+  }
+ ],
+ "explicacoes": [
+  {
+   "fenomeno": "Preço médio estável dos brutos silicáticos (-0,4%)",
+   "causa_atribuida": "Queda de 14,4% nos blocos de granito compensada por alta de 15,5% nos blocos de quartzito",
+   "trecho": "O recuo de apenas 0,4% do preço médio, espelhou\numa desvalorização de 14,4% para os produtos da posição 2516.12.00 (blocos de\ngranito) e um incremento de 15,5% para os da posição 2506.20.00 (blocos de quartzito\nmaciço)."
+  },
+  {
+   "fenomeno": "Queda de volume parcialmente compensada no faturamento",
+   "causa_atribuida": "Aumento do preço médio de blocos de quartzito, ardósias, pedra-sabão e chapas de mármore",
+   "trecho": "Em termos de faturamento, a queda do volume físico de alguns produtos exportados foi\nparcialmente compensada pelo incremento de seu preço médio"
+  },
+  {
+   "fenomeno": "Elevação de 5% do preço médio geral das exportações",
+   "causa_atribuida": "Maior participação de rochas processadas e redução da participação de brutas",
+   "trecho": "Esse aumento refletiu e expressiva redução\nda participação de rochas brutas entre os produtos exportados."
+  },
+  {
+   "fenomeno": "Redução do faturamento e volume exportados em jan-mai/2023",
+   "causa_atribuida": "Queda das exportações para EUA (-14,3%) e China (-28,7%)",
+   "trecho": "foi essencialmente devida à variação negativa do valor das\nexportações para EUA (-14,3%) e China (-28,7%)."
+  },
+  {
+   "fenomeno": "Queda do faturamento vs queda do volume",
+   "causa_atribuida": "Desaquecimento dos EUA (faturamento) e da China (volume)",
+   "trecho": "O desaquecimento dos EUA teve maior\ninfluência na queda do faturamento e, da China, no volume físico das exportações em\n2023."
+  },
+  {
+   "fenomeno": "Expectativa de não recuperação das exportações em 2023",
+   "causa_atribuida": "Dificuldades da economia global, dos EUA e da China não superáveis no curto e médio prazo",
+   "trecho": "pois algumas dificuldades ligadas à economia global e\nparticularmente dos EUA e China – nossos principais clientes –, não deverão ser\nsuperadas no curto e médio prazos."
+  },
+  {
+   "fenomeno": "Deslocamento das rochas naturais no mercado de revestimentos dos EUA",
+   "causa_atribuida": "Pressão de importações e produção interna de artificiais e sobretudo porcelanatos, inclusive em countertops",
+   "trecho": "No mercado de revestimentos dos EUA continuará havendo forte pressão das\nimportações e da produção interna de rochas artificiais e, sobretudo de porcelanatos,\ncom deslocamento dos materiais rochosos naturais."
+  },
+  {
+   "fenomeno": "Limitação das importações chinesas de rochas",
+   "causa_atribuida": "Crescimento 'anêmico' da economia e da construção chinesas e produção interna de artificiais e porcelanatos",
+   "trecho": "Na\nChina, por sua vez, as taxas “anêmicas” de crescimento da economia e da construção\ncivil não voltarão aos mesmos patamares de anos recentes, limitando as importações\nchinesas de rochas ornamentais"
+  }
+ ],
+ "mercados": [
+  {
+   "pais": "EUA",
+   "afirmacao": "Artificiais e porcelanatos ocupam cada vez mais o espaço dos naturais em countertops",
+   "trecho": "Os materiais artificiais e\nporcelanatos estão cada vez mais ocupando o espaço dos naturais para countertops."
+  },
+  {
+   "pais": "China",
+   "afirmacao": "Crescente produção interna de artificiais e porcelanatos",
+   "trecho": "também abrindo espaço para a crescente produção\ninterna de rochas artificiais e porcelanatos."
+  },
+  {
+   "pais": "Itália",
+   "afirmacao": "Aperfeiçoa porcelanatos com estética de rochas exóticas brasileiras, inclusive via IA",
+   "trecho": "A Itália está aperfeiçoando a produção de porcelanatos com estética\nsemelhante à das rochas exóticas brasileiras, inclusive criados por Inteligência Artificial."
+  },
+  {
+   "pais": "Indonésia",
+   "afirmacao": "Importações de pedra Hijau pela posição 6802.29.00",
+   "trecho": "As importações de pedra Hijau, procedentes da Indonésia e\ntambém expressivas, parecem estar sendo efetuadas pela posição 6802.29.00."
+  },
+  {
+   "pais": "EUA / Oriente Médio",
+   "afirmacao": "Mercados-alvo para produtos acabados para obras",
+   "trecho": "sobretudo no\nmercado dos EUA e do Oriente Médio, através de exportações diretas ou de offshore\ntrading."
+  }
+ ],
+ "politicas": [],
+ "precos": [
+  {
+   "produto": "Rochas processadas",
+   "afirmacao": "Preço médio de US$ 856/t, +2,6%",
+   "trecho": "Seu preço médio foi de US$\n856/t, representando um incremento de 2,6% frente a 2022."
+  }
+ ],
+ "desafios": [
+  {
+   "afirmacao": "Nova condição de mercado caracterizada como policrise",
+   "trecho": "o enfrentamento dessa nova\ncondição de mercado, por muitos caracterizada como policrise e não como uma simples\ndesaceleração"
+  },
+  {
+   "afirmacao": "Classificação fiscal: importações de carbonáticas pelo Cap. 25 podem abrigar chapas brutas e não blocos",
+   "trecho": "Acredita-se que as importações de rochas carbonáticas, efetuadas pelo Capítulo 25,\nestejam abrigando chapas brutas (sem acabamento de face) e não blocos."
+  }
+ ],
+ "pleitos": [
+  {
+   "afirmacao": "Preparação brasileira para comercializar produtos acabados para obras (EUA e Oriente Médio)",
+   "trecho": "será a adequada preparação brasileira para a comercialização\ninternacional de produtos acabados para o atendimento de obras"
+  }
+ ],
+ "observacao": null
+}

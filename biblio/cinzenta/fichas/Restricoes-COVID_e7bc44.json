@@ -1,0 +1,22 @@
+{
+  "id": "Restricoes-COVID_e7bc44",
+  "arquivo": "Restricoes-COVID.pdf",
+  "emissor": "Centrorochas",
+  "titulo": "Restrições de viagem Estados Unidos x Brasil: Atualização – COVID-19",
+  "data_publicacao": null,
+  "periodo_coberto": null,
+  "tipo": "outro",
+  "tema": "Orientações sobre testes, vacinação e documentos exigidos para viagem de brasileiros aos EUA e retorno ao Brasil durante a COVID-19 (material de apoio a expositores da Coverings 2022, segundo o post de origem).",
+  "elos": [],
+  "indicadores": [],
+  "explicacoes": [],
+  "mercados": [],
+  "politicas": [
+    {"medida": "Exigência de vacinação para entrada nos EUA", "afirmacao": "Brasileiros precisam comprovar vacinação completa para viajar aos EUA", "trecho": "Brasileiros precisam comprovar que foram vacinados para viajar aos Estados Unidos."},
+    {"medida": "Exigência de teste COVID-19 para entrada nos EUA", "afirmacao": "Teste negativo até 24h antes da viagem", "trecho": "Passageiros brasileiros com idade superior a 2 anos devem fazer um teste COVID-19 a não mais que 24h antes de viajar aos EUA"}
+  ],
+  "precos": [],
+  "desafios": [],
+  "pleitos": [],
+  "observacao": "Documento fora de escopo econômico: guia de requisitos sanitários de viagem (COVID-19) EUA-Brasil, sem dados ou análises sobre o setor de rochas. Data não informada no texto; post de origem refere-se à Coverings 2022."
+}

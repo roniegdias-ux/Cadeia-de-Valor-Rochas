@@ -7,40 +7,133 @@
   "periodo_coberto": "jan-ago/2025",
   "tipo": "relatorio-mensal",
   "tema": "Exportações e importações de rochas em jan-ago/2025, com queda de agosto atribuída ao tarifaço dos EUA e à antecipação de compras pelos importadores norte-americanos.",
-  "elos": ["E3", "E6", "E10"],
+  "elos": [
+    "E3",
+    "E6",
+    "E10"
+  ],
   "indicadores": [
-    {"nome": "Exportações de agosto abaixo de US$ 100 milhões pela primeira vez em 2025", "valor": "96,5", "unidade": "US$ milhões", "periodo": "ago/2025", "trecho": "pela primeira vez em 2025 a exportação mensal ficou abaixo de US$ 100 milhões, tendo-se registrado US$ 96,5 milhões em agosto."},
-    {"nome": "Exportações para os EUA (julho para agosto)", "valor": "85,2 para 35,8", "unidade": "US$ milhões", "periodo": "jul-ago/2025", "trecho": "As exportações para os EUA recuaram US$ 49,4 milhões, passando de US$ 85,2 milhões em julho para US$ 35,8 milhões em agosto."},
-    {"nome": "Preço médio das exportações para os EUA", "valor": "1.300", "unidade": "US$/t", "periodo": "jan-ago/2025", "trecho": "EUA                               547,0                  419,6                    1.300"},
-    {"nome": "Preço médio das chapas de quartzito maciço (NCM 6802.99.90)", "valor": "2.390", "unidade": "US$/t", "periodo": "jan-ago/2025", "trecho": "6802.99.90               445,6                  186,8                  2.390"},
-    {"nome": "Número de países de destino", "valor": "121", "unidade": "países", "periodo": "jan-ago/2025", "trecho": "Exportações para 121 países. Fonte dos dados: Comex Stat"},
-    {"nome": "Número de estados exportadores", "valor": "20", "unidade": "estados", "periodo": "jan-ago/2025", "trecho": "20 estados exportadores no período. Fonte dos dados: Comex Stat"}
+    {
+      "nome": "Exportações de agosto abaixo de US$ 100 milhões pela primeira vez em 2025",
+      "valor": "96,5",
+      "unidade": "US$ milhões",
+      "periodo": "ago/2025",
+      "trecho": "pela primeira vez em 2025 a exportação mensal ficou abaixo de US$ 100 milhões, tendo-se registrado US$ 96,5 milhões em agosto."
+    },
+    {
+      "nome": "Exportações para os EUA (julho para agosto)",
+      "valor": "85,2 para 35,8",
+      "unidade": "US$ milhões",
+      "periodo": "jul-ago/2025",
+      "trecho": "As exportações para os EUA recuaram US$ 49,4 milhões, passando de US$ 85,2 milhões em julho para US$ 35,8 milhões em agosto."
+    },
+    {
+      "nome": "Preço médio das exportações para os EUA",
+      "valor": "1.300",
+      "unidade": "US$/t",
+      "periodo": "jan-ago/2025",
+      "trecho": "EUA                               547,0                  419,6                    1.300"
+    },
+    {
+      "nome": "Preço médio das chapas de quartzito maciço (NCM 6802.99.90)",
+      "valor": "2.390",
+      "unidade": "US$/t",
+      "periodo": "jan-ago/2025",
+      "trecho": "6802.99.90               445,6                  186,8                  2.390"
+    },
+    {
+      "nome": "Número de países de destino",
+      "valor": "121",
+      "unidade": "países",
+      "periodo": "jan-ago/2025",
+      "trecho": "Exportações para 121 países. Fonte dos dados: Comex Stat"
+    },
+    {
+      "nome": "Número de estados exportadores",
+      "valor": "20",
+      "unidade": "estados",
+      "periodo": "jan-ago/2025",
+      "trecho": "20 estados exportadores no período. Fonte dos dados: Comex Stat"
+    }
   ],
   "explicacoes": [
-    {"fenomeno": "Queda das exportações em agosto de 2025, concentrada nos EUA", "causa_atribuida": "Tarifaço dos EUA", "trecho": "O recuo dos EUA, responsável pela quase totalidade da retração brasileira em agosto, pode ser colocado na conta do tarifaço."},
-    {"fenomeno": "Incremento das exportações em jan-jul/2025", "causa_atribuida": "Antecipação de importações pelos EUA para evitar efeitos do tarifaço", "trecho": "Comprova-se que grande parte do incremento registrado no período janeiro-julho foi devido à antecipação de importações pelos EUA, no sentido de evitar os efeitos diretos e indiretos do tarifaço"},
-    {"fenomeno": "Exportações deprimidas no restante de 2025 (previsão)", "causa_atribuida": "Estocagem pelos importadores dos EUA no 1º semestre e tarifaço no 2º semestre", "trecho": "Tanto como resultado da provável estocagem praticada pelos importadores norte- americanos no 1º semestre, quanto do tarifaço que deverá vigorar no 2º semestre, as exportações brasileiras de rochas ornamentais serão doravante deprimidas em 2025."},
-    {"fenomeno": "Recuo das exportações pela NCM 6802.99.90 de julho para agosto", "causa_atribuida": "Fim da antecipação de compras pelos EUA", "trecho": "É interessante observar que também as exportações brasileiras, pela NCM 6802.99.90, recuaram US$ 35,1 milhões de julho para agosto."}
+    {
+      "fenomeno": "Queda das exportações em agosto de 2025, concentrada nos EUA",
+      "causa_atribuida": "Tarifaço dos EUA",
+      "trecho": "O recuo dos EUA, responsável pela quase totalidade da retração brasileira em agosto, pode ser colocado na conta do tarifaço."
+    },
+    {
+      "fenomeno": "Incremento das exportações em jan-jul/2025",
+      "causa_atribuida": "Antecipação de importações pelos EUA para evitar efeitos do tarifaço",
+      "trecho": "Comprova-se que grande parte do incremento registrado no período janeiro-julho foi devido à antecipação de importações pelos EUA, no sentido de evitar os efeitos diretos e indiretos do tarifaço"
+    },
+    {
+      "fenomeno": "Exportações deprimidas no restante de 2025 (previsão)",
+      "causa_atribuida": "Estocagem pelos importadores dos EUA no 1º semestre e tarifaço no 2º semestre",
+      "trecho": "quanto do tarifaço que deverá vigorar no 2º semestre, as exportações brasileiras de rochas ornamentais serão doravante deprimidas em 2025."
+    },
+    {
+      "fenomeno": "Recuo das exportações pela NCM 6802.99.90 de julho para agosto",
+      "causa_atribuida": "Fim da antecipação de compras pelos EUA",
+      "trecho": "É interessante observar que também as exportações brasileiras, pela NCM 6802.99.90, recuaram US$ 35,1 milhões de julho para agosto."
+    }
   ],
   "mercados": [
-    {"pais": "EUA", "afirmacao": "Recuo de US$ 49,4 milhões em agosto atribuído ao tarifaço", "trecho": "As exportações para os EUA recuaram US$ 49,4 milhões"},
-    {"pais": "Diversos", "afirmacao": "Necessidade de realocar em outros mercados exportações não isentas da sobretarifa (ardósia, mármores, granitos, rochas de processamento simples)", "trecho": "O maior problema em perspectiva para o Brasil, no curto e médio prazos, é realocar em outros mercados as exportações também importantes, mas não isentas da sobretarifação nos EUA"},
-    {"pais": "Itália e China", "afirmacao": "Exemplos de players que agregam valor com atendimento direto de obras", "trecho": "Basta observar o exemplo que nos é oferecido pelos principais players mundiais do setor de rochas ornamentais, notadamente Itália e China."}
+    {
+      "pais": "EUA",
+      "afirmacao": "Recuo de US$ 49,4 milhões em agosto atribuído ao tarifaço",
+      "trecho": "As exportações para os EUA recuaram US$ 49,4 milhões"
+    },
+    {
+      "pais": "Diversos",
+      "afirmacao": "Necessidade de realocar em outros mercados exportações não isentas da sobretarifa (ardósia, mármores, granitos, rochas de processamento simples)",
+      "trecho": "O maior problema em perspectiva para o Brasil, no curto e médio prazos, é realocar em outros mercados as exportações também importantes, mas não isentas da sobretarifação nos EUA"
+    },
+    {
+      "pais": "Itália e China",
+      "afirmacao": "Exemplos de players que agregam valor com atendimento direto de obras",
+      "trecho": "Basta observar o exemplo que nos é oferecido pelos principais players mundiais do setor de rochas ornamentais, notadamente Itália e China."
+    }
   ],
   "politicas": [
-    {"medida": "Tarifaço dos EUA e isenção pela NCM 6802.99.90", "afirmacao": "Correto entendimento das isenções da NCM 6802.99.90 pode ajustar o efeito do tarifaço", "trecho": "O correto entendimento das isenções proporcionadas pela NCM 6802.99.90, no mercado dos EUA, poderá ajustar o efeito do tarifaço."},
-    {"medida": "Sobretarifação nos EUA", "afirmacao": "Ardósia, mármores, granitos verdadeiros e rochas de processamento simples não isentos", "trecho": "a exemplo das de ardósia, mármores, granitos geologicamente verdadeiros e rochas de processamento simples em geral."}
+    {
+      "medida": "Tarifaço dos EUA e isenção pela NCM 6802.99.90",
+      "afirmacao": "Correto entendimento das isenções da NCM 6802.99.90 pode ajustar o efeito do tarifaço",
+      "trecho": "O correto entendimento das isenções proporcionadas pela NCM 6802.99.90, no mercado dos EUA, poderá ajustar o efeito do tarifaço."
+    },
+    {
+      "medida": "Sobretarifação nos EUA",
+      "afirmacao": "Ardósia, mármores, granitos verdadeiros e rochas de processamento simples não isentos",
+      "trecho": "a exemplo das de ardósia, mármores, granitos geologicamente verdadeiros e rochas de processamento simples em geral."
+    }
   ],
   "precos": [
-    {"produto": "Exportações por destino", "afirmacao": "China com menor preço (US$ 260/t), Austrália com maior (US$ 2.280/t)", "trecho": "China                             152,9                  589,8                     260"},
-    {"produto": "Blocos de granito (2516.12.00)", "afirmacao": "Preço médio de US$ 210/t", "trecho": "2516.12.00               103,8                  494,4                    210"}
+    {
+      "produto": "Exportações por destino",
+      "afirmacao": "China com menor preço (US$ 260/t), Austrália com maior (US$ 2.280/t)",
+      "trecho": "China                             152,9                  589,8                     260"
+    },
+    {
+      "produto": "Blocos de granito (2516.12.00)",
+      "afirmacao": "Preço médio de US$ 210/t",
+      "trecho": "2516.12.00               103,8                  494,4                    210"
+    }
   ],
   "desafios": [
-    {"afirmacao": "Realocar exportações não isentas da sobretarifa dos EUA", "trecho": "é realocar em outros mercados as exportações também importantes, mas não isentas da sobretarifação nos EUA"},
-    {"afirmacao": "Diversificar destinos e atender obras com acabados", "trecho": "Nunca foi tão importante diversificar países de destino e promover o atendimento direto de obras, com produtos acabados, no mercado externo."}
+    {
+      "afirmacao": "Realocar exportações não isentas da sobretarifa dos EUA",
+      "trecho": "é realocar em outros mercados as exportações também importantes, mas não isentas da sobretarifação nos EUA"
+    },
+    {
+      "afirmacao": "Diversificar destinos e atender obras com acabados",
+      "trecho": "Nunca foi tão importante diversificar países de destino e promover o atendimento direto de obras, com produtos acabados, no mercado externo."
+    }
   ],
   "pleitos": [
-    {"afirmacao": "Mobilizar marmorarias e profissionais qualificados para agregação de valor às exportações", "trecho": "Será estratégico mobilizar marmorarias e profissionais qualificados para atendimento desses objetivos e conquista da última fronteira de agregação de valor às exportações."}
+    {
+      "afirmacao": "Mobilizar marmorarias e profissionais qualificados para agregação de valor às exportações",
+      "trecho": "Será estratégico mobilizar marmorarias e profissionais qualificados para atendimento desses objetivos e conquista da última fronteira de agregação de valor às exportações."
+    }
   ],
   "observacao": null
 }

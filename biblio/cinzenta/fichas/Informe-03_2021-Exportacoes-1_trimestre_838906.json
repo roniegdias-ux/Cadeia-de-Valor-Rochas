@@ -1,0 +1,167 @@
+{
+ "id": "Informe-03_2021-Exportacoes-1_trimestre_838906",
+ "arquivo": "Informe-03_2021-Exportacoes-1_trimestre.pdf",
+ "emissor": "Abirochas",
+ "titulo": "Balanço das Exportações e Importações Brasileiras de Rochas Ornamentais no 1º Trimestre de 2021 (Informe 03/2021)",
+ "data_publicacao": "2021-04",
+ "periodo_coberto": "jan-mar/2021",
+ "tipo": "conjuntura",
+ "tema": "Balanço do 1º trimestre de 2021: recuperação das exportações, quartzitos, preços por destino, importações de naturais e artificiais e perspectivas.",
+ "elos": [
+  "E6",
+  "E7",
+  "E10"
+ ],
+ "indicadores": [
+  {
+   "nome": "Faturamento médio mensal das exportações 1º e 2º semestre 2020",
+   "valor": "US$ 66,3 milhões vs. US$ 98,2 milhões",
+   "unidade": "US$ milhões/mês",
+   "periodo": "2020",
+   "trecho": "A média do faturamento mensal do 1º semestre foi de US$ 66,3 milhões, enquanto a do 2º semestre atingiu US$ 98,2 milhões."
+  },
+  {
+   "nome": "Participação de processadas no faturamento",
+   "valor": "76,7% para 82,4%",
+   "unidade": "%",
+   "periodo": "1º tri/2020 - 1º tri/2021",
+   "trecho": "A participação de rochas processadas no total do faturamento evoluiu de 76,7% no 1º trimestre de 2020 para 82,4% no 1º trimestre de 2021"
+  },
+  {
+   "nome": "Participação dos EUA nas exportações",
+   "valor": "42,8% do volume e 63,4% do faturamento",
+   "unidade": "%",
+   "periodo": "1º tri/2021",
+   "trecho": "Essas exportações continuam bastante concentradas nos EUA, que responderam por 42,8% do volume físico e 63,4% do faturamento no 1º trimestre de 2021."
+  },
+  {
+   "nome": "Preço médio exportado para China vs. EUA",
+   "valor": "US$ 190/t vs. US$ 760/t",
+   "unidade": "US$/t",
+   "periodo": "1º tri/2021",
+   "trecho": "O preço médio dos produtos exportados para a China foi de US$ 190/t, contra US$ 760/t dos EUA."
+  },
+  {
+   "nome": "Blocos de quartzito maciço (2506.20.00)",
+   "valor": "volume +23,9%; preço médio -25,1%",
+   "unidade": "%",
+   "periodo": "1º tri/2021",
+   "trecho": "Constitui motivo de preocupação o incremento do volume físico (+23,9%) e a redução do preço médio (-25,1%) das exportações efetuadas pela posição 2506.20.00, que abriga blocos de quartzito maciço."
+  },
+  {
+   "nome": "Projeção de faturamento das exportações em 2021",
+   "valor": "acima de US$ 1 bilhão, podendo exceder US$ 1,1 bilhão",
+   "unidade": "US$",
+   "periodo": "2021",
+   "trecho": "o faturamento das vendas externas do setor de rochas, em 2021, deverá superar o de 2020 e novamente ultrapassar o patamar US$ 1 bilhão, podendo até exceder US$ 1,1 bilhão."
+  }
+ ],
+ "explicacoes": [
+  {
+   "fenomeno": "Exportações do 2º semestre de 2020 muito superiores às do 1º",
+   "causa_atribuida": "Retomada das importações dos EUA e maior participação de produtos de maior valor agregado (quartzitos, mármores, pedra-sabão)",
+   "trecho": "Essa evolução é atribuída à retomada das importações dos EUA e aumento da participação de produtos com maior valor agregado nas exportações brasileiras"
+  },
+  {
+   "fenomeno": "Aumento da participação de processadas no faturamento",
+   "causa_atribuida": "Maior volume, maior preço médio e mais produtos de maior valor (chapas de quartzito, pedra-sabão)",
+   "trecho": "tanto em função do seu maior volume físico nas exportações (+31,2%), quanto do incremento do seu preço médio (+7,1%) e aumento da participação de produtos com maior valor agregado"
+  },
+  {
+   "fenomeno": "Queda do preço médio das importações de rochas naturais",
+   "causa_atribuida": "Taxas de câmbio que proporcionaram descontos aos importadores",
+   "trecho": "O seu preço médio sofreu redução de 9,9%, sugerindo que as taxas de câmbio proporcionaram descontos para os importadores brasileiros."
+  },
+  {
+   "fenomeno": "Queda do preço médio das importações de rochas naturais",
+   "causa_atribuida": "Maior participação de rochas carbonáticas brutas",
+   "trecho": "Aumentou significativamente a participação de rochas carbonáticas brutas nas importações, o que também contribuiu para a queda do preço médio geral dessas importações."
+  },
+  {
+   "fenomeno": "Demanda interna sustentada por reformas",
+   "causa_atribuida": "Poucos lançamentos imobiliários e reformas residenciais incentivadas pela pandemia",
+   "trecho": "Com poucos novos lançamentos imobiliários, a demanda interna permanecerá atrelada ao mercado de reformas residenciais, em grande parte incentivado pela pandemia."
+  },
+  {
+   "fenomeno": "Incremento da fatia dos artificiais no Brasil",
+   "causa_atribuida": "Maior produção e demanda internas de cerâmicas, porcelanatos e superfícies de quartzo nacionais",
+   "trecho": "o incremento da fatia dos artificiais é traduzido pela maior produção e demanda internas de cerâmicas comuns, porcelanatos e superfícies de quartzo de fabricação nacional."
+  },
+  {
+   "fenomeno": "Ausência de recuperação da construção civil",
+   "causa_atribuida": "Fraco desempenho da economia brasileira e perspectivas de PIB",
+   "trecho": "o fraco desempenho da economia brasileira e as perspectivas de crescimento do PIB nacional não sinalizam recuperação do setor da construção civil."
+  },
+  {
+   "fenomeno": "Projeção de crescimento das exportações em 2021",
+   "causa_atribuida": "Desempenho do 1º trimestre e projeções de PIB dos EUA e China",
+   "trecho": "Se mantidas a performance das exportações do 1º trimestre e as projeções de crescimento do PIB dos EUA e China"
+  }
+ ],
+ "mercados": [
+  {
+   "pais": "EUA",
+   "afirmacao": "Melhores sinalizações nas exportações aos EUA, cujo quadro econômico e de construção difere do brasileiro",
+   "trecho": "As melhores sinalizações para o setor de rochas continuam centradas nas exportações para os EUA, nosso principal cliente, onde o quadro econômico e a situação da construção civil são bastante diversos do brasileiro."
+  },
+  {
+   "pais": "EUA",
+   "afirmacao": "Previsão de demanda aquecida por quartzitos maciços, mármores claros e granitos exóticos",
+   "trecho": "Para os EUA, deve-se prever aquecimento da demanda pelos quartzitos maciços, mármores claros e granitos exóticos"
+  },
+  {
+   "pais": "China",
+   "afirmacao": "Previsão de demanda aquecida por blocos de granitos homogêneos claros",
+   "trecho": "prevê-se aquecimento da demanda por blocos de granitos homogêneos de massa clara."
+  },
+  {
+   "pais": "Canadá, Austrália, Espanha",
+   "afirmacao": "Maiores preços médios entre destinos secundários",
+   "trecho": "os maiores preços médios foram registrados para o Canadá (US$ 1.300/t), Austrália (US$ 1.400/t) e Espanha (US$ 850/t)."
+  },
+  {
+   "pais": "Turquia, Indonésia, Grécia, Portugal",
+   "afirmacao": "Países com saldo negativo para o Brasil no setor",
+   "trecho": "Os países com os quais o Brasil mantém saldo negativo da balança no setor de rochas incluíram Turquia (US$ 2,53 milhões), Indonésia (US$ 1,26 milhões)"
+  }
+ ],
+ "politicas": [],
+ "precos": [
+  {
+   "produto": "Chapas de quartzito (6802.99.90)",
+   "afirmacao": "Participação no faturamento de 18,9% para 23,1%, faturamento +60,3%",
+   "trecho": "O exemplo mais expressivo é o da posição 6802.99.90, que abriga principalmente chapas de quartzito, cuja participação percentual evoluiu de 18,9% para 23,1% no faturamento"
+  },
+  {
+   "produto": "Blocos de quartzito maciço",
+   "afirmacao": "Queda de 25,1% no preço médio",
+   "trecho": "a redução do preço médio (-25,1%) das exportações efetuadas pela posição 2506.20.00"
+  },
+  {
+   "produto": "Artificiais importados",
+   "afirmacao": "Redução de 2% no preço médio",
+   "trecho": "Também houve redução do seu preço médio (-2%), porém bem menor que o das rochas naturais."
+  }
+ ],
+ "desafios": [
+  {
+   "afirmacao": "Exportação de blocos de quartzito cria concorrência com quartzito brasileiro 'made in China/Italy'",
+   "trecho": "Estamos criando as condições para que os produtos brasileiros de quartzitos maciços passem a concorrer com os quartzitos brasileiros “made in China” e “made in Italy”, no mercado internacional e, sobretudo, nos EUA."
+  },
+  {
+   "afirmacao": "Importações não sinalizam recuperação nem mudança no avanço dos artificiais",
+   "trecho": "O desempenho das importações do 1º trimestre não sinaliza recuperação da construção civil no mercado doméstico"
+  },
+  {
+   "afirmacao": "Qualidade exigida para chapas calibradas de quartzito foliado",
+   "trecho": "A qualidade dos quartzitos precisa ser a da pedra São Thomé, com polimento que não altere o padrão cromático dos materiais brancos."
+  }
+ ],
+ "pleitos": [
+  {
+   "afirmacao": "Refletir sobre exportação de blocos de materiais estratégicos como quartzitos maciços",
+   "trecho": "Reitera-se que é preciso refletir sobre as consequências das exportações de blocos de materiais brasileiros estratégicos para o setor de rochas, como é o caso dos quartzitos maciços."
+  }
+ ],
+ "observacao": null
+}

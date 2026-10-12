@@ -1,0 +1,76 @@
+{
+ "id": "Informe-04_2021-Exportacoes-1_semestre_0f1012",
+ "arquivo": "Informe-04_2021-Exportacoes-1_semestre.pdf",
+ "emissor": "Abirochas",
+ "titulo": "Balanço das exportações e importações brasileiras de rochas ornamentais no 1º semestre de 2021 (Informe 04/2021)",
+ "data_publicacao": "2021-07",
+ "periodo_coberto": "jan-jun/2021",
+ "tipo": "conjuntura",
+ "tema": "Balanço curto do 1º semestre de 2021: forte alta das exportações e das importações, recuperação do mercado interno da construção e alerta sobre exportação de blocos de quartzito.",
+ "elos": [
+  "E6",
+  "E7"
+ ],
+ "indicadores": [
+  {
+   "nome": "Exportações em reais",
+   "valor": "R$ 3,1 bilhões (US$ 572 milhões)",
+   "unidade": "R$",
+   "periodo": "1º sem/2021",
+   "trecho": "somaram US$ 572, milhões (R$ 3,1 bilhões2) e 1,12 milhão t no 1º semestre de 2021"
+  },
+  {
+   "nome": "Exportação mensal de junho/2021",
+   "valor": "US$ 125,8 milhões (maior valor mensal dos últimos 5 anos)",
+   "unidade": "US$",
+   "periodo": "jun/2021",
+   "trecho": "Especificamente em junho, foram exportados US$ 125,8 milhões (R$ 676,8 milhões),\nque constituíram o maior valor mensal do 1º semestre e dos últimos 5 anos."
+  },
+  {
+   "nome": "Crescimento das importações em volume",
+   "valor": "+44,6 (naturais); +51,1 (artificiais)",
+   "unidade": "%",
+   "periodo": "1º sem/2021",
+   "trecho": "tanto\ndos materiais naturais (+44,6% em volume físico), quanto de artificiais (+51,1%)."
+  },
+  {
+   "nome": "Importações em m2 equivalentes",
+   "valor": "quase 80 mil t; cerca de 1,54 milhão m2",
+   "unidade": "t; m2 (chapas 2 cm)",
+   "periodo": "1º sem/2021",
+   "trecho": "Somadas, essas importações já atingiram quase 80 mil t em 2021,\nque perfazem cerca de 1,54 milhões m2 equivalentes em chapas com 2 cm de espessura."
+  },
+  {
+   "nome": "Preço médio dos produtos exportados vs. 2020",
+   "valor": "quase 20% superior",
+   "unidade": "%",
+   "periodo": "1º sem/2021",
+   "trecho": "ainda mais com um preço médio quase 20% superior dos produtos\nexportados, em relação a 2020."
+  },
+  {
+   "nome": "Dólar médio",
+   "valor": "5,38",
+   "unidade": "R$/US$",
+   "periodo": "1º sem/2021",
+   "trecho": "Dólar médio de R$ 5,38 no 1º semestre de 2021."
+  }
+ ],
+ "explicacoes": [
+  {
+   "fenomeno": "Forte crescimento das importações de rochas naturais e artificiais",
+   "causa_atribuida": "Expressiva recuperação do mercado interno da construção civil",
+   "trecho": "A par de\noutras informações coletadas, já se evidencia uma expressiva recuperação do mercado\ninterno da construção civil."
+  }
+ ],
+ "mercados": [],
+ "politicas": [],
+ "precos": [],
+ "desafios": [
+  {
+   "afirmacao": "Forte crescimento da exportação de blocos de quartzito maciço deverá comprometer a competitividade brasileira nesse material estratégico.",
+   "trecho": "Continua se registrando forte crescimento da exportação de blocos de quartzito maciço, o que\ndeverá comprometer a competitividade brasileira nesse material setorialmente estratégico."
+  }
+ ],
+ "pleitos": [],
+ "observacao": "Informe curto (texto de 1 página; resto são gráficos de séries mensais). Projeção: Brasil deverá superar US$ 1,1 bilhão em 2021."
+}

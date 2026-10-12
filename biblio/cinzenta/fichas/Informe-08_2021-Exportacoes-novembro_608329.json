@@ -1,0 +1,39 @@
+{
+  "id": "Informe-08_2021-Exportacoes-novembro_608329",
+  "arquivo": "Informe-08_2021-Exportacoes-novembro.pdf",
+  "emissor": "Abirochas",
+  "titulo": "Balanço das Exportações e Importações Brasileiras de Rochas Ornamentais no Período Janeiro-Novembro de 2021 (Informe 08/2021)",
+  "data_publicacao": "2021-12",
+  "periodo_coberto": "jan-nov/2021",
+  "tipo": "relatorio-mensal",
+  "tema": "Exportações e importações de rochas em jan-nov/2021: crescimento puxado por alta de preços médios, mudança no perfil exportador (quartzitos maciços, mármores) e preocupação com exportação de blocos de quartzito.",
+  "elos": ["E1", "E3", "E6", "E7", "E10"],
+  "indicadores": [
+    {"nome": "Incremento geral do preço médio das exportações", "valor": "21,3", "unidade": "%", "periodo": "jan-nov/2021", "trecho": "O incremento geral do preço médio foi assim de 21,3%, o que constituiu fato notável em um momento de forte valorização do US dólar."},
+    {"nome": "Preço médio das chapas de quartzito maciço (6802.99.90)", "valor": "2.150", "unidade": "US$/t", "periodo": "jan-nov/2021", "trecho": "O maior preço médio (US$ 2.150/t) foi registrado para os produtos abrigados na posição 6802.99.90, que inclui principalmente chapas de quartzitos maciços."},
+    {"nome": "Relação de preço chapas/blocos de quartzito maciço", "valor": "US$ 2.150/t vs US$ 565/t (4 vezes)", "unidade": "US$/t", "periodo": "jan-nov/2021", "trecho": "o preço médio das chapas desses quartzitos (US$ 2.150/t) é quatro vezes superior ao dos blocos (US$ 565/t)"},
+    {"nome": "Importações de materiais rochosos artificiais", "valor": "US$ 50,6 milhões e 86,5 mil t (+41,9% e +38,0%)", "unidade": "US$ / t", "periodo": "jan-nov/2021", "trecho": "As importações de materiais rochosos artificiais somaram US% 50,6 milhões e 86,5 mil t, com variação de respetivamente +41,9% e +38,0% frente a 2020."}
+  ],
+  "explicacoes": [
+    {"fenomeno": "Crescimento do faturamento das exportações (+36,2%)", "causa_atribuida": "Expressiva variação do preço médio dos produtos comercializados", "trecho": "Os índices de crescimento registrados para o faturamento traduzem a expressiva variação do preço médio dos produtos comercializados"},
+    {"fenomeno": "Arrefecimento das importações de materiais naturais", "causa_atribuida": "Desaquecimento previsto do mercado interno em 2022", "trecho": "Já se percebe um certo arrefecimento das importações de materiais naturais, apontando o desaquecimento previsto para o mercado interno em 2022."},
+    {"fenomeno": "Preocupação com queda do preço médio dos blocos de quartzito maciço frente a alta de 55% no volume", "causa_atribuida": "Diferença de preço chapa/bloco atrai competidores do Brasil no mercado de rochas processadas", "trecho": "é quatro vezes superior ao dos blocos (US$ 565/t), atraindo o interesse de competidores do Brasil no mercado internacional de rochas processadas."}
+  ],
+  "mercados": [
+    {"pais": "Concorrentes internacionais (não nomeados)", "afirmacao": "Blocos de quartzito brasileiros atraem competidores processadores", "trecho": "atraindo o interesse de competidores do Brasil no mercado internacional de rochas processadas"}
+  ],
+  "politicas": [
+    {"medida": "Códigos fiscais de exportação", "afirmacao": "Inespecíficos, impedem avaliar participação de acabados", "trecho": "Os códigos fiscais disponíveis para as exportações do setor de rochas são inespecíficos e não permitem avaliar a participação de produtos acabados."},
+    {"medida": "Terceira onda exportadora (ABIROCHAS)", "afirmacao": "Fomento à comercialização de produtos acabados", "trecho": "acompanhamento da evolução da “terceira onda exportadora”, centrada na comercialização de produtos acabados e fomentada pela ABIROCHAS."}
+  ],
+  "precos": [
+    {"produto": "Rochas carbonáticas brutas, silicáticas brutas e processadas", "afirmacao": "Altas de 26,1%, 27,5% e 15,3% nos preços médios", "trecho": "registrando-se +26,1% para as rochas carbonáticas brutas, +27,5% para as rochas silicáticas brutas e +15,3% para as rochas processadas."},
+    {"produto": "Blocos de quartzito maciço", "afirmacao": "Declínio de 0,54% no preço médio com aumento de 55% no volume", "trecho": "Mesmo com índice negativo de apenas 0,54%, é preocupante o declínio do preço médio dos blocos de quartzito maciço, em relação ao incremento de 55% no volume físico de suas exportações."}
+  ],
+  "desafios": [
+    {"afirmacao": "Mudança no perfil exportador para quartzitos maciços, mármores e pedra-sabão", "trecho": "já se pode apontar com segurança uma mudança no perfil das exportações brasileiras do setor de rochas, evidenciando participação agora bastante expressiva de chapas e blocos de quartzitos maciços"},
+    {"afirmacao": "Mesma preocupação com os mármores brasileiros", "trecho": "A mesma preocupação deve ser registrada para os mármores brasileiros, que têm grande potencial de produção e exportação."}
+  ],
+  "pleitos": [],
+  "observacao": null
+}

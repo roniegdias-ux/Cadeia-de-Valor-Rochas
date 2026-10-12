@@ -1,0 +1,126 @@
+{
+ "id": "Informe-11_2024-Exportacoes-Novembro_38d91e",
+ "arquivo": "Informe-11_2024-Exportacoes-Novembro.pdf",
+ "emissor": "Abirochas",
+ "titulo": "Notas sobre as exportações brasileiras de rochas ornamentais e de revestimento – janeiro a novembro de 2024 (Informe 11/2024)",
+ "data_publicacao": "2024-12",
+ "periodo_coberto": "jan-nov/2024",
+ "tipo": "conjuntura",
+ "tema": "Notas sobre as exportações de rochas em jan-nov/2024, estagnação do perfil exportador (blocos e chapas) em torno de US$ 1 bilhão/ano e necessidade de produtos acabados.",
+ "elos": [
+  "E1",
+  "E3",
+  "E6",
+  "E7",
+  "E10"
+ ],
+ "indicadores": [
+  {
+   "nome": "Composição do volume físico exportado",
+   "valor": "quase 54% blocos, 46% essencialmente chapas",
+   "unidade": "%",
+   "periodo": "2024",
+   "trecho": "O perﬁl das exportações, que têm atualmente quase 54% de seu volume �sico formado\npor blocos e os restantes 46% essencialmente por chapas"
+  },
+  {
+   "nome": "Volume físico das exportações (comparação de longo prazo)",
+   "valor": "2,6 Mt em 2006; não ultrapassará 2,0 Mt em 2024",
+   "unidade": "Mt",
+   "periodo": "2006-2024",
+   "trecho": "que passou dos referidos 2,6 Mt em 2006 para um total que não\nultrapassará 2,0 Mt em 2024."
+  },
+  {
+   "nome": "Preço médio das exportações",
+   "valor": "610",
+   "unidade": "US$/t",
+   "periodo": "jan-nov/2024",
+   "trecho": "US$/t    480    500   520    460   470     450      470     460      560     610      610     610"
+  },
+  {
+   "nome": "Número de países de destino",
+   "valor": "122",
+   "unidade": "países",
+   "periodo": "jan-nov/2024",
+   "trecho": "Exportações para 122 países. Fonte dos dados: Comex Stat"
+  },
+  {
+   "nome": "Número de estados exportadores",
+   "valor": "20",
+   "unidade": "estados",
+   "periodo": "jan-nov/2024",
+   "trecho": "20 estados exportadores. Fonte dos dados: Comex Stat"
+  },
+  {
+   "nome": "Unidades da Receita Federal com exportações",
+   "valor": "30",
+   "unidade": "unidades",
+   "periodo": "jan-nov/2024",
+   "trecho": "Exportações realizadas através de 30 unidades da Receita Federal."
+  }
+ ],
+ "explicacoes": [
+  {
+   "fenomeno": "Queda do volume físico exportado desde 2006 não compensada pela alta do preço médio",
+   "causa_atribuida": "Perfil exportador inalterado (blocos e chapas) há quase 20 anos",
+   "trecho": "Evidencia-se, portanto, que o aumento do preço médio dos produtos exportados,\nespecialmente das chapas, não foi capaz de compensar a queda do volume �sico das\nexportações"
+  },
+  {
+   "fenomeno": "Limitação do mercado das rochas exóticas exportadas",
+   "causa_atribuida": "Constituem mercado de nicho, inferior ao das rochas comuns",
+   "trecho": "É preciso entender que as rochas exó�cas, atualmente mais exportadas, cons�tuem um\nmercado de nicho, quan�ta�vamente inferior ao das rochas mais comuns."
+  },
+  {
+   "fenomeno": "Deslocamento do mercado das rochas comuns nos últimos 10 anos",
+   "causa_atribuida": "Concorrência de rochas artificiais e porcelanatos, sobretudo na América do Norte",
+   "trecho": "nos úl�mos 10 anos o mercado dessas rochas mais comuns foi fortemente deslocado\npor rochas ar�ﬁciais e porcelanatos, inclusive e principalmente na América do Norte."
+  },
+  {
+   "fenomeno": "Sustentabilidade empresarial do setor nos últimos 10 anos",
+   "causa_atribuida": "Apreciação cambial do dólar e excepcional geodiversidade brasileira",
+   "trecho": "O que de fato contribuiu decisivamente para a sustentabilidade empresarial brasileira\nno setor de rochas, nestes úl�mos 10 anos, foram a apreciação cambial do US dólar e a\nexcepcional geodiversidade brasileira."
+  },
+  {
+   "fenomeno": "Exportações estagnadas em torno de US$ 1 bilhão/ano",
+   "causa_atribuida": "Falta de avanço na comercialização de produtos acabados para obras",
+   "trecho": "Caso contrário, as exportações brasileiras de\nrochas ornamentais seguirão “derrapando” em torno de US$ 1 bilhão/ano."
+  }
+ ],
+ "mercados": [
+  {
+   "pais": "América do Norte",
+   "afirmacao": "Mercado de rochas comuns deslocado por artificiais e porcelanatos",
+   "trecho": "por rochas ar�ﬁciais e porcelanatos, inclusive e principalmente na América do Norte."
+  }
+ ],
+ "politicas": [
+  {
+   "medida": "Programa de internacionalização da ApexBrasil",
+   "afirmacao": "Ainda centrado em empresas exportadoras de blocos e chapas; questiona-se se aceita a estagnação",
+   "trecho": "Resta saber se essa derrapagem é aceitável pelos programas de internacionalização de\nmercados como aquele da ApexBrasil, ainda centrado em empresas exportadoras de"
+  }
+ ],
+ "precos": [
+  {
+   "produto": "Rochas exportadas (especialmente chapas)",
+   "afirmacao": "Aumento do preço médio não compensou a queda do volume físico",
+   "trecho": "o aumento do preço médio dos produtos exportados,\nespecialmente das chapas, não foi capaz de compensar"
+  }
+ ],
+ "desafios": [
+  {
+   "afirmacao": "Benefícios socioeconômicos podem não alcançar as regiões produtoras de matérias-primas (BA, MG, CE)",
+   "trecho": "deve-se perguntar se os bene�cios\nsocioeconômicos, proporcionados pelo setor de rochas ornamentais, estão alcançando\nas regiões produtoras de suas principais matérias-primas"
+  },
+  {
+   "afirmacao": "Perfil exportador inalterado há quase 20 anos",
+   "trecho": "permanece inalterado a quase\n20 anos, desde que, em 2006, seu faturamento a�ngiu US$ 1 bilhão"
+  }
+ ],
+ "pleitos": [
+  {
+   "afirmacao": "Avançar na comercialização de produtos acabados de maior valor agregado para obras no exterior",
+   "trecho": "comercialização de produtos acabados, com maior valor agregado, para atendimento\ndireto de obras no mercado internacional."
+  }
+ ],
+ "observacao": "Texto extraído com glifos corrompidos (ligaduras 'ti'/'fi' viraram U+FFFD); trechos copiados com esses caracteres. Restante é gráfico/tabela."
+}

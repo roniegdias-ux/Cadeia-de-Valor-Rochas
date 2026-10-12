@@ -1,0 +1,37 @@
+{
+  "id": "Mercado-Dezembro_Pesquisa-Resultado-2_8847b3",
+  "arquivo": "Mercado-Dezembro_Pesquisa-Resultado-2.pdf",
+  "emissor": "Centrorochas",
+  "titulo": "Resultado de Consulta junto às Indústrias de Rochas Ornamentais sobre Expectativas para o Mercado em Dezembro/2020 e Reflexos até Novembro/20",
+  "data_publicacao": "2020-12",
+  "periodo_coberto": "nov-dez/2020",
+  "tipo": "pesquisa-com-empresas",
+  "tema": "Sondagem com 43 empresas capixabas de rochas (Sindirochas/Centrorochas) sobre desempenho em nov/2020, expectativas para dez/2020, capacidade, emprego, férias coletivas e efeitos da COVID-19.",
+  "elos": ["E1", "E2", "E3", "E6", "E7", "E9"],
+  "indicadores": [
+    {"nome": "Empresas operando acima de 80% da capacidade instalada", "valor": "72", "unidade": "% das respondentes", "periodo": "nov/2020", "trecho": "de 80% de sua capacidade instalada manteve-se no mesmo nível do mês anterior, ou seja, 72%."},
+    {"nome": "Empresas mistas com crescimento do mercado interno (nov/20 x nov/19)", "valor": "75", "unidade": "% das respondentes", "periodo": "nov/2020", "trecho": "Entre as empresas que atuam ao mesmo tempo nos mercados interno e externo, 75% indicaram que em novembro/20 o mercado interno apresentou"},
+    {"nome": "Expectativa de crescimento em dez/20 vs dez/19", "valor": "53 (MI) / 43 (ME)", "unidade": "% das respondentes", "periodo": "dez/2020", "trecho": "apresentam expectativas de crescimento para dezembro/20 em relação a dezembro/19 e, entre aquelas que atuam no mercado externo, a expectativa é que haverá crescimento, na mesma base de comparação, para 43 % delas."},
+    {"nome": "Expectativa de contratações", "valor": "43 em dezembro; 11 no 1º bimestre/2021", "unidade": "% das respondentes", "periodo": "dez/2020-fev/2021", "trecho": "contratações em dezembro e 11% têm expectativa de contratar no primeiro bimestre/2021."},
+    {"nome": "Empresas com casos de COVID-19 entre funcionários", "valor": "79", "unidade": "% das respondentes", "periodo": "até dez/2020", "trecho": "No universo das empresas que retornaram informações, 79% indicaram que foram registrados casos de funcionários contaminados pelo coronavírus."},
+    {"nome": "Empresas que adotarão férias coletivas", "valor": "56 (paralisação total em 67% delas)", "unidade": "% das respondentes", "periodo": "dez/2020-jan/2021", "trecho": "final de ano e início do próximo, 56% das participantes informaram que estarão entrando em férias coletivas, sendo que destas, a paralisação será total para 67% das empresas"},
+    {"nome": "Empresas do mercado interno interessadas em exportar", "valor": "72", "unidade": "% das respondentes", "periodo": "dez/2020", "trecho": "externo. A resposta de 72% delas foi que sim, ou seja, que possuem interesse no mercado externo."},
+    {"nome": "Expectativa de exportação de chapas e recortados", "valor": "71 crescimento / 29 queda", "unidade": "% das exportadoras", "periodo": "dez/2020", "trecho": "de chapas e recortados, 71% indicaram crescimento e 29% queda. Entre as que indicaram crescimento, esperam que este seja de até 10% (80%) e entre 11 e 25% (20%)"},
+    {"nome": "Dificuldades para produzir", "valor": "40 sem dificuldades; 37 aumento; 23 redução", "unidade": "% das respondentes", "periodo": "nov/2020", "trecho": "de dificuldades, 37% indicaram o surgimento e/ou aumento das dificuldades, ficando em 23% a indicação de redução nas dificuldades."},
+    {"nome": "Perfil das respondentes por atividade", "valor": "beneficiamento 56; extração 23; marmorarias 15", "unidade": "%", "periodo": "dez/2020", "trecho": "Empresas que atuam no beneficiamento de rochas ornamentais lideram a participação com 56%, seguidas pelas de"}
+  ],
+  "explicacoes": [
+    {"fenomeno": "Dificuldades para produzir", "causa_atribuida": "Falta de capacidade para produzir (50%), falta de matéria-prima (17%), mão de obra qualificada (17%), insumos e capital de giro (4% cada)", "trecho": "para produzir (50%), falta de matéria"}
+  ],
+  "mercados": [
+    {"pais": "Brasil e exterior (empresas do ES)", "afirmacao": "Estabilidade apontada por 13% das empresas em ambos os mercados", "trecho": "dos participantes. A indicação de estabilidade foi apontada, em ambos os mercados, por 13% das empresas."}
+  ],
+  "politicas": [],
+  "precos": [],
+  "desafios": [
+    {"afirmacao": "Impactos da COVID-19 não mais sentidos ou em baixa escala para 86% das empresas", "trecho": "empresas não mais os sentem ou, quando ainda registram, o fazem em baixa escala."},
+    {"afirmacao": "Outras dificuldades de produção: capital de giro e outras", "trecho": "falta de capital de giro (4%) e outras dificuldades (8%)."}
+  ],
+  "pleitos": [],
+  "observacao": "Layout em duas colunas embaralha o texto do pdftotext; páginas 14-39 são só gráficos sem texto extraído. Amostra de 43 respostas, restrita ao Espírito Santo."
+}

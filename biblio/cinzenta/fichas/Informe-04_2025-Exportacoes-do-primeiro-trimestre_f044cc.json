@@ -1,0 +1,46 @@
+{
+  "id": "Informe-04_2025-Exportacoes-do-primeiro-trimestre_f044cc",
+  "arquivo": "Informe-04_2025-Exportacoes-do-primeiro-trimestre.pdf",
+  "emissor": "Abirochas",
+  "titulo": "Balanço das Exportações e Importações Brasileiras de Rochas Ornamentais no 1º Trimestre de 2025 (Informe 04/2025)",
+  "data_publicacao": "2025-04",
+  "periodo_coberto": "jan-mar/2025",
+  "tipo": "conjuntura",
+  "tema": "Balanço do 1º trimestre de 2025 (+27,9% em valor), atribuindo o desempenho à antecipação de importações dos EUA e à China, ambas ligadas às tarifas norte-americanas; preço médio por estado e industrialização.",
+  "elos": ["E1", "E2", "E3", "E6", "E10"],
+  "indicadores": [
+    {"nome": "Preço médio das exportações para China e EUA", "valor": "220 (China) / 1.280 (EUA)", "unidade": "US$/t", "periodo": "1º tri/2025", "trecho": "As exportações para a China somaram 227 mil t e US$ 50,9 milhões, com preço médio de US$ 220/t"},
+    {"nome": "Participação conjunta de EUA e China", "valor": "74,3 (volume) / 72,2 (faturamento)", "unidade": "%", "periodo": "1º tri/2025", "trecho": "Conjuntamente, esses dois países responderam por 74,3% do volume físico e 72,2% do faturamento das exportações brasileiras de rochas no 1º trimestre."},
+    {"nome": "Participação do Espírito Santo nas exportações", "valor": "82", "unidade": "%", "periodo": "1º tri/2025", "trecho": "Espírito Santo participou, portanto, com 82% dessas exportações, restando apenas 18% para os demais 19 estados com registro de exportações."},
+    {"nome": "Preço médio das exportações por estado", "valor": "ES 760; CE 650; MG 380; BA 360; RN 330", "unidade": "US$/t", "periodo": "1º tri/2025", "trecho": "O preço médio das exportações do Espírito Santo (US$ 760/t) reflete suas exportações de chapas e blocos"},
+    {"nome": "Importações de materiais rochosos artificiais", "valor": "US$ 16,3 milhões / 30,4 mil t; preço médio US$ 540/t", "unidade": "US$ / t", "periodo": "1º tri/2025", "trecho": "As importações de materiais rochosos artificiais somaram US$ 16,3 milhões e 30,4 mil t no 1º trimestre, com preço médio de US$ 540/t."},
+    {"nome": "Participação da China nas importações de artificiais", "valor": "96,7 (volume) / 93,9 (valor)", "unidade": "%", "periodo": "1º tri/2025", "trecho": "mil t (96,7%) e US$ 15,3 milhões (93,9%), portanto, pela quase totalidade dessas importações."},
+    {"nome": "Número de países de destino", "valor": "99", "unidade": "países", "periodo": "1º tri/2025", "trecho": "Exportações para 99 países."}
+  ],
+  "explicacoes": [
+    {"fenomeno": "Bom desempenho das exportações no 1º trimestre de 2025", "causa_atribuida": "Expressivas importações dos EUA e da China", "trecho": "As exportações brasileiras de rochas, favorecidas pelas expressivas importações"},
+    {"fenomeno": "Alta representatividade de EUA e China nas exportações", "causa_atribuida": "Antecipação de importações pelos EUA e previsão de incremento do mercado interno chinês, ambas ligadas às alterações de tarifas dos EUA", "trecho": "Tal representatividade foi determinada pela antecipação de importações pelos EUA e pela previsão de incremento do mercado interno da China, ambas atreladas às alterações de tarifas determinadas pelos EUA."},
+    {"fenomeno": "Diferença de volume/faturamento entre China e EUA", "causa_atribuida": "Venda de blocos à China e de chapas aos EUA", "trecho": "refletindo a comercialização de blocos com a China e a de chapas com os EUA."},
+    {"fenomeno": "Preços médios mais elevados em alguns estados", "causa_atribuida": "Cadeia produtiva com industrialização das matérias-primas", "trecho": "Conclui-se que os preços médios mais elevados estão vinculados aos estados onde a cadeia produtiva inclui a industrialização das matérias-primas."},
+    {"fenomeno": "Baixo preço médio das exportações da Bahia e do Rio Grande do Norte", "causa_atribuida": "Exportação de matérias-primas (blocos) de rochas de processamento especial", "trecho": "representa a exportação de matérias-primas (blocos) de rochas de processamento especial, especialmente quartzitos maciços, pegmatitos e mármores."},
+    {"fenomeno": "Preço médio de Minas Gerais (US$ 380/t)", "causa_atribuida": "Comercialização de blocos de quartzito, pedra-sabão, ardósias e quartzitos foliados", "trecho": "Minas Gerais (US$ 380/t) reflete a comercialização de blocos de quartzitos maciços, produtos de pedra-sabão e produtos de ardósias e quartzitos foliados."},
+    {"fenomeno": "Perspectiva favorável para exportações a EUA e China", "causa_atribuida": "Novas condicionantes do mercado internacional (tarifas)", "trecho": "brasileiras de rochas, especialmente para EUA e China, continuarão favorecidas pelas novas condicionantes do mercado internacional."}
+  ],
+  "mercados": [
+    {"pais": "EUA", "afirmacao": "30,7% do volume e 57,9% do faturamento, com preço médio de US$ 1.280/t", "trecho": "enquanto para os EUA totalizaram 160,2 mil t e US$ US$ 204,7 milhões, com preço médio de US$ 1.280/t."},
+    {"pais": "China", "afirmacao": "43,6% do volume e 14,4% do faturamento", "trecho": "As vendas para a China representaram 43,6% do volume físico e 14,4% do faturamento das exportações brasileiras"},
+    {"pais": "China", "afirmacao": "Principal origem de materiais rochosos artificiais importados", "trecho": "A China respondeu por 29,4"}
+  ],
+  "politicas": [
+    {"medida": "Alterações tarifárias dos EUA", "afirmacao": "Melhoram a atratividade brasileira para investimentos estrangeiros exportadores", "trecho": "industriais exportadores, por empresas/investidores estrangeiros, quanto uma nova base de discussão bilateral focada na redução/eliminação das barreiras"},
+    {"medida": "Barreiras tarifárias chinesas a rochas processadas", "afirmacao": "Nova base de discussão bilateral para reduzi-las ou eliminá-las", "trecho": "tarifárias chinesas atualmente existentes para suas importações de rochas processadas, inclusive chapas."}
+  ],
+  "precos": [
+    {"produto": "Exportações capixabas", "afirmacao": "Faturamento atrelado a rochas extraídas na Bahia e Minas Gerais", "trecho": "A maior parte do faturamento das exportações capixabas atrelou-se a produtos comerciais de rochas extraídas na Bahia e Minas Gerais"}
+  ],
+  "desafios": [
+    {"afirmacao": "Alcance socioeconômico do setor restrito aos estados que beneficiam a matéria-prima", "trecho": "O alcance socioeconômico do setor de rochas atende somente aos estados que beneficiam essas matérias-primas."}
+  ],
+  "pleitos": [],
+  "observacao": "O trecho 'A China respondeu por 29,4' é curto mas literal; a frase continua após a nota de rodapé. Texto diz 'superaram US$ 1 milhão' (provável erro do original para US$ 100 milhões)."
+}

@@ -1,0 +1,67 @@
+{
+ "id": "Informe-09_2024-Exportacoes-Setembro_1b1b7c",
+ "arquivo": "Informe-09_2024-Exportacoes-Setembro.pdf",
+ "emissor": "Abirochas",
+ "titulo": "Síntese das exportações brasileiras de rochas ornamentais e de revestimento - janeiro a setembro de 2024 (Informe 09/2024)",
+ "data_publicacao": "2024-10",
+ "periodo_coberto": "jan-set/2024",
+ "tipo": "relatorio-mensal",
+ "tema": "Síntese das exportações e importações de rochas de janeiro a setembro de 2024, com destaque para quartzitos maciços superando granitos e mercado interno aquecido no segmento de alto padrão.",
+ "elos": [
+  "E6",
+  "E7"
+ ],
+ "indicadores": [
+  {
+   "nome": "Faturamento de quartzitos maciços vs. granitos nas exportações",
+   "valor": "quartzitos (6802.99.90 + 2506.20.00) ultrapassam granitos (6802.93.90 + 2516.12.00)",
+   "unidade": "US$",
+   "periodo": "jan-set/2024",
+   "trecho": "Assim, o faturamento das exportações brasileiras de quartzitos maciços\n(6802.99.90 + 2506.20.00) já ultrapassa o de granitos em geral (6802.93.90 +\n2516.12.00)"
+  },
+  {
+   "nome": "Número de estados exportadores",
+   "valor": "20",
+   "unidade": "estados",
+   "periodo": "jan-set/2024",
+   "trecho": "20 estados exportadores. Fonte dos dados: Comex Stat"
+  },
+  {
+   "nome": "Número de países de destino",
+   "valor": "120",
+   "unidade": "países",
+   "periodo": "jan-set/2024",
+   "trecho": "Exportações para 120 países. Fonte dos dados: Comex Stat"
+  },
+  {
+   "nome": "Unidades da Receita Federal utilizadas nas exportações",
+   "valor": "29",
+   "unidade": "unidades",
+   "periodo": "jan-set/2024",
+   "trecho": "Exportações realizadas através de 29 unidades da Receita Federal."
+  }
+ ],
+ "explicacoes": [],
+ "mercados": [
+  {
+   "pais": "Brasil (mercado interno)",
+   "afirmacao": "Construção civil aquecida e direcionada ao público de alto poder aquisitivo, privilegiando materiais naturais de maior valor agregado (quartzitos maciços, quartzolito, mármores, travertinos, exóticos).",
+   "trecho": "O mercado interno da construção civil está aquecido e fortemente direcionado para o"
+  },
+  {
+   "pais": "Brasil (mercado interno)",
+   "afirmacao": "Consumo privilegia materiais naturais de revestimento de maior valor agregado.",
+   "trecho": "privilegiando o consumo de materiais naturais de\nreves�mento e inclusive daqueles de maior valor agregado, como quartzitos maciços,"
+  }
+ ],
+ "politicas": [],
+ "precos": [],
+ "desafios": [
+  {
+   "afirmacao": "Apesar do bom desempenho até setembro, não se espera que as exportações de 2024 superem significativamente as de 2023.",
+   "trecho": "não se espera que as exportações de 2024\nsuperem, pelo menos não signiﬁca�vamente, aquelas de 2023."
+  }
+ ],
+ "pleitos": [],
+ "observacao": "Informe curto, majoritariamente gráficos; não atribui causas às variações. Nota sobre a Marmomac 2024 (empresas brasileiras privilegiaram rochas de quartzito/quartzo natural e pegmatito). O texto extraído contém caracteres corrompidos (ligadura 'ti' como '�')."
+}

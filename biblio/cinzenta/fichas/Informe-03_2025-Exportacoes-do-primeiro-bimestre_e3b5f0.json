@@ -1,0 +1,121 @@
+{
+ "id": "Informe-03_2025-Exportacoes-do-primeiro-bimestre_e3b5f0",
+ "arquivo": "Informe-03_2025-Exportacoes-do-primeiro-bimestre.pdf",
+ "emissor": "Abirochas",
+ "titulo": "Balanço do setor brasileiro de rochas ornamentais e de revestimento no 1º bimestre de 2025 (Informe 03/2025)",
+ "data_publicacao": "2025-03",
+ "periodo_coberto": "jan-fev/2025",
+ "tipo": "conjuntura",
+ "tema": "Exportações e importações de rochas no 1º bimestre de 2025: alta puxada por antecipação de compras dos EUA ante tarifas, preços médios, quartzitos, importações de naturais e artificiais.",
+ "elos": [
+  "E6",
+  "E7",
+  "E10"
+ ],
+ "indicadores": [
+  {
+   "nome": "Participação de chapas de quartzito maciço (6802.99.90) no faturamento",
+   "valor": "de 39% para 48,1% (volume de 10,5% para 14,9%)",
+   "unidade": "%",
+   "periodo": "1º bim 2024 vs 1º bim 2025",
+   "trecho": "posição 6802.99.90, ampliou-se de 39% no 1º bimestre de 2024 para 48,1% no mesmo\nperíodo de 2025, bem como de 10,5% para 14,9% em volume físico."
+  },
+  {
+   "nome": "Participação de rochas processadas no faturamento",
+   "valor": "de 79,7% para 81,7%",
+   "unidade": "%",
+   "periodo": "jan-fev/2025",
+   "trecho": "ampliou-se de 79,7% para 81,7% a participação de rochas\nprocessadas no total do faturamento"
+  },
+  {
+   "nome": "Importações de rochas naturais",
+   "valor": "US$ 7,3 milhões e 15,1 mil t (+30% e +30,6%)",
+   "unidade": "US$/t",
+   "periodo": "jan-fev/2025",
+   "trecho": "incremento de 30% em valor e 30,6% em volume físico, somando respectivamente US$\n7,3 milhões e 15,1 mil t no 1º bimestre de 2025."
+  },
+  {
+   "nome": "Preço médio das rochas artificiais importadas",
+   "valor": "de 628,6 para 545,8 (-13,2%)",
+   "unidade": "US$/t",
+   "periodo": "jan-fev/2025",
+   "trecho": "Seu preço médio teve recuo de 13,2% passando de US$ 628,6/t\npara US$ 545,8/t."
+  }
+ ],
+ "explicacoes": [
+  {
+   "fenomeno": "Comportamento anômalo (alta) das exportações em dez/2024 e 1º bimestre de 2025",
+   "causa_atribuida": "Antecipação de compras dos importadores norte-americanos por temor de aumento de tarifas nos EUA e de recessão",
+   "trecho": "mês de dezembro de 2024 e 1º bimestre de 2025, foi motivado, como em vários outros\nsetores, pela antecipação das compras dos importadores norte-americanos."
+  },
+  {
+   "fenomeno": "Antecipação de compras pelos importadores dos EUA",
+   "causa_atribuida": "Temor do aumento das tarifas de importação dos EUA e de provável recessão norte-americana",
+   "trecho": "se o temor do aumento das tarifas para essas importações dos EUA, bem como de uma\ncada vez mais provável recessão da economia desse país."
+  },
+  {
+   "fenomeno": "Aumento das importações brasileiras de rochas naturais (+30%)",
+   "causa_atribuida": "Bom andamento do mercado interno de imóveis de alto padrão",
+   "trecho": "refletindo o bom andamento do mercado interno para imóveis de alto\npadrão, as importações brasileiras de materiais rochosos naturais registraram"
+  },
+  {
+   "fenomeno": "Alta do preço médio das rochas processadas (+20,5%) e silicáticas brutas (+4,6%)",
+   "causa_atribuida": "Preço médio das chapas de granito (6802.93.90, +12,8%) e blocos de granito (2516.12.00, +13,4%)",
+   "trecho": "rochas silicáticas brutas (+4,6%), respectivamente atrelada ao preço médio das chapas\nde granito pela posição 6802.93.90 (+12,8%)"
+  },
+  {
+   "fenomeno": "Pressão de oferta e queda de preços de artificiais no mercado internacional (projeção)",
+   "causa_atribuida": "Restrições impostas e projetadas pelos EUA aos produtos chineses",
+   "trecho": "Com as restrições já impostas e projetadas pelo mercado dos EUA aos\nprodutos chineses, deverá se intensificar a pressão de oferta, com redução de preços\ndesses produtos, no mercado internacional."
+  }
+ ],
+ "mercados": [
+  {
+   "pais": "EUA",
+   "afirmacao": "Importadores norte-americanos anteciparam compras temendo tarifas e recessão",
+   "trecho": "pela antecipação das compras dos importadores norte-americanos"
+  },
+  {
+   "pais": "Brasil (mercado interno)",
+   "afirmacao": "Bom andamento do mercado de imóveis de alto padrão",
+   "trecho": "refletindo o bom andamento do mercado interno para imóveis de alto\npadrão"
+  }
+ ],
+ "politicas": [
+  {
+   "medida": "Tarifas de importação dos EUA",
+   "afirmacao": "Temor de aumento motivou antecipação de compras",
+   "trecho": "se o temor do aumento das tarifas para essas importações dos EUA"
+  },
+  {
+   "medida": "Restrições dos EUA a produtos chineses",
+   "afirmacao": "Devem intensificar pressão de oferta de artificiais e reduzir preços",
+   "trecho": "Com as restrições já impostas e projetadas pelo mercado dos EUA aos\nprodutos chineses"
+  }
+ ],
+ "precos": [
+  {
+   "produto": "Rochas processadas e silicáticas brutas",
+   "afirmacao": "Processadas +20,5%, silicáticas brutas +4,6%",
+   "trecho": "Ressalta-se a variação positiva do preço médio das rochas processadas (+20,5%) e das"
+  },
+  {
+   "produto": "Blocos de quartzito maciço",
+   "afirmacao": "Preço médio -7,7% com volume +5,5%",
+   "trecho": "assistiu-se à queda de 7,7% no preço médio dos blocos desses quartzitos maciços,\nacompanhado por um incremento de 5,5% no volume físico exportado."
+  },
+  {
+   "produto": "Rochas artificiais importadas",
+   "afirmacao": "Preço médio -13,2%",
+   "trecho": "Seu preço médio teve recuo de 13,2% passando de US$ 628,6/t"
+  }
+ ],
+ "desafios": [
+  {
+   "afirmacao": "Provável recessão da economia dos EUA",
+   "trecho": "cada vez mais provável recessão da economia desse país."
+  }
+ ],
+ "pleitos": [],
+ "observacao": "Texto analítico de uma página; demais páginas são gráficos de comércio exterior (ComexStat)."
+}

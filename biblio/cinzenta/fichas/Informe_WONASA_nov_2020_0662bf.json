@@ -1,0 +1,132 @@
+{
+ "id": "Informe_WONASA_nov_2020_0662bf",
+ "arquivo": "Informe WONASA nov. 2020.pdf",
+ "emissor": "Litos",
+ "titulo": "Estudio comparativo de las políticas de extracción de piedra en diferentes países (Informe WONASA)",
+ "data_publicacao": "2020-11",
+ "periodo_coberto": null,
+ "tipo": "estudo-tematico",
+ "tema": "Questionário comparativo (WONASA) sobre regras de concessão, royalties, licenciamento ambiental, tributação de exportação de blocos e emprego por pedreira em Brasil, Egito, Espanha, Finlândia, Índia, Portugal, Rússia, Suécia e Turquia.",
+ "elos": [
+  "E1",
+  "E8",
+  "E9",
+  "E10"
+ ],
+ "indicadores": [
+  {
+   "nome": "Média de empregados por pedreira no Brasil",
+   "valor": "75",
+   "unidade": "empregados/pedreira",
+   "periodo": "não especificado",
+   "trecho": "Según datos de Abirochas, la media de empleados de una cantera en Brasil es de 75."
+  },
+  {
+   "nome": "Royalty CFEM para pedras naturais no Brasil",
+   "valor": "1%",
+   "unidade": "% sobre produção",
+   "periodo": "2020",
+   "trecho": "En Brasil, esta regalía se llama CEFEM. Para Piedras Naturales, CEFEM es 1%, oro es 1.5%, diamante 2%, bauxita"
+  },
+  {
+   "nome": "Prazo médio para obter autorização ambiental no Brasil",
+   "valor": "1 a 2 anos",
+   "unidade": "anos",
+   "periodo": "2020",
+   "trecho": "Generalmente 1 - 2 años después de presentar la solicitud ante el organismo competente."
+  },
+  {
+   "nome": "Validade da licença ambiental no Brasil",
+   "valor": "4 a 10 anos (5 anos no ES)",
+   "unidade": "anos",
+   "periodo": "2020",
+   "trecho": "De un mínimo de 4 años a un máximo de 10. En Espirito Santo, de donde procede la mayoría de la piedra, tiene una validez de 5 años"
+  },
+  {
+   "nome": "Empregados por pedreira em Portugal",
+   "valor": "2760 empregados em 337 pedreiras (média 8)",
+   "unidade": "empregados",
+   "periodo": "2019",
+   "trecho": "Teniendo en cuenta que en 2019 había 2760 empleados en 337 canteras, el promedio es de 8 empleados por cantera."
+  },
+  {
+   "nome": "Royalty na Turquia",
+   "valor": "4,5% do valor do mármore na pedreira",
+   "unidade": "%",
+   "periodo": "2020",
+   "trecho": "El 4,5% del valor del mármol en la cantera."
+  },
+  {
+   "nome": "Royalty no Egito",
+   "valor": "19% do preço ex-pedreira",
+   "unidade": "%",
+   "periodo": "2020",
+   "trecho": "19% del precio de venta ex-cantera."
+  },
+  {
+   "nome": "Taxa de exportação de blocos no Egito",
+   "valor": "US$ 25/t",
+   "unidade": "US$/t",
+   "periodo": "2020",
+   "trecho": "La tasa de exportación es de 25 dólares / tonelada sólo para bloques. No hay tasa para tablas."
+  }
+ ],
+ "explicacoes": [],
+ "mercados": [],
+ "politicas": [
+  {
+   "medida": "Regime de concessão mineral no Brasil",
+   "afirmacao": "Não há prazo de concessão; vigora até exaustão das reservas",
+   "trecho": "No hay periodo de concesión. Una vez que el dueño de la cantera recibe una autorización, puede mantener el contra"
+  },
+  {
+   "medida": "Obrigações do titular da lavra no Brasil",
+   "afirmacao": "Relatório anual de produção, pagamento de direitos e cumprimento do plano ambiental; sob pena de cancelamento",
+   "trecho": "tiene que hacer un informe anual de producción, pagar los derechos al gobierno y seguir el plan ambiental aprobado. Si no cumple todos estos requisitos, su cantera podría ser cancelada."
+  },
+  {
+   "medida": "Participação do superficiário",
+   "afirmacao": "Superficiário recebe 50% da CFEM se o minerador não for dono do terreno",
+   "trecho": "Si el cantero no ha comprado el terreno donde se ubica el depósito, deberá pagar al dueño una participación en los resultados mineros correspondiente al 50% de la CFEM."
+  },
+  {
+   "medida": "Desoneração das exportações no Brasil",
+   "afirmacao": "Exportações isentas de ICMS e IPI; sem tributo adicional sobre exportação de blocos",
+   "trecho": "Todas las exportaciones están exentas de los aranceles que pagan habitualmente las operaciones nacionales, como el IVA (ICMS), el Impuesto de Industrialización (IPI). No hay derechos adicionales por la exportación de bloques."
+  },
+  {
+   "medida": "Licenciamento ambiental simplificado no Brasil",
+   "afirmacao": "Lavra de rocha não considerada de alto potencial poluidor; autorização simplificada sem audiência pública",
+   "trecho": "La extracción de piedra no se considera un contaminante ambiental de alto potencial, por lo que los canteros solicitan una autorización ambiental simplificada, que no requiere una audiencia pública previa para su aprobación."
+  },
+  {
+   "medida": "Controle de poluição no Brasil",
+   "afirmacao": "Único controle é o Plano Ambiental aprovado",
+   "trecho": "No, en Brasil el único control sobre la contaminación son las reglas que la empresa debe cumplir en base al Plan Ambiental aprobado por la agencia."
+  },
+  {
+   "medida": "Propriedade do subsolo (Constituição de 1988)",
+   "afirmacao": "Distinção entre propriedade do solo e do subsolo; royalties independem da propriedade do terreno",
+   "trecho": "La Constitución de Brasil de 1988 diferencia entre propietario de suelo y de subsuelo"
+  },
+  {
+   "medida": "Royalties na Índia",
+   "afirmacao": "Variam por estado; mais altos em terras florestais",
+   "trecho": "Para tierras forestales los royaltis son más altos. Para tierras privadas y públicas son los mismos."
+  },
+  {
+   "medida": "Licenciamento em Portugal",
+   "afirmacao": "Autorização leva, no melhor dos casos, 5 anos",
+   "trecho": "En el mejor de los casos, 5 años."
+  },
+  {
+   "medida": "Concessão na Espanha",
+   "afirmacao": "Pedreiras de blocos com concessão de 30 anos prorrogáveis até 90 ou 75",
+   "trecho": "En canteras de bloques se otorgan por 30 años prorrogables hasta 90 años o 75 depende de la zona en que se sitúe la cantera."
+  }
+ ],
+ "precos": [],
+ "desafios": [],
+ "pleitos": [],
+ "observacao": "Documento em espanhol, publicado por Litos/WONASA; estudo comparativo descritivo de marcos regulatórios, sem dados de mercado nem atribuição de causas a variações."
+}

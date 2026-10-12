@@ -1,0 +1,139 @@
+{
+ "id": "Informe-04_2024-Exportacoes-1_Quadrimestre_30a81d",
+ "arquivo": "Informe-04_2024-Exportacoes-1_Quadrimestre.pdf",
+ "emissor": "Abirochas",
+ "titulo": "Síntese das exportações brasileiras de rochas ornamentais e de revestimento no 1º quadrimestre de 2024 (Informe 04/2024)",
+ "data_publicacao": "2024-05",
+ "periodo_coberto": "jan-abr/2024",
+ "tipo": "conjuntura",
+ "tema": "Exportações e importações de rochas no 1º quadrimestre de 2024: valores, preços médios por tipo, estados, portos, destinos, artificiais importados e crítica aos dados do Centrorochas (NCM 2529.10.00).",
+ "elos": [
+  "E5",
+  "E6",
+  "E10"
+ ],
+ "indicadores": [
+  {
+   "nome": "Preço médio geral das exportações",
+   "valor": "601,5 (processadas 944,9; silicáticas brutas 239,2; carbonáticas brutas 373,4)",
+   "unidade": "US$/t",
+   "periodo": "jan-abr/2024",
+   "trecho": "O preço médio dessas exportações de rochas foi de US$ 601,5/t, compreendendo US$"
+  },
+  {
+   "nome": "Participação das rochas no total das exportações brasileiras",
+   "valor": "0,35",
+   "unidade": "%",
+   "periodo": "jan-abr/2024",
+   "trecho": "No 1º quadrimestre, as\nexportações de rochas representaram 0,35% do total das exportações brasileiras."
+  },
+  {
+   "nome": "Preço médio da posição 6802.99.90 (chapas de quartzito)",
+   "valor": "2.273,9",
+   "unidade": "US$/t",
+   "periodo": "jan-abr/2024",
+   "trecho": "O preço médio mais elevado foi de US$ 2.273,9/t, para os\nprodutos da posição 6802.99.90, envolvendo essencialmente chapas de quartzito."
+  },
+  {
+   "nome": "Participação dos EUA no faturamento das exportações",
+   "valor": "58,5 (US$ 225,2 milhões; preço médio US$ 1.020/t)",
+   "unidade": "%",
+   "periodo": "jan-abr/2024",
+   "trecho": "somaram 220,9 mil t, representando 58,5% (US$ 225,2 milhões) do total do faturamento"
+  },
+  {
+   "nome": "Participação do Espírito Santo nas exportações",
+   "valor": "83,7 (valor) e 76,8 (volume)",
+   "unidade": "%",
+   "periodo": "jan-abr/2024",
+   "trecho": "As exportações do Espírito Santo somaram US$ 321,9 milhões e 491,0 mil t,"
+  },
+  {
+   "nome": "Importações de materiais rochosos artificiais",
+   "valor": "US$ 19,1 milhões e 31,0 mil t (+53,9% e +52,2%); quase 95% da China",
+   "unidade": "US$/t",
+   "periodo": "jan-abr/2024",
+   "trecho": "pelas posições 6810.19.00 e 6810.99.00, somaram US$ 19,1 milhões e 31,0 mil t, com"
+  }
+ ],
+ "explicacoes": [
+  {
+   "fenomeno": "Bahia responde por apenas US$ 6 milhões das exportações apesar de produzir a maior parte dos quartzitos e exóticos",
+   "causa_atribuida": "Matérias-primas baianas são processadas e exportadas pelo Espírito Santo",
+   "trecho": "6 milhões das exportações brasileiras, pois suas matérias-primas são processadas e\nexportadas pelo Espírito Santo."
+  },
+  {
+   "fenomeno": "Preço médio baixo (US$ 210/t) das exportações pelo porto de Vitória",
+   "causa_atribuida": "Falta de aporte de embarcações para transporte de contêineres",
+   "trecho": "apenas US$ 210/t, neste caso pela falta de aporte de embarcações para transporte de\ncontainers."
+  },
+  {
+   "fenomeno": "Valor de exportações do Centrorochas superior ao da Abirochas (US$ 387,9 vs 384,8 milhões)",
+   "causa_atribuida": "Inclusão de US$ 3,4 milhões do código 2529.10.00 (feldspato)",
+   "trecho": "387,9 milhões, pois incluíram US$ 3,4 milhões atrelados ao código fiscal 2529.10.00."
+  }
+ ],
+ "mercados": [
+  {
+   "pais": "EUA",
+   "afirmacao": "58,5% do faturamento, preço médio US$ 1.020/t",
+   "trecho": "Com preço médio de US$ 1.020/t, os produtos enviados para os EUA"
+  },
+  {
+   "pais": "China",
+   "afirmacao": "253,9 mil t a US$ 210/t, apenas 13,9% do faturamento",
+   "trecho": "exportações para a China somaram 253,9 mil t e responderam por apenas 13,9% (US$\n53,5 milhões) do faturamento brasileiro."
+  },
+  {
+   "pais": "México",
+   "afirmacao": "Segundo maior fornecedor de rochas naturais ao Brasil (travertinos), atrás da Turquia",
+   "trecho": "Com traver�nos, o México manteve-se como segundo maior\nfornecedor de materiais rochosos naturais para o Brasil, atrás apenas da Turquia."
+  },
+  {
+   "pais": "China",
+   "afirmacao": "Quase 95% do volume de artificiais importados vem da China",
+   "trecho": "Quase 95% do volume �sico das importações de materiais rochosos ar�ficiais foram\nprovenientes da China."
+  }
+ ],
+ "politicas": [
+  {
+   "medida": "Classificação fiscal NCM 2529.10.00 (feldspato) e dados do Centrorochas",
+   "afirmacao": "Pegmatitos podem estar sendo exportados indevidamente como fundente cerâmico, ou feldspato atribuído ao setor; dados devem ser esclarecidos",
+   "trecho": "Se este for o caso, pegma�tos estão sendo indevidamente exportados como um\nfundente cerâmico."
+  }
+ ],
+ "precos": [
+  {
+   "produto": "Rochas brutas carbonáticas e silicáticas",
+   "afirmacao": "Carbonáticas brutas -25,1% e silicáticas brutas -15,4% frente ao 1º quadrimestre de 2023",
+   "trecho": "O preço médio das rochas carboná�cas\nbrutas recuou 25,1% e o das rochas silicá�cas e silicosas brutas 15,4% frente ao 1º"
+  },
+  {
+   "produto": "Rochas processadas e preço médio geral",
+   "afirmacao": "Processadas +9,5%, preço médio geral +2%",
+   "trecho": "O preço médio das rochas processadas teve incremento de 9,5%\ne o preço médio geral de 2%."
+  },
+  {
+   "produto": "Por porto",
+   "afirmacao": "Rio de Janeiro US$ 960/t; Vitória US$ 210/t",
+   "trecho": "Com um preço médio de US$ 960/t, os produtos exportados pelo porto do Rio de Janeiro"
+  }
+ ],
+ "desafios": [
+  {
+   "afirmacao": "Desaceleração do crescimento das exportações ao longo de 2024 (de +55,1% no bimestre a +16,3% no quadrimestre)",
+   "trecho": "evidenciando uma tendência\nde queda que deverá se acentuar ao longo do ano em curso."
+  },
+  {
+   "afirmacao": "Falta de embarcações para contêineres no porto de Vitória",
+   "trecho": "pela falta de aporte de embarcações para transporte de"
+  }
+ ],
+ "pleitos": [
+  {
+   "afirmacao": "Centrorochas deve esclarecer seus dados de exportação",
+   "trecho": "os dados no�ciados pelo Centrorochas não poderiam dar\nmargem a este �po de dúvida e deveriam ser o quanto antes esclarecidos,"
+  }
+ ],
+ "observacao": "Texto extraído com caractere de substituição (U+FFFD) no lugar da ligadura 'ti' (ex.: 'posi�va'); trechos copiados com esse caractere. Documento majoritariamente gráficos de comércio exterior."
+}

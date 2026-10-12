@@ -1,0 +1,99 @@
+{
+ "id": "Informe-06_2025-Tarifacao-EUA-v2_85e2de",
+ "arquivo": "Informe-06_2025-Tarifacao-EUA-v2.pdf",
+ "emissor": "Abirochas",
+ "titulo": "Abrangência dos produtos exportados pela NCM 6802.99.90 e possibilidade de mitigação dos impactos da tarifação nos EUA (Informe 06/2025)",
+ "data_publicacao": "2025-08",
+ "periodo_coberto": "2024",
+ "tipo": "posicionamento",
+ "tema": "Análise da classificação fiscal (TEC NESH e HTS US) para mostrar que a NCM 6802.99.90, isenta da sobretarifa dos EUA de 06/08/2025, pode abrigar muitas rochas brasileiras, mitigando o impacto da tarifação.",
+ "elos": [
+  "E6",
+  "E10"
+ ],
+ "indicadores": [
+  {
+   "nome": "Participação dos EUA nas exportações brasileiras de rochas",
+   "valor": "56,6 (faturamento, US$ 711 milhões); 31,4 (volume, 643 mil t)",
+   "unidade": "%",
+   "periodo": "2024",
+   "trecho": "as\nexportações para os EUA responderam por 56,6% (US$ 711 milhões) do faturamento e por\n31,4% (643 mil t) do volume físico."
+  },
+  {
+   "nome": "Participação da NCM 6802.99.90 no faturamento total e nas exportações para os EUA",
+   "valor": "40 (US$ 497 milhões); 58,2 (US$ 414,1 milhões)",
+   "unidade": "%",
+   "periodo": "2024",
+   "trecho": "A NCM 6802.99.90 representou 40% (US$ 497 milhões) do total do faturamento das\nexportações brasileiras de rochas e 58,2% (US$ 414,1 milhões) das exportações brasileiras\nde rochas para os EUA."
+  },
+  {
+   "nome": "Preço médio da NCM 6802.99.90 para os EUA",
+   "valor": "2.337",
+   "unidade": "US$/t",
+   "periodo": "2024",
+   "trecho": "foi de US$\n2.337/t para os EUA, portanto o mais elevado entre todos os produtos brasileiros\nexportados pelo setor de rochas."
+  },
+  {
+   "nome": "Parcela do faturamento para os EUA potencialmente isenta da sobretarifa",
+   "valor": "até 80",
+   "unidade": "%",
+   "periodo": "base 2024",
+   "trecho": "poderiam ﬁcar doravante isentos da sobretarifação ﬁrmada em\n06.08.2025, não apenas os 58,2% do faturamento registrado para os EUA em 2024, mas até\n80% desse faturamento."
+  },
+  {
+   "nome": "NCMs em que os EUA são o principal destino em volume",
+   "valor": "7 (e 2º destino em outras 3)",
+   "unidade": "NCMs",
+   "periodo": "2024",
+   "trecho": "o maior volume físico exportado em sete NCMs (6802.93.90,\n99.90, 91.00, 29.00, 23.00, 6803.00.00 e 2514.00.00) teve como destino os EUA."
+  }
+ ],
+ "explicacoes": [],
+ "mercados": [
+  {
+   "pais": "EUA",
+   "afirmacao": "Principal destino em faturamento e segundo em volume, atrás da China.",
+   "trecho": "os EUA permanecem como o principal destino\ndas exportações brasileiras de rochas em faturamento e o segundo em volume físico, neste\ncaso apenas atrás da China."
+  }
+ ],
+ "politicas": [
+  {
+   "medida": "Sobretarifação dos EUA sobre rochas brasileiras (06/08/2025)",
+   "afirmacao": "A sobretarifa excluiu as rochas e produtos enquadráveis na posição 6802.99.00 do HTS US.",
+   "trecho": "O sobretarifação estabelecida pelos EUA excluiu as rochas e produtos enquadráveis na\nposição ﬁscal 6802.99.00 do HTS U.S."
+  },
+  {
+   "medida": "Classificação HTS US por designação geológica estrita",
+   "afirmacao": "Notas explicativas do HTS discriminam designações geológicas estritas, não comerciais; basalto, gabro, sienito, gnaisse etc. devem ir para 'outras pedras' (6802.99).",
+   "trecho": "discriminam as designações geológicas estritas assumidas\npara essas rochas e não suas designações comerciais genéricas"
+  },
+  {
+   "medida": "Abrangência da NCM 6802.99.90",
+   "afirmacao": "Pode abrigar rochas silicáticas (gabros, sienitos, gnaisses, pedra-sabão etc.) e silicosas (quartzito, quartzo natural etc.) em chapas acabadas e produtos padronizados.",
+   "trecho": "No caso das exportações brasileiras, a NCM 6802.99.90 permite abrigar rochas silicáticas\ncomo gabros, sienitos, gnaisses, migmatitos, serpentinitos, pedra-sabão etc."
+  },
+  {
+   "medida": "Reenquadramento de produtos (p.ex. pedra-sabão) na NCM 6802.99.90",
+   "afirmacao": "Muitas outras rochas e produtos, inclusive de pedra-sabão hoje em 6802.29.00, poderiam ser abrigados na 6802.99.90, mitigando o impacto da tarifa.",
+   "trecho": "muitas outras rochas e produtos,\ninclusive de pedra-sabão, poderiam ser também abrigadas na NCM 6802.99.90, mitigando"
+  }
+ ],
+ "precos": [],
+ "desafios": [
+  {
+   "afirmacao": "Exportadores de granitos verdadeiros, carbonáticas, ardósias e rochas de processamento simples, sobretudo pequenas empresas e APLs, seguem expostos à tarifa, tendo os EUA como 1º ou 2º destino.",
+   "trecho": "Os EUA são o primeiro e segundo principal destino das exportações\nbrasileiras nessas NCMs, cujas atividades produtivas são principalmente desenvolvidas\npor pequenas empresas e em Arranjos Produtivos Locais (APLs) de grande alcance\nsocioeconômico."
+  }
+ ],
+ "pleitos": [
+  {
+   "afirmacao": "Realizar painel de discussão entre empresários, entidades, pesquisadores, agentes aduaneiros e governo para ratificar e publicizar as proposições.",
+   "trecho": "recomenda-se efetuar um painel de discussão entre empresários, entidades\nsetoriais, pesquisadores, agentes aduaneiros e órgãos governamentais ligados ao\ncomércio exterior"
+  },
+  {
+   "afirmacao": "Avaliar o que promover em favor dos exportadores de granitos, carbonáticas, ardósias e rochas de processamento simples.",
+   "trecho": "Resta avaliar mais detidamente o que se poderia promover em favor dos exportadores de\ngranitos verdadeiros (6802.93.90 e 6802.23.00)"
+  }
+ ],
+ "observacao": "Tabela por NCM referida no texto não foi extraída pelo pdftotext (só a legenda)."
+}

@@ -1,0 +1,52 @@
+{
+  "id": "Informe-11_2025-Exportacoes-Novembro_3a0a8c",
+  "arquivo": "Informe-11_2025-Exportacoes-Novembro.pdf",
+  "emissor": "Abirochas",
+  "titulo": "Balanço das Exportações e Importações Brasileiras de Rochas Ornamentais no Período Janeiro-Novembro de 2025 (Informe 11/2025)",
+  "data_publicacao": "2025-12",
+  "periodo_coberto": "jan-nov/2025",
+  "tipo": "conjuntura",
+  "tema": "Balanço das exportações e importações de rochas ornamentais em jan-nov/2025: desempenho das chapas de quartzito, concentração em EUA (mesmo com sobretarifa) e China, concentração do beneficiamento no ES, portos e importações via Rondônia.",
+  "elos": ["E2", "E3", "E5", "E6", "E10"],
+  "indicadores": [
+    {"nome": "Participação e preço médio da NCM 6802.99.90 (chapas beneficiadas de quartzitos maciços)", "valor": "47% do total; US$ 632 milhões (+30%); US$ 2.371/t", "unidade": "% / US$ / US$/t", "periodo": "jan-nov/2025", "trecho": "respondeu por 47% do total das exportações\nbrasileiras no segmento. O faturamento registrado foi de US$ 632 milhões, valor 30%\nsuperior ao obtido em 2024. O preço médio dessas exportações foi de US$ 2.371 por\ntonelada."},
+    {"nome": "Preço médio de chapas beneficiadas vs blocos/chapas brutas de quartzito", "valor": "US$ 2.380/t vs US$ 574/t (quatro vezes menor)", "unidade": "US$/t", "periodo": "jan-nov/2025", "trecho": "os produtos\nenquadrados na NCM 2506.20.00 foram negociados, em média, por US$ 574/t, ou seja, um\nvalor quatro vezes menor."},
+    {"nome": "Concentração dos dez maiores importadores no faturamento", "valor": "91", "unidade": "%", "periodo": "jan-nov/2025", "trecho": "os dez maiores importadores de rochas\nbrasileiras em valor foram responsáveis por 91% do faturamento total do setor."},
+    {"nome": "Participação dos EUA na receita", "valor": "55% (US$ 735 milhões)", "unidade": "%", "periodo": "jan-nov/2025", "trecho": "respondendo\npor 55% da receita obtida no período, o que equivale a US$ 735 milhões."},
+    {"nome": "Participação da China no volume exportado", "valor": "43% (802 mil t)", "unidade": "% / t", "periodo": "jan-nov/2025", "trecho": "a China desponta como o maior importador, representando 43%\ndas exportações brasileiras, com um total de 802 mil toneladas."},
+    {"nome": "Participação do Espírito Santo nas exportações", "valor": "79% do valor (US$ 1.063,3 milhões) e 70% do volume (1.319,9 mil t)", "unidade": "%", "periodo": "jan-nov/2025", "trecho": "O Espírito Santo lidera de forma expressiva,\nrespondendo por 79% do valor total das exportações (US$ 1.063,3 milhões) e por 70% do\nvolume exportado (1.319,9 mil toneladas)"},
+    {"nome": "Participação dos seis principais portos nas exportações", "valor": "98", "unidade": "%", "periodo": "jan-nov/2025", "trecho": "Esses seis portos são responsáveis por 98%\ndas exportações de rochas ornamentais, tanto em volume quanto em valor."},
+    {"nome": "Número de recintos aduaneiros utilizados nas exportações", "valor": "30 recintos em 15 UF", "unidade": "recintos", "periodo": "nov/2025", "trecho": "realizadas a partir de um total de 30 recintos aduaneiros espalhados pelo país."},
+    {"nome": "Importações médias mensais de Rondônia", "valor": "3,2 mil t/mês; US$ 1,4 milhão", "unidade": "t / US$", "periodo": "2025", "trecho": "registrou uma média mensal de 3,2 mil toneladas importadas, totalizando US$ 1,4 milhão\nem valores."},
+    {"nome": "Número de países de destino", "valor": "128", "unidade": "países", "periodo": "outubro/2025 (conforme texto)", "trecho": "O Brasil realizou exportações\nde rochas ornamentais para 128 países no mês de outubro."}
+  ],
+  "explicacoes": [
+    {"fenomeno": "Diferença de preço entre chapas beneficiadas e blocos brutos de quartzito", "causa_atribuida": "Valorização do produto beneficiado em relação ao bruto no mercado internacional", "trecho": "Isso evidencia a valorização do produto beneﬁciado em relação\nao bruto no mercado internacional."},
+    {"fenomeno": "EUA mantiveram-se como maior mercado em valor", "causa_atribuida": "Importância estratégica do mercado americano, apesar da sobretarifação vigente desde agosto", "trecho": "Mesmo diante da\nsobretarifação vigente desde agosto, o país manteve-se como o maior mercado em termos\nde valor"},
+    {"fenomeno": "Concentração das exportações no Espírito Santo, inclusive de quartzitos maciços de outros estados", "causa_atribuida": "O ES concentra o maior parque nacional de beneficiamento e processa materiais de MG, BA, CE e outros estados", "trecho": "O Espírito Santo se diferencia dos demais estados por concentrar o maior parque nacional\nde beneﬁciamento de rochas ornamentais."},
+    {"fenomeno": "Rondônia como maior estado importador, superando São Paulo", "causa_atribuida": "Regimes aduaneiros especiais federais e regimes especiais de ICMS, como a Área de Livre Comércio de Guajará-Mirim", "trecho": "Essa combinação de benefícios locais e federais estimula\na movimentação comercial"},
+    {"fenomeno": "Porto de Vitória com maior volume e menor valor; RJ e Santos com produtos de maior valor", "causa_atribuida": "Chapas acabadas saem principalmente por RJ e Santos e blocos por Vitória", "trecho": "Os produtos com maior valor agregado, como as chapas acabadas, são exportados\nprincipalmente pelos portos do Rio de Janeiro e Santos."},
+    {"fenomeno": "Queda de 17% no volume exportado em novembro com leve alta no valor", "causa_atribuida": "Não explicitada pelo emissor (apenas descrita como mínima elevação)", "trecho": "as exportações brasileiras de rochas ornamentais registraram uma mínima elevação em\ncomparação ao mesmo mês de 2024."}
+  ],
+  "mercados": [
+    {"pais": "Estados Unidos", "afirmacao": "Principal destino em valor (55%), mesmo com sobretarifação desde agosto.", "trecho": "Os Estados Unidos lideraram como principal destino das rochas brasileiras"},
+    {"pais": "China", "afirmacao": "Maior importador em volume (43%, 802 mil t), parceiro relevante embora o faturamento seja maior nos EUA.", "trecho": "a China possui destaque\nsigniﬁcativo no consumo em toneladas"},
+    {"pais": "Mercado internacional", "afirmacao": "Concentração em poucos países, fundamental para o desempenho das exportações.", "trecho": "Este dado\nevidencia a concentração do mercado internacional em poucos países"},
+    {"pais": "Turquia e México", "afirmacao": "Principais fornecedores de rochas ao Brasil; importações concentradas em travertinos e mármores.", "trecho": "Essas classiﬁcações reﬂetem a predominância de travertinos e mármores no perﬁl das\nimportações brasileiras de rochas naturais ao longo de 2025."}
+  ],
+  "politicas": [
+    {"medida": "Sobretarifação dos EUA (desde agosto de 2025)", "afirmacao": "Apesar dela, os EUA seguiram como maior mercado em valor.", "trecho": "Mesmo diante da\nsobretarifação vigente desde agosto"},
+    {"medida": "Regimes especiais em Rondônia (Drawback, Admissão Temporária, Entreposto Aduaneiro, ICMS, ALC de Guajará-Mirim)", "afirmacao": "Combinação de benefícios locais e federais estimula importações pelo estado.", "trecho": "Em Rondônia, além dos regimes aduaneiros especiais federais, como Drawback, Admissão\nTemporária e Entreposto Aduaneiro, estão presentes regimes especiais de tributação do\nICMS concedidos pelo próprio estado."},
+    {"medida": "Verticalização da produção em MG e BA", "afirmacao": "Processar localmente distribuiria melhor as exportações, ampliando arrecadação e benefícios socioeconômicos.", "trecho": "Caso os estados de Minas Gerais e Bahia processassem os materiais extraídos em seus\npróprios territórios, haveria uma distribuição mais equilibrada das exportações entre as\nregiões."}
+  ],
+  "precos": [
+    {"produto": "Chapas beneficiadas de quartzito (6802.99.90) vs brutas (2506.20.00)", "afirmacao": "Preço médio de US$ 2.380/t contra US$ 574/t, quatro vezes menor.", "trecho": "Enquanto as\nchapas beneﬁciadas (NCM 6802.99.90) atingiram preço médio de US$ 2.380/t"}
+  ],
+  "desafios": [
+    {"afirmacao": "Concentração de receitas do setor em outros estados (ES) em detrimento de MG e BA, que não processam localmente.", "trecho": "a verticalização da produção local\ncontribuiria para reduzir a concentração de receitas em outros estados e fortaleceria a\neconomia regional."}
+  ],
+  "pleitos": [
+    {"afirmacao": "Verticalização (beneficiamento local) em Minas Gerais e Bahia para maior arrecadação e benefícios socioeconômicos.", "trecho": "Essa mudança poderia proporcionar aos dois estados uma relevância setorial\nampliada, reﬂetindo-se em maior arrecadação tributária e em benefícios\nsocioeconômicos mais expressivos."}
+  ],
+  "observacao": "O subtítulo interno diz 'Janeiro-Dezembro de 2025', mas o conteúdo refere-se a janeiro-novembro; algumas menções a 'outubro' parecem resquício de edição anterior."
+}
