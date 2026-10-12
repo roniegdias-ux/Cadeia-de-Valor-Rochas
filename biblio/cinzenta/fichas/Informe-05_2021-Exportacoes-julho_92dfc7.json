@@ -1,0 +1,143 @@
+{
+ "id": "Informe-05_2021-Exportacoes-julho_92dfc7",
+ "arquivo": "Informe-05_2021-Exportacoes-julho.pdf",
+ "emissor": "Abirochas",
+ "titulo": "Balanço das Exportações e Importações Brasileiras de Rochas Ornamentais no Período Janeiro-Julho de 2021 (Informe 05/2021)",
+ "data_publicacao": "2021-08",
+ "periodo_coberto": "jan-jul/2021",
+ "tipo": "conjuntura",
+ "tema": "Balanço de jan-jul/2021: forte alta das exportações puxada pelos EUA, preços médios em alta, gargalos portuários e de contêineres no ES e recuperação das importações.",
+ "elos": [
+  "E5",
+  "E6",
+  "E7",
+  "E10"
+ ],
+ "indicadores": [
+  {
+   "nome": "Aumento do preço médio em dólar dos produtos exportados",
+   "valor": "+21%",
+   "unidade": "%",
+   "periodo": "jan-jul/2021",
+   "trecho": "está excepcionalmente ocorrendo aumento do preço médio em US dólar (+21%), dos produtos exportados."
+  },
+  {
+   "nome": "Participação do Espírito Santo no faturamento",
+   "valor": "81,3%",
+   "unidade": "%",
+   "periodo": "jan-jul/2021",
+   "trecho": "O estado do Espírito Santo respondeu por 81,3% do faturamento dessas exportações no período considerado"
+  },
+  {
+   "nome": "Participação dos EUA no faturamento",
+   "valor": "61,2%",
+   "unidade": "%",
+   "periodo": "jan-jul/2021",
+   "trecho": "tendo os EUA respondido por 61,2% do total do faturamento brasileiro."
+  },
+  {
+   "nome": "Preço médio por porto de embarque",
+   "valor": "Santos US$ 740/t; Rio US$ 670/t; Vitória US$ 260/t",
+   "unidade": "US$/t",
+   "periodo": "jan-jul/2021",
+   "trecho": "Em valor, o porto de Santos representou embarques de US$ 314,6 milhões, com preço médio de US$ 740/t; o do Rio de Janeiro, US$ 201,9 milhões (US$ 670/t); e o de Vitória, US$ 139,6 milhões (US$ 260/t)."
+  },
+  {
+   "nome": "Exportações potencialmente perdidas por gargalos no ES",
+   "valor": "30%",
+   "unidade": "%",
+   "periodo": "2021",
+   "trecho": "Analistas referem que, não fossem as deficiências portuárias e a falta de containers para chapas, no ES, as exportações poderiam ser 30% maiores que as já registradas em 2021."
+  },
+  {
+   "nome": "Importações de artificiais",
+   "valor": "60,1 mil t (+59,1%)",
+   "unidade": "t",
+   "periodo": "jan-jul/2021",
+   "trecho": "As importações de materiais artificiais somaram 60,1 mil t no período janeiro-julho/2021, com variação positiva de 59,1% frente ao mesmo período de 2020."
+  },
+  {
+   "nome": "Participação da China nas importações de artificiais",
+   "valor": "cerca de 96% do volume",
+   "unidade": "%",
+   "periodo": "jan-jul/2021",
+   "trecho": "Cerca de 96% do volume físico das importações de materiais artificiais são provenientes da China, seguindo-se a Espanha com 3,3%."
+  },
+  {
+   "nome": "Faturamento de julho vs. investimentos do convênio Apex/ABIROCHAS",
+   "valor": "3,1 vezes",
+   "unidade": "razão",
+   "periodo": "2000-2020 / jul-2021",
+   "trecho": "apenas o faturamento das exportações no mês de julho, foi 3,1 vezes maior do que o total de investimentos do convênio Apex/ABIROCHAS durante os 20 anos de sua vigência (2000-2020)."
+  }
+ ],
+ "explicacoes": [
+  {
+   "fenomeno": "Queda das exportações no 1º semestre de 2020",
+   "causa_atribuida": "Efeitos negativos da pandemia sobre a economia mundial",
+   "trecho": "A queda observada no 1º semestre de 2020, atrelada aos efeitos negativos da pandemia sobre a economia mundial, foi compensada já no 2º semestre do ano passado"
+  },
+  {
+   "fenomeno": "Vigor das exportações em 2021",
+   "causa_atribuida": "Mercado dos EUA",
+   "trecho": "mas as exportações estão evidenciando redobrado vigor em 2021, sobretudo no mercado dos EUA."
+  },
+  {
+   "fenomeno": "Exportações abaixo do potencial (até 30% menores)",
+   "causa_atribuida": "Deficiências portuárias e falta de contêineres para chapas no ES",
+   "trecho": "não fossem as deficiências portuárias e a falta de containers para chapas, no ES, as exportações poderiam ser 30% maiores"
+  },
+  {
+   "fenomeno": "Alta do preço médio em dólar mesmo com câmbio favorável",
+   "causa_atribuida": "Maior participação de quartzitos, mármores e pedra-sabão na pauta",
+   "trecho": "Já é muito significativa a participação de chapas e blocos de quartzito, chapas de mármore e produtos de pedra-sabão nas exportações, somando-se às chapas e blocos de granito e aos produtos de ardósia."
+  },
+  {
+   "fenomeno": "Crescimento das importações de naturais e artificiais",
+   "causa_atribuida": "Recuperação do mercado da construção civil",
+   "trecho": "As importações brasileiras também já apontam uma clara recuperação do mercado da construção civil, tanto para materiais artificiais quanto naturais."
+  }
+ ],
+ "mercados": [
+  {
+   "pais": "EUA, China, Itália, México, Reino Unido",
+   "afirmacao": "Principais destinos; só 27 de 121 países acima de US$ 1 milhão",
+   "trecho": "De um total de 121 destinos, apenas para 27 países registrou-se faturamento individual superior a US$ 1 milhão e, apenas para cinco destes, faturamento superior a US$ 10 milhões."
+  },
+  {
+   "pais": "Turquia, Indonésia, Grécia, Egito",
+   "afirmacao": "Saldo negativo da balança de naturais com esses países",
+   "trecho": "O saldo da balança comercial brasileira de materiais naturais é negativo com Turquia, Indonésia, Grécia e Egito, nesta ordem."
+  },
+  {
+   "pais": "Indonésia",
+   "afirmacao": "Rochas vulcânicas importadas para piscinas (pedra Hijau/Green Bali)",
+   "trecho": "rochas vulcânicas provenientes da Indonésia e utilizados sobretudo para revestimentos de piscinas (pedra Hijau ou Green Bali)."
+  }
+ ],
+ "politicas": [],
+ "precos": [
+  {
+   "produto": "Importados naturais e artificiais",
+   "afirmacao": "Preço médio declinante; artificiais US$ 570,4/t vs. naturais US$ 488,0/t",
+   "trecho": "Esse preço médio permanece superior para os artificiais (US$ 570,4/t) diante dos naturais (US$ 488,0/t)."
+  },
+  {
+   "produto": "Exportações de rochas (média)",
+   "afirmacao": "Alta de 21% do preço médio em dólar mesmo com câmbio favorável",
+   "trecho": "Mesmo com o câmbio muito favorável, está excepcionalmente ocorrendo aumento do preço médio em US dólar (+21%)"
+  }
+ ],
+ "desafios": [
+  {
+   "afirmacao": "Deficiências portuárias e falta de contêineres no ES",
+   "trecho": "não fossem as deficiências portuárias e a falta de containers para chapas, no ES"
+  },
+  {
+   "afirmacao": "Importações de artificiais já o dobro das de naturais",
+   "trecho": "O total das importações de materiais artificiais já é, assim, o dobro daquelas de materiais naturais."
+  }
+ ],
+ "pleitos": [],
+ "observacao": null
+}

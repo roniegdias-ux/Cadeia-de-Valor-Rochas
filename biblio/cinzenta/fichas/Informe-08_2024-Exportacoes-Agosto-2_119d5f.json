@@ -1,0 +1,88 @@
+{
+ "id": "Informe-08_2024-Exportacoes-Agosto-2_119d5f",
+ "arquivo": "Informe-08_2024-Exportacoes-Agosto-2.pdf",
+ "emissor": "Abirochas",
+ "titulo": "Síntese das exportações brasileiras de rochas ornamentais e de revestimento – janeiro a agosto de 2024 (Informe 08/2024)",
+ "data_publicacao": "2024-09",
+ "periodo_coberto": "jan-ago/2024",
+ "tipo": "conjuntura",
+ "tema": "Síntese das exportações e importações de rochas em jan-ago/2024, com recuo esperado no fim do ano, queda do preço médio e efeito das importações de artificiais sobre o mercado interno.",
+ "elos": [
+  "E6",
+  "E7"
+ ],
+ "indicadores": [
+  {
+   "nome": "Preço médio das exportações",
+   "valor": "577,5 (-4,9%)",
+   "unidade": "US$/t",
+   "periodo": "jan-ago/2024",
+   "trecho": "O preço médio das exportações, da mesma forma, recuou 4,9%,\npassando de US$ 607/t em 2023 para US$ 577,5/t em 2024."
+  },
+  {
+   "nome": "Importações de materiais rochosos naturais",
+   "valor": "US$ 23,5 milhões e 43,5 mil t (+24,3% e +13%)",
+   "unidade": "US$ / t",
+   "periodo": "jan-ago/2024",
+   "trecho": "registraram elevação\nde 24,3% em valor e 13% em volume �sico no período janeiro-agosto"
+  },
+  {
+   "nome": "Importações de materiais rochosos artificiais",
+   "valor": "US$ 33,2 milhões (-12,3%) e 56,1 mil t (-11,0%)",
+   "unidade": "US$ / t",
+   "periodo": "jan-ago/2024",
+   "trecho": "As importações de materiais rochosos ar�ﬁciais seguiram em queda, somando US$ 33,2\nmilhões (-12,3%) e 56,1 mil t (-11,0%)"
+  },
+  {
+   "nome": "Número de países de destino",
+   "valor": "116",
+   "unidade": "países",
+   "periodo": "jan-ago/2024",
+   "trecho": "Exportações para 116 países. Fonte dos dados: Comex Stat"
+  },
+  {
+   "nome": "Unidades da Receita Federal com exportações",
+   "valor": "29",
+   "unidade": "unidades",
+   "periodo": "jan-ago/2024",
+   "trecho": "Exportações realizadas através de 29 unidades da Receita Federal."
+  }
+ ],
+ "explicacoes": [
+  {
+   "fenomeno": "Faturamento das exportações não se eleva",
+   "causa_atribuida": "Exportações calcadas em chapas e blocos, mesmo com agregação de quartzitos maciços",
+   "trecho": "Exportações calcadas em chapas e blocos, mesmo com expressiva agregação de\n                 quartzitos maciços, não têm permi�do a elevação do faturamento"
+  },
+  {
+   "fenomeno": "Prejuízo ao mercado interno das rochas naturais comuns",
+   "causa_atribuida": "Importações de materiais rochosos artificiais, mesmo em declínio",
+   "trecho": "Mesmo em declínio, as importações de materiais rochosos ar�ﬁciais têm\n                 prejudicado o mercado interno dos materiais rochosos naturais mais comuns."
+  }
+ ],
+ "mercados": [],
+ "politicas": [],
+ "precos": [
+  {
+   "produto": "Rochas ornamentais exportadas",
+   "afirmacao": "Preço médio recuou 4,9% para US$ 577,5/t",
+   "trecho": "O preço médio das exportações, da mesma forma, recuou 4,9%"
+  }
+ ],
+ "desafios": [
+  {
+   "afirmacao": "Recuo esperado das exportações deve se acentuar até o fim de 2024",
+   "trecho": "apontando um recuo já esperado e que\ndeverá acentuar-se ate o ﬁnal do ano em curso."
+  },
+  {
+   "afirmacao": "Todos os produtos, exceto chapas de quartzito e blocos de granito e quartzito, recuaram",
+   "trecho": "Com exceção das chapas de quartzito e dos blocos de granitos e quartzitos, todos os\ndemais produtos exportados evidenciaram recuo de faturamento e volume �sico"
+  },
+  {
+   "afirmacao": "Importações de artificiais permanecem acima das de naturais",
+   "trecho": "permanecendo, no entanto, acima daquelas de\nmateriais naturais."
+  }
+ ],
+ "pleitos": [],
+ "observacao": "Texto com glifos corrompidos (ligaduras viraram U+FFFD); documento curto, majoritariamente gráficos."
+}

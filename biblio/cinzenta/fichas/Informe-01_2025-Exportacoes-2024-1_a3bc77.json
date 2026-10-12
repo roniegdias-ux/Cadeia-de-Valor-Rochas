@@ -1,0 +1,224 @@
+{
+  "id": "Informe-01_2025-Exportacoes-2024-1_a3bc77",
+  "arquivo": "Informe-01_2025-Exportacoes-2024-1.pdf",
+  "emissor": "Abirochas",
+  "titulo": "Balanço do setor brasileiro de rochas ornamentais e de revestimento em 2024",
+  "data_publicacao": "2025-03",
+  "periodo_coberto": "2024",
+  "tipo": "conjuntura",
+  "tema": "Balanço anual de 2024: exportações de US$ 1,26 bilhão estimuladas pela antecipação de compras dos EUA ante tarifas de Trump, avanço de quartzitos, concentração no ES, importações de artificiais chinesas e riscos tarifários.",
+  "elos": ["E6", "E1", "E2", "E7", "E10"],
+  "indicadores": [
+    {
+      "nome": "Faturamento das exportações em reais",
+      "valor": "6,7 bilhões em 2024 (7,2 bilhões em 2021)",
+      "unidade": "R$",
+      "periodo": "1998-2024",
+      "trecho": "em reais essas exportações variaram de 244 milhões para 6,7 bilhões no mesmo período,\n depois de alcançar 7,2 bilhões em 2021."
+    },
+    {
+      "nome": "Preço médio das exportações",
+      "valor": "612,3 (vs 610,4 em 2023)",
+      "unidade": "US$/t",
+      "periodo": "2024",
+      "trecho": "O preço médio dessas exportações teve variação positiva de 0,31%, passando de\nUS$ 610,4/t em 2023 para US$ 612,3/t em 2024."
+    },
+    {
+      "nome": "Participação das rochas processadas no volume exportado",
+      "valor": "46,15 (vs 53,20 em 2023)",
+      "unidade": "%",
+      "periodo": "2024",
+      "trecho": "A participação de rochas processadas no total do\nvolume físico das exportações recuou de 53,20% em 2023 para 46,15% em 2024."
+    },
+    {
+      "nome": "Preço médio das chapas de quartzito (6802.99.90)",
+      "valor": "2.304,5",
+      "unidade": "US$/t",
+      "periodo": "2024",
+      "trecho": "posição 6802.99.90, cujo preço médio (US$ 2.304,5/t) foi de longe o maior entre\ntodos os produtos exportados."
+    },
+    {
+      "nome": "Participação de EUA e China no faturamento e volume exportados",
+      "valor": "73,7% do faturamento; 75,3% do volume",
+      "unidade": "%",
+      "periodo": "2024",
+      "trecho": "Somadas, as vendas para esses dois países\nrepresentaram 73,7% do faturamento e 75,3% do volume físico das exportações\nbrasileiras em 2024."
+    },
+    {
+      "nome": "Participação dos quartzitos maciços (chapas e blocos) nas exportações",
+      "valor": "48% (US$ 600 milhões)",
+      "unidade": "%; US$",
+      "periodo": "2024",
+      "trecho": "às chapas e blocos de quartzitos maciços, que já representaram 48% (US$ 600\nmilhões) do total das exportações de 2024."
+    },
+    {
+      "nome": "Participação do Espírito Santo no faturamento exportado",
+      "valor": "US$ 1.032,6 milhões; 82,2%",
+      "unidade": "US$; %",
+      "periodo": "2024",
+      "trecho": "O Espírito Santo exportou US$ 1.032,6 milhões, correspondentes a 82,2% do\ntotal do faturamento das exportações e concentrando a quase totalidade das\natividades de beneﬁciamento primário (serragem de chapas) do Brasil."
+    },
+    {
+      "nome": "Parcela das exportações capixabas com rochas extraídas em outros estados",
+      "valor": "pelo menos 80",
+      "unidade": "%",
+      "periodo": "2024",
+      "trecho": "Estima-se que pelo menos 80% das atuais exportações capixabas envolvam rochas\nextraídas no norte-nordeste de Minas Gerais, na Bahia e em outros estados da\nregião nordeste do brasil"
+    },
+    {
+      "nome": "Importações de artificiais aglomerados (6810.19.00 e 6810.99.00)",
+      "valor": "US$ 51,8 milhões e 89,2 mil t; preço médio 580,9 US$/t",
+      "unidade": "US$; t; US$/t",
+      "periodo": "2024",
+      "trecho": "essas importações somaram US$ 51,8 milhões e 89,2 mil t em 2024,\ncom queda de respectivamente 9% e 4,8% frente a 2023."
+    },
+    {
+      "nome": "Preço médio das importações de artificiais: China vs Espanha",
+      "valor": "570 (China) vs 1.490 (Espanha)",
+      "unidade": "US$/t",
+      "periodo": "2024",
+      "trecho": "O preço médio da Espanha foi de US$\n1.490/t, enquanto o da China apenas US$ 570/t."
+    }
+  ],
+  "explicacoes": [
+    {
+      "fenomeno": "Alta de 12,9% nas exportações em 2024, revertendo a queda desde 2021",
+      "causa_atribuida": "Antecipação de compras dos EUA por temor de elevação de tarifas pelo novo governo Trump",
+      "trecho": "O desempenho de 2024 foi estimulado\npela antecipação de compras dos EUA, em função do temor da elevação de tarifas\nque deverá ser imposta pelo novo governo Trump"
+    },
+    {
+      "fenomeno": "Crescimento do faturamento exportado em reais até 2021",
+      "causa_atribuida": "Valorização do dólar (taxa de câmbio), que subiu a partir de 2018 e atingiu R$ 5,40 em 2021",
+      "trecho": "Observar a importância da valorização da taxa de câmbio do US dólar, que se\n elevou consistentemente a partir de 2018 e atingiu R$ 5,40 em 2021"
+    },
+    {
+      "fenomeno": "Estabilidade do preço médio geral das exportações",
+      "causa_atribuida": "Alta do preço das processadas compensada pela queda do preço das brutas carbonáticas e silicáticas",
+      "trecho": "O\npreço médio dos produtos exportados em 2023 e 2024 foi assim equilibrado pelo\nincremento do preço médio das rochas processadas (+14,59%)"
+    },
+    {
+      "fenomeno": "Aumento do faturamento exportado para os EUA",
+      "causa_atribuida": "Antecipação de compras por importadores frente à tarifação anunciada",
+      "trecho": "O incremento dos EUA foi atrelado à\nantecipação de compras por seus importadores, frente à perspectiva de tarifação\nanunciada pelo novo governo."
+    },
+    {
+      "fenomeno": "Aumento do volume exportado para a China",
+      "causa_atribuida": "Demanda por rochas exóticas brasileiras, especialmente quartzitos, para o mercado de alto padrão chinês",
+      "trecho": "O incremento da China traduziu o aumento da\ndemanda por rochas exóticas brasileiras, especialmente quartzitos, para o\nmercado de alto padrão do país."
+    },
+    {
+      "fenomeno": "Preço médio baixo para a China e alto para os EUA",
+      "causa_atribuida": "Para os EUA são exportadas essencialmente chapas; para a China, blocos",
+      "trecho": "visto que\npara os EUA são essencialmente exportadas chapas e, para a China, blocos"
+    },
+    {
+      "fenomeno": "Preço médio elevado das exportações para Canadá, Austrália, Israel etc.",
+      "causa_atribuida": "Chapas e blocos de quartzitos maciços",
+      "trecho": "Para\nquase todos esses países, o preço médio elevado dos produtos brasileiros é devido\nàs chapas e blocos de quartzitos maciços"
+    },
+    {
+      "fenomeno": "Ampliação do faturamento apesar da redução do volume físico",
+      "causa_atribuida": "Aumento da participação de rochas processadas (chapas) de maior valor agregado",
+      "trecho": "Destaca-se que o aumento da participação de rochas processadas (chapas) com\nmaior valor agregado, determinou ampliação do faturamento das exportações,\napesar da redução do seu volume físico."
+    },
+    {
+      "fenomeno": "Destaque de Paraná e Rio de Janeiro entre os exportadores",
+      "causa_atribuida": "Mármores extraídos e beneficiados no PR; rochas processadas semiacabadas e acabadas lavradas no RJ",
+      "trecho": "Pode-se\ntambém destacar a presença do Paraná, 7º maior exportador brasileiro, pela\ncomercialização de mármores extraídos e beneﬁciados no próprio estado"
+    },
+    {
+      "fenomeno": "Maiores preços médios das importações da Itália e da China",
+      "causa_atribuida": "Maior valor agregado italiano e predominância de produtos acabados nas exportações chinesas ao Brasil",
+      "trecho": "destaque da Itália diz respeito tanto ao maior valor agregado de suas matérias-\nprimas, quanto dos seus produtos industrializados."
+    }
+  ],
+  "mercados": [
+    {
+      "pais": "EUA",
+      "afirmacao": "Forte correlação entre exportações para os EUA e o total; Brasil é o principal fornecedor de processadas aos EUA, quase superado pelos acabados chineses.",
+      "trecho": "Com suas chapas, o Brasil\né o principal fornecedor mundial de rochas processadas para os EUA, mas já quase\nsuperado em faturamento pelos produtos acabados chineses."
+    },
+    {
+      "pais": "China",
+      "afirmacao": "Principal fornecedor de artificiais aglomerados ao Brasil (85,4 mil t; US$ 47,8 milhões).",
+      "trecho": "O principal fornecedor foi a China, com 85,4 mil t e US$ 47,8 milhões, seguida da\nEspanha com 1,6 mil t e US$ 2,4 milhões."
+    },
+    {
+      "pais": "Turquia, México, Espanha, Itália, China, Indonésia, Egito, Namíbia",
+      "afirmacao": "Principais fornecedores de rochas naturais ao Brasil em volume.",
+      "trecho": "Em volume físico, os principais países fornecedores para o Brasil incluíram Turquia\n(23,1 mil t, com mármores e travertinos), México (14,1 mil t, com travertinos)"
+    },
+    {
+      "pais": "Indonésia, México, Argentina",
+      "afirmacao": "Destaques nas importações: pedra Hijao (Indonésia), travertinos (México) e Travertino Andino (Argentina).",
+      "trecho": "Destaca-se nessas importações a pedra Hijao, procedente da Indonésia,\ne os travertinos, do México."
+    }
+  ],
+  "politicas": [
+    {
+      "medida": "Tarifas comerciais do governo Trump",
+      "afirmacao": "Intervenções criam cenário complexo e imprevisível; constrangimentos tarifários nos EUA são prováveis.",
+      "trecho": "as intervenções do governo Trump, nas relações\ninternacionais de comércio, criam um cenário complexo e imprevisível para o setor\nbrasileiro de rochas ornamentais."
+    },
+    {
+      "medida": "Programa de promoção de exportações para o APL do travertino Bege Bahia",
+      "afirmacao": "APL mereceria programa de promoção de exportações, que serviria de acesso a outras rochas baianas.",
+      "trecho": "Pelo menos o travertino\nBege Bahia, único APL do estado cujas empresas lograram desenvolver uma\nsigniﬁcativa base de industrialização e comercialização de suas matérias-primas,\nmereceria ser contemplado por um programa de promoção de exportações."
+    }
+  ],
+  "precos": [
+    {
+      "produto": "Rochas processadas vs brutas",
+      "afirmacao": "Processadas +14,59%; silicáticas brutas -9,46%; carbonáticas brutas -19,04%.",
+      "trecho": "O preço médio das rochas\nprocessadas registrou variação positiva de 14,59%, contra uma variação negativa\nde 9,46% das rochas silicáticas brutas e 19,04% das rochas carbonáticas brutas."
+    },
+    {
+      "produto": "Blocos de quartzito maciço",
+      "afirmacao": "Volume +23,44% e preço médio -11,06%, tendência desfavorável de oferta de matérias-primas estratégicas a competidores.",
+      "trecho": "ampliação do volume físico (+23,44%) e redução do preço médio (-11,06%) das\nexportações de blocos de quartzito maciço, caracterizando uma tendência\ndesfavorável de nossa oferta de matérias-primas estratégicas para competidores"
+    },
+    {
+      "produto": "Rochas naturais importadas",
+      "afirmacao": "Preço médio de US$ 533,8/t, +6,2%.",
+      "trecho": "Seu preço médio foi de\nUS$ 533,8/t, com incremento de 6,2% de 2023 para 2024."
+    },
+    {
+      "produto": "Artificiais importados",
+      "afirmacao": "Preço médio recuou 4,5%, de US$ 608/t para US$ 580,9/t.",
+      "trecho": "Seu preço médio também\nrecuou 4,5%, passando de US$ 608/t em 2023 para US$ 580,9/t em 2024."
+    }
+  ],
+  "desafios": [
+    {
+      "afirmacao": "A faixa de oscilação do faturamento desde 2006 não permite projetar ampliação significativa de exportações calcadas em blocos ou chapas.",
+      "trecho": "A\n faixa de oscilação do faturamento em US$, a partir de 2006, não permite projetar uma\n ampliação significativa de exportações calcadas em blocos e sequer em chapas"
+    },
+    {
+      "afirmacao": "Importações de artificiais por posições fiscais inespecíficas ficam subestimadas.",
+      "trecho": "Pela inespeciﬁcidade de\nsuas posições ﬁscais, esses produtos não permitem a devida diferenciação e\ncontabilização nas importações, que ﬁcam assim subestimadas."
+    },
+    {
+      "afirmacao": "Exportações de Bahia e Minas Gerais não fazem jus ao volume e diversidade de sua produção; Bahia no patamar de 1999.",
+      "trecho": "Especialmente nos casos da Bahia e Minas Gerais, as exportações não fazem jus\nao grande volume e diversidade da sua produção de rochas ornamentais."
+    },
+    {
+      "afirmacao": "Deslocamento da produção de rochas exóticas para o norte-nordeste de MG, Bahia e Nordeste; nova fronteira no Centro-Oeste.",
+      "trecho": "Outra importante fronteira de\nprodução é a região centro-oeste, destacada pela presença de mármores brancos\ndesenhados, com massa ﬁna."
+    },
+    {
+      "afirmacao": "Pressão de oferta chinesa, sobretudo de artificiais, no mercado interno, restringindo granitos comuns ou de batalha.",
+      "trecho": "pressão de oferta de produtos chineses, especialmente materiais artiﬁciais de\nrevestimento, no mercado interno, restringindo a produção e consumo dos granitos\nbrasileiros mais comuns ou de batalha."
+    },
+    {
+      "afirmacao": "Melhor perspectiva (remota) é ausência de tarifação e de recessão nos EUA.",
+      "trecho": "A melhor perspectiva, porém mais remota, é que não haja tarifação dos produtos\nbrasileiros do setor de rochas, nem recessão da economia dos EUA."
+    }
+  ],
+  "pleitos": [
+    {
+      "afirmacao": "Programa de promoção de exportações para empresas do travertino Bege Bahia, como porta para outras rochas baianas.",
+      "trecho": "Acredita-se que tal iniciativa serviria como acesso dessas empresas à produção e\ncomercialização de outras rochas baianas"
+    }
+  ],
+  "observacao": "A Tabela 1 ('A dimensão do setor brasileiro de rochas ornamentais', p. 7) e as Figuras 2 e 3 não aparecem no texto extraído (provavelmente imagens); dados de produção/empregos dessa tabela não puderam ser fichados."
+}

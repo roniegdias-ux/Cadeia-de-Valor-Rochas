@@ -1,0 +1,40 @@
+{
+  "id": "Informe-05_2024-Exportacoes-1_Semestre_fb7b1a",
+  "arquivo": "Informe-05_2024-Exportacoes-1_Semestre.pdf",
+  "emissor": "Abirochas",
+  "titulo": "Síntese das Exportações Brasileiras de Rochas Ornamentais e de Revestimento no 1º Semestre de 2024 (Informe 05/2024)",
+  "data_publicacao": "2024-07",
+  "periodo_coberto": "jan-jun/2024",
+  "tipo": "conjuntura",
+  "tema": "Síntese das exportações do 1º semestre de 2024 (+8,9%), destaque das chapas de quartzito e defesa de uma 'terceira onda exportadora' de produtos acabados.",
+  "elos": ["E3", "E6", "E7"],
+  "indicadores": [
+    {"nome": "Preço médio geral das exportações", "valor": "591,6 (599,5 em 2023; -1,3%)", "unidade": "US$/t", "periodo": "1º sem/2024", "trecho": "recuo de 1,3% no período, passando de US$ 599,5/t em 2023 para US$ 591,6/t em 2024."},
+    {"nome": "Participação das chapas de quartzito maciço (6802.99.90) no faturamento", "valor": "38,6 (US$ 230,4 milhões; +35,4%)", "unidade": "%", "periodo": "1º sem/2024", "trecho": "ﬁscal 6802.99.90, somando US$ 230,4 milhões e já representando 38,6% do total do faturamento das exportações."},
+    {"nome": "Preço médio das chapas de quartzito maciço", "valor": "2.273,50", "unidade": "US$/t", "periodo": "1º sem/2024", "trecho": "Esse preço médio foi de US$ 2.273,50/t, quase 4 vezes maior que o das chapas de granito"},
+    {"nome": "Teto histórico do faturamento anual de exportações", "valor": "1,3", "unidade": "US$ bilhão", "periodo": "2013-2024", "trecho": "O faturamento das exportações não ultrapassa o teto anual de US$ 1,3 bilhão desde 2013"},
+    {"nome": "Faturamento de junho", "valor": "95,5 (menor de 2024 e de junho desde 2021)", "unidade": "US$ milhões", "periodo": "jun/2024", "trecho": "O faturamento de junho (US$ 95,5 milhões) foi o menor de 2024 e o menor do mesmo mês desde 2021."},
+    {"nome": "Número de países de destino", "valor": "109", "unidade": "países", "periodo": "1º sem/2024", "trecho": "Exportações para 109 países. Fonte dos dados: Comex Stat"},
+    {"nome": "Número de estados exportadores", "valor": "18", "unidade": "UF", "periodo": "1º sem/2024", "trecho": "18 estados exportadores. Fonte dos dados: Comex Stat"}
+  ],
+  "explicacoes": [
+    {"fenomeno": "Estagnação do faturamento das exportações abaixo de US$ 1,3 bilhão desde 2013", "causa_atribuida": "Exportações calcadas em blocos e chapas, mesmo com a agregação das chapas de quartzito maciço", "trecho": "Isto reitera que exportações calcadas em blocos e chapas não têm permi�do incrementar o valor das exportações"},
+    {"fenomeno": "Persistência da estagnação do faturamento", "causa_atribuida": "Não implementação da terceira onda exportadora, de produtos acabados para obras", "trecho": "Tal realidade permanecerá enquanto não for implementada a terceira onda exportadora, de produtos acabados para o atendimento de obras."}
+  ],
+  "mercados": [
+    {"pais": "Grandes importadores mundiais", "afirmacao": "Exuberância e diversidade das rochas brasileiras já são bem conhecidas", "trecho": "Não basta promover a exuberância e diversidade de rochas brasileiras junto aos especiﬁcadores, pois isto já é bem"}
+  ],
+  "politicas": [],
+  "precos": [
+    {"produto": "Chapas de quartzito maciço versus pedra-sabão e mármore", "afirmacao": "Preço quase o dobro dos produtos de pedra-sabão e chapas de mármore", "trecho": "quase o dobro do preço médio dos produtos de pedra-sabão (posição 6802.29.00) e das chapas de mármore (6802.91.00)."},
+    {"produto": "Chapas de quartzito maciço", "afirmacao": "Incremento de 1,8% no preço médio", "trecho": "A variação do faturamento dessas chapas foi de +35,4%, com incremento de 1,8% de seu preço médio."}
+  ],
+  "desafios": [
+    {"afirmacao": "Desaceleração do crescimento e previsão de faturamento de 2024 inferior ao de 2023", "trecho": "Reitera-se que o faturamento de 2024 deverá ser inferior ao de 2023, repe�ndo a tendência de queda registrada desde 2021."},
+    {"afirmacao": "Incremento das exportações recuou de +23,8% no 1º trimestre para +8,9% no semestre", "trecho": "Frente a 2023, o incremento do valor das exportações recuou de +23,8% no 1º trimestre para +8,9% no 1º semestre de 2024."}
+  ],
+  "pleitos": [
+    {"afirmacao": "Promover a capacidade brasileira de exportar produtos acabados junto a empreiteiros de grandes obras no exterior", "trecho": "Agora é preciso promover e divulgar a capacidade brasileira de exportar produtos acabados, junto aos empreiteiros de grandes obras da construção civil imobiliária no mercado externo."}
+  ],
+  "observacao": "Texto com caracteres corrompidos ('�' no lugar de 'ti'); trechos copiados com esses caracteres."
+}

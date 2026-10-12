@@ -1,0 +1,49 @@
+{
+ "id": "OEA-APRESENTACAO-ES-CENTROROCHAS_de079b",
+ "arquivo": "OEA-APRESENTACAO-ES-CENTROROCHAS.pdf",
+ "emissor": "Centrorochas",
+ "titulo": "Programa Brasileiro de OEA - Segurança e Conformidade no Comércio Internacional",
+ "data_publicacao": "2020-11",
+ "periodo_coberto": null,
+ "tipo": "apresentacao",
+ "tema": "Apresentação de consultoria em webinar da Centrorochas sobre benefícios e etapas de certificação no programa Operador Econômico Autorizado (OEA) da Receita Federal.",
+ "elos": [
+  "E5",
+  "E6",
+  "E10"
+ ],
+ "indicadores": [],
+ "explicacoes": [],
+ "mercados": [],
+ "politicas": [
+  {
+   "medida": "Programa Brasileiro de Operador Econômico Autorizado (OEA)",
+   "afirmacao": "Benefícios como parametrização imediata de DU-e e menor seleção para conferência",
+   "trecho": "Parametrização imediata das declarações (DU-e). Reduzido percentual de seleção para canal de conferência"
+  },
+  {
+   "medida": "OEA - consulta de classificação fiscal",
+   "afirmacao": "Resposta em até 40 dias",
+   "trecho": "Resposta à consulta de classificação fiscal em até 40 dias"
+  },
+  {
+   "medida": "OEA - redução de custos",
+   "afirmacao": "Menor tempo de armazenagem reduz custo do item importado",
+   "trecho": "Redução de custo final do item importado devido ao menor tempo de armazenagem em áreas alfandegadas."
+  },
+  {
+   "medida": "OEA - agilidade",
+   "afirmacao": "Agilidade na liberação alfandegária e entrega das cargas",
+   "trecho": "Agilidade na liberação alfandegária e, consequentemente, na entrega das cargas nas unidades/clientes."
+  }
+ ],
+ "precos": [],
+ "desafios": [
+  {
+   "afirmacao": "Clientes de exportação já exigem habilitação OEA",
+   "trecho": "Alguns clientes de exportação já exigem a habilitação OEA."
+  }
+ ],
+ "pleitos": [],
+ "observacao": "Apresentação curta em slides (consultoria externa), genérica sobre o programa OEA, sem referência específica ao setor de rochas nem dados quantitativos."
+}
