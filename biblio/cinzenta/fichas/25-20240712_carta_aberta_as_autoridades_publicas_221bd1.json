@@ -1,0 +1,43 @@
+{
+  "id": "25-20240712_carta_aberta_as_autoridades_publicas_221bd1",
+  "arquivo": "25-20240712_carta_aberta_as_autoridades_publicas.pdf",
+  "emissor": "Centrorochas",
+  "titulo": "Carta Aberta às Autoridades Públicas: Poder Concedente, Agência Reguladora, Tribunal de Contas da União, Governo do Estado do Espírito Santo e Autoridade Portuária – Impacto no Desenvolvimento Socioeconômico do Espírito Santo por Déficit Logístico no Estado",
+  "data_publicacao": "2024-07",
+  "periodo_coberto": "2º sem/2023-jul/2024",
+  "tipo": "posicionamento",
+  "tema": "Carta conjunta Centrorochas e Centro do Comércio de Café de Vitória denunciando gargalos no terminal de contêineres do porto de Vitória e cobrando investimentos das autoridades.",
+  "elos": ["E5", "E6", "E10"],
+  "indicadores": [
+    {"nome": "Taxa de utilização do terminal de contêineres de Vitória", "valor": "155", "unidade": "% da capacidade natural", "periodo": "2024", "trecho": "a taxa de utilização do terminal de contêiner corresponde a 155% da sua capacidade natural"},
+    {"nome": "Posição do Brasil entre exportadores mundiais de rochas naturais", "valor": "5º", "unidade": "posição", "periodo": "não especificado", "trecho": "É sabido que o Brasil é o 5º maior exportador de rochas naturais do mundo."},
+    {"nome": "Receita de exportações e superávit do setor de rochas", "valor": "cerca de 1,2 bilhão (receita); mais de 1 bilhão (superávit)", "unidade": "US$/ano", "periodo": "anual", "trecho": "Com receitas de exportações que giram em torno de U$ 1,2 bilhão anuais para mais de 130 países, o segmento contribui com superávit da balança comercial do Brasil em mais de U$ 1 bilhão/ano."},
+    {"nome": "Composição das exportações de rochas", "valor": "23 blocos / 77 chapas", "unidade": "%", "periodo": "não especificado", "trecho": "brutos, que representa 23% do total, e em chapas beneficiadas, que representam 77% de toda exportação brasileira."},
+    {"nome": "Omissões de escala no Porto de Vitória/TVV", "valor": "3", "unidade": "embarcações", "periodo": "2024", "trecho": "Somente em 2024, já foram 3 omissões, ou seja, embarcações programadas para atracar no Porto de Vitória/TVV, que desistiram por conta do excessivo tempo de fila."}
+  ],
+  "explicacoes": [
+    {"fenomeno": "Agravamento dos problemas logísticos desde o 2º semestre de 2023", "causa_atribuida": "Gargalos do setor portuário capixaba, terminal de contêineres operando acima da capacidade", "trecho": "em razão dos gargalos que acometem o setor portuário Capixaba, o cenário que vem se observando, desde o segundo semestre de 2023, é de agravamento dos problemas logísticos"},
+    {"fenomeno": "Aumento do tempo de estadia, alteração de rotas e cancelamentos de embarques", "causa_atribuida": "Utilização do terminal de contêineres a 155% da capacidade natural", "trecho": "ocasionando o aumento no tempo de estadia das embarcações de contêineres, alteração de rotas de embarcações, cancelamentos de embarques, o que indica urgência de investimentos de expansão."},
+    {"fenomeno": "Filas de navios, escassez de contêineres, aumento exorbitante de custos e perda de competitividade das rochas e do café", "causa_atribuida": "Falta de ação efetiva para melhorar a capacidade portuária, especialmente no terminal de contêineres", "trecho": "tendo por consequência imediata a formação de filas de navios, a escassez de contêineres, a dificuldade de controle dos gates"},
+    {"fenomeno": "Diminuição ou inviabilização da competitividade de setores estratégicos", "causa_atribuida": "Aumento exorbitante de custos decorrente dos impasses logísticos portuários", "trecho": "resultam no aumento exorbitante de custos e na consequente diminuição, ou até mesmo inviabilização, da competitividade de setores econômicos estratégicos"},
+    {"fenomeno": "Descumprimento de contratos internacionais e consequências econômicas", "causa_atribuida": "Cadeias dependentes de embarque de contêineres sem atendimento por longos períodos", "trecho": "culminado no descumprimento de contratos internacionais já celebrados e, por conseguinte, na geração de desastrosas consequências econômicas para o setor produtivo capixaba."},
+    {"fenomeno": "Atrasos, filas de caminhões, multas e aumento de frete", "causa_atribuida": "Excessivo tempo de fila no Porto de Vitória/TVV", "trecho": "atrasos, reprogramações, aumentos do tempo de estadia de navios, além de filas de caminhões, multas no transporte rodoviário, aumentos de frete"}
+  ],
+  "mercados": [
+    {"pais": "Mundo", "afirmacao": "Exportações para mais de 130 países", "trecho": "Com receitas de exportações que giram em torno de U$ 1,2 bilhão anuais para mais de 130 países"}
+  ],
+  "politicas": [
+    {"medida": "Comitê COMEX/ES e gestão portuária", "afirmacao": "Apesar de reuniões no Comitê, nenhuma ação efetiva para melhorar a capacidade portuária", "trecho": "não se observa, na prática, a adoção de qualquer ação efetiva para a melhoria da capacidade de operações portuárias, em especial no terminal de contêineres."},
+    {"medida": "Modelo de gestão portuária", "afirmacao": "Portos eficientes exigem alianças público-privadas com responsabilidades delimitadas e desburocratizadas", "trecho": "se o desenho da sua gestão puder definir alianças público-privadas com responsabilidades bem delimitadas, desburocratizadas, ágeis e sustentáveis no exercício de suas funções."}
+  ],
+  "precos": [],
+  "desafios": [
+    {"afirmacao": "Cadeias de rochas e café dependem majoritariamente de contêineres", "trecho": "que se utilizam, majoritariamente, de contêineres para realizar a movimentação de suas mercadorias."},
+    {"afirmacao": "Exportadores sem atendimento por longos períodos", "trecho": "TOTALMENTE DESAMPARADAS E SEM ATENDIMENTO POR LONGOS PERÍODOS"}
+  ],
+  "pleitos": [
+    {"afirmacao": "Que as autoridades competentes adotem medidas para sanar os gargalos portuários capixabas", "trecho": "CLAMAM QUE AS AUTORIDADES COMPETENTES EMPREENDAM as devidas medidas para sanar os gargalos que acometem o setor portuário Capixaba"},
+    {"afirmacao": "Investimentos de expansão do terminal de contêineres", "trecho": "o que indica urgência de investimentos de expansão."}
+  ],
+  "observacao": "Documento conjunto com o Centro do Comércio de Café de Vitória; trechos sobre café não fichados como indicadores do setor de rochas."
+}

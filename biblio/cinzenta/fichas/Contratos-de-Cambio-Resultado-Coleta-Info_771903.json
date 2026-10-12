@@ -1,0 +1,95 @@
+{
+ "id": "Contratos-de-Cambio-Resultado-Coleta-Info_771903",
+ "arquivo": "Contratos-de-Cambio-Resultado-Coleta-Info.pdf",
+ "emissor": "Centrorochas",
+ "titulo": "Resultado de consulta junto às empresas exportadoras referente a contratos de antecipação de câmbio e contratação de seguro dos valores a receber pelas exportações realizadas",
+ "data_publicacao": null,
+ "periodo_coberto": "coleta de 17 a 20/ago/2020 (exportadores capixabas de 2019)",
+ "tipo": "pesquisa-com-empresas",
+ "tema": "Consulta a 77 empresas exportadoras capixabas de rochas sobre uso de antecipação de câmbio (ACC/ACE), seguro de crédito à exportação, limites de crédito e bancos utilizados.",
+ "elos": [
+  "E1",
+  "E2",
+  "E6",
+  "E10"
+ ],
+ "indicadores": [
+  {
+   "nome": "Respostas válidas e cobertura da amostra",
+   "valor": "77 respostas = 23,8% de 324 empresas capixabas exportadoras em 2019",
+   "unidade": "empresas / %",
+   "periodo": "2019-2020",
+   "trecho": "representam 23,8% do total de 324\n                            empresas capixabas que realizaram\n                            exportação de rochas ornamentais em\n                            2019"
+  },
+  {
+   "nome": "Empresas de pequeno e médio porte entre respondentes",
+   "valor": "82% (por funcionários); 92% (por faturamento)",
+   "unidade": "%",
+   "periodo": "2020",
+   "trecho": "percentual que se altera\n                            para 92% quando considerado o\n                            faturamento anual."
+  },
+  {
+   "nome": "Atividade principal dos respondentes",
+   "valor": "beneficiamento 40%, comercialização 36%, extração 22%",
+   "unidade": "%",
+   "periodo": "2020",
+   "trecho": "beneficiamento (40%), seguido pela\n                            comercialização (36%) e a extração (22%)."
+  },
+  {
+   "nome": "Empresas com seguro de crédito à exportação",
+   "valor": "31",
+   "unidade": "% das empresas",
+   "periodo": "2020",
+   "trecho": "de seguro dos créditos a receber das\n                            exportações, sendo que segmentando-se"
+  },
+  {
+   "nome": "Cobertura de seguro dos créditos por faixa de exportação",
+   "valor": "7% (até US$ 500 mil) a 45% (US$ 10-50 milhões)",
+   "unidade": "%",
+   "periodo": "2020",
+   "trecho": "indicação de que o percentual de cobertura\n                            dos créditos é de 7%, chegando a 45% para"
+  },
+  {
+   "nome": "Empresas que celebram contratos de antecipação de câmbio",
+   "valor": "58",
+   "unidade": "% das empresas",
+   "periodo": "2020",
+   "trecho": "antecipação     de    câmbio,  58%     das"
+  },
+  {
+   "nome": "Predomínio do ACC entre as modalidades de antecipação",
+   "valor": "62% (só ACC entre quem usa uma modalidade); 84% (ACC ou ACC+ACE)",
+   "unidade": "%",
+   "periodo": "2020",
+   "trecho": "por 62% das empresas que só adotam uma\n                            modalidade de contrato de antecipação,\n                            sendo que esta participação alcança 84%"
+  },
+  {
+   "nome": "Limite de crédito mais frequente para antecipação de câmbio",
+   "valor": "US$ 1 a 3 milhões (27% das empresas)",
+   "unidade": "US$ / %",
+   "periodo": "2020",
+   "trecho": "faixa de US$ 1 milhão a US$ 3 milhões\n                            destacou-se como sendo o limite de 27%"
+  },
+  {
+   "nome": "Prazo de liquidação mais usual dos contratos",
+   "valor": "360 dias (56%); 180 dias (42%)",
+   "unidade": "dias / %",
+   "periodo": "2020",
+   "trecho": "contratos é o de 360 dias, indicado por 56%"
+  },
+  {
+   "nome": "Empresas que operam antecipação com um único banco",
+   "valor": "31",
+   "unidade": "%",
+   "periodo": "2020",
+   "trecho": "um único banco foi de 31%. Operação com 2"
+  }
+ ],
+ "explicacoes": [],
+ "mercados": [],
+ "politicas": [],
+ "precos": [],
+ "desafios": [],
+ "pleitos": [],
+ "observacao": "Pesquisa descritiva de práticas financeiras (câmbio e seguro de crédito); não atribui causas a variações. Layout em duas colunas no pdftotext; páginas 10-28 (gráficos) sem texto extraível. Data de publicação não informada no texto (coleta em ago/2020; elaborado por Sindirochas e Centrorochas)."
+}

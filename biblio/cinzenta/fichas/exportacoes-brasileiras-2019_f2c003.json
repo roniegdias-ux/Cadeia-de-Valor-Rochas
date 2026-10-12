@@ -1,0 +1,95 @@
+{
+ "id": "exportacoes-brasileiras-2019_f2c003",
+ "arquivo": "exportacoes-brasileiras-2019.pdf",
+ "emissor": "Abirochas",
+ "titulo": "Exportações brasileiras superam expectativas em 2019",
+ "data_publicacao": null,
+ "periodo_coberto": "jan-ago/2019",
+ "tipo": "conjuntura",
+ "tema": "Nota sobre a alta das exportações de rochas em jan-ago/2019 (+15%), puxada por quartzitos e mármores e pela tarifação dos artificiais chineses nos EUA.",
+ "elos": [
+  "E6",
+  "E10"
+ ],
+ "indicadores": [
+  {
+   "nome": "Participação das chapas de quartzito (6802.99.90) no faturamento",
+   "valor": "18,2 (granito 6802.93.90: 42,4)",
+   "unidade": "%",
+   "periodo": "jan-ago/2019",
+   "trecho": "As chapas de quartzito, abrigadas na posição 6802.99.90, compuseram 18,2% do total do\nfaturamento das exportações"
+  },
+  {
+   "nome": "Incremento das exportações de rochas processadas",
+   "valor": "100 mil",
+   "unidade": "t",
+   "periodo": "2019 vs 2018",
+   "trecho": "Houve um incremento de 100 mil t nas exportações de rochas processadas, frente a 2018."
+  }
+ ],
+ "explicacoes": [
+  {
+   "fenomeno": "Alta das exportações para os EUA em 2019",
+   "causa_atribuida": "Aumento da tarifação dos materiais artificiais chineses no mercado dos EUA",
+   "trecho": "O aumento da tarifação dos materiais artificiais chineses, no mercado dos EUA, parece ter de\nfato colaborado para as exportações brasileiras de materiais naturais"
+  },
+  {
+   "fenomeno": "Variação positiva das exportações em jan-ago/2019",
+   "causa_atribuida": "Aumento dos volumes e de produtos de maior valor agregado (chapas de quartzito e mármore)",
+   "trecho": "o incremento das vendas de\nprodutos com maior valor agregado, como as chapas de quartzito e de mármore, foi responsável\npela notável variação positiva das exportações brasileiras no período janeiro-agosto de 2019."
+  },
+  {
+   "fenomeno": "Incremento das rochas silicáticas brutas",
+   "causa_atribuida": "Blocos de quartzito (+49,6% em valor)",
+   "trecho": "No caso das RSB, o incremento foi puxado pelos blocos de quartzito, cujas vendas tiveram\nvariação positiva de 49,6% em valor e de 63,8% em peso"
+  },
+  {
+   "fenomeno": "Incremento das rochas processadas",
+   "causa_atribuida": "Expansão das vendas de chapas de quartzito (6802.99.90)",
+   "trecho": "No caso das RP, o incremento foi principalmente devido à expansão das vendas de chapas de\nquartzito pela posição 6802.99.90"
+  }
+ ],
+ "mercados": [
+  {
+   "pais": "EUA",
+   "afirmacao": "Tarifação dos artificiais chineses favoreceu exportações brasileiras de naturais e até de artificiais",
+   "trecho": "colaborado para as exportações brasileiras de materiais naturais - e até dos artificias - para\nesse país."
+  }
+ ],
+ "politicas": [
+  {
+   "medida": "Tarifas dos EUA sobre artificiais chineses",
+   "afirmacao": "Parecem ter colaborado para as exportações brasileiras",
+   "trecho": "O aumento da tarifação dos materiais artificiais chineses, no mercado dos EUA"
+  },
+  {
+   "medida": "Classificação NCM (subcapítulo 6802)",
+   "afirmacao": "Inespecificidade dos códigos impede acompanhar a Terceira Onda Exportadora (acabados)",
+   "trecho": "A\ninespecificidade dos códigos fiscais da NCM não permite diferenciar os produtos\ncomercializados do subcapítulo 6802"
+  }
+ ],
+ "precos": [
+  {
+   "produto": "Chapas de quartzito e de mármore; blocos de quartzito; chapas de granito",
+   "afirmacao": "Chapas de quartzito US$ 2,1 mil/t; mármore US$ 992,5/t; blocos de quartzito US$ 623,3/t acima das chapas de granito US$ 562,4/t",
+   "trecho": "Os maiores preços médios corresponderam às chapas de quartzito (US$ 2,1 mil/t) e chapas de\nmármore (US$ 992,5/t)."
+  },
+  {
+   "produto": "Principais produtos",
+   "afirmacao": "Só chapas de quartzito com alta de preço (+2,3%); granito -9%, mármore -3,1%, blocos de quartzito -8,7%, ardósia -2,6%",
+   "trecho": "Entre os principais produtos exportados, apenas as chapas de quartzito tiveram variação positiva\ndo preço médio (+2,3%)"
+  }
+ ],
+ "desafios": [
+  {
+   "afirmacao": "Aumento da venda de quartzitos maciços e mármores brancos como blocos e queda de seu preço médio",
+   "trecho": "torna-se preocupante o aumento de sua\nvenda como blocos, bem como a redução já registrada do preço médio desses blocos."
+  },
+  {
+   "afirmacao": "Códigos NCM inespecíficos dificultam acompanhar a exportação de acabados",
+   "trecho": "o que dificulta o acompanhamento da evolução da\nTerceira Onda Exportadora almejada pelo Brasil, referente a produtos acabados."
+  }
+ ],
+ "pleitos": [],
+ "observacao": "Nota curta sem data explícita no texto; dados até agosto de 2019."
+}

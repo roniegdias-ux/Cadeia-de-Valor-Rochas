@@ -1,0 +1,48 @@
+{
+  "id": "Indicadores_Tendencias_Setoriais_b_0a6aaa",
+  "arquivo": "Indicadores_Tendencias_Setoriais_b.pdf",
+  "emissor": "Abirochas",
+  "titulo": "Indicadores de Tendências Setoriais (O Setor Brasileiro de Rochas Ornamentais, Cid Chiodi Filho, Outubro/2018)",
+  "data_publicacao": "2018-10",
+  "periodo_coberto": "c. 2003-2018",
+  "tipo": "estudo-tematico",
+  "tema": "Lista de 26 fatos indicadores de tendência do setor de rochas nos últimos 15 anos (mercados, câmbio, tecnologia, concorrência de artificiais, política comercial dos EUA).",
+  "elos": ["E1", "E2", "E4", "E6", "E7", "E10", "E11"],
+  "indicadores": [
+    {"nome": "Posição das rochas ornamentais entre recursos minerais exportados", "valor": "5º (excluídos petróleo e gás)", "unidade": "posição", "periodo": "2018", "trecho": "como o quinto principal recurso mineral exportado pelo país (excluídos petróleo e gás), depois do minério de ferro, ouro em barras, ferro-nióbio e minério de cobre."}
+  ],
+  "explicacoes": [
+    {"fenomeno": "Dificuldades competitivas das exportações brasileiras (2005-2011)", "causa_atribuida": "Sobrevalorização do Real", "trecho": "Dificuldades competitivas das exportações brasileiras, pela sobrevalorização do Real no período de 2005 a 2011;"},
+    {"fenomeno": "Crise econômica nos EUA e zona do euro", "causa_atribuida": "Estouro da bolha imobiliária norte-americana", "trecho": "Contaminação e crise econômica nos EUA e países da zona do euro, por indução do estouro da bolha imobiliária norte-americana;"},
+    {"fenomeno": "Visibilidade das rochas ornamentais", "causa_atribuida": "Desempenho das exportações, feiras, eventos técnicos e envolvimento acadêmico", "trecho": "pelo ótimo desempenho das exportações, expressão das feiras nacionais e internacionais, eventos técnicos realizados e maior envolvimento da área acadêmica, as rochas ornamentais conquistaram grande visibilidade"}
+  ],
+  "mercados": [
+    {"pais": "China", "afirmacao": "Crescimento no mercado internacional", "trecho": "Crescimento da China no mercado internacional;"},
+    {"pais": "Europa", "afirmacao": "Queda da participação dos players europeus", "trecho": "Queda da participação dos players europeus no mercado internacional;"},
+    {"pais": "EUA", "afirmacao": "Aumento significativo da participação brasileira com chapas polidas", "trecho": "Aumento significativo da participação brasileira no mercado dos EUA, com chapas polidas de granito e rochas similares;"},
+    {"pais": "EUA e China", "afirmacao": "Polarização das exportações (chapas para EUA, blocos para China) e redução para Europa", "trecho": "Polarização das exportações brasileiras para os EUA (chapas) e China (blocos), com redução das exportações para países europeus;"},
+    {"pais": "EUA", "afirmacao": "Esgotamento das perspectivas de ampliação das exportações de chapas", "trecho": "Esgotamento das perspectivas de ampliação das exportações brasileiras de chapas, inclusive para o mercado dos EUA;"},
+    {"pais": "EUA e Oriente Médio", "afirmacao": "Novo foco em produtos acabados para obras", "trecho": "Novo foco na exportação de produtos acabados, especialmente para o atendimento de obras nos mercados dos EUA e Oriente Médio;"},
+    {"pais": "Brasil (mercado interno)", "afirmacao": "Aquecimento imobiliário a partir da segunda metade dos anos 2000, desaquecimento desde 2014", "trecho": "Aquecimento do mercado imobiliário brasileiro, a partir da segunda metade da década de 2000, com desaquecimento a partir de 2014;"},
+    {"pais": "EUA", "afirmacao": "Formação e estouro de bolha imobiliária", "trecho": "Formação e estouro de uma bolha imobiliária no mercado dos EUA;"}
+  ],
+  "politicas": [
+    {"medida": "Convênios Apex-Brasil/ABIROCHAS", "afirmacao": "Evolução dos projetos de promoção das exportações", "trecho": "Evolução dos projetos de promoção das exportações contemplados nos convênios Apex-Brasil/ABIROCHAS;"},
+    {"medida": "SGP dos EUA", "afirmacao": "Exclusão do Brasil dos benefícios do SGP para a NCM 6802.93.90", "trecho": "Exclusão do Brasil dos benefícios fiscais do SGP, no mercado dos EUA, para os produtos exportados através da NCM 6802.93.90;"},
+    {"medida": "Política comercial dos EUA", "afirmacao": "Provável mudança de postura dos EUA no comércio internacional", "trecho": "Provável mudança de postura dos EUA em suas relações de comércio internacional, inclusive com os fornecedores de rochas ornamentais e outros produtos de revestimento;"},
+    {"medida": "Estudo da Competitividade / política nacional setorial", "afirmacao": "Estudo da ABIROCHAS como base para política nacional de desenvolvimento setorial", "trecho": "como base para a formulação de uma política nacional de desenvolvimento setorial;"},
+    {"medida": "Guia de Aplicação de Rochas em Revestimentos", "afirmacao": "Publicado pela ABIROCHAS em 2009", "trecho": "Publicação do Guia de Aplicação de Rochas em Revestimentos, pela ABIROCHAS, em 2009;"}
+  ],
+  "precos": [],
+  "desafios": [
+    {"afirmacao": "Diversificação e aumento da oferta de artificiais e porcelanatos imitando naturais", "trecho": "Diversificação e aumento de oferta de materiais rochosos artificiais e porcelanatos para revestimento, sempre imitando os produtos naturais;"},
+    {"afirmacao": "Crescimento de artificiais e cerâmicos com grande participação da China", "trecho": "Crescimento significativo da comercialização de materiais rochosos artificiais e de produtos cerâmicos, com grande participação da China em ambos os casos."},
+    {"afirmacao": "Ciclo de crescimento e retração das exportações de ardósia e quartzitos foliados", "trecho": "Ciclo de crescimento e retração das exportações brasileiras de produtos de ardósia e quartzitos foliados;"},
+    {"afirmacao": "Concentração da serragem e polimento no Espírito Santo", "trecho": "Concentração das atividades de serragem e polimento no Espírito Santo;"},
+    {"afirmacao": "Incremento da lavra de maciços em detrimento de matacões e do uso de fio diamantado", "trecho": "Incremento da lavra de maciços rochosos, em detrimento daquela de matacões;"},
+    {"afirmacao": "Importação de teares e formação do maior parque mundial de multifio diamantado", "trecho": "Formação, no Brasil, do maior parque mundial de teares multifio diamantados, para serragem de chapas;"},
+    {"afirmacao": "Diversificação com materiais exóticos e crescimento dos quartzitos maciços", "trecho": "Crescimento significativo da produção e exportações brasileiras de chapas de quartzitos maciços em 2015, 2016 e 2017;"}
+  ],
+  "pleitos": [],
+  "observacao": "Documento curto (lista de tópicos), sem dados numéricos além da posição entre recursos minerais exportados."
+}

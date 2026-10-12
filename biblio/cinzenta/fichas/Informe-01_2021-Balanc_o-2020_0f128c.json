@@ -1,0 +1,206 @@
+{
+  "id": "Informe-01_2021-Balanc_o-2020_0f128c",
+  "arquivo": "Informe-01_2021-Balanço-2020.pdf",
+  "emissor": "Abirochas",
+  "titulo": "Balanço das exportações e importações brasileiras de rochas ornamentais em 2020",
+  "data_publicacao": "2021-01",
+  "periodo_coberto": "2020",
+  "tipo": "conjuntura",
+  "tema": "Balanço anual de 2020 (queda no 1º semestre pela pandemia e recuperação no 2º), com anexos sobre recuperação das exportações e estimativa de produção, consumo interno aparente e capacidade de serragem.",
+  "elos": ["E1", "E2", "E6", "E7", "E8", "E11"],
+  "indicadores": [
+    {
+      "nome": "Produção brasileira estimada de rochas ornamentais",
+      "valor": "9,0",
+      "unidade": "Mt",
+      "periodo": "2020",
+      "trecho": "Outros (Basalto, Pedra Cariri, Pedra-Sabão, Pedra Morisca etc.)               0,4                  4,4\n    Total estimado                                                                9,0                  100"
+    },
+    {
+      "nome": "Produção de quartzito maciço",
+      "valor": "1,5 Mt (16,7%)",
+      "unidade": "Mt; %",
+      "periodo": "2020",
+      "trecho": "Quartzito Maciço                                                              1,5                  16,7"
+    },
+    {
+      "nome": "Produção do Espírito Santo",
+      "valor": "2.800.000",
+      "unidade": "t",
+      "periodo": "2020",
+      "trecho": "Espírito Santo               2.800.000    Granito e mármore"
+    },
+    {
+      "nome": "Repartição da produção: mercado externo vs interno",
+      "valor": "3,0 Mt externo (33%) e 6,0 Mt interno (67%)",
+      "unidade": "t; %",
+      "periodo": "2020",
+      "trecho": "3.000.000 (0%)              6.000.000 (-3,2%)"
+    },
+    {
+      "nome": "Número de teares (multilâmina de aço, multifio diamantados, multilâmina diamantados, talha-blocos)",
+      "valor": "470; 360; 50; 23",
+      "unidade": "equipamentos",
+      "periodo": "2020",
+      "trecho": "Total                              470              360              50             23"
+    },
+    {
+      "nome": "Capacidade instalada de serragem de chapas",
+      "valor": "90,0 (ES: 70,0)",
+      "unidade": "milhões m2/ano",
+      "periodo": "2020",
+      "trecho": "Capacidade Serragem\n                                    30,0             53,0             5,0            2,0           90,0"
+    },
+    {
+      "nome": "Consumo interno aparente de rochas ornamentais",
+      "valor": "67,6",
+      "unidade": "milhões m2 equivalentes (2 cm)",
+      "periodo": "2020",
+      "trecho": "Aglomerados importados                   1,8                      2,7\n                   Total estimado                           67,6                    100"
+    },
+    {
+      "nome": "Participação de São Paulo no consumo interno aparente",
+      "valor": "30,4 milhões m2 (45%)",
+      "unidade": "m2 equivalentes; %",
+      "periodo": "2020",
+      "trecho": "São Paulo                                                    30,4                     45,0"
+    },
+    {
+      "nome": "Consumo per capita",
+      "valor": "17,28 kg (0,32 m2)",
+      "unidade": "kg/hab",
+      "periodo": "2020",
+      "trecho": "Consumo per capita (kg)***                18,52         17,28       17,28      17,28          18,03      17,28"
+    },
+    {
+      "nome": "Rejeito de processamento (41%)",
+      "valor": "3.302,1",
+      "unidade": "mil t",
+      "periodo": "2020",
+      "trecho": "Rejeito de processamento (41%)            3.505,4       3.360,9     3.368,4    3.260,0       3.375,5    3.302,1"
+    }
+  ],
+  "explicacoes": [
+    {
+      "fenomeno": "Fraco desempenho das exportações no 1º semestre de 2020 (queda de quase 19%)",
+      "causa_atribuida": "Pandemia de Covid-19",
+      "trecho": "Depois de um fraco desempenho no 1º semestre, motivado pela pandemia do Covid-19, as\nexportações brasileiras de rochas evidenciaram expressiva recuperação no 2º semestre"
+    },
+    {
+      "fenomeno": "Recuperação das exportações no 2º semestre de 2020",
+      "causa_atribuida": "Força da construção civil e integração do setor de rochas a esse vetor da economia mundial",
+      "trecho": "Os resultados alcançados em 2020 atestam a força da construção civil, bem como a\ncapacidade de resposta e estreita integração, do setor de rochas, a esse importante vetor de\nmobilização da economia mundial."
+    },
+    {
+      "fenomeno": "Estabilização do faturamento exportado em 2019-2020, interrompendo queda de 2014-2018",
+      "causa_atribuida": "Maior participação de produtos de maior valor agregado (chapas de quartzitos maciços, mármores, pedra-sabão)",
+      "trecho": "O incremento da participação de produtos com maior valor agregado nas exportações,\nespecialmente de chapas de quartzitos maciços, mármores e pedra-sabão, nesta ordem, foi\nresponsável pela estabilização do faturamento das exportações brasileiras de rochas em 2019"
+    },
+    {
+      "fenomeno": "Quartzitos maciços como principal nova variedade no mercado mundial",
+      "causa_atribuida": "Viabilização econômica pela otimização da serragem em teares multifio diamantados",
+      "trecho": "constituem a principal nova variedade de rocha no mercado mundial do setor, viabilizada\neconomicamente pela otimização de serragem de chapas em teares multifio diamantados."
+    },
+    {
+      "fenomeno": "Blocos de quartzito exportados tornam-se concorrentes dos produtos 'made in Brazil'",
+      "causa_atribuida": "Exportações de blocos dirigidas a Itália e China, maiores competidores do Brasil nos EUA",
+      "trecho": "pois estas exportações\nsão sobretudo dirigidas para Itália e China, maiores competidores do Brasil em nosso principal\nmercado – os EUA."
+    },
+    {
+      "fenomeno": "Queda das importações de rochas naturais não indica recuperação da construção civil",
+      "causa_atribuida": "Ausência de recuperação franca da construção civil brasileira em 2020",
+      "trecho": "O desempenho dessas importações não faz supor ter havido recuperação franca da\nconstrução civil brasileira e de seus insumos em 2020."
+    },
+    {
+      "fenomeno": "Perda de importância das feiras presenciais",
+      "causa_atribuida": "Expansão da internet, turbinada pela pandemia, e contingenciamento de viagens internacionais",
+      "trecho": "A notável e incontornável expansão da internet, inclusive turbinada pela pandemia da Covid-\n19, entre outras quebras de paradigmas, sugere a perda da importância anteriormente\natribuída aos eventos presenciais do setor de rochas"
+    },
+    {
+      "fenomeno": "Queda e recuperação da produção e da demanda interna em 2020",
+      "causa_atribuida": "Queda acentuada no 1º semestre e recuperação da demanda interna e das exportações no 2º semestre",
+      "trecho": "Depois\nde uma queda acentuada no 1º semestre, recuperaram-se no 2º semestre a demanda do\nmercado interno e o nível das exportações, para um patamar anual compatível ao de 2018."
+    }
+  ],
+  "mercados": [
+    {
+      "pais": "EUA",
+      "afirmacao": "Principais mercados-alvo nas Américas, muito especialmente EUA.",
+      "trecho": "Os principais\nmercados-alvo estão nas Américas e muito especialmente nos EUA."
+    },
+    {
+      "pais": "Mercado árabe",
+      "afirmacao": "Participação direta ainda muito restrita, mas poderia ser sensivelmente ampliada com chapas e acabados.",
+      "trecho": "A participação direta de\nexportações brasileiras para o mercado árabe ainda é muito restrita, mas poderia ser"
+    },
+    {
+      "pais": "China e Espanha",
+      "afirmacao": "Principais fornecedores de artificiais ao Brasil, com 97,5% do volume.",
+      "trecho": "China, com 65 mil toneladas, e Espanha, com 2,5 mil\ntoneladas, foram nossos principais fornecedores, compondo 97,5% do total do volume físico"
+    },
+    {
+      "pais": "Turquia, Itália, Espanha, Indonésia, México, China, Portugal, Grécia",
+      "afirmacao": "Principais fornecedores de rochas naturais ao Brasil, de um total de 31 países.",
+      "trecho": "Ao principais fornecedores foram, nesta ordem, Turquia, Itália, Espanha, Indonésia, México,\nChina, Portugal e Grécia, de um total de 31 países."
+    },
+    {
+      "pais": "Brasil (mercado interno)",
+      "afirmacao": "Importações de artificiais não sinalizam recuperação do mercado interno, mas retraíram menos que as de naturais.",
+      "trecho": "Essas importações também não sinalizam recuperação do mercado interno dos materiais de\nrevestimento, mas sua retração foi bem inferior àquela dos materiais rochosos naturais."
+    }
+  ],
+  "politicas": [
+    {
+      "medida": "Programas institucionais de fomento e promoção das exportações",
+      "afirmacao": "São importantes, mas saltos maiores só ocorrerão pela capacitação de oferta e comercialização de produtos acabados.",
+      "trecho": "Mais do que resultado de programas institucionais de fomento e promoção das exportações,\nsem dúvida importantes, saltos quantitativos mais apreciáveis só ocorrerão pela capacitação\nde oferta e comercialização de produtos acabados pelas empresas exportadoras."
+    },
+    {
+      "medida": "Códigos fiscais do Capítulo 68 da NCM",
+      "afirmacao": "Inespecificidade não permite avaliar a evolução das exportações de acabados e semiacabados.",
+      "trecho": "A inespecificidade dos códigos fiscais que abrigam rochas processadas, no Capítulo 68 da\nNCM, continuará não permitindo discriminar e avaliar a evolução qualitativa das exportações"
+    },
+    {
+      "medida": "Revisões de dados da SECEX",
+      "afirmacao": "Revisões recorrentes dos dados de dezembro devem elevar 2020 acima de US$ 1 bilhão.",
+      "trecho": "Revisões desta natureza têm constituído prática recorrente na\napuração das exportações ao longo dos últimos dois anos."
+    }
+  ],
+  "precos": [
+    {
+      "produto": "Exportações em geral",
+      "afirmacao": "Preço médio caiu 2,31%, de US$ 468,4/t para US$ 457,6/t.",
+      "trecho": "O preço médio das exportações teve uma queda de 2,31%, passando de US$ 468,4/t em 2019\npara US$ 457,6/t em 2020."
+    },
+    {
+      "produto": "Rochas naturais importadas",
+      "afirmacao": "Preço médio recuou 4,3%, de US$ 523,5/t para US$ 500,9/t.",
+      "trecho": "O preço médio dessas\nimportações recuou 4,3%, passando de US$ 523,5/t em 2019 para US$ 500,9/t em 2020."
+    },
+    {
+      "produto": "Artificiais importados",
+      "afirmacao": "Preço médio recuou 11,3%, de US$ 637,6/t para US$ 565,4/t.",
+      "trecho": "Seu preço médio teve um recuo de 11,3%, passando de US$ 637,6/t em\n2019 para US$ 565,4/t em 2020."
+    }
+  ],
+  "desafios": [
+    {
+      "afirmacao": "Exportação de blocos de rochas estratégicas (quartzitos maciços, mármores) anula a vantagem competitiva da geodiversidade.",
+      "trecho": "As exportações de blocos de algumas rochas estratégicas, entre as quais atualmente se\ndestacam quartzitos maciços e mármores, apenas para citar os principais, acabam por anular\na decantada vantagem competitiva da geodiversidade brasileira no mercado internacional."
+    },
+    {
+      "afirmacao": "Crescimento sustentável acima de US$ 1 bilhão só com produtos acabados, não chapas.",
+      "trecho": "O incremento sustentável dessa exportações, para além do patamar de US$ 1 bilhão, também só ocorrerá\nmediante crescimento da participação de produtos com maior valor agregado, não relativos\na chapas, mas a produtos acabados."
+    },
+    {
+      "afirmacao": "Dados de produção são estimativos por se tratar de atividade pulverizada entre micro e pequenas empresas.",
+      "trecho": "Deve-se enfatizar que os dados de produção do setor de rochas são estimativos, com\nconvencionalmente acontece para atividades pulverizadas entre micro e pequenas empresas."
+    },
+    {
+      "afirmacao": "Feiras internacionais podem ser afetadas em 2021-2022 pelo contingenciamento de viagens.",
+      "trecho": "No curto e médio prazos (2021 e 2022), tais eventos poderão ser\ntambém afetados pelo contingenciamento das viagens internacionais"
+    }
+  ],
+  "pleitos": [],
+  "observacao": "Indicadores de produção, capacidade e consumo vêm de tabelas do anexo 'Estimativa da produção e consumo' (pp. 17-20); o emissor declara que são estimativos. Páginas 3-11 são gráficos com rótulos embaralhados pelo pdftotext."
+}

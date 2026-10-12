@@ -1,0 +1,88 @@
+{
+ "id": "Perfil-das-Atividades-Setoriais-Brasil-2021_4515e0",
+ "arquivo": "Perfil-das-Atividades-Setoriais-Brasil-2021.pdf",
+ "emissor": "Abirochas",
+ "titulo": "Perfil das atividades do setor de rochas ornamentais no Brasil (O Setor Brasileiro de Rochas Ornamentais, Geól. Cid Chiodi Filho)",
+ "data_publicacao": "2021-10",
+ "periodo_coberto": "2020",
+ "tipo": "estudo-tematico",
+ "tema": "Estrutura da cadeia produtiva brasileira: número de empresas e empregos por segmento, capacidade instalada e perfil tecnológico do parque de serragem por UF, APLs e projeções até 2025.",
+ "elos": [
+  "E1",
+  "E2",
+  "E3",
+  "E4",
+  "E9",
+  "E11"
+ ],
+ "indicadores": [
+  {
+   "nome": "Negócios do setor nos mercados interno e externo",
+   "valor": "5,0",
+   "unidade": "US$ bilhões/ano",
+   "periodo": "c. 2020",
+   "trecho": "movimentando cerca de US$ 5,0 bilhões/ano."
+  },
+  {
+   "nome": "Empresas e empregos na cadeia",
+   "valor": "10.000 empresas (400 exportadoras); 120 mil diretos e 360 mil indiretos",
+   "unidade": "empresas/empregos",
+   "periodo": "2020",
+   "trecho": "Cerca de 10.000 empresas, dentre as quais pelo\nmenos 400 exportadoras regulares, integram sua cadeia produtiva e respondem por 120 mil"
+  },
+  {
+   "nome": "Participação das marmorarias nas empresas",
+   "valor": ">60% (6.000 empresas; 60.000 empregos, 50%)",
+   "unidade": "%",
+   "periodo": "2020",
+   "trecho": "As marmorarias perfazem mais de 60% das empresas do setor, que é, aliás, majoritariamente\nformado por micro e pequenas empresas."
+  },
+  {
+   "nome": "Capacidade instalada de serragem e polimento de chapas",
+   "valor": "90",
+   "unidade": "Mm²/ano",
+   "periodo": "2020",
+   "trecho": "O parque brasileiro de beneficiamento tem capacidade instalada, de serragem e polimento de\nchapas, para cerca de 90 Mm2/ano"
+  },
+  {
+   "nome": "Capacidade em produtos de processamento simples",
+   "valor": "50",
+   "unidade": "Mm²/ano",
+   "periodo": "2020",
+   "trecho": "Esta\ncapacidade é acrescida de mais 50 Mm2/ano em produtos de processamento simples"
+  },
+  {
+   "nome": "Projeção da capacidade de serragem",
+   "valor": ">100 Mm²/ano, 80% em teares multifio",
+   "unidade": "Mm²/ano",
+   "periodo": "2025",
+   "trecho": "Acredita-se que até 2025, visando ao atendimento dos mercados interno e externo, a\ncapacidade brasileira de serragem poderá superar 100 Mm2/ano"
+  },
+  {
+   "nome": "Teares multilâmina de aço ainda operantes",
+   "valor": "400 (substituíveis por até 100 multifio)",
+   "unidade": "teares",
+   "periodo": "2020",
+   "trecho": "os\nestimados 400 teares multilâmina de aço ainda operantes no Brasil, poderiam ser substituídos\npor não mais de 100 teares multifio diamantados"
+  },
+  {
+   "nome": "Concentração de marmorarias no Sudeste",
+   "valor": "cerca de 70%",
+   "unidade": "%",
+   "periodo": "2020",
+   "trecho": "têm a maior\nconcentração de marmorarias (cerca de 70% do total brasileiro)"
+  }
+ ],
+ "explicacoes": [],
+ "mercados": [],
+ "politicas": [],
+ "precos": [],
+ "desafios": [
+  {
+   "afirmacao": "Capacidade de serragem em talha-blocos multidisco muito pequena; deverá crescer com exportação de acabados",
+   "trecho": "é muito pequena a capacidade\nde serragem baseada na tecnologia de talha-blocos multidisco, que deverá ser incrementada\ncom a ampliação das exportações brasileiras de produtos acabados."
+  }
+ ],
+ "pleitos": [],
+ "observacao": "Figuras 1-3 (estrutura produtiva e mapa de APLs) sem texto extraível; Tabela 3 (teares por UF) não fichada como trecho por ser tabela em colunas."
+}

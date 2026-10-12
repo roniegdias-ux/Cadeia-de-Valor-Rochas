@@ -1,0 +1,192 @@
+{
+ "id": "Informe-03_2022-Exportac_o_es-Janeiro_Maio-2022_0ac521",
+ "arquivo": "Informe-03_2022-Exportações-Janeiro_Maio-2022.pdf",
+ "emissor": "Abirochas",
+ "titulo": "Balanço das exportações e importações brasileiras de materiais rochosos naturais e artificiais de ornamentação e revestimento no período janeiro-maio de 2022 (Informe 03/2022)",
+ "data_publicacao": "2022-06",
+ "periodo_coberto": "jan-mai/2022",
+ "tipo": "conjuntura",
+ "tema": "Balanço de exportações e importações de rochas naturais e artificiais em jan-mai/2022, com aumento da participação de brutas, alta de preços médios e notas sobre classificação de artificiais.",
+ "elos": [
+  "E1",
+  "E2",
+  "E5",
+  "E6",
+  "E7",
+  "E10"
+ ],
+ "indicadores": [
+  {
+   "nome": "Participação das rochas processadas no faturamento exportado",
+   "valor": "75 (contra 81,3 em 2021)",
+   "unidade": "%",
+   "periodo": "jan-mai/2022",
+   "trecho": "A participação de rochas processadas, no\ntotal do faturamento, recuou de 81,3% em 2021 para 75% em 2022"
+  },
+  {
+   "nome": "Preço médio das exportações",
+   "valor": "579 (+12,2%)",
+   "unidade": "US$/t",
+   "periodo": "jan-mai/2022",
+   "trecho": "O preço médio das exportações foi de US$ 579/t, o que representou incremento de 12,2%\nfrente a 2021."
+  },
+  {
+   "nome": "Preço médio das rochas processadas exportadas",
+   "valor": "835 (+17,9%)",
+   "unidade": "US$/t",
+   "periodo": "jan-mai/2022",
+   "trecho": "O preço médio das rochas processadas situou-se em US$ 835/t, com\nincremento de 17,9%"
+  },
+  {
+   "nome": "Participação das chapas de quartzito (6802.99.90) no faturamento",
+   "valor": "28,4",
+   "unidade": "%",
+   "periodo": "jan-mai/2022",
+   "trecho": "As chapas de quartzito da posição 6802.99.90\nrepresentaram 28,4% do total do faturamento"
+  },
+  {
+   "nome": "Número de países de destino",
+   "valor": "106",
+   "unidade": "países",
+   "periodo": "jan-mai/2022",
+   "trecho": "Foram assim efetuadas exportações para 106 países em todos os continentes."
+  },
+  {
+   "nome": "Exportações de materiais rochosos artificiais",
+   "valor": "4,5 mil t e US$ 6,3 milhões; 15 países; US$ 1.410/t",
+   "unidade": "t / US$",
+   "periodo": "jan-mai/2022",
+   "trecho": "O Brasil exportou esses materiais para 15 países em 2022, com preço médio de US$ 1.410/t."
+  },
+  {
+   "nome": "Participação da China nas importações de artificiais",
+   "valor": "95,1 (35 mil t)",
+   "unidade": "%",
+   "periodo": "jan-mai/2022",
+   "trecho": "A China\nfoi responsável por 35 mil t, ou 95,1%, do total das importações"
+  },
+  {
+   "nome": "Preço médio das importações de artificiais",
+   "valor": "624,8",
+   "unidade": "US$/t",
+   "periodo": "jan-mai/2022",
+   "trecho": "Com preço médio de US$ 624,8/t, as importações de materiais rochosos artificiais"
+  },
+  {
+   "nome": "Volume físico das exportações de rochas processadas",
+   "valor": "quase -15%",
+   "unidade": "variação %",
+   "periodo": "jan-mai/2022",
+   "trecho": "O volume físico das exportações de rochas processadas recuou quase 15% em 2022"
+  }
+ ],
+ "explicacoes": [
+  {
+   "fenomeno": "Menor participação de rochas processadas nas exportações de 2022",
+   "causa_atribuida": "Aumento das vendas para Itália e China (destinos de brutas) e queda para os EUA (destino de processadas)",
+   "trecho": "O incremento do valor e do volume físico das vendas para Itália e China, bem como a queda\nde vendas para os EUA, exemplificam a menor participação de rochas processadas nas\nexportações brasileiras de 2022."
+  },
+  {
+   "fenomeno": "Maior preço médio estadual no Paraná",
+   "causa_atribuida": "Comercialização de chapas e blocos de mármores",
+   "trecho": "O maior preço médio entre os estados\nexportadores foi do Paraná (US$ 1.140/t), devido à comercialização de chapas e blocos de\nmármores."
+  },
+  {
+   "fenomeno": "Atenuação do problema do ES com a cabotagem",
+   "causa_atribuida": "Crescimento das cargas dos portos do Rio de Janeiro e Itaguaí em detrimento de Santos",
+   "trecho": "a principal novidade de 2022 foi o\ncrescimento das cargas dos portos do Rio de Janeiro (Rio de Janeiro e Itaguaí), em detrimento\ndo Porto de Santos, atenuando o problema do Espírito Santo com a navegação de cabotagem."
+  },
+  {
+   "fenomeno": "Diversificação dos destinos das exportações de artificiais",
+   "causa_atribuida": "Redução da participação dos EUA e incremento na América Latina",
+   "trecho": "o que traduz\numa diversificação dos destinos dessas exportações, especialmente na América Latina."
+  },
+  {
+   "fenomeno": "Queda das importações de materiais artificiais",
+   "causa_atribuida": "Possível não inclusão de materiais fundidos e sinterizados nos códigos computados",
+   "trecho": "A variação negativa dessas importações pode estar relacionada à não inclusão de materiais\nfundidos e de materiais sinterizados entre os produtos artificiais de revestimento importados."
+  },
+  {
+   "fenomeno": "Evolução positiva do faturamento apesar da queda de volume",
+   "causa_atribuida": "Aumento da participação de produtos de maior valor (chapas de quartzito, blocos de mármore, quartzito e pedra-sabão)",
+   "trecho": "a evolução positiva\ndo faturamento é, desde o ano passado, sustentada pelo aumento da participação de\nprodutos com maior valor agregado nessas exportações"
+  },
+  {
+   "fenomeno": "Baixa participação de MG e BA nas exportações",
+   "causa_atribuida": "Não industrialização no próprio estado das rochas de processamento especial, exportadas como blocos",
+   "trecho": "Isto se deve à não\nindustrialização, no próprio estado, de suas rochas de processamento especial (mármores,\nquartzitos, granitos exóticos, pegmatitos etc.), que são assim exportadas como blocos."
+  }
+ ],
+ "mercados": [
+  {
+   "pais": "China / Itália / EUA",
+   "afirmacao": "China e Itália são referência para brutas; EUA para processadas",
+   "trecho": "sendo China e Itália referência de comercialização para rochas\nbrutas e os EUA para rochas processadas."
+  },
+  {
+   "pais": "China",
+   "afirmacao": "Volume para a China superou o dos EUA, mas faturamento muito menor",
+   "trecho": "Em volume físico, as exportações para a China (293,6 mil t) ultrapassaram as dos EUA (290,7\nmil t)"
+  },
+  {
+   "pais": "China / Austrália / EUA",
+   "afirmacao": "Menor preço médio da China (US$ 250/t), maior da Austrália (US$ 1.930/t), EUA US$ 930/t",
+   "trecho": "O menor preço\nmédio foi o da China, com US$ 250/t, o maior foi o da Austrália (US$ 1.930/t) e o mais\nsignificativo o dos EUA (US$ 930/t)."
+  },
+  {
+   "pais": "México / Indonésia",
+   "afirmacao": "Importação de mármore ônix do México e pedra Hijau da Indonésia",
+   "trecho": "Do México o Brasil importou\nmármore ônix e da Indonésia a pedra Hijau."
+  },
+  {
+   "pais": "Argentina",
+   "afirmacao": "Forte incremento das exportações de artificiais para a Argentina",
+   "trecho": "com destaque\nda Argentina (+150% em volume físico e +180% em faturamento frente a janeiro-maio de\n2021)."
+  }
+ ],
+ "politicas": [
+  {
+   "medida": "Classificação fiscal de artificiais (NESH 6810; Solução de Consulta Cosit nº 98.021)",
+   "afirmacao": "Produtos fundidos como Nanoglass devem ser enquadrados na posição 7005.21.00",
+   "trecho": "Produtos como o Nanoglass e outros laminados\nobtidos por fusão, conforme parecer exarado na Solução de Consulta nº 98.021 – Cosit, de 01.02.2019, devem\nser enquadrados na posição 7005.21.00."
+  }
+ ],
+ "precos": [
+  {
+   "produto": "Chapas de quartzito (6802.99.90)",
+   "afirmacao": "Maior preço médio: US$ 2.290/t",
+   "trecho": "Os preços médios mais elevados referem-se a rochas processadas das posições 6802.99.90\n(US$ 2.290/t, chapas de quartzito)"
+  },
+  {
+   "produto": "Rochas silicáticas e silicosas brutas",
+   "afirmacao": "US$ 286/t, +28,5%",
+   "trecho": "o das rochas silicáticas e silicosas brutas foi de US$ 286/t, com\nincremento de 28,5%"
+  },
+  {
+   "produto": "Quase todos os produtos exportados",
+   "afirmacao": "Incremento do preço médio em dólar, em especial das processadas",
+   "trecho": "Anotou-se incremento do preço médio em US dólar de quase\ntodos os produtos exportados e, em especial, das rochas processadas."
+  },
+  {
+   "produto": "Importações naturais vs artificiais",
+   "afirmacao": "Preço médio dos naturais -0,7% e dos artificiais +12%",
+   "trecho": "não obstante queda do preço médio dos primeiros (-0,7%) e incremento destes\núltimos (+12%)."
+  }
+ ],
+ "desafios": [
+  {
+   "afirmacao": "Artificiais aglomerados, fundidos, sinterizados e cerâmicos concorrem com rochas naturais",
+   "trecho": "Todos eles (inclusive os\ncerâmicos do capítulo 69) concorrem com os materiais rochosos naturais para uso geral em revestimentos."
+  },
+  {
+   "afirmacao": "Problema do Espírito Santo com a navegação de cabotagem",
+   "trecho": "atenuando o problema do Espírito Santo com a navegação de cabotagem."
+  },
+  {
+   "afirmacao": "Códigos de fundidos e sinterizados podem abranger produtos não de revestimento",
+   "trecho": "Ademais, os códigos fiscais que abrigam os materiais fundidos e os sinterizados podem\nabranger produtos não necessariamente de revestimento."
+  }
+ ],
+ "pleitos": [],
+ "observacao": null
+}
