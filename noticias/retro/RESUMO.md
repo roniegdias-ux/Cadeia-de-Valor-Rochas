@@ -1,4 +1,4 @@
-# Acervo de notícias do setor — 2026-10-11
+# Acervo de notícias do setor — 2026-10-12
 
 **1040 notícias únicas**, das quais 759 com texto completo (sites do setor); as demais só com manchete, veículo e data.
 

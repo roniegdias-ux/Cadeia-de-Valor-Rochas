@@ -1,0 +1,995 @@
+Fonte: https://abirochas.com.br/wp-content/uploads/2023/06/Informe-04_2023-TEC-NESH-Rochas.pdf
+Post de origem: https://abirochas.com.br/wp-content/uploads/2023/06/Informe-04_2023-TEC-NESH-Rochas.pdf
+
+Informe 04/2023
+
+   CÓDIGOS DO SISTEMA HARMONIZADO,
+ BASEADOS NA NOMENCLATURA COMUM
+DO MERCOSUL (NCM), DE INTERESSE PARA
+ O SETOR DE ROCHAS ORNAMENTAIS E DE
+                       REVESTIMENTO
+                                                               SUMÁRIO
+1 Introdução .......................................................................................................................... 2
+                                                                                                                                                    1
+2 Estrutura e composição da Nomenclatura Comum do Mercosul (NCM) ............................... 3
+3 Posições da NCM relativas ao setor de rochas naturais de ornamentação e revestimento ... 4
+4 Enquadramento das rochas ornamentais e de revestimento nos códigos NCM da TEC/NESH
+  ............................................................................................................................................. 6
+5 Notas Explicativas do Sistema Harmonizado de Designação e Codificação de Mercadorias .. 7
+
+5.1 Notas Explicativas do Capítulo 25 - Produtos minerais ...................................................... 7
+5.2 Considerações gerais ........................................................................................................ 8
+5.3 Posição 2506 – Quartzo e quartzitos ................................................................................. 9
+5.4 Posição 2514 - Ardósia ..................................................................................................... 10
+5.5 Posição 2515 - Mármores, travertinos, granitos belgas e outras pedras calcárias .............. 11
+5.5.1 Nota Explicativa da Subposição 2515.11 ........................................................................ 12
+5.5.2 Nota Explicativa da Subposição 2515.12 ........................................................................ 13
+5.6 Posição 2516 - Granito, pórfiro, basalto, arenito e outras pedras de cantaria ou de
+   construção ........................................................................................................................ 13
+5.7 Posição 25.26 - Esteatita natural ....................................................................................... 14
+6 Notas Explicativas do Capítulo 68 - Obras de pedra, gesso, cimento, amianto, mica ou de
+  matérias semelhantes ......................................................................................................... 15
+6.1 Notas ............................................................................................................................... 15
+6.2 Considerações gerais ........................................................................................................ 15
+6.3 Posição 6801 - Pedras para calcetar, meios-fios (lancil) e placas (lajes) para pavimentação,
+     de pedra natural (exceto a ardósia) ................................................................................ 16
+6.4 Posição 6802 - Pedras de cantaria ou de construção ......................................................... 17
+6.5 Posição 6803 - Ardósia natural trabalhada e obras de ardósia natural ou aglomerada ...... 19
+7 Observações sobre as posições adotadas para materiais artificiais ...................................... 21
+8 Proposta de revisão parcial dos códigos fiscais utilizados para produtos de rochas
+  ornamentais: capítulos 25 e 68 ............................................................................................ 22
+
+
+
+
+                                             28.junho.2023| www.abirochas.com.br
+CÓDIGOS DO SISTEMA HARMONIZADO, BASEADOS NA NOMENCLATURA
+   COMUM DO MERCOSUL (NCM), DE INTERESSE PARA O SETOR DE
+          ROCHAS ORNAMENTAIS E DE REVESTIMENTO 1
+                                                                                                       2
+
+
+
+    1 Introdução
+
+
+Os capítulos do Sistema Harmonizado de Designação e Codificação de Mercadorias que atendem
+ao setor de rochas ornamentais e de revestimento são os de números 25 e 68, abrangendo os
+materiais rochosos naturais e seus produtos comerciais. O Capítulo 25 compreende, dentre
+outros bens/produtos minerais, as pedras em estado bruto, enquanto o Capítulo 68 abrange
+obras de pedra, ou seja, respectivamente rochas brutas e rochas processadas. Neste documento
+são a seguir apresentadas e detalhadas, através das Notas Explicativas do Sistema Harmonizado
+(NESH), as 24 posições da NCM relativas ao setor de rochas ornamentais.
+
+São ainda comentados aqueles materiais artificiais de revestimento que contêm em sua
+composição fragmentos ou pó de rochas e/ou minerais, incluídos nas subposições 6810.1 e
+6810.9 (materiais aglomerados) e na subposição 7005.21 (materiais fundidos).
+
+Por fim, sugere-se uma adequação dos códigos NCM vigentes para os materiais rochosos
+naturais, de maneira que se possa diferenciar os tipos de rochas versus seus produtos
+comerciais, contribuindo para um melhor entendimento das exportações setoriais e da evolução
+do mercado internacional.
+
+
+
+
+1
+ Elaborado para ABIROCHAS pelos geólogos Cid Chiodi Filho e Denize Kistemann Chiodi. Belo Horizonte,
+MG, junho de 2023.
+
+
+                               28.junho.2023| www.abirochas.com.br
+ 2 Estrutura e composição da Nomenclatura Comum do Mercosul
+   (NCM)
+
+
+O Brasil, Argentina, Paraguai e Uruguai adotam, desde janeiro de 1995, a Nomenclatura Comum   3
+
+do Mercosul (NCM), que tem por base o Sistema Harmonizado. Assim, dos oito dígitos que
+compõem a NCM, os seis primeiros são formados pelo Sistema Harmonizado, enquanto o sétimo
+e o oitavo dígitos correspondem a desdobramentos específicos atribuídos no âmbito do
+Mercosul.
+
+A sistemática de classificação dos códigos na Nomenclatura Comum do Mercosul (NCM)
+obedece à seguinte estrutura:
+
+
+
+
+Exemplo:
+Código NCM 0104.10.11: refere-se a animais reprodutores de raça pura, da espécie ovina,
+prenhe ou com cria ao pé. Esse código é resultado dos seguintes desdobramentos:
+
+
+
+ Seção            I                Animais vivos e produtos do reino animal
+ Capítulo         01               Animais vivos
+ Posição          0104             Animais vivos das espécies ovina e caprina
+ Subposição       0104.10          Ovinos
+ Item             0104.10.1        Reprodutores de raça pura
+ Subitem          0104.10.11       Prenhe ou com cria ao pé
+
+
+
+
+                            28.junho.2023| www.abirochas.com.br
+3 Posições da NCM relativas ao setor de rochas naturais de
+  ornamentação e revestimento
+
+
+   NCM                                           DESCRIÇÃO                                           4
+
+              Quartzo (exceto areias naturais); quartzitos, mesmo desbastados ou simplesmente
+   2506       cortados a serra ou por outro meio, em blocos ou placas de forma quadrada ou
+              retangular.
+ 2506.20.00   Quartzitos em bruto ou desbastados.
+    2514      Ardósia, mesmo desbastada ou simplesmente cortada a serra ou por outro meio,
+ 2514.00.00   em blocos ou placas de forma quadrada ou retangular.
+
+              Mármores, travertinos, granitos belgas e outras pedras calcárias de cantaria ou de
+              construção, de densidade aparente igual ou superior a 2,5, e alabastro, mesmo
+   2515
+              desbastados ou simplesmente cortados a serra ou por outro meio, em blocos ou
+              placas de forma quadrada ou retangular.
+ 2515.11.00   Mármores ou travertinos, em bruto ou desbastados.
+              Mármores simplesmente cortados à serra ou por outro meio, em blocos ou placas
+              de forma quadrada ou retangular.
+ 2515.12.10
+              Observação: este é o principal código referente à exportação brasileira de blocos de
+              mármore.
+              Travertinos simplesmente cortados a serra ou por outro meio, em blocos ou placas
+ 2515.12.20
+              de forma quadrada ou retangular.
+ 2515.20.00   Granitos belgas e outras pedras calcárias de cantaria ou de construção; alabastro.
+              Granito, pórfiro, basalto, arenito e outras pedras de cantaria ou de construção,
+   2516       mesmo desbastados ou simplesmente cortados a serra ou por outro meio, em
+              blocos ou placas de forma quadrada ou retangular.
+ 2516.11.00   Granito em bruto ou desbastado.
+              Granito simplesmente cortado à serra ou por outro meio, em blocos ou placas de
+ 2516.12.00
+              forma quadrada ou retangular.
+ 2516.20.00   Arenito, cortado em blocos, placas, quadrado, retangular.
+ 2516.21.00   Arenito em bruto ou desbastado.
+              Arenito simplesmente cortado a serra ou por outro meio, em blocos ou placas de
+ 2516.22.00
+              forma quadrada ou retangular.
+ 2516.90.00   Outras pedras de cantaria ou de construção.
+              Esteatita natural, mesmo desbastada ou simplesmente cortada a serra ou por outro
+   2526
+              meio, em blocos ou placas de forma quadrada ou retangular; talco.
+ 2526.10.00   Esteatita natural ou talco, não triturados nem em pó.
+              Pedras para calcetar, meios-fios e placas (lajes) para pavimentação, de pedra
+    6801      natural (exceto a ardósia).
+ 6801.00.00   Observação: através deste código são exportados, sobretudo, os quartzitos foliados
+              do tipo pedra São Tomé.
+
+
+
+
+                         28.junho.2023| www.abirochas.com.br
+  NCM                                            DESCRIÇÃO
+              Pedras de cantaria ou de construção (exceto as de ardósia) trabalhadas e obras
+              destas pedras, exceto as da posição 6801; cubos, pastilhas e artigos semelhantes,
+  6802
+              para mosaicos, de pedra natural (incluída a ardósia), mesmo com suporte; grânulos,
+              fragmentos e pós, de pedra natural (incluída a ardósia), corados artificialmente.
+                                                                                                   5
+              Ladrilhos, cubos, pastilhas e artigos semelhantes, mesmo de forma diferente da
+6802.10.00    quadrada ou retangular, cuja maior superfície possa ser inscrita num quadrado de
+              lado inferior a 7 cm; grânulos, fragmentos e pós, corados artificialmente.
+             Outras pedras de cantaria ou de construção e suas obras, simplesmente talhadas ou
+ 6802.2
+             serradas, de superfície plana ou lisa:
+              Mármore, travertino ou alabastro para pedras de cantaria ou de construção e suas
+6802.21.00
+              obras, simplesmente talhadas ou serradas, de superfície plana ou lisa.
+              Outras pedras calcárias para pedras de cantaria ou de construção e suas obras,
+6802.22.00
+              simplesmente talhadas ou serradas, de superfície plana ou lisa.
+              Granito para pedras de cantaria ou de construção e suas obras, simplesmente
+              talhadas ou serradas, de superfície plana ou lisa.
+6802.23.00
+              Observação: este código é também utilizado para exportação de chapas polidas de
+              granito.
+              Outras pedras de cantaria ou de construção e suas obras, simplesmente talhadas ou
+              serradas, de superfície plana ou lisa.
+6802.29.00
+              Observação: através deste código são exportados, sobretudo, os produtos de
+              pedra-sabão e pedra-talco.
+ 6802.9       Outras obras:
+              Mármore, travertino e alabastro.
+6802.91.00    Observação: este é o principal código referente à exportação de chapas de rochas
+              carbonáticas.
+6802.92.00    Pedras calcárias.
+              Granitos trabalhados de outros modos.
+6802.93.90    Observação: este é o principal código referente à exportação de chapas de rochas
+              silicáticas.
+              Outras pedras.
+6802.99.90    Observação: este é o principal código referente à exportação de chapas de rochas
+              silicáticas exóticas e de chapas de quartzitos maciços.
+  6803
+              Ardósia natural trabalhada e obras de ardósia natural ou aglomerada.
+6803.00.00
+
+
+
+
+                          28.junho.2023| www.abirochas.com.br
+4 Enquadramento das rochas ornamentais e de revestimento nos
+  códigos NCM
+
+
+                                                                                                             6
+
+
+
+
+ Elaboração: Cid Chiodi Filho
+
+
+                                          Calcários (limestones), travertinos, mármores, mármore ônix,
+1    Rochas Carbonáticas
+                                          alabastros, brechas carbonáticas.
+                                          Rochas ígneas granulares, isótropas ou no máximo
+2    Rochas Silicáticas - Granitos s.s.
+                                          ligeiramente orientadas.
+                                          Gnaisses, xistos, gabros, sienitos, charnockitos (granitos
+3    Outras Rochas Silicáticas
+                                          verdes), pegmatitos (“feldspatos”), serpentinitos.
+                                          Quartzitos, arenitos, cherts, silexitos, itabiritos, jaspilitos,
+4    Rochas Silicosas
+                                          metaconglomerados, quartzo.
+5    Rochas Ultramáficas                  Pedra-sabão e pedra-talco.
+M – mármore; T – travertino; A – arenito; Q – quartzito. O – outras rochas.
+
+
+
+
+                                  28.junho.2023| www.abirochas.com.br
+    5 Notas Explicativas do Sistema Harmonizado de Designação e
+      Codificação de Mercadorias
+
+
+As notas referentes aos Capítulos 25 e 68, a seguir apresentadas nos itens 5 e 6, foram transcritas     7
+
+do arquivo disponível no site da Receita Federal2, em 31 de maio de 2023: Sistema Harmonizado
+e de Codificação de Mercadorias; Notas Explicativas; 6ª edição (2017). Atualizadas até
+junho/2021. Tradução do original da Organização Mundial das Alfândegas - OMA.
+
+Essa publicação “contém a tradução do texto oficial das Notas Explicativas do Sistema
+Harmonizado de Designação e de Codificação de Mercadorias (Sistema Harmonizado), incluindo
+o texto das Notas Explicativas de Subposições, que estabelece o alcance e o conteúdo de algumas
+das subposições do Sistema Harmonizado.”
+
+“As Notas Explicativas do Sistema Harmonizado são editadas nas duas línguas oficiais da OMA
+(francês e inglês) e fornecem as explicações sobre as Regras Gerais Interpretativas, as Notas de
+Seções, as Notas de Capítulos e as Notas de Subposições (que são parte integrante do Sistema
+Harmonizado), assim como definem o alcance das posições e das subposições. Elas contêm as
+descrições técnicas das mercadorias e as indicações práticas quanto à classificação e à
+identificação das mercadorias. As Notas Explicativas são os comentários sobre o Sistema
+Harmonizado elaborados pelo Comitê do Sistema Harmonizado (CSH) e adotados pelo Conselho
+de Cooperação Aduaneira; elas são a interpretação oficial do SH em nível internacional.”
+
+5.1 Notas Explicativas do Capítulo 25 - Produtos minerais
+Sal; enxofre; terras e pedras; gesso, cal e cimento
+1 - Salvo disposições em contrário e sob reserva da Nota 4 abaixo, apenas se incluem nas
+posições do presente Capítulo os produtos em estado bruto ou os produtos lavados (mesmo
+por meio de substâncias químicas que eliminem as impurezas sem modificarem a estrutura do
+produto), quebrados (partidos), triturados, pulverizados, submetidos à levigação, crivados,
+peneirados, enriquecidos por flotação, separação magnética ou outros processos mecânicos
+ou físicos (exceto a cristalização). Não estão, porém, incluídos os produtos ustulados,
+calcinados, resultantes de uma mistura ou que tenham recebido tratamento mais adiantado do
+que os indicados em cada uma das posições.
+
+Os produtos do presente Capítulo podem estar adicionados de uma substância antipoeira, desde
+que essa adição não torne o produto particularmente apto para usos específicos de preferência
+à sua aplicação geral.
+
+2 - O presente Capítulo não compreende:
+
+      a) O enxofre sublimado, o precipitado e o coloidal (posição 28.02);
+
+2
+ https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/classificacao-fiscal-de-
+mercadorias/download-ncm-nomenclatura-comum-do-mercosul
+
+
+
+                               28.junho.2023| www.abirochas.com.br
+    b) As terras corantes que contenham, em peso, 70 % ou mais de ferro combinado, expresso
+       em Fe2O3 (posição 28.21);
+    c) Os medicamentos e outros produtos do Capítulo 30;
+    d) Os produtos de perfumaria ou de toucador preparados e as preparações cosméticas
+       (Capítulo 33);                                                                             8
+
+    e) As pedras para calcetar, meios-fios (lancil) ou placas (lajes) para pavimentação
+       (posição 68.01); os cubos, pastilhas e artigos semelhantes, para mosaicos (posição
+       68.02); as ardósias para telhados ou para revestimento de construções (posição
+       68.03);
+    f) As pedras preciosas e semipreciosas (posições 71.02 ou 71.03);
+    g) Os cristais cultivados de cloreto de sódio ou de óxido de magnésio (exceto os elementos
+       de óptica) de peso unitário igual ou superior a 2,5 g, da posição 38.24; os elementos de
+       óptica de cloreto de sódio ou de óxido de magnésio (posição 90.01);
+    h) Os gizes de bilhar (posição 95.04);
+    i) Os gizes para escrever ou desenhar e os de alfaiate (posição 96.09).
+
+3 - Qualquer produto suscetível de se incluir na posição 25.17 e noutra posição deste Capítulo
+classifica-se na posição 25.17.
+4 - A posição 25.30 compreende, entre outros, os seguintes produtos: a vermiculita, a perlita e
+as cloritas, não expandidas; as terras corantes, mesmo calcinadas ou misturadas entre si; os
+óxidos de ferro micáceos naturais; a espuma-do-mar natural (mesmo em pedaços polidos); o
+âmbar amarelo (sucino) natural; a espuma-do-mar e o âmbar reconstituídos, em plaquetas,
+varetas, barras e formas semelhantes, simplesmente moldados; o azeviche; o carbonato de
+estrôncio (estroncianita), mesmo calcinado, exceto o óxido de estrôncio; os resíduos e
+fragmentos de cerâmica, os pedaços de tijolo e os blocos de concreto (betão) quebrados
+(partidos).
+
+5.2 Considerações gerais
+O presente Capítulo, como estabelece a Nota 1, apenas compreende, salvo disposições em
+contrário, os produtos minerais em estado bruto, ou lavados (mesmo por meio de substâncias
+químicas, desde que não modifiquem os produtos), triturados, moídos, pulverizados,
+submetidos à levigação, crivados, peneirados ou ainda enriquecidos por flotação, separação
+magnética ou outros processos mecânicos ou físicos (exceto a cristalização). Os produtos do
+presente Capítulo podem também receber um tratamento térmico destinado a eliminar-lhes
+a umidade ou as impurezas, ou a outros fins, desde que esse tratamento térmico não
+modifique a estrutura química ou cristalina do produto. Todavia, certos tratamentos térmicos
+(a fusão ou calcinação, por exemplo) não são autorizados, salvo disposições em contrário do
+texto de posição. Assim, por exemplo, um tratamento térmico suscetível de provocar uma
+modificação da estrutura química ou cristalina está autorizado para os produtos das posições
+25.13 e 25.17 porque os dizeres dessas posições fazem expressamente referência ao tratamento
+térmico.
+
+
+
+                             28.junho.2023| www.abirochas.com.br
+Os produtos do presente Capítulo podem estar adicionados de uma substância antipoeira, desde
+que esta adição não torne o produto apto para utilizações específicas de preferência a sua
+aplicação geral. Pelo contrário, classificam-se noutros Capítulos (Capítulos 28 ou 68, por
+exemplo) os produtos desta espécie que sofreram tratamentos mais adiantados, tais como a
+purificação por cristalizações sucessivas, a transformação em obras por entalhe, escultura etc.      9
+
+ou resultante de uma mistura de produtos minerais classificados numa mesma posição deste
+Capítulo ou posições diferentes.
+
+Deve notar-se, todavia, que certas posições deste Capítulo constituem exceção a esta regra:
+
+    1) Por dizerem respeito a produtos que pela sua própria natureza tenham sido submetidos
+       a uma elaboração mais adiantada do que o previsto na Nota 1 acima (por exemplo: o
+       cloreto de sódio puro da posição 25.01, o enxofre refinado da posição 25.03, o barro
+       cozido em pó (terra de chamotte) da posição 25.08, o gesso da posição 25.20, a cal da
+       posição 25.22 e os cimentos hidráulicos da posição 25.23).
+    2) Por especificarem tratamentos admissíveis além dos fixados na referida Nota 1, por
+       exemplo: calcinação do carbonato de bário natural (witherite) da posição 25.11, das
+       farinhas siliciosas fósseis e de outras terras siliciosas semelhantes da posição 25.12, da
+       dolomita da posição 25.18; a fusão ou a calcinação (a fundo (sinterização) ou cáustica)
+       dos carbonatos de magnésio e da magnésia, da posição 25.19. No caso da magnésia
+       calcinada a fundo (sinterizada), para facilitar a sinterização, outros óxidos (por exemplo:
+       óxido de ferro ou óxido de cromo) podem ser adicionados. Também se admitem o
+       desbaste e o corte, a serra ou por outro meio, em blocos ou em placas de forma
+       quadrada ou retangular dos produtos das posições 25.06, 25.14, 25.15, 25.16, 25.18 e
+       25.26.
+Qualquer produto suscetível de ser classificado simultaneamente na posição 25.17 e noutra
+posição do presente Capítulo deve ser classificado na posição 25.17. As pedras deste Capítulo
+que tenham características de pedras preciosas ou semipreciosas estão incluídas no Capítulo
+71.
+
+5.3 Posição 2506 – Quartzo e quartzitos
+Nesta posição estão incluídos quartzo (exceto areias naturais); quartzitos, mesmo desbastados
+ou simplesmente cortados, à serra ou por outro meio, em blocos ou placas de forma quadrada
+ou retangular.
+
+2506.10 - Quartzo
+
+Dá-se o nome de quartzo a diversas variedades de sílica que se apresentam, no estado natural,
+sob a forma de cristais.
+
+Para que o quartzo possa classificar-se nesta posição, deve satisfazer às duas condições
+seguintes:
+
+
+
+
+                              28.junho.2023| www.abirochas.com.br
+    a) apresentar-se em bruto ou ter sofrido apenas os tratamentos a que alude a Nota 1 deste
+       Capítulo (o tratamento térmico, aplicado apenas para facilitar a granulação do quartzo,
+       considera-se como um desses tratamentos);
+    b) não se tratar de variedades cuja qualidade de sua estrutura cristalográfica o torne
+       próprio para utilização como pedras preciosas ou semipreciosas (por exemplo, cristal de     10
+
+       rocha, quartzo fumê, quartzo rosa ou ametista), que estão incluídas na posição 71.03,
+       mesmo que se destinem de fato a usos técnicos, tais como a fabricação de partes de
+       ferramentas ou de cristais piezelétricos.
+
+2506.20 - Quartzitos
+
+Os quartzitos são variedades de rochas, compactas e muito duras, compostas de grãos de
+quartzo aglomerados por um aglutinante silicioso.
+
+Incluem-se nesta posição não somente os quartzitos em bruto ou que apenas tenham sofrido os
+tratamentos previstos na Nota 1 do Capítulo, mas também os quartzitos desbastados ou
+simplesmente cortados, a serra ou por outro meio, em blocos ou em placas de forma quadrada
+ou retangular. Note-se, todavia, que os quartzitos trabalhados em forma de pedras para
+calcetar, de meios-fios (lancil) e de placas (lajes) para pavimentação classificam-se na posição
+68.01, mesmo que tenham sofrido apenas as operações especificadas no texto da presente
+posição.
+Além dos produtos precedentemente mencionados, excluem-se também desta posição:
+
+    a) As areias quartzosas naturais (posição 25.05).
+    b) O sílex e outros produtos da posição 25.17.
+    c) Os elementos de óptica, de quartzo (posição 90.01).
+
+5.4 Posição 2514 - Ardósia
+Nesta posição está incluída a ardósia, mesmo desbastada ou simplesmente cortada à serra ou
+por outro meio, em blocos ou placas de forma quadrada ou retangular.
+
+A ardósia, que tem a propriedade de se clivar em lamelas, apresenta geralmente cor cinzento-
+azulada, algumas vezes preta ou violácea.
+Inclui-se nesta posição a ardósia em bruto, desbastada ou simplesmente cortada, à serra ou por
+outro meio (por exemplo, por um cabo metálico), em blocos ou placas de forma quadrada ou
+retangular. Também estão aqui incluídos os pós e os desperdícios de ardósia.
+Pelo contrário, a presente posição não abrange os cubos e pastilhas, para mosaicos da posição
+68.02, nem os produtos abaixo enumerados que se incluem na posição 68.03:
+
+    a) Os blocos e placas submetidos a trabalho mais adiantado que o descrito acima, tais
+       como os blocos e placas cortados de forma diferente da quadrada ou retangular e os
+       lapidados, polidos, chanfrados, perfurados ou trabalhados de qualquer outro modo.
+
+
+
+
+                             28.junho.2023| www.abirochas.com.br
+    b) Os artigos que apresentem características de ardósias para cobertura ou para
+       revestimento de construções (empenas, fachadas etc.), mesmo que tenham sofrido os
+       trabalhos especificados no texto da presente posição.
+    c) As obras de ardósia aglomerada (ardoisine).
+                                                                                                  11
+As ardósias e quadros de ardósia, preparados para escrever ou desenhar, emoldurados ou
+não, estão compreendidos na posição 96.10. Os lápis de ardósia classificam-se na posição
+96.09.
+
+5.5 Posição 2515 - Mármores, travertinos, granitos belgas e outras pedras calcárias
+Nesta posição estão incluídos mármores, travertinos, granitos belgas e outras pedras calcárias
+de cantaria ou de construção, de densidade aparente igual ou superior a 2,5, e alabastro, mesmo
+desbastados ou simplesmente cortados à serra ou por outro meio, em blocos ou placas de forma
+quadrada ou retangular.
+
+2515.1 - Mármores e travertinos:
+
+        •   2515.11 - Em bruto ou desbastados
+        •   2515.12 - Simplesmente cortados à serra ou por outro meio, em blocos ou placas
+            de forma quadrada ou retangular
+2515.20 - Granitos belgas e outras pedras calcárias de cantaria ou de construção; alabastro.
+Os mármores são calcários duros, homogêneos, de grão fino, com textura frequentemente
+cristalina, opacos ou translúcidos. Os mármores são, na maioria das vezes, diversamente
+corados por óxidos minerais (mármores de cor ou com veios, mármores denominados “ônix”),
+mas existem, no entanto, variedades de cor branca pura.
+Os travertinos são variedades de calcário que apresentam cavidades dispostas em camadas.
+
+Os granitos belgas são calcários conquíferos extraídos de diversas pedreiras da Bélgica,
+especialmente as de Écaussines. São pedras calcárias de cor cinzento-azulada e de estrutura
+cristalina irregular. São também conhecidos como écaussines, “granito de Flandres” ou petit
+granit, devendo tais denominações à aparência da sua fratura, muito semelhante à do granito
+verdadeiro.
+
+Incluem-se também nesta posição, desde que a sua densidade aparente seja igual ou superior a
+2,5, diversas pedras calcárias duras, de cantaria ou de construção, semelhantes às precedentes.
+As pedras calcárias de densidade aparente inferior a 2,5 classificam-se na posição 25.16.
+
+O termo alabastro compreende também o alabastro gipsoso ou alabastrita, geralmente branco
+e uniformemente translúcido, e o alabastro-calcário, ordinariamente amarelado e com veios.
+
+Para serem classificados na presente posição, todos estes produtos devem apresentar-se em
+bruto ou desbastados ou simplesmente cortados, a serra ou por outro meio, em blocos ou placas
+de forma quadrada ou retangular. Sob a forma de grânulos, lascas ou pó, classificam-se na
+posição 25.17.
+
+
+
+                             28.junho.2023| www.abirochas.com.br
+Os blocos e placas que tenham sofrido tratamento mais adiantado, tal como cinzelagem e
+lavragem, apicoamento, martelagem, lapidação, polimento, chanfradura etc., bem como os
+esboços de obras, as placas serradas em formas determinadas (em triângulo, hexágono, círculo
+etc.) estão incluídos na posição 68.02.
+                                                                                                   12
+Também se excluem desta posição:
+
+    a) A serpentina ou ofito (também designada por “mármore”) que é um silicato de
+       magnésio (posição 25.16).
+    b) As pedras calcárias, denominadas “pedras litográficas”, do tipo utilizado nas artes
+       gráficas, em bruto (posição 25.30).
+    c) As pedras que apenas tenham sido submetidas às operações especificadas no texto da
+       posição, mas que apresentem características de cubos ou pastilhas para mosaicos ou,
+       eventualmente, de placas (lajes) para pavimentação (respectivamente posições 68.02 e
+       68.01).
+
+5.5.1 Nota Explicativa da Subposição 2515.11
+No sentido da presente subposição, deve-se entender por “em bruto” os blocos e placas
+simplesmente fendidos conforme os planos de clivagem naturais da pedra. Estes materiais
+apresentam, nas faces, frequentemente, um aspecto desigual ou onduloso e possuem, em geral,
+marcas das ferramentas utilizadas para os separar (alavancas ou pinças, cunhas, picaretas etc.).
+Estão igualmente incluídas aqui as pedras de pedreira, em bruto, provenientes do desmonte de
+rochas (com picaretas, explosivos etc.). Suas faces são desiguais e com saliências, suas arestas
+irregulares. As pedras desta espécie apresentam com frequência marcas da sua extração: furos
+dos explosivos, mossas provocadas pelas cunhas, pinças etc. Estes materiais são utilizados no
+estado em que se apresentam para a construção de diques, quebra-mares, fundações de
+estradas etc.
+Esta subposição abrange igualmente os desperdícios de forma irregular provenientes das
+operações de extração ou de trabalhos posteriores (pedras de pedreira, desperdícios
+provenientes do corte a serra etc.), mas apenas se as suas dimensões permitirem a utilização
+para fins de cantaria ou de construção. Os produtos que não preencham estas condições
+classificam-se na posição 25.17.
+Designa-se por “desbastadas” as pedras que após a sua extração da pedreira foram preparadas
+por um trabalho bastante sumário em blocos ou placas, apresentando ainda faces em bruto e
+desiguais. Este trabalho consiste na eliminação, por meio de ferramentas do tipo do martelo ou
+do buril, das saliências, bossas, asperezas etc., supérfluas.
+A presente subposição não compreende os blocos ou placas que foram cortados de forma
+quadrada ou retangular.
+
+
+
+
+                             28.junho.2023| www.abirochas.com.br
+5.5.2 Nota Explicativa da Subposição 2515.12
+Para serem aqui classificados, os blocos e placas simplesmente cortados à serra devem
+apresentar, nas suas faces, marcas perceptíveis da serração (por meio de fio, serra etc.). Pode
+ocorrer, quando a separação for feita com esmero, que estas marcas sejam muito fracas. Nestes
+                                                                                                    13
+casos, é conveniente aplicar sobre a pedra uma folha fina de papel e friccioná-la suave e
+persistentemente com um lápis o mais inclinado possível. Este processo permite com bastante
+frequência descobrir, mesmo em superfícies finamente serradas ou de estrutura muito
+granulosa, estrias da serração.
+
+Classificam-se igualmente nesta subposição os blocos e placas de forma quadrada ou retangular
+obtidos por processos diferentes do corte a serra, por exemplo, por um trabalho de martelo ou
+de buril.
+
+5.6 Posição 2516 - Granito, pórfiro, basalto, arenito e outras pedras de cantaria ou de
+     construção
+Granito, pórfiro, basalto, arenito e outras pedras de cantaria ou de construção, mesmo
+desbastados ou simplesmente cortados à serra ou por outro meio, em blocos ou placas de forma
+quadrada ou retangular.
+2516.1 - Granito:
+
+        •    2516.11 - Em bruto ou desbastado
+        •    2516.12 - Simplesmente cortado à serra ou por outro meio, em blocos ou placas
+             de forma quadrada ou retangular
+
+2516.20 - Arenito
+
+2516.90 - Outras pedras de cantaria ou de construção
+
+Os granitos são rochas eruptivas, muito duras, de aspecto granular, formadas por justaposição
+de cristais de quartzo, de feldspato e de lamelas de mica. Os granitos apresentam diferentes
+cores, consoante a proporção relativa destes três materiais, e a possível presença de óxido de
+ferro ou de manganês (granitos verdes, cinzentos, róseos, vermelhos etc.).
+Os pórfiros são granitos de textura microgranular, com aspecto semivítreo.
+
+Os arenitos são rochas sedimentares, formados por pequenos grãos de areia quartzosa ou
+siliciosa, aglomerados naturalmente por meio de matérias calcárias ou siliciosas.
+Os basaltos são também rochas eruptivas, negruscas, muito compactas e muito duras.
+
+Compreendem-se também nesta posição outras rochas eruptivas duras, tais como sienito,
+gnaisse, traquito, lava, diabásio, diorito, fonolito, bem como as pedras calcárias de cantaria ou
+de construção não incluídas na posição 25.15 e a serpentina ou ofito, que pelo fato de ser
+constituída por silicato de magnésio, não pode classificar-se na posição 25.15.
+
+
+
+
+                              28.junho.2023| www.abirochas.com.br
+No que diz respeito às formas e aos tratamentos admitidos nesta posição, deve-se levar em
+conta a Nota Explicativa da posição 25.15, devendo, no entanto, notar-se que os minerais da
+presente posição, quando britados sob a forma de macadame, estão incluídos na posição 25.17.
+As pedras que apresentem as características de pedras para calcetar, de meios-fios (lancil), de
+placas (lajes) para pavimentação classificam-se na posição 68.01, mesmo que tenham sofrido        14
+
+apenas as operações especificadas no texto da posição.
+
+Os granitos belgas (écaussines) também chamados petit granit ou “granito de Flandres” estão
+incluídos na posição 25.15. O basalto fundido classifica-se na posição 68.15.
+
+Quando em grânulos, lascas ou pó, as pedras desta posição classificam-se na posição 25.17.
+
+Notas Explicativas das Subposições 2516.11 (ver a Nota Explicativa da subposição 2515.11) e
+2516.12 (ver a Nota Explicativa da subposição 2515.12).
+
+5.7 Posição 25.26 - Esteatita natural
+Esteatita natural, mesmo desbastada ou simplesmente cortada à serra ou por outro meio, em
+blocos ou placas de forma quadrada ou retangular; talco.
+
+2526.10 - Não triturados nem em pó
+A esteatita natural e o talco são substâncias minerais ricas em silicato de magnésio hidratado.
+A primeira é mais compacta e maciça do que o talco. Este tem uma estrutura lamelar e é mais
+mole e untuoso ao tato.
+A esteatita natural incluída nesta posição pode apresentar-se trabalhada ou transformada, da
+mesma forma que as pedras incluídas na posição 25.15 (ver a Nota Explicativa dessa posição),
+e pode ser submetida às operações permitidas pela Nota 1 do presente Capítulo. A pedra-
+sabão (soapstone) é uma variedade da esteatita natural.
+
+O talco incluído nesta posição pode submeter-se às operações definidas na Nota 1 do presente
+Capítulo. A maior parte das vezes o talco apresenta-se em bruto ou em pó.
+
+As expressões “cré francês” ou “cré da Espanha” designam algumas variedades de esteatita ou
+de talco que se apresentam em pó.
+
+O giz de alfaiate, que, na realidade, é constituído por esteatita, inclui-se na posição 96.09.
+
+
+
+
+                               28.junho.2023| www.abirochas.com.br
+ 6 Notas Explicativas do Capítulo 68 - Obras de pedra, gesso, cimento,
+   amianto, mica ou de matérias semelhantes
+
+
+6.1 Notas                                                                                        15
+
+
+1 - O presente Capítulo não compreende:
+
+   a) Os produtos do Capítulo 25;
+   b) O papel e cartão revestidos, impregnados ou recobertos, das posições 48.10 ou 48.11
+      (por exemplo, os recobertos de mica em pó ou de grafita e os betumados ou asfaltados);
+   c) Os tecidos e outros têxteis revestidos, impregnados ou recobertos, dos Capítulos 56 ou
+      59 (por exemplo, os recobertos de mica em pó, de betume ou de asfalto);
+   d) Os artigos do Capítulo 71;
+   e) As ferramentas e suas partes, do Capítulo 82;
+   f) As pedras litográficas da posição 84.42;
+   g) Os isoladores elétricos (posição 85.46) e as peças isolantes da posição 85.47;
+   h) As mós para aparelhos dentários (posição 90.18);
+   i) Os artigos do Capítulo 91 (por exemplo, caixas e semelhantes de artigos de relojoaria);
+   j) Os artigos do Capítulo 94 (por exemplo, móveis, aparelhos de iluminação, construções
+      pré-fabricadas);
+   k) Os artigos do Capítulo 95 (por exemplo, brinquedos, jogos, material de esporte);
+   l) Os artigos da posição 96.02, desde que constituídos pelas matérias mencionadas na
+      Nota 2 b) do Capítulo 96, os artigos da posição 96.06 (os botões, por exemplo), da
+      posição 96.09 (os lápis de ardósia, por exemplo), da posição 96.10 (as ardósias para
+      escrita e desenho, por exemplo) ou da posição 96.20 (monopés, bipés, tripés e artigos
+      semelhantes);
+   m) Os artigos do Capítulo 97 (objetos de arte, por exemplo).
+
+2 - Na acepção da posição 68.02, a expressão “pedras de cantaria ou de construção trabalhadas”
+aplica-se não só às pedras incluídas nas posições 25.15 ou 25.16, mas também a todas as outras
+pedras naturais (por exemplo, quartzitos, sílex, dolomita, esteatita) trabalhadas do mesmo
+modo, exceto a ardósia.
+
+6.2 Considerações gerais
+O presente Capítulo compreende:
+
+   A) Certos produtos minerais do Capítulo 25 que tenham sofrido um tratamento de tal
+      natureza que dele os exclui, por aplicação da Nota 1 do referido Capítulo.
+   B) Os produtos excluídos do Capítulo 25 pela Nota 2 “e)” do referido Capítulo.
+   C) Certos produtos obtidos a partir de matérias minerais da Seção V.
+   D) Certos produtos obtidos a partir de produtos do Capítulo 28 (por exemplo, os abrasivos
+      artificiais).
+
+
+
+                             28.junho.2023| www.abirochas.com.br
+Alguns produtos referidos em C) e D) podem ser aglomerados por meio de aglutinantes, conter
+matérias de carga, apresentar-se reforçados com uma armação, ou ainda, quando se tratar de
+produtos tais como abrasivos ou mica, apresentar-se em suportes de papel, cartão, produtos
+têxteis ou outros.
+                                                                                                 16
+A maioria destes produtos e obras obtém-se por operações tais como o corte, a moldagem etc.,
+que não modificam essencialmente o caráter da matéria-prima. Alguns obtêm-se por
+aglomeração (é o caso das obras de asfalto ou de certas mós aglomeradas por cozedura ou
+vitrificação do aglutinante). Outros podem ter sofrido um endurecimento em autoclave (tijolos
+sílico-calcários). Outros, ainda, resultam da transformação mais profunda da matéria original,
+podendo ir até à fusão (é o caso, por exemplo, da lã de escórias ou do basalto fundido).
+As obras obtidas por cozedura de terras previamente enformadas pertencem à indústria
+cerâmica, estão na maior parte dos casos incluídas no Capítulo 69 (com exceção de certas obras
+da posição 68.04), enquanto as fibras de vidro e as obras de vidro, vidro-cerâmica, quartzo e
+outras sílicas fundidos se incluem no Capítulo 70.
+
+Independentemente das exclusões adiante mencionadas nas Notas Explicativas das posições,
+também não se incluem no presente Capítulo:
+
+   a) Os diamantes e outras pedras preciosas ou semipreciosas, naturais, sintéticos ou
+      reconstituídos, suas obras e todos os artigos incluídos no Capítulo 71.
+   b) As pedras litográficas da posição 84.42.
+   c) As placas (de ardósia, mármore, fibrocimento etc.) perfuradas para quadros de
+      comando ou de distribuição e como tais reconhecíveis (posição 85.38), bem como os
+      isoladores e peças de materiais isolantes para eletricidade das posições 85.46 ou
+      85.47.
+   d) Os artigos do Capítulo 94 (móveis, aparelhos de iluminação, construções pré-fabricadas
+      etc.).
+   e) As obras de matérias do presente Capítulo que constituam jogos, brinquedos e artigos
+      para esporte (Capítulo 95).
+   f) As matérias minerais de entalhar, referidas na Nota 2 b) do Capítulo 96, trabalhadas ou
+      em obras (posição 96.02).
+   g) Os objetos de arte, de coleção e as antiguidades, na acepção do Capítulo 97.
+
+6.3 Posição 6801 - Pedras para calcetar, meios-fios (lancil) e placas (lajes) para
+     pavimentação, de pedra natural (exceto a ardósia)
+A presente posição abrange as pedras naturais (arenito, granito, pórfiro etc.) com exceção da
+ardósia, nas formas habitualmente utilizadas para calcetamento de ruas, passeios etc.,
+incluindo-se estas mesmas pedras com idênticas formas suscetíveis de serem utilizadas para
+outros fins. Os seixos rolados e outras pedras para pavimentação de ruas incluem-se na posição
+25.17.
+
+
+
+
+                             28.junho.2023| www.abirochas.com.br
+Os produtos desta posição são obtidos manual ou mecanicamente, por divisão, desbaste e
+afeiçoamento de pedras de pedreira. As pedras para calcetar e placas (lajes) para pavimentação
+têm em geral a face visível quadrada ou retangular, mas enquanto as placas (lajes) se
+apresentam com a forma de chapas de espessura limitada, as pedras para calcetar têm a forma
+mais ou menos regular de cubos ou troncos de pirâmides. Os meios-fios (lancil) são pedras retas        17
+
+ou curvas, geralmente de seção retangular.
+
+Incluem-se aqui as pedras para calcetar, meios-fios (lancil) e placas (lajes) de pavimentação,
+mesmo simplesmente cortados, desbastados (esquadriados grosseiramente) ou serrados, e
+ainda estas mesmas obras apicoadas, cinzeladas, areadas, polidas, ou apresentando arestas
+arredondadas, chanfraduras, machos, entalhes ou qualquer outra obra necessária por razões
+técnicas (tal seria, por exemplo, o caso dos meios-fios (lancil) com desbaste para sarjetas ou
+saídas de garagem).
+
+Os meios-fios (lancil), placas (lajes) etc., de concreto (betão) ou de pedras artificiais incluem-se
+na posição 68.10; as placas (lajes) para pavimentação de arenito cerâmico incluem-se no
+Capítulo 69.
+
+6.4 Posição 6802 - Pedras de cantaria ou de construção
+Pedras de cantaria ou de construção (exceto de ardósia) trabalhadas e obras destas pedras,
+exceto as da posição 68.01; cubos, pastilhas e artigos semelhantes, para mosaicos, de pedra
+natural (incluindo a ardósia), mesmo com suporte; grânulos, fragmentos e pós, de pedra natural
+(incluindo a ardósia), corados artificialmente.
+
+6802.10 - Ladrilhos, cubos, pastilhas e artigos semelhantes, mesmo de forma diferente da
+quadrada ou retangular, cuja maior superfície possa ser inscrita num quadrado de lado inferior
+a 7 cm; grânulos, fragmentos e pós, corados artificialmente.
+
+6802.2 - Outras pedras de cantaria ou de construção e suas obras, simplesmente talhadas ou
+serradas, de superfície plana ou lisa:
+
+       •   6802.21 - Mármore, travertino e alabastro
+       •   6802.23 - Granito
+       •   6802.29 - Outras pedras
+6802.9 - Outras:
+
+        • 6802.91 - Mármore, travertino e alabastro
+        • 6802.92 - Outras pedras calcárias
+        • 6802.93 – Granito
+        • 6802.99 - Outras pedras
+Esta posição compreende as pedras naturais de cantaria ou de construção (exceto as de
+ardósias) que sofreram obra mais adiantada do que o simples trabalho habitual de pedreira do
+Capítulo 25. Todavia, certas exceções resultam de haver posições na Nomenclatura que
+
+
+
+
+                               28.junho.2023| www.abirochas.com.br
+permitem uma classificação mais específica destes artigos. Encontram-se exemplos desses casos
+no final destas Notas Explicativas e nas Considerações Gerais deste Capítulo.
+
+Incluem-se, portanto, no Capítulo 25 as pedras de cantaria ou de construção que se apresentem
+em blocos, pedras de alvenaria ou placas (lâminas) em bruto, simplesmente partidas (em
+                                                                                                       18
+pedaços ou cortadas), desbastadas (grosseiramente esquadriadas) ou simplesmente serradas
+(com todas as faces de forma quadrada ou retangular). As que apresentam trabalho mais
+elaborado incluem-se no presente Capítulo.
+
+Esta posição inclui, portanto, as seguintes obras de entalhador, torneiro ou de escultor:
+
+    a) Os esboços de obras obtidos por simples serração, bem como as placas serradas de
+       forma especial (com a totalidade ou parte das faces de forma triangular, hexagonal,
+       trapezoidal, circular etc.).
+    b) As pedras, qualquer que seja a sua forma (mesmo em blocos, placas ou lâminas)
+       constituindo ou não obras acabadas, tendo sofrido afeiçoamento ou outros trabalhos,
+       tais como cinzelagem e bossagem (saliência deixada para futura ornamentação),
+       apicoagem, desbaste, sulcagem, aplainamento, areamento, polimento, abertura de
+       chanfraduras, cercaduras, trabalho de torno, ornamentação, escultura.
+
+Entre estas obras podem citar-se os materiais para construção e para outros fins, incluindo as
+placas (lajes) que tenham sido submetidas às operações acima referidas, as lajes e ladrilhos para
+revestimento de paredes, degraus ou patamares de escadarias, cornijas, frontões, balaústres,
+cachorros3, ornatos e vigas de portas, de janelas, de chaminés, peitoris de janelas, soleiras de
+portas, jazigos, marcos itinerários ou placas de sinalização de estradas e letreiros de ruas
+(mesmo esmaltados), frases de pedra, tanques, gamelas, depósitos de chafariz, esferas para
+moinhos, vasos para flores, colunas, bases e capitéis de colunas, estátuas, estatuetas, pedestais,
+altos e baixos-relevos, cruzes, figuras de animais, jarras, taças, bomboneiras, estojos para
+objetos de escrita, cinzeiros, pesa-papéis (pisa-papéis), imitações de frutos e folhas etc. Quanto
+aos objetos de ornamentação, por exemplo, quando combinados com outras matérias, apenas
+se classificam nesta posição os que conservem as características de obras de pedra, ressalvadas
+as disposições especiais que digam respeito à bijuteria ou a artigos associados com metais
+preciosos ou com metais folheados ou chapeados de metais preciosos (plaquê) (ver as Notas
+Explicativas do Capítulo 71).
+
+Deve-se mencionar especialmente as placas de pedra para móveis (colunas de bufê, lavatórios,
+mesas de cafés etc.), geralmente de mármore que, quando se apresentem em conjunto com os
+móveis (desmontados ou não) a que manifestamente se destinam, seguem o regime do
+respectivo móvel (Capítulo 94). Quando apresentados isoladamente, incluem-se nesta posição.
+
+
+
+
+3
+  Em arquitetura, designa-se como cachorro ou mísula a um elemento exposto que suporta os beirais de
+um telhado ou qualquer outro corpo saliente de um edifício (arcos, arquitraves e cornijas), ao mesmo
+tempo que pode ter carácter decorativo. Fonte: Wikipedia (Portugal).
+
+
+                               28.junho.2023| www.abirochas.com.br
+As obras de pedras de cantaria ou de construção são obtidas, em geral, a partir das pedras das
+posições 25.15 ou 25.16, mas podem também ser obtidas a partir de quaisquer outras pedras
+naturais (exceto as de ardósia), tais como a dolomita, quartzito, sílex e esteatita. Em virtude da
+sua resistência ao calor e à corrosão, esta última variedade de pedras é principalmente utilizada
+para a construção de fornos de recuperação. Também se emprega nos aparelhos utilizados na            19
+
+fabricação de pasta de papel, nas indústrias químicas etc.
+
+Também se incluem aqui os pequenos cubos, pastilhas e artigos semelhantes, de mármore e de
+outras pedras naturais (incluindo a ardósia), preparados, para mosaicos, revestimentos diversos
+etc., fixados ou não em papel ou outras matérias, entendendo-se que os grânulos e as lascas,
+sem destino especial, bem como as areias naturais coradas, se incluem no Capítulo 25. Porém,
+os grânulos, lascas e pedras coradas artificialmente, incluindo a ardósia (para a decoração de
+vitrinas, por exemplo), classificam-se nesta posição.
+
+Pelo contrário, as obras tais como placas, lajes, ladrilhos, obtidas por aglomeração de
+fragmentos de pedra natural com cimento ou outro aglutinante (principalmente plástico) e
+ainda as estatuetas, colunas, taças etc., feitas de pó ou de fragmentos de pedra, moldados e
+comprimidos, classificam-se na posição 68.10.
+
+Também se excluem desta posição:
+    a) A ardósia trabalhada e as obras de ardósia, exceto os cubos, pastilhas e artigos
+       semelhantes, para mosaicos das posições 68.03, 96.09 ou 96.10.
+    b) As obras de basalto fundido (posição 68.15).
+    c) Os artigos de esteatita, talhada ou trabalhada na rocha, que tenham sido submetidos a
+       cozedura cerâmica, dos Capítulos 69 ou 85, consoante o caso.
+    d) As bijuterias (posição 71.17).
+    e) Os artigos do Capítulo 91 e especialmente as caixas e semelhantes de pêndulas e de
+       outros aparelhos de relojoaria.
+    f) Os aparelhos de iluminação e suas peças (posição 94.05).
+    g) Os botões de pedra (posição 96.06) e os gizes das posições 95.04 ou 96.09.
+    h) As produções originais de arte estatuária ou de escultura (posição 97.03).
+
+6.5 Posição 6803 - Ardósia natural trabalhada e obras de ardósia natural ou
+     aglomerada
+Enquanto a ardósia natural em blocos ou em placas, em bruto, clivados, refendidos ou divididos
+por qualquer outro modo, desbastados (grosseiramente esquadriados) ou simplesmente
+serrados, está incluída na posição 25.14, a presente posição engloba os produtos desta natureza
+que sofreram tratamento mais adiantado, tais como os blocos e placas, cortados de outra forma
+que não seja a quadrada ou retangular, polidos, chanfrados, furados, envernizados, esmaltados,
+emoldurados ou ornamentados.
+Incluem-se, por exemplo, aqui, as obras de ardósia natural, tais como os ladrilhos de
+revestimento e as placas (lajes) (para edifícios, pavimentação, instalações sanitárias, químicas
+
+
+
+                              28.junho.2023| www.abirochas.com.br
+etc.), polidos ou trabalhados de outro modo, as gamelas, os reservatórios, as bacias, as pias, as
+sarjetas e os consoles de lareiras.
+
+Também estão compreendidas nesta posição, desde que sejam reconhecíveis como tais, as
+ardósias para telhados e para revestimento de empenas, fachadas etc., quer tenham uma forma
+                                                                                                    20
+especial (poligonal, arredondada etc.), quer tenham forma quadrada ou retangular.
+
+As obras de ardósia aglomerada também se incluem nesta posição. Esta posição, no entanto,
+não compreende:
+
+    a) Os grânulos, lascas e pós, de ardósia, não corados artificialmente (posição 25.14).
+    b) Os cubos, pastilhas e artigos semelhantes, para mosaicos, de ardósia, bem como os
+       grânulos, lascas e pós, de ardósia corados artificialmente (posição 68.02).
+    c) Os lápis de ardósia (posição 96.09) e as ardósias prontas a serem usadas, e os quadros
+       de ardósia, mesmo não emoldurados, para escrever ou desenhar (posição 96.10).
+
+
+
+
+                              28.junho.2023| www.abirochas.com.br
+    7 Observações sobre as posições adotadas para materiais artificiais
+
+
+Estão definidas na TEC NESH como “pedra artificial as imitações de pedra natural que se obtêm
+aglomerando-se com cimento, cal ou outros aglutinantes (plástico, por exemplo), fragmentos,                 21
+grânulos ou pó, de pedra natural (mármore e outras pedras calcárias, granito, pórfiro,
+serpentina, por exemplo). Os artigos em granito ou em terrazzo 4 também são variedades de
+pedra artificial”. Encaixam-se nas posições 6810.19 e 6810.99, assim detalhadas:
+
+6810.1 - Telhas, ladrilhos, placas (lajes), tijolos e artigos semelhantes:
+   • 6810.11 - Blocos e tijolos para a construção
+   • 6810.19 - Outros
+
+6810.9 - Outras obras:
+   • 6810.91 - Elementos pré-fabricados para a construção ou engenharia civil
+   • 6810.99 - Outras
+Entre as obras compreendidas nesta posição, devem citar-se blocos, tijolos, ladrilhos, telhas,
+placas e elementos para construção, pilares, postes, marcos, meios-fios (lancis), degraus de
+escadarias, balaustradas, banheiras, pias, sanitários etc., conforme mencionado nas notas da
+TEC NESH para a posição 68.10.
+
+Observa-se que essas obras são obtidas por processos de “moldagem, extrusão ou
+centrifugação”, de acordo com a Nota Explicativa da posição 6810. Os denominados quartz
+surfaces ou engineered stones, como p.ex. Caesarstone (pó de quartzo, resina e pigmentos),
+também se enquadram na posição 6810. São formados por moldagem em placas, submetidas à
+alta pressão sob vácuo e vibração.
+
+Tais obras não envolvem processos de fundição, como ocorre na produção do nanoglass (sílica
+fundida a 1600°C e recozida em forno de rolo para resfriamento), que é enquadrado na
+subposição 7005.21.00 (outro vidro não armado, corado na massa, opacificado, folheado
+(chapeado) ou simplesmente desbastado), formado por sílica fundida. O marmoglass, por sua
+vez, tem o mesmo processo de produção do nanoglass, com a inclusão de pó de mármore na
+massa.
+
+
+
+
+4
+ Terrazzo: no Brasil utiliza-se o termo “granilite” e “marmorite”, mistura constituída por cimento (comum
+ou branco), areia, água e rochas e/ou minerais em diversas granulometrias. No caso do marmorite, a
+mistura é feita apenas com mármore em pó ou grânulos de mármore na massa cimentícia.
+
+
+                                28.junho.2023| www.abirochas.com.br
+ 8 Proposta de revisão parcial dos códigos fiscais utilizados para
+  produtos de rochas ornamentais: capítulos 25 e 68
+
+
+Os códigos NCM atualmente utilizados são inespecíficos para alguns tipos de rochas e produtos     22
+
+comerciais, dificultando seu entendimento e aplicação. As recomendações a seguir
+apresentadas envolvem o enquadramento e diferenciação de rochas brutas (blocos e lajões),
+rochas processadas semiacabadas (chapas em geral) e rochas processadas acabadas (produtos
+diversos, prontos para aplicação). Também é apontada a necessidade de discriminação de
+rochas silicosas (quartzitos, arenitos etc.) e ultramáficas (sobretudo pedra-sabão), através de
+códigos NCM próprios.
+
+Tais adequações poderiam ser atendidas por apenas quatro novos códigos NCM (SH8),
+agregados ao Capítulo 68, preservando-se dois códigos SH8 já existentes para grupos mais
+específicos de produtos. Foram, no caso, acolhidas, as orientações sugeridas pela ANM –
+Agência Nacional de Mineração, por intermédio do Dr. Mariano Laio de Oliveira.
+
+Todos os códigos NCM atrelados ao Capítulo 25 ficam assim vinculados aos produtos diretos da
+lavra de rochas ornamentais, excluindo as chapas brutas (apenas serradas e sem acabamento
+de face). Todas as chapas, incluindo as brutas, as beneficiadas com acabamento de face não
+esquadrejadas e as beneficiadas esquadrejadas, neste caso com área total igual à área útil,
+seriam remetidas aos códigos NCM desdobrados das SH5 6802.2 (6802.21.00, 6802.23.00 e
+6802.29.00). Todos os produtos acabados, incluindo peças apenas recortadas, para o
+revestimento de pisos e paredes, e peças seriadas cut to size, seriam atrelados ao SH5 6802.9,
+observando-se o princípio da “progressão do beneficiamento” frente às chapas.
+Os novos códigos NCM a serem adotados incluiriam:
+
+    •   6802.29.10 – chapas de rochas silicosas (quartzitos maciços, arenitos e similares)
+    •   6802.29.20 – chapas de rochas ultramáficas (pedra-sabão e pedra-talco)
+    •   6802.99.10 – produtos acabados de rochas silicosas (quartzitos maciços, arenitos e
+        similares)
+    •   6802.99.20 – produtos acabados de rochas ultramáficas (pedra-sabão e pedra-talco)
+
+Os códigos NCM 6802.29.00 e 6802.99.90, já existentes, seriam respectivamente preservados
+para chapas e para produtos acabados de rochas silicáticas diversas, reservando-se as posições
+fiscais 6802.23.00 e 6802.93.90 para as denominadas rochas graníticas verdadeiras (granitos
+s.s.).
+
+
+
+
+                             28.junho.2023| www.abirochas.com.br
+                                                                                                23
+
+
+
+
+ Elaboração: geólogo Cid Chiodi Filho
+
+
+Complementarmente, pode-se aventar a subdivisão dos códigos NCM 6802.10.00 (peças para
+mosaicos e paisagismo, com lados menores que 7 cm) e 6801.00.00 (produtos de
+beneficiamento simples) por tipos de rochas, bem como do código 6803.00.00 para diferentes
+produtos de ardósias e, sobretudo, de telhas (roofing slate).
+
+As modificações/inserções propostas devem ser acordadas com os produtos brasileiros da
+ProdList (IBGE), por intermédio de consulta à SECEX (Secretaria e Comércio Exterior) e às
+autoridades alfandegárias do Mercosul. Demanda-se uma exposição de motivos para as
+alterações pretendidas, tendo-se como base, no presente caso, o aumento do volume de
+exportações em códigos NCM que constituem as referidas “cestas genéricas” (p.ex. da
+6802.99.90) e a necessidade de discriminação de diferentes produtos de rochas (p.ex. chapas e
+produtos acabados), para efeito de controles estatísticos das exportações setoriais e da
+evolução do mercado internacional.
+
+
+
+
+                                   28.junho.2023| www.abirochas.com.br
