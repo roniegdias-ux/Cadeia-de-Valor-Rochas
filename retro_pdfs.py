@@ -21,6 +21,7 @@ import subprocess
 import sys
 import tempfile
 import time
+import unicodedata
 import urllib.parse
 from datetime import datetime, timezone
 
@@ -37,6 +38,14 @@ def canonico(url):
     u = urllib.parse.urlsplit(url.strip())
     host = (u.hostname or "").removeprefix("www.")
     return host + urllib.parse.unquote(u.path)
+
+
+def nome_base(url):
+    """Mesmo arquivo publicado em pastas diferentes (uploads/2018/01 e 2018/03) ou com sufixo de versão."""
+    n = urllib.parse.unquote(urllib.parse.urlsplit(url).path.rsplit("/", 1)[-1]).lower()
+    n = re.sub(r"\.pdf$", "", n)
+    n = re.sub(r"([-_ ](v\d+|\d|compressed))+$", "", n)
+    return re.sub(r"[^a-z0-9]+", "", unicodedata.normalize("NFKD", n).encode("ascii", "ignore").decode())
 
 
 def gravar_indice(indice):
@@ -66,7 +75,9 @@ def main():
     os.chdir(os.path.dirname(os.path.abspath(__file__)))
     p = argparse.ArgumentParser()
     p.add_argument("--minutos", type=float, default=150)
-    limite = time.time() + p.parse_args().minutos * 60
+    p.add_argument("--so-prioritarios", action="store_true", help="só informes, relatórios, balanços etc.")
+    a = p.parse_args()
+    limite = time.time() + a.minutos * 60
     cfg = rede.ler_json("config.json")["retro"]
     rx = re.compile(cfg["pdf_regex"], re.I)
     log = []
@@ -83,12 +94,15 @@ def main():
         with open(INDICE, encoding="utf-8") as f:
             indice = {r["url"]: r for r in map(json.loads, f)}
     feitos = {canonico(u) for u, r in indice.items() if r.get("caracteres")}
+    feitos_nome = {nome_base(u) for u, r in indice.items() if r.get("caracteres")}
     tem_pdftotext = shutil.which("pdftotext") is not None
     os.makedirs(f"{DIR}/textos", exist_ok=True)
     novos = falhas = recusas_ia = pendentes = 0
     fila = sorted(candidatos.items(), key=lambda kv: (not PRIORIDADE.search(urllib.parse.unquote(kv[0])), kv[0]))
     for i, (url, meta) in enumerate(fila):
-        if canonico(url) in feitos:
+        if canonico(url) in feitos or nome_base(url) in feitos_nome:
+            continue
+        if a.so_prioritarios and not PRIORIDADE.search(urllib.parse.unquote(url)):
             continue
         if time.time() > limite:
             pendentes += 1

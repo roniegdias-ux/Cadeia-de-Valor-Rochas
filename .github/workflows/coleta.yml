@@ -7,10 +7,11 @@ on:
     - cron: "17 9 * * *"     # diário 06:17 BRT — notícias
     - cron: "37 10 * * 1"    # segunda — matriz + bibliografia
     - cron: "47 11 8 * *"    # dia 8 — séries (ComexStat já publicou o mês)
+    - cron: "23 5 * * 3,6"   # qua e sáb de madrugada — PDFs prioritários pendentes (Internet Archive)
   workflow_dispatch:
     inputs:
       modo:
-        description: "matriz | diario | semanal | mensal | backfill | backfill-biblio | backfill-dados | retro-sites | retro-gn | retro-gdelt | anm | neve | retro-wayback | retro-pdfs"
+        description: "matriz | diario | semanal | mensal | backfill | backfill-biblio | backfill-dados | retro-sites | retro-gn | retro-gdelt | anm | neve | retro-wayback | retro-pdfs | retro-pdfs-prio"
         required: true
         default: diario
 permissions:
@@ -39,6 +40,7 @@ jobs:
           if [ -n "${{ github.event.inputs.modo }}" ]; then m="${{ github.event.inputs.modo }}"
           elif [ "${{ github.event.schedule }}" = "37 10 * * 1" ]; then m=semanal
           elif [ "${{ github.event.schedule }}" = "47 11 8 * *" ]; then m=mensal
+          elif [ "${{ github.event.schedule }}" = "23 5 * * 3,6" ]; then m=retro-pdfs-prio
           else m=diario; fi
           echo "modo=$m" >> "$GITHUB_OUTPUT"
       - name: Matriz (semanal, ou se não houver)

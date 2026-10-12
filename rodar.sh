@@ -30,6 +30,7 @@ case "$modo" in
                  python3 retro_resumo.py || st=$? ;;
   retro-pdfs)  python3 retro_pdfs.py --minutos "${MINUTOS_PDF:-165}" || st=$?
                python3 retro_resumo.py || st=$? ;;
+  retro-pdfs-prio) python3 retro_pdfs.py --so-prioritarios --minutos "${MINUTOS_PDF:-120}" || st=$? ;;
   neve)        python3 biblio_neve.py || st=$? ;;
   retro-gdelt) python3 retro_gdelt.py --minutos "${MINUTOS:-120}" || st=$?
                python3 retro_resumo.py || st=$? ;;
