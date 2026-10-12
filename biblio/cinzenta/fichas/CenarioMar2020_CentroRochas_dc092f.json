@@ -1,0 +1,38 @@
+{
+  "id": "CenarioMar2020_CentroRochas_dc092f",
+  "arquivo": "CenarioMar2020_CentroRochas.pdf",
+  "emissor": "Centrorochas",
+  "titulo": "Crescimento e Preços dos Ativos em Cenário de Instabilidade",
+  "data_publicacao": "2020-03",
+  "periodo_coberto": "2019-mar/2020",
+  "tipo": "apresentacao",
+  "tema": "Apresentação de economista da APX Investimentos em live do Centrorochas sobre cenário macroeconômico, choque do coronavírus, juros e preços de ativos no Brasil e no mundo.",
+  "elos": ["E10"],
+  "indicadores": [
+    {"nome": "Taxa Selic", "valor": "de 14.25% para 3.75%", "unidade": "% a.a.", "periodo": "governo Temer a mar/2020", "trecho": "Desde o governo Temer, a taxa Selic vem caindo: de\n14.25% para 3.75%."},
+    {"nome": "Casos de coronavírus no Brasil", "valor": "69", "unidade": "casos", "periodo": "até 12/03/2020", "trecho": "Até dia 12/03 o Brasil teve 69 casos."}
+  ],
+  "explicacoes": [
+    {"fenomeno": "Interrupção da valorização dos ativos domésticos e dúvidas sobre crescimento", "causa_atribuida": "Choque provocado pelo surto do coronavírus", "trecho": "O choque provocado pelo surto do cornavírus veio\n  levanter dúvidas sobre o crescimento e avalorização dos\n  ativos."},
+    {"fenomeno": "Efeitos do coronavírus sobre o Brasil", "causa_atribuida": "Transmissão via mercados internacionais (financeiros, relações comerciais e investimentos), sem efeitos diretos do vírus até então", "trecho": "Até o momento, os efeitos sobre o Brasil são via\n  mercados internacionais."},
+    {"fenomeno": "Queda da Selic com pouco impacto nos juros para famílias e empresas", "causa_atribuida": "Spread bancário muito alto", "trecho": "Isto porque o spread bancário é muito alto."},
+    {"fenomeno": "Queda nos juros do setor imobiliário", "causa_atribuida": "Mudanças introduzidas pela CEF", "trecho": "No setor imobiliário as mudanças introduzidas pela CEF\n  têm gerado queda nos juros."},
+    {"fenomeno": "Melhora de expectativas, crescimento e valorização dos ativos", "causa_atribuida": "Reformas aprovadas nos governos Temer/Bolsonaro", "trecho": "As reformas ja aprovadas nos governos Temer/Bolsonaro\n  melhoraram as expectativas, gerando crescimento e valorização\n  dos ativos."},
+    {"fenomeno": "Instabilidade externa no início de 2020", "causa_atribuida": "Surto de coronavírus na China com ameaça de espalhar pelo mundo, após resolução das incertezas China-EUA e UE-Reino Unido", "trecho": "Mas, surto de coronavirus atinge a China e ameaça espalhar pelo mundo."}
+  ],
+  "mercados": [
+    {"pais": "China", "afirmacao": "Crescimento alto, em queda, com efeitos incertos do coronavírus.", "trecho": "China: crescimento alto, em queda"},
+    {"pais": "Estados Unidos", "afirmacao": "Crescimento menor, mas estável.", "trecho": "USA: crescimento menor, mas estável"}
+  ],
+  "politicas": [
+    {"medida": "Redução de tarifas de importação para máquinas e equipamentos (Portaria 2024 do Ministério da Economia)", "afirmacao": "Listada entre as mudanças realizadas em 2019.", "trecho": "Redução de tarifas de importação para máquinas e equipamentos\n     (Portaria 2024 do Ministerio da Economia)."},
+    {"medida": "Reforma da Previdência e MP da Liberdade Econômica", "afirmacao": "Listadas entre as reformas já realizadas em 2019.", "trecho": "Aprovação pelo Congresso da MP da Liberdade Econômica (MP\n     881/2019)"},
+    {"medida": "Agenda de reformas em 2020", "afirmacao": "O caminho recomendado é manter as reformas para preservar estabilidade macro e crescimento.", "trecho": "O caminho é manter as reformas em 2020, para manter a\n  estabilidade macro e o crescimento"}
+  ],
+  "precos": [],
+  "desafios": [
+    {"afirmacao": "O surto de coronavírus pode alterar os fundamentos da economia mundial, sobretudo se o ciclo de crescimento das maiores economias tiver chegado ao fim.", "trecho": "O surto de coronavirus no início de 2020 interrompeu a\n  tendência de valorização dos ativos e pode alterar os\n  fundamentos da economia mundial."}
+  ],
+  "pleitos": [],
+  "observacao": "Apresentação macroeconômica genérica (APX Investimentos) em evento do Centrorochas; não trata especificamente do setor de rochas ornamentais. Gráficos sem dados legíveis no texto extraído."
+}

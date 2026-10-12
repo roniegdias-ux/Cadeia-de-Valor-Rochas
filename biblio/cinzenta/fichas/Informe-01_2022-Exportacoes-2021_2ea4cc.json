@@ -1,0 +1,228 @@
+{
+ "id": "Informe-01_2022-Exportacoes-2021_2ea4cc",
+ "arquivo": "Informe-01_2022-Exportacoes-2021.pdf",
+ "emissor": "Abirochas",
+ "titulo": "Balanço das exportações e importações brasileiras de materiais rochosos naturais e artificiais de ornamentação e revestimento em 2021 (Informe 01/2022)",
+ "data_publicacao": "2022-02",
+ "periodo_coberto": "2021",
+ "tipo": "conjuntura",
+ "tema": "Balanço anual 2021 do comércio exterior de rochas naturais e artificiais, com estimativas de produção, consumo interno aparente e comentários sobre pandemia, câmbio e exportação de blocos.",
+ "elos": [
+  "E1",
+  "E2",
+  "E5",
+  "E6",
+  "E7",
+  "E10"
+ ],
+ "indicadores": [
+  {
+   "nome": "Produção brasileira estimada de rochas ornamentais",
+   "valor": "10,2",
+   "unidade": "Mt",
+   "periodo": "2021",
+   "trecho": "A produção estimada pela ABIROCHAS\npara o atendimento da demanda foi de 10,2 Mt."
+  },
+  {
+   "nome": "Consumo per capita de rochas ornamentais",
+   "valor": "19,7 kg ou 0,36 m2",
+   "unidade": "kg/hab; m2/hab",
+   "periodo": "2021",
+   "trecho": "O consumo brasileiro per capita foi estimado em 19,7 kg ou 0,36 m 2 no ano de 2021."
+  },
+  {
+   "nome": "Preço médio das exportações de rochas processadas",
+   "valor": "556,50 (+21,61%)",
+   "unidade": "US$/t",
+   "periodo": "2021",
+   "trecho": "o preço médio dessas exportações cresceu\n21,61%, passando de US$ 457,60/t em 2020 para US$ 556,50/t em 2021."
+  },
+  {
+   "nome": "Participação de rochas processadas no faturamento das exportações",
+   "valor": "80,51",
+   "unidade": "%",
+   "periodo": "2021",
+   "trecho": "A participação de rochas processadas no faturamento evoluiu de 80,02% em 2020 para\n80,51% em 2021"
+  },
+  {
+   "nome": "Preço médio das exportações para EUA vs. China",
+   "valor": "840 (EUA); 220 (China)",
+   "unidade": "US$/t",
+   "periodo": "2021",
+   "trecho": "O preço médio dos produtos exportados para os EUA, quase essencialmente de rochas\nprocessadas em chapas, foi de US$ 840/t, enquanto para a China, que importa apenas rochas\nbrutas em blocos, o preço médio foi de US$ 220/t."
+  },
+  {
+   "nome": "Participação de ES e MG no faturamento das exportações",
+   "valor": "93,2",
+   "unidade": "%",
+   "periodo": "2021",
+   "trecho": "Espírito Santo e Minas Gerais compõem 93,2% do total do faturamento das\nexportações brasileiras."
+  },
+  {
+   "nome": "Participação das exportações de rochas no total exportado pelo setor mineral",
+   "valor": "2,3",
+   "unidade": "%",
+   "periodo": "2021",
+   "trecho": "As exportações brasileiras de rochas ornamentais representaram 2,3% daquelas apontadas\npelo IBRAM para o setor mineral em 2021 (US$ 58 bilhões)."
+  },
+  {
+   "nome": "Preço médio por porto de embarque",
+   "valor": "Vitória 280; Santos 720; Rio de Janeiro 760",
+   "unidade": "US$/t",
+   "periodo": "2021",
+   "trecho": "O preço médio de US$ 280/t indica que as\nexportações pelo porto de Vitória envolveram quase essencialmente blocos"
+  },
+  {
+   "nome": "Faturamento das exportações vs. investimentos Apex-Brasil/ABIROCHAS",
+   "valor": "37 vezes",
+   "unidade": "razão (em reais)",
+   "periodo": "2021 vs. 2000-2020",
+   "trecho": "O faturamento das exportações\nde rochas, somente em 2021, foi 37 vezes maior (em reais) que o total dos investimentos do\nconvênio Apex-Brasil/ABIROCHAS no período 2000-2020."
+  },
+  {
+   "nome": "Blocos de quartzito exportados e potencial em chapas",
+   "valor": "140 mil t; cerca de 1,6 Mm2",
+   "unidade": "t; m2 de chapas",
+   "periodo": "2021",
+   "trecho": "Apenas em 2021 já foram remetidos ao exterior 140 mil t de blocos de quartzito,\ncapazes de gerar cerca de 1,6 Mm2 de chapas."
+  }
+ ],
+ "explicacoes": [
+  {
+   "fenomeno": "Aumento do preço médio e da participação das rochas processadas nas exportações em 2021",
+   "causa_atribuida": "Pressão internacional de demanda, especialmente dos EUA por chapas brasileiras, e maior participação de chapas de alto valor agregado (quartzitos, mármores, pedra-sabão)",
+   "trecho": "Estes incrementos\nconstituíram resultado tanto da pressão internacional de demanda, especialmente do\nmercado dos EUA pelas chapas brasileiras, quanto da maior participação de chapas com\ngrande valor agregado"
+  },
+  {
+   "fenomeno": "Crescimento das importações de rochas em 2021",
+   "causa_atribuida": "Aumento da produção e do consumo interno, associado ao aquecimento da construção civil imobiliária e das reformas residenciais",
+   "trecho": "observou-se que o crescimento das\nimportações foi consoante ao aumento da produção e consumo interno. Isto reforça a\nimpressão de aquecimento da construção civil imobiliária e das reformas residenciais em\n2021"
+  },
+  {
+   "fenomeno": "Queda das exportações no 1º semestre de 2020",
+   "causa_atribuida": "Pandemia de Covid-19 e incertezas sobre as atividades produtivas",
+   "trecho": "No 1º semestre de 2020 a queda das\nexportações brasileiras respondeu às incertezas de desenvolvimento das atividades\nprodutivas."
+  },
+  {
+   "fenomeno": "Recuperação das exportações a partir do 2º semestre de 2020",
+   "causa_atribuida": "Vacinação, relaxamento das restrições à circulação e estímulos socioeconômicos em todas as economias",
+   "trecho": "O início da recuperação, já observada a partir do 2º semestre do mesmo ano,\nvinculou-se às novas perspectivas criadas pela vacinação, relaxamento das medidas restritivas\nà circulação de pessoas"
+  },
+  {
+   "fenomeno": "Recorde de exportações em 2021",
+   "causa_atribuida": "Processo de internacionalização empresarial de médio e longo prazo conduzido pela ABIROCHAS desde 1999, usufruindo da desvalorização cambial",
+   "trecho": "o ocorrido em 2021 resultou de um\nprocesso de internacionalização empresarial de médio e longo prazo, conduzido pela\nABIROCHAS desde 1999."
+  },
+  {
+   "fenomeno": "Recorde de exportações em 2021",
+   "causa_atribuida": "Desvalorização cambial (lado benéfico) somada à maturidade e modernização tecnológica da indústria",
+   "trecho": "contribuiu para a maturidade empresarial e\nmodernização tecnológica da indústria setorial, usufruindo do lado benéfico da desvalorização\ncambial e permitindo alcançar novo recorde de exportações."
+  },
+  {
+   "fenomeno": "Oscilações agudas das exportações",
+   "causa_atribuida": "Não são determinadas pontualmente pelos programas de promoção, que geram maturidade e resiliência de longo prazo",
+   "trecho": "Demonstra-se que oscilações agudas das exportações do setor de rochas não são\ndeterminadas pontualmente pelos programas de promoção existentes."
+  },
+  {
+   "fenomeno": "Redução da fatia dos materiais naturais no mercado de revestimentos",
+   "causa_atribuida": "Concorrência dos porcelanatos, mais que dos materiais rochosos artificiais (quartz surfaces)",
+   "trecho": "a redução da fatia dos materiais naturais é até mais evidenciada\npelos porcelanatos do que pelos chamados materiais rochosos artificiais (quartz surfaces)."
+  },
+  {
+   "fenomeno": "Embarque predominante de blocos (e não chapas) pelo porto de Vitória",
+   "causa_atribuida": "Deficiências logísticas de Vitória para embarque de chapas em contêineres",
+   "trecho": "Vitória continuou assim evidenciando deficiências logísticas para\nembarque das chapas produzidas no estado."
+  }
+ ],
+ "mercados": [
+  {
+   "pais": "EUA",
+   "afirmacao": "Principal destino, com US$ 838,60 milhões e 996,3 mil t em 2021.",
+   "trecho": "Os EUA responderam\npor US$ 838,60 milhões e 996,3 mil t das exportações"
+  },
+  {
+   "pais": "China",
+   "afirmacao": "Segundo destino, importa apenas blocos, com US$ 153,70 milhões e 713,9 mil t.",
+   "trecho": "enquanto a China respondeu por US$\n153,70 milhões e 713,9 mil t."
+  },
+  {
+   "pais": "México",
+   "afirmacao": "Evolução do comércio bilateral: exportações brasileiras passaram de US$ 29,6 milhões (2018) para US$ 50,9 milhões (2021); importações de travertinos cresceram.",
+   "trecho": "Também notável\né a evolução do comércio bilateral Mexico-Brasil: em 2018 o Brasil exportou US$ 29,6 milhões\ne 49,6 mil t para o México"
+  },
+  {
+   "pais": "Turquia",
+   "afirmacao": "Principal fornecedor de rochas naturais ao Brasil (13,7 mil t), sobretudo rochas carbonáticas processadas.",
+   "trecho": "Turquia (13,7 mil t),\nMéxico, Itália, Indonésia, Espanha, China, Grécia, Egito e Portugal (1,8 mil t)."
+  },
+  {
+   "pais": "China",
+   "afirmacao": "Principal fornecedora de materiais artificiais ao Brasil, com os menores preços médios.",
+   "trecho": "A China colocou-se como principal fornecedora do Brasil em 2021, com US$ 48,2 milhões e\n89,3 mil t"
+  },
+  {
+   "pais": "EUA",
+   "afirmacao": "Responderam por 81,7% das exportações brasileiras de materiais artificiais.",
+   "trecho": "Os EUA responderam por 81,7% do total exportado,\nrepresentando um faturamento de US$ 15,3 milhões."
+  },
+  {
+   "pais": "Indonésia",
+   "afirmacao": "Importação de rochas vulcânicas (pedra Hijau e Hitam) para revestimento de piscinas.",
+   "trecho": "É notável\na importação de rochas vulcânicas, procedentes da Indonésia e comercialmente designadas\npedra Hijau e pedra Hitam"
+  }
+ ],
+ "politicas": [
+  {
+   "medida": "Códigos fiscais NCM para rochas",
+   "afirmacao": "A inespecificidade dos códigos NCM dificulta diferenciar tipos de rocha e produtos exportados.",
+   "trecho": "A inespecificidade dos códigos fiscais existentes na NCM, para o setor de rochas ornamentais,\ncontinua dificultando a diferenciação de alguns tipos de rocha e produtos exportados"
+  },
+  {
+   "medida": "Convênio Apex-Brasil/ABIROCHAS de promoção de exportações",
+   "afirmacao": "Programas de promoção proporcionam internacionalização de longo prazo, maturidade e resiliência dos exportadores.",
+   "trecho": "O que tais programas\nde fato proporcionam é o imprescindível processo de internacionalização das empresas,\nbaseado em estratégias de longo prazo e conduzido profissionalmente."
+  }
+ ],
+ "precos": [
+  {
+   "produto": "Materiais rochosos artificiais exportados",
+   "afirmacao": "Preço médio de US$ 1.370/t, +46,4% sobre 2020.",
+   "trecho": "O preço médio dessas exportações foi de US$\n1.370/t, com variação positiva de 46,4% frente àquele de US$ 936/t registrado em 2020."
+  },
+  {
+   "produto": "Materiais artificiais importados",
+   "afirmacao": "Preço médio de US$ 581,5/t, próximo ao das chapas naturais importadas (US$ 526,7/t).",
+   "trecho": "Seu preço médio situou-se em\nUS$ 581,5/t e teve incremento de 2,9% frente a 2020"
+  },
+  {
+   "produto": "Materiais artificiais importados da China e Hong Kong",
+   "afirmacao": "Menores preços médios entre todos os fornecedores.",
+   "trecho": "Os preços médios da China (US$ 540/t) e Hong Kong (US$ 520/t) são os menores entre todos\nos fornecedores."
+  }
+ ],
+ "desafios": [
+  {
+   "afirmacao": "Expansão das exportações de blocos de quartzitos maciços e mármores beneficia concorrentes (China e Itália) e pode anular a vantagem da geodiversidade brasileira.",
+   "trecho": "A tendência de expansão das exportações de rochas estratégicas para o Brasil, como os\nquartzitos maciços e mármores, na forma de material bruto (blocos), precisa ser\nacompanhada com atenção"
+  },
+  {
+   "afirmacao": "Benefícios da verticalização ainda não alcançaram MG, BA e CE, cujas matérias-primas são industrializadas no ES.",
+   "trecho": "Os benefícios\nsocioeconômicos regionais, relacionados à verticalização da cadeia produtiva do setor de\nrochas, ainda não alcançaram estados como Minas Gerais, Bahia e Ceará"
+  },
+  {
+   "afirmacao": "Exportações capixabas de blocos de quartzito e de pedra-sabão, rochas não extraídas no ES, recomendam averiguação.",
+   "trecho": "São muito expressivas e recomendam averiguação as exportações capixabas de blocos de\nquartzito (2506.20.00), que não são extraídos no Espírito Santo."
+  },
+  {
+   "afirmacao": "Crescimento da participação dos materiais artificiais de revestimento também no mercado brasileiro.",
+   "trecho": "o que corrobora a tendência de crescimento, também\nno mercado brasileiro, da participação dos materiais artificiais de revestimento."
+  }
+ ],
+ "pleitos": [
+  {
+   "afirmacao": "Manter a posição brasileira nos EUA exige salto qualitativo: produtos acabados e atendimento direto de obras.",
+   "trecho": "A preservação e melhoria da posição brasileira no mercado internacional, e\nparticularmente nos EUA, dependerão de um salto qualitativo das exportações."
+  }
+ ],
+ "observacao": null
+}

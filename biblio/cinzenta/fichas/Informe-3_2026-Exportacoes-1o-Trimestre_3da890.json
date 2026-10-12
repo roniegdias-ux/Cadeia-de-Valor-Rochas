@@ -1,0 +1,54 @@
+{
+  "id": "Informe-3_2026-Exportacoes-1o-Trimestre_3da890",
+  "arquivo": "Informe-3_2026-Exportacoes-1o-Trimestre.pdf",
+  "emissor": "Abirochas",
+  "titulo": "Exportações e Importações Brasileiras de Rochas Ornamentais no 1º Trimestre de 2026 (Informe 03/2026)",
+  "data_publicacao": "2026-04",
+  "periodo_coberto": "jan-mar/2026",
+  "tipo": "conjuntura",
+  "tema": "Balanço do 1º trimestre de 2026: queda de 21% nas exportações, retração nos EUA, alta das vendas de blocos à China e riscos para o beneficiamento nacional.",
+  "elos": ["E2", "E3", "E6", "E7", "E11"],
+  "indicadores": [
+    {"nome": "Preço médio das exportações", "valor": "620", "unidade": "US$/t", "periodo": "1º tri/2026", "trecho": "Preço Médio: O preço médio das rochas exportadas no período foi de US$ 620 por tonelada."},
+    {"nome": "Número de países de destino", "valor": "91", "unidade": "países", "periodo": "1º tri/2026", "trecho": "91 países importaram rochas brasileiras no 1º trimestre de 2026."},
+    {"nome": "Número de estados exportadores", "valor": "18", "unidade": "UF", "periodo": "1º tri/2026", "trecho": "18 UF exportaram rochas ornamentais no 1º trimestre de 2026."},
+    {"nome": "Exportações de chapas de quartzitos maciços", "valor": "US$ 127,5 milhões (57,5 mil t)", "unidade": "US$ / t", "periodo": "1º tri/2026", "trecho": "Chapas de quartzitos maciços: US$ 127,5 milhões (57,5 mil toneladas)."},
+    {"nome": "Exportações para os EUA (variação)", "valor": "-39,5 (valor) / -41,7 (volume)", "unidade": "%", "periodo": "1º tri/2026 vs 1º tri/2025", "trecho": "Em termos de valor, houve uma queda de 39,5%, passando-se de US$ 204,9 milhões em 2025 para US$ 124,0 milhões em 2026."},
+    {"nome": "Exportações para a China (variação)", "valor": "+44 (valor) / quase +10 (peso)", "unidade": "%", "periodo": "1º tri/2026 vs 1º tri/2025", "trecho": "incremento de 44% em valor e quase 10% em peso"},
+    {"nome": "Participação da América do Norte no valor exportado", "valor": "quase 50", "unidade": "%", "periodo": "1º tri/2026", "trecho": "Com a América do Norte absorvendo quase 50% do valor total das exportações de maior preço, o setor enfrenta um risco extremo de concentração."},
+    {"nome": "Importações de rochas ornamentais", "valor": "9,7", "unidade": "US$ milhões", "periodo": "1º tri/2026", "trecho": "No primeiro trimestre de 2026, o Brasil importou um total de US$ 9,7 milhões em rochas ornamentais."}
+  ],
+  "explicacoes": [
+    {"fenomeno": "Queda de 21,32% no valor total exportado", "causa_atribuida": "Retração drástica das exportações para a América do Norte, principal mercado", "trecho": "Impacto da América do Norte: este é o principal motivo, já que a América do Norte é o maior mercado consumidor."},
+    {"fenomeno": "Queda de 21,32% no valor total exportado", "causa_atribuida": "Redução generalizada do volume físico exportado", "trecho": "Redução no volume total brasileiro (peso): houve uma queda generalizada na quantidade física exportada, com o peso total diminuindo 13,93%"},
+    {"fenomeno": "Aumento das exportações para a China apesar da crise imobiliária chinesa", "causa_atribuida": "Demanda internacional forte por rochas brasileiras processadas na China", "trecho": "Esse crescimento ocorreu apesar da crise anunciada no mercado imobiliário chinês, sugerindo que segue forte a demanda internacional por rochas brasileiras processadas na China."},
+    {"fenomeno": "Valor exportado à China cresceu mais que o volume", "causa_atribuida": "Participação crescente de blocos de quartzito", "trecho": "maior incremento em valor, frente ao volume físico exportado, decorre da participação crescente de blocos de quartzito nessas exportações."},
+    {"fenomeno": "Risco de desvalorização dos produtos brasileiros, inclusive no mercado doméstico", "causa_atribuida": "Maior competitividade da China no processamento de rochas, que vende processados a preços mais atraentes", "trecho": "Devido à maior competitividade do setor chinês no processamento de rochas, existe o risco de desvalorização dos produtos brasileiros, inclusive no mercado doméstico."},
+    {"fenomeno": "Possível acentuação da capacidade ociosa na serragem e redução do valor agregado", "causa_atribuida": "Tendência de queda nas exportações de chapas, forçando exportação de brutos", "trecho": "A tendência de queda nas exportações brasileiras de chapas pode resultar em uma acentuação da capacidade ociosa na serragem de blocos no país."},
+    {"fenomeno": "Contração de 21,35% no valor das exportações", "causa_atribuida": "Alta sensibilidade às pressões globais sobre os preços", "trecho": "como um sinal de alta sensibilidade às pressões globais sobre os preços."}
+  ],
+  "mercados": [
+    {"pais": "EUA / América do Norte", "afirmacao": "Principal mercado, com forte queda e risco de concentração", "trecho": "No primeiro trimestre de 2026, observou-se uma significativa redução na participação dos Estados Unidos nas exportações brasileiras de rochas."},
+    {"pais": "China", "afirmacao": "Rochas brasileiras cada vez mais processadas na China e revendidas; oferta em sites chineses", "trecho": "O aumento das exportações indica que uma quantidade cada vez maior de rochas brasileiras está sendo processada na China e posteriormente comercializada no mercado internacional."},
+    {"pais": "África e Ásia", "afirmacao": "Únicos continentes com crescimento das exportações", "trecho": "apenas dois continentes apresentaram crescimento nas exportações brasileiras de rochas ornamentais: África e Ásia."},
+    {"pais": "Oceania", "afirmacao": "Mercado secundário de alto valor (US$ 2.380/t) para diversificação", "trecho": "a expansão agressiva para mercados secundários de alto valor, como, por exemplo, Oceania (US$ 2.380/t), não é mais opcional"},
+    {"pais": "Turquia e México", "afirmacao": "Principais fornecedores das importações brasileiras", "trecho": "Turquia (US$ 3,1 milhões) e México (US$ 1,9 milhões), que lideraram o fornecimento para o mercado brasileiro no período."}
+  ],
+  "politicas": [],
+  "precos": [
+    {"produto": "Preço médio por região", "afirmacao": "Preço médio por tonelada aumentou em quase todas as regiões, exceto América Central", "trecho": "o preço médio por tonelada aumentou em quase todas aos regiões consideradas"},
+    {"produto": "Chapas de quartzito", "afirmacao": "Preço de referência de US$ 2.219/t sustenta a lucratividade do setor", "trecho": "processamento avançada para manter o preço de referência de US$ 2.219/t, já que esses produtos atualmente sustentam a lucratividade do setor."}
+  ],
+  "desafios": [
+    {"afirmacao": "Indústria brasileira tem dificuldade de manter valor diante da concorrência chinesa", "trecho": "tornando-se um desafio para a indústria brasileira manter o valor de seus produtos diante dessa concorrência internacional."},
+    {"afirmacao": "Redução do valor agregado afeta rentabilidade", "trecho": "reduzirem o valor agregado das rochas processadas, impactando diretamente rentabilidade do setor pela necessidade de manutenção da competitividade."},
+    {"afirmacao": "Sem perspectiva de evolução positiva em 2026; incremento inevitável de exportação de brutos", "trecho": "Não se pode assim esperar uma evolução positiva dessas exportações no ano em curso"},
+    {"afirmacao": "Necessidade de integrar a cadeia produtiva da lavra ao acabamento", "trecho": "A necessidade de integrar a cadeia produtiva de rochas, desde a etapa de lavra até o acabamento final, é fundamental para atender obras com produtos acabados"}
+  ],
+  "pleitos": [
+    {"afirmacao": "Priorizar investimento em tecnologia de processamento avançada", "trecho": "As partes interessadas devem priorizar o investimento em tecnologia de processamento avançada"},
+    {"afirmacao": "Voltar-se a materiais diferenciados e produtos acabados", "trecho": "o setor deve se voltar ainda mais para materiais diferenciados e produtos acabados com maior valor agregado."},
+    {"afirmacao": "Observar o atendimento do mercado interno com rochas brasileiras", "trecho": "devendo-se observar mais atentamente o atendimento do mercado interno"}
+  ],
+  "observacao": null
+}

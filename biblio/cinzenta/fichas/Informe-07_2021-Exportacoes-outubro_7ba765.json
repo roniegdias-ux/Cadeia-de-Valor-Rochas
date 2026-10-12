@@ -1,0 +1,119 @@
+{
+  "id": "Informe-07_2021-Exportacoes-outubro_7ba765",
+  "arquivo": "Informe-07_2021-Exportacoes-outubro.pdf",
+  "emissor": "Abirochas",
+  "titulo": "Balanço das exportações e importações brasileiras de rochas ornamentais no período janeiro-outubro de 2021",
+  "data_publicacao": "2021-11",
+  "periodo_coberto": "jan-out/2021",
+  "tipo": "conjuntura",
+  "tema": "Balanço jan-out/2021: exportações superam US$ 1 bilhão puxadas por chapas de quartzitos e rochas processadas de maior valor; aquecimento do mercado imobiliário dos EUA.",
+  "elos": ["E6", "E2", "E7", "E10"],
+  "indicadores": [
+    {
+      "nome": "Preço médio geral das exportações",
+      "valor": "545 (+23,3%)",
+      "unidade": "US$/t",
+      "periodo": "jan-out/2021",
+      "trecho": "O preço médio\ngeral das exportações (US$ 545/t) teve incremento de 23,3%"
+    },
+    {
+      "nome": "Preço médio e participação da posição 6802.99.90 (chapas de quartzitos e exóticas)",
+      "valor": "2.138,9 US$/t; 25,8% do faturamento",
+      "unidade": "US$/t; %",
+      "periodo": "jan-out/2021",
+      "trecho": "teve o maior preço médio (US$ 2.138,9/t) e o maior\nincremento em faturamento (+73,7%) e volume físico (+57,5%) entre todos os produtos\nexportados no setor de rochas, já compondo 25,8% do total do faturamento das exportações."
+    },
+    {
+      "nome": "Preço médio das rochas naturais importadas",
+      "valor": "487,3 (vs 502,3 em 2020)",
+      "unidade": "US$/t",
+      "periodo": "jan-out/2021",
+      "trecho": "Houve, neste caso, queda de 3% no preço médio dos produtos\nimportados, que passaram assim de US$ 502,3/t em 2020 para US$ 487,3/t em 2021."
+    },
+    {
+      "nome": "Importações de materiais rochosos artificiais",
+      "valor": "50 milhões e 80 mil t; preço médio 587,6 US$/t",
+      "unidade": "US$; t; US$/t",
+      "periodo": "jan-out/2021",
+      "trecho": "As importações de materiais rochosos artificiais somaram US$ 50 milhões e 80 mil t, com\nvariação também positiva de respectivamente 49,2% e 44,2% frente a 2020."
+    },
+    {
+      "nome": "Pico histórico do faturamento exportado (referência)",
+      "valor": "1,3 bilhão",
+      "unidade": "US$",
+      "periodo": "2013",
+      "trecho": "poderemos fechar o ano\nem curso com um faturamento até superior ao pico histórico de 2013 (US$ 1,3 bilhão)."
+    }
+  ],
+  "explicacoes": [
+    {
+      "fenomeno": "Demanda aquecida por reformas residenciais nos EUA",
+      "causa_atribuida": "Aumento dos preços das residências encoraja norte-americanos a investir em seus imóveis",
+      "trecho": "o aumento de preços das residências tem encorajado os norte-americanos a\ncontinuar investindo em seus imóveis."
+    },
+    {
+      "fenomeno": "Antecipação de compras de materiais de construção nos EUA",
+      "causa_atribuida": "Problemas logísticos nas cadeias de abastecimento e receio de falta de produtos",
+      "trecho": "Comerciantes e consumidores, inclusive de materiais de construção, buscam neste momento\nevitar a falta de produtos derivada dos problemas logísticos atualmente vivenciados pelas\ncadeias de abastecimento."
+    },
+    {
+      "fenomeno": "Incremento não convencional das exportações no fim de 2021 e recorde de outubro fora da sazonalidade",
+      "causa_atribuida": "Situação econômica dos EUA e de seu mercado imobiliário",
+      "trecho": "a situação\neconômica dos EUA e de seu mercado imobiliário parecem justificar incremento não\nconvencional dessas exportações nos últimos meses do ano."
+    },
+    {
+      "fenomeno": "Reação das exportações a partir do 2º semestre de 2020 e em 2021",
+      "causa_atribuida": "Aumento da oferta e vendas de rochas processadas de maior valor agregado (chapas de quartzitos, mármores, pedra-sabão, granitos exóticos), não do volume nem das brutas",
+      "trecho": "mas sim pelo aumento da\noferta e das vendas de rochas processadas com maior valor agregado, caso das chapas de\nquartzitos maciços, mármores, pedra-sabão e granitos exóticos."
+    },
+    {
+      "fenomeno": "Capacidade de ampliar a oferta de chapas",
+      "causa_atribuida": "Geodiversidade brasileira e parque de serragem com teares multifios diamantados",
+      "trecho": "Aproveitou-se a vantagem competitiva da geodiversidade brasileira e do maior e melhor\nparque de serragem de rochas muito duras e estruturalmente complexas"
+    },
+    {
+      "fenomeno": "Bom desempenho exportador",
+      "causa_atribuida": "Parceria ABIROCHAS–Apex-Brasil garantindo presença em feiras e promoção comercial",
+      "trecho": "Tudo isto foi, em boa medida, devido à exitosa parceria entre a ABIROCHAS e Apex-Brasil, que\ngarantiu a presença continuada e bem estruturada das empresas brasileiras nas grande feiras"
+    },
+    {
+      "fenomeno": "Aumento do preço médio em dólar",
+      "causa_atribuida": "Ocorreu mesmo em período de forte desvalorização do real (câmbio citado como contexto)",
+      "trecho": "com expressivo aumento do preço médio em US dólar dos produtos comercializados\n(+23,3%) e mesmo em um período com forte desvalorização da moeda brasileira."
+    }
+  ],
+  "mercados": [
+    {
+      "pais": "EUA",
+      "afirmacao": "Principal destino; resiliência do gasto do consumidor e demanda revitalizada de empreiteiras e construtoras.",
+      "trecho": "O aquecimento da demanda ilustraria a resiliência dos gastos do\nconsumidor, mesmo ao se deparar com preços mais elevados para efetuar reformas"
+    },
+    {
+      "pais": "EUA",
+      "afirmacao": "Expectativa de bons resultados em nov-dez/2021 e no 1º semestre de 2022.",
+      "trecho": "Após o recorde de outubro, que\nfugiu da sazonalidade esperada, provavelmente ainda teremos bons resultados em novembro,\ndezembro e, mais adiante, no 1º semestre em 2022."
+    }
+  ],
+  "politicas": [
+    {
+      "medida": "Parceria ABIROCHAS–Apex-Brasil de promoção comercial",
+      "afirmacao": "Garantiu presença continuada em feiras e eventos mundiais e outras atividades de promoção nos mercados interno e externo.",
+      "trecho": "e eventos mundiais do setor de rochas ornamentais, bem como da participação dessas\nempresas em várias outras atividades de promoção comercial nos mercados interno e\nexterno."
+    }
+  ],
+  "precos": [
+    {
+      "produto": "Rochas processadas e brutas exportadas",
+      "afirmacao": "Preço médio subiu 15,7% nas processadas, 29,6% nas silicáticas brutas e 27,5% nas carbonáticas brutas.",
+      "trecho": "registrando-se aumento de\n15,7% para rochas processadas, 29,6% para rochas silicáticas brutas e 27,5% para rochas\ncarbonáticas brutas."
+    },
+    {
+      "produto": "Artificiais importados",
+      "afirmacao": "Preço médio dos artificiais importados continua superior ao dos naturais importados.",
+      "trecho": "teve incremento de 3,5% e continua superior ao dos materiais naturais\nimportados."
+    }
+  ],
+  "desafios": [],
+  "pleitos": [],
+  "observacao": "Páginas 4-8 são gráficos de séries mensais (exportações, importações, saldo), não fichados."
+}

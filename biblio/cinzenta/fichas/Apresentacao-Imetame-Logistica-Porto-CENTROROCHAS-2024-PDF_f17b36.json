@@ -1,0 +1,87 @@
+{
+ "id": "Apresentacao-Imetame-Logistica-Porto-CENTROROCHAS-2024-PDF_f17b36",
+ "arquivo": "Apresentacao-Imetame-Logistica-Porto-CENTROROCHAS-2024-PDF.pdf",
+ "emissor": "Centrorochas",
+ "titulo": "Imetame Logística Porto - Apresentação",
+ "data_publicacao": "2024-05",
+ "periodo_coberto": null,
+ "tipo": "apresentacao",
+ "tema": "Apresentação institucional do Grupo Imetame sobre o porto privado em construção em Aracruz/ES (terminais, dragagem, conexões rodoferroviárias) e a ZPE Aracruz, com benefícios fiscais; rochas citadas como setor interessado e como carga geral.",
+ "elos": [
+  "E5",
+  "E6",
+  "E10"
+ ],
+ "indicadores": [
+  {
+   "nome": "Capacidade do terminal de contêineres",
+   "valor": "1,6 milhão",
+   "unidade": "TEUs/ano",
+   "periodo": "projeto",
+   "trecho": "Navios New Post Panamax (14.000 TEUs)\n       Capacidade para 1.6 milhão de TEUs/ano"
+  },
+  {
+   "nome": "Extensão do cais do terminal de contêineres",
+   "valor": "1.100",
+   "unidade": "m (até 3 navios)",
+   "periodo": "projeto",
+   "trecho": "Cais com 1.100 metros para até 3 navios"
+  },
+  {
+   "nome": "Volume dragado",
+   "valor": "2,3 milhões (mais de 55% da 1ª fase)",
+   "unidade": "m3",
+   "periodo": "até abr/2024",
+   "trecho": "- 2.3 Milhões m3 dragados"
+  },
+  {
+   "nome": "Área da ZPE Aracruz",
+   "valor": "2.500.000 (500.000 disponíveis)",
+   "unidade": "m2",
+   "periodo": "2024",
+   "trecho": "Área de 2.500.000 m².\n500.000 m² imediatamente disponíveis"
+  },
+  {
+   "nome": "Capex estimado do ramal ferroviário",
+   "valor": "90 milhões",
+   "unidade": "US$",
+   "periodo": "projeto",
+   "trecho": "Capex estimado em US$ 90"
+  },
+  {
+   "nome": "Concentração do PIB no raio do porto",
+   "valor": "70",
+   "unidade": "% do PIB nacional num raio de 1.200 km",
+   "periodo": "2024",
+   "trecho": "Principais centros de consumo do país (70% do PIB nacional)"
+  }
+ ],
+ "explicacoes": [],
+ "mercados": [],
+ "politicas": [
+  {
+   "medida": "ZPE - Zona de Processamento de Exportação (Lei 11.508/2007)",
+   "afirmacao": "Empresas instaladas na ZPE têm tratamentos tributários, cambiais e administrativos específicos; o setor de rochas já negocia participar da ZPE Aracruz.",
+   "trecho": "As empresas que estão\nlocalizadas neste espaço possuem acesso a tratamentos tributários, de câmbio e ainda\nadministrativos específicos do regime."
+  },
+  {
+   "medida": "Benefícios fiscais da ZPE para exportação",
+   "afirmacao": "Empresas buscam benefícios fiscais, cambiais e administrativos ao se instalar em regimes especiais para exportar.",
+   "trecho": "pretendem exportá-los se instalam buscando desfrutar desses benefícios fiscais, cambiais e\nadministrativos."
+  },
+  {
+   "medida": "Setores negociando entrada na ZPE Aracruz",
+   "afirmacao": "Rochas, automotivo, café, têxtil e industrial negociam fazer parte da ZPE.",
+   "trecho": "Alguns setores já negociam para fazer parte da ZPE em Aracruz"
+  }
+ ],
+ "precos": [],
+ "desafios": [
+  {
+   "afirmacao": "Ramal ferroviário Piraqueaçu-Imetame ainda sem licenciamento.",
+   "trecho": "Consensado com a EDP;\n                                                                                               ▪ Sem licenciamento."
+  }
+ ],
+ "pleitos": [],
+ "observacao": "Apresentação corporativa de terceiro (Imetame) publicada pela Centrorochas; majoritariamente slides com gráficos e textos fragmentados. O gráfico de participação de Vitória no volume nacional (contêineres) não é legível como texto corrido. Não há atribuição de causas a variações do setor de rochas."
+}

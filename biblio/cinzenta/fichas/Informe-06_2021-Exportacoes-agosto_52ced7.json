@@ -1,0 +1,50 @@
+{
+  "id": "Informe-06_2021-Exportacoes-agosto_52ced7",
+  "arquivo": "Informe-06_2021-Exportacoes-agosto.pdf",
+  "emissor": "Abirochas",
+  "titulo": "Balanço das Exportações e Importações Brasileiras de Rochas Ornamentais no Período Janeiro-Agosto de 2021 (Informe 06/2021)",
+  "data_publicacao": "2021-09",
+  "periodo_coberto": "jan-ago/2021",
+  "tipo": "conjuntura",
+  "tema": "Balanço das exportações e importações brasileiras de rochas ornamentais em jan-ago/2021, com preços médios, destinos, importação de naturais e artificiais e perspectivas.",
+  "elos": ["E6", "E7", "E10"],
+  "indicadores": [
+    {"nome": "Variação do preço médio geral dos produtos exportados", "valor": "22,6", "unidade": "%", "periodo": "jan-ago/2021 vs jan-ago/2020", "trecho": "O preço médio geral\ndos produtos exportados teve variação positiva de 22,6%."},
+    {"nome": "Preço médio de blocos de quartzito maciço e de mármore exportados", "valor": "570,5 e 550,2", "unidade": "US$/t", "periodo": "jan-ago/2021", "trecho": "blocos de quartzito maciço (US$ 570,5/t) e de mármores\n(US$ 550,2/t)"},
+    {"nome": "Preço médio de chapas de quartzito maciço e de mármore exportadas", "valor": "2,1 mil e 1,0 mil", "unidade": "US$/t", "periodo": "jan-ago/2021", "trecho": "chapas de\nquartzito maciço (US$ 2,1 mil/t) e chapas de mármore (US$ 1,0 mil/t)"},
+    {"nome": "Participação dos EUA no faturamento das exportações", "valor": "62,1% (US$ 516,4 milhões)", "unidade": "%", "periodo": "jan-ago/2021", "trecho": "62,1% (US$ 516,4 milhões) são\ndevidos aos EUA"},
+    {"nome": "Preço médio dos materiais naturais importados vs artificiais importados", "valor": "492,3 vs 570", "unidade": "US$/t", "periodo": "jan-ago/2021", "trecho": "o preço médio dos materiais naturais\nimportados (US$ 492,3/t) é inferior ao dos materiais artificiais (US$ 570/t)."},
+    {"nome": "Volume importado de materiais artificiais vs naturais", "valor": "65 mil t vs 33,6 mil t", "unidade": "t", "periodo": "jan-ago/2021", "trecho": "O\nvolume físico dos artificiais importados (65 mil t) é quase o dobro dos naturais (33,6 mil t)"},
+    {"nome": "Participação da China nas importações brasileiras de materiais rochosos artificiais", "valor": "62,2 mil t (95,7%)", "unidade": "t / %", "periodo": "jan-ago/2021", "trecho": "O principal\nfornecedor de materiais rochosos artificiais é a China, que respondeu por 62,2 mil t (95,7%)"},
+    {"nome": "Número de países com faturamento individual superior a US$ 1 milhão", "valor": "28", "unidade": "países", "periodo": "jan-ago/2021", "trecho": "Neste sentido, 28\npaíses representaram faturamento individual superior a US$ 1 milhão"},
+    {"nome": "Exportações de agosto em relação aos investimentos do Projeto Setorial Apex-Brasil/ABIROCHAS em 20 anos", "valor": "3,7 vezes", "unidade": "razão (em R$)", "periodo": "ago/2021 vs 2000-2020", "trecho": "apenas no mês de agosto, são 3,7 vezes maiores em Reais do que o total dos investimentos\ndo Projeto Setorial Apex-Brasil/ABIROCHAS"}
+  ],
+  "explicacoes": [
+    {"fenomeno": "Importações de artificiais quase o dobro das de naturais", "causa_atribuida": "Aquecimento do mercado interno e forte penetração dos artificiais na construção civil imobiliária", "trecho": "sinalizando tanto o aquecimento do mercado interno quanto a já forte penetração dos\nartificiais na construção civil imobiliária"},
+    {"fenomeno": "Deslocamento de mercado dos materiais rochosos naturais no Brasil", "causa_atribuida": "Concorrência de materiais rochosos artificiais e porcelanatos", "trecho": "também o Brasil continua evidenciando deslocamento de mercado\ndos materiais rochosos naturais para materiais rochosos artificiais e porcelanatos."},
+    {"fenomeno": "Concorrência no mercado interno de revestimentos", "causa_atribuida": "Porcelanatos brasileiros concorrem com os materiais naturais", "trecho": "também concorrem com\nos materiais naturais, no mercado interno de revestimentos, os porcelanatos brasileiros."},
+    {"fenomeno": "Expectativa de exportações de 2021 próximas ao recorde de 2013", "causa_atribuida": "Recuperação da economia mundial e especialmente da construção civil dos EUA", "trecho": "A recuperação da economia mundial, e especialmente da construção civil dos EUA, deverá\nlevar as exportações brasileiras de rochas ornamentais de 2021 para um patamar próximo ao\nrecorde de 2013"},
+    {"fenomeno": "Possível impacto negativo nas exportações para a China", "causa_atribuida": "Dificuldades financeiras da Evergrande, segunda maior incorporadora imobiliária chinesa", "trecho": "Ainda não se sabe dimensionar os efeitos das dificuldades financeiras enfrentadas pela\nEvergrande, segunda maior incorporada imobiliária chinesa"},
+    {"fenomeno": "Preço médio elevado das exportações para os EUA", "causa_atribuida": "Possível participação não insignificante de produtos acabados nas importações dos EUA", "trecho": "É possível que os EUA já incluam\numa participação não insignificante de produtos acabados em suas importações do Brasil."},
+    {"fenomeno": "Preço médio dos naturais importados inferior ao dos artificiais", "causa_atribuida": "Boa participação de rochas brutas nas importações de naturais", "trecho": "Por incluir boa participação de rochas brutas, o preço médio dos materiais naturais\nimportados"}
+  ],
+  "mercados": [
+    {"pais": "Estados Unidos", "afirmacao": "Principal destino, muito à frente dos demais, e com um dos maiores preços médios.", "trecho": "EUA figuram como principal destino, muito à frente de outros países importadores"},
+    {"pais": "China", "afirmacao": "Segundo destino, com 11,6% do faturamento; risco associado à Evergrande.", "trecho": "seguindo-se a China com 11,6% (US$ 96,7 milhões)"},
+    {"pais": "Austrália", "afirmacao": "Maior preço médio dos produtos exportados.", "trecho": "Os maiores preços médios dos produtos exportados foram os da Austrália (US$ 1750/t)"},
+    {"pais": "Turquia", "afirmacao": "Principal fornecedor de materiais naturais ao Brasil.", "trecho": "Os cinco principais fornecedores de materiais naturais, para o Brasil, incluem Turquia (7,7 mil\nt)"}
+  ],
+  "politicas": [
+    {"medida": "Classificação fiscal NCM Capítulo 68 (código 6802.99.90)", "afirmacao": "A inespecificidade do código impede distinguir quartzitos e granitos e chapas de produtos acabados.", "trecho": "O principal problema é ligado à inespecificidade\ndo código fiscal 6802.99.90"},
+    {"medida": "Projeto Setorial Apex-Brasil/ABIROCHAS", "afirmacao": "Exportações de um único mês superam em 3,7 vezes os investimentos do projeto em 20 anos.", "trecho": "do Projeto Setorial Apex-Brasil/ABIROCHAS efetuados em seus 20 anos de funcionamento"}
+  ],
+  "precos": [
+    {"produto": "Rochas brutas e processadas exportadas", "afirmacao": "Incremento de 27,2% no preço médio das carbonáticas brutas, 25,4% das silicáticas/silicosas brutas e 14,8% das processadas.", "trecho": "Houve incremento de 27,2% no preço médio das rochas carbonáticas brutas, 25,4% para\nsilicáticas e silicosas brutas e 14,8% para as processadas."}
+  ],
+  "desafios": [
+    {"afirmacao": "Não é possível distinguir tipos de rocha e de produto em códigos fiscais importantes do Capítulo 68 da NCM.", "trecho": "Continua não sendo possível distinguir os tipos de rocha e os tipos de produto abrangidos em\nalguns dos códigos fiscais importantes do Capítulo 68 da NCM."},
+    {"afirmacao": "Deslocamento de mercado dos naturais para artificiais e porcelanatos.", "trecho": "Como no resto do mundo, também o Brasil continua evidenciando deslocamento de mercado"}
+  ],
+  "pleitos": [],
+  "observacao": null
+}

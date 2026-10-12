@@ -1,0 +1,45 @@
+{
+  "id": "Informe-03_2024-Exportacoes-1_Trimestre-v2_81e151",
+  "arquivo": "Informe-03_2024-Exportacoes-1_Trimestre-v2.pdf",
+  "emissor": "Abirochas",
+  "titulo": "Síntese das Exportações Brasileiras de Rochas Ornamentais e de Revestimento no 1º Trimestre de 2024 (Informe 03/2024)",
+  "data_publicacao": "2024-04",
+  "periodo_coberto": "jan-mar/2024",
+  "tipo": "conjuntura",
+  "tema": "Síntese das exportações e importações de rochas ornamentais no 1º trimestre de 2024, com alta de brutas para a China, queda de preços, juros nos EUA e avanço dos artificiais no mercado interno com paralisação de frentes de lavra.",
+  "elos": ["E1", "E6", "E7", "E10"],
+  "indicadores": [
+    {"nome": "Preço médio geral das exportações", "valor": "de US$ 613,4/t para US$ 575,7/t (-6,2%)", "unidade": "US$/t", "periodo": "1º tri/2023 a 1º tri/2024", "trecho": "O preço médio geral das\nexportações recuou assim 6,2%, passando de US$ 613,4/t para US$ 575,7/t."},
+    {"nome": "Participação da China no volume de rochas brutas exportadas", "valor": "205 mil t de 250 mil t", "unidade": "t", "periodo": "1º tri/2024", "trecho": "A China\nrespondeu por 205 mil t de um total de 250 mil t dessas rochas brutas exportadas no\nperíodo."},
+    {"nome": "Crescimento do volume de rochas brutas exportadas", "valor": "83% carbonáticas; 51% silicáticas e silicosas", "unidade": "%", "periodo": "1º tri/2024 vs 1º tri/2023", "trecho": "incremento de 83% para as carbonáticas e 51% para as silicáticas e silicosas"},
+    {"nome": "Importações de materiais artificiais aglomerados", "valor": "US$ 12,4 milhões e 20,4 mil t", "unidade": "US$ / t", "periodo": "1º tri/2024", "trecho": "As importações de materiais artificiais aglomerados (6810.19.00 e 6810.99.00)\nsomaram, por sua vez, US$ 12,4 milhões e 20,4 mil t"},
+    {"nome": "Participação da China nas importações de artificiais", "valor": "11,4 mil t (92%)", "unidade": "t / %", "periodo": "1º tri/2024", "trecho": "11,4 mil t (92%) foram devidos à China"},
+    {"nome": "Frentes de lavra paralisadas", "valor": "dezenas", "unidade": "frentes de lavra", "periodo": "pós-pandemia até 2024", "trecho": "dezenas de frentes de lavra foram paralisadas pela perda de economicidade de sua\nmatéria-prima."}
+  ],
+  "explicacoes": [
+    {"fenomeno": "Desempenho das exportações para os EUA / mercado imobiliário residencial americano", "causa_atribuida": "Aumento da inflação e adiamento do corte de juros pelo FED, que dificultam o pagamento de empréstimos imobiliários e inibem novos financiamentos", "trecho": "o aumento da inflação\ne o adiamento do corte da taxa de juros pelo FED, o banco central americano, dificulta o\npagamento de empréstimos contraídos pelas famílias no mercado imobiliário\nresidencial"},
+    {"fenomeno": "Contração dos materiais naturais no mercado interno, sobretudo rochas comuns de menor valor agregado", "causa_atribuida": "Importação de materiais artificiais bem mais elevada que a dos naturais", "trecho": "Esta tendência, já de alguns anos, contribui para a contração desses materiais\nnaturais no mercado interno, especialmente quanto às rochas comuns e de menor valor\nagregado."},
+    {"fenomeno": "Paralisação de dezenas de frentes de lavra, sobretudo no noroeste do ES (granitos homogêneos)", "causa_atribuida": "Perda de economicidade da matéria-prima, ligada à concorrência dos artificiais e aos efeitos da pandemia de 2020/2021", "trecho": "Por esta e outras razões ligadas aos efeitos da pandemia de 2020/2021,\ndezenas de frentes de lavra foram paralisadas pela perda de economicidade de sua\nmatéria-prima."},
+    {"fenomeno": "Crescimento das exportações para a China", "causa_atribuida": "O emissor afirma que o crescimento não faz supor crise no mercado imobiliário chinês", "trecho": "O expressivo crescimento da exportação brasileira para a China não faz supor a existência\nde uma crise no mercado imobiliário desse país"},
+    {"fenomeno": "Alta do preço médio das rochas processadas", "causa_atribuida": "Variação positiva dos produtos de pedra-sabão e das chapas de quartzito", "trecho": "O preço médio das rochas processadas teve incremento de 9%, puxado pela variação positiva dos\nprodutos de pedra-sabão (+41%) e chapas de quartzito (+2%)."},
+    {"fenomeno": "Recuo do preço médio geral das exportações", "causa_atribuida": "Queda significativa do preço das rochas brutas", "trecho": "O preço médio das rochas brutas, em contrapartida, experimentou queda significativa,\ncom recuo de 14% para as carbonáticas e 23% para as silicáticas e silicosas."}
+  ],
+  "mercados": [
+    {"pais": "China", "afirmacao": "Principal destino das rochas brutas brasileiras, com expressivo crescimento.", "trecho": "que é o principal destino das nossas\nrochas brutas"},
+    {"pais": "Estados Unidos", "afirmacao": "Desempenho das processadas não espelha a situação da economia dos EUA, marcada por custo de vida exorbitante.", "trecho": "O desempenho das exportações de rochas processadas, da mesma forma,\nnão espelha a situação da economia dos EUA."},
+    {"pais": "Brasil (mercado interno)", "afirmacao": "Oferta de artificiais disseminada por marmorarias e distribuidoras, inclusive por grandes empresas tradicionais de rochas naturais.", "trecho": "A oferta de materiais artificiais já está disseminada por marmorarias e distribuidoras de\nchapas, inclusive abastecidas por grandes empresas tradicionalmente atuantes na\nprodução e beneficiamento de materiais rochosos naturais."},
+    {"pais": "Turquia, México, Egito e Itália", "afirmacao": "Principais fornecedores de rochas naturais ao Brasil.", "trecho": "Os\nprincipais fornecedores para o Brasil envolveram, nesta ordem, Turquia, México, Egito e\nItália."}
+  ],
+  "politicas": [],
+  "precos": [
+    {"produto": "Rochas brutas exportadas", "afirmacao": "Recuo de 14% (carbonáticas) e 23% (silicáticas e silicosas) no preço médio.", "trecho": "com recuo de 14% para as carbonáticas e 23% para as silicáticas e silicosas"},
+    {"produto": "Rochas processadas exportadas", "afirmacao": "Incremento de 9% no preço médio, puxado por pedra-sabão e chapas de quartzito.", "trecho": "O preço médio das rochas processadas teve incremento de 9%"}
+  ],
+  "desafios": [
+    {"afirmacao": "Contração dos materiais naturais no mercado interno frente aos artificiais importados.", "trecho": "A importação brasileira de materiais artificiais continua bem mais elevada que a dos\nnaturais."},
+    {"afirmacao": "Paralisação de frentes de lavra no noroeste do Espírito Santo, onde se concentra a extração de granitos homogêneos (segundo a ANPO).", "trecho": "esta situação ocorreu sobretudo na região noroeste do estado do Espírito\nSanto, onde se concentra a extração de granitos homogêneos."},
+    {"afirmacao": "Em outros grandes mercados os naturais não têm a mesma importância socioeconômica que no Brasil, tornando o avanço dos artificiais mais grave aqui.", "trecho": "os materiais\nrochosos naturais não têm a mesma importância socioeconômica assumida no Brasil."}
+  ],
+  "pleitos": [],
+  "observacao": null
+}

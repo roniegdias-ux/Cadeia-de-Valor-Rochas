@@ -1,0 +1,389 @@
+{
+ "id": "Informe-01_2024-Balanco-2023_91cb7a",
+ "arquivo": "Informe-01_2024-Balanco-2023.pdf",
+ "emissor": "Abirochas",
+ "titulo": "Balanço do Setor Brasileiro de Rochas Ornamentais e de Revestimento em 2023 (Informe 01/2024)",
+ "data_publicacao": "2024-02",
+ "periodo_coberto": "2023 (com séries 1998-2023 e dados mundiais até 2022)",
+ "tipo": "conjuntura",
+ "tema": "Balanço anual 2023: produção, exportações, preços, destinos, estados, portos, importações, consumo interno aparente e cenário mundial (artificiais, porcelanato, China).",
+ "elos": [
+  "E1",
+  "E2",
+  "E3",
+  "E5",
+  "E6",
+  "E7",
+  "E8",
+  "E10"
+ ],
+ "indicadores": [
+  {
+   "nome": "Produção brasileira de rochas ornamentais",
+   "valor": "10",
+   "unidade": "Mt",
+   "periodo": "2023",
+   "trecho": "Produção estimada de 10 Mt de rochas ornamentais e de revestimento"
+  },
+  {
+   "nome": "Pedreiras ativas",
+   "valor": "1.100",
+   "unidade": "pedreiras",
+   "periodo": "2023",
+   "trecho": "1.100 pedreiras ativas."
+  },
+  {
+   "nome": "Empresas na cadeia produtiva",
+   "valor": "12 mil",
+   "unidade": "empresas",
+   "periodo": "2023",
+   "trecho": "12 mil empresas atuando na cadeia produtiva."
+  },
+  {
+   "nome": "Empregos diretos",
+   "valor": "150 mil",
+   "unidade": "empregos",
+   "periodo": "2023",
+   "trecho": "150 mil empregos diretos no setor."
+  },
+  {
+   "nome": "Capacidade de produção de grandes chapas",
+   "valor": "100 milhões",
+   "unidade": "m²/ano",
+   "periodo": "2023",
+   "trecho": "Maior e melhor produtor mundial de grandes chapas (capacidade de 100 milhões m²/ano)."
+  },
+  {
+   "nome": "Teares multifios diamantados em operação",
+   "valor": "600 (350 nacionais)",
+   "unidade": "máquinas",
+   "periodo": "2023",
+   "trecho": "Maior parque mundial de teares multifios diamantados (600 máquinas em operação, das quais"
+  },
+  {
+   "nome": "Consumo interno aparente",
+   "valor": "85 (per capita 0,42 m² ou 22,5 kg; +6,3%)",
+   "unidade": "Mm² equivalentes (2 cm)",
+   "periodo": "2023",
+   "trecho": "artificiais de revestimento, avalia-se que seu consumo interno tenha atingido 85 Mm2"
+  },
+  {
+   "nome": "Exportações de chapas",
+   "valor": "22,8 (2021), 21,1 (2022), 16,6 (2023)",
+   "unidade": "Mm² equivalentes (2 cm)",
+   "periodo": "2021-2023",
+   "trecho": "passaram de 22,8 Mm2 equivalentes (2 cm de espessura) em 2021, para 21,1 Mm2 em 2022 e"
+  },
+  {
+   "nome": "Participação do Brasil nas importações dos EUA",
+   "valor": "54,7% das exportações brasileiras foram para os EUA; Brasil com 18,6% das importações dos EUA (Tabela 6, 2022)",
+   "unidade": "%",
+   "periodo": "2023",
+   "trecho": "vendas para os EUA representou 54,7% do total das exportações brasileiras, caracterizando o"
+  },
+  {
+   "nome": "Produção mundial de rochas ornamentais",
+   "valor": "170",
+   "unidade": "Mt",
+   "periodo": "2023",
+   "trecho": "A produção mundial evoluiu de 60 Mt no ano 2000 para cerca de 170 Mt em 2023,"
+  }
+ ],
+ "explicacoes": [
+  {
+   "fenomeno": "Queda das exportações de chapas em 2022 e 2023; fechamento de pedreiras",
+   "causa_atribuida": "Mercado de chapas valorizadas é muito menor que o das rochas comuns, que perderam economicidade após a pandemia",
+   "trecho": "o mercado das chapas mais valorizadas é muito inferior ao das rochas comuns ou de\nbatalha, que perderam sua economicidade após a pandemia e determinaram o fechamento\nde dezenas de pedreiras em todo o Brasil."
+  },
+  {
+   "fenomeno": "Redução da fatia de mercado das chapas naturais",
+   "causa_atribuida": "Crescimento da produção e comercialização de materiais artificiais e porcelanatos",
+   "trecho": "Concorreram para esse processo o notável crescimento mais recente da produção e\ncomercialização de materiais artificiais e porcelanatos, reduzindo a fatia do mercado de\nchapas dos materiais naturais."
+  },
+  {
+   "fenomeno": "Não recuperação das exportações em 2023 (e 2024)",
+   "causa_atribuida": "Escalada de conflitos geopolíticos regionais e impacto nos custos de produção e transporte",
+   "trecho": "A\nescalada de conflitos geopolíticos regionais e seu impacto nos custos de produção e\ntransporte, não permitiram a recuperação das exportações de rochas em 2023 e sequer\npermitirão em 2024."
+  },
+  {
+   "fenomeno": "Queda do faturamento das exportações em 2020",
+   "causa_atribuida": "Efeitos da pandemia e encerramento do convênio ApexBrasil/ABIROCHAS",
+   "trecho": "2020 foi o ano de maior intensidade dos efeitos da pandemia e do encerramento do\nconvênio ApexBrasil/ABIROCHAS."
+  },
+  {
+   "fenomeno": "Incremento da comercialização de materiais naturais e artificiais em 2021-2022",
+   "causa_atribuida": "Medidas anticíclicas das grandes economias contra a crise da Covid-19, especialmente nos EUA",
+   "trecho": "Em 2021 e 2022, o incremento tanto da comercialização de\nmateriais artificiais, quanto naturais, foi devido às medidas anticíclicas adotadas pelas grandes\neconomias para combater a crise decorrente da Covid-19, especialmente nos EUA."
+  },
+  {
+   "fenomeno": "Taxas negativas de variação das exportações em 2023",
+   "causa_atribuida": "Intensificação de conflitos geopolíticos regionais e aumento geral dos custos de produção e transporte",
+   "trecho": "As taxas negativas de\n2023 refletem a intensificação de conflitos geopolíticos regionais e aumento geral dos custos de\nprodução e transporte."
+  },
+  {
+   "fenomeno": "Paralisação de dezenas de frentes de lavra no Espírito Santo em 2023",
+   "causa_atribuida": "Perda de economicidade de materiais comuns ou de batalha (comoditização)",
+   "trecho": "paralisação de dezenas de frentes de lavra, especialmente no estado do Espírito Santo,\nbasicamente provocada pela perda de economicidade de vários materiais comuns ou de\nbatalha;"
+  },
+  {
+   "fenomeno": "Queda expressiva das exportações brasileiras de chapas e ociosidade do parque de serragem",
+   "causa_atribuida": "Mercado de rochas exóticas é quantitativamente mais restrito que o de granitos convencionais",
+   "trecho": "O mercado de rochas exóticas é quantitativamente mais restrito que o dos granitos\nconvencionais, já determinando certa ociosidade do parque de serragem brasileiro."
+  },
+  {
+   "fenomeno": "Redução de US$ 135 milhões nas exportações do Espírito Santo frente a 2022",
+   "causa_atribuida": "Perda de economicidade dos granitos homogêneos e queda das exportações de chapas",
+   "trecho": "Frente a 2022, as exportações do Espírito Santo sofreram uma redução de US$ 135 milhões,\nespelhando a perda de economicidade dos granitos homogêneos e a queda de suas\nexportações de chapas."
+  },
+  {
+   "fenomeno": "Redução das exportações totais de rochas processadas em 2023",
+   "causa_atribuida": "Queda das exportações para os EUA (-19%)",
+   "trecho": "A queda das exportações brasileiras para os EUA (-19%), em 2023, resultou em\n    significativa redução das exportações totais de rochas processadas."
+  },
+  {
+   "fenomeno": "Ascensão do México a 4º maior comprador",
+   "causa_atribuida": "Nearshore trading do México com os EUA usando rochas brasileiras",
+   "trecho": "Destaca-se, nesse sentido, a ascensão do México, já o nosso 4º\nmaior comprador, justamente devido ao “nearshore trading” deste país com os EUA, com"
+  },
+  {
+   "fenomeno": "Desindustrialização e inibição das exportações no RJ, MG e BA",
+   "causa_atribuida": "Atuação de empresas de lavra capixabas",
+   "trecho": "A atuação de empresas de lavra\n capixabas provocou a desindustrialização e inibiu as exportações do setor de rochas no Rio de\n Janeiro, Minas Gerais e Bahia."
+  },
+  {
+   "fenomeno": "Encarecimento do transporte marítimo e perda de competitividade das exportadoras capixabas",
+   "causa_atribuida": "Inexistência de instalações portuárias adequadas no ES; cabotagem de contêineres de Vitória para Santos e Rio",
+   "trecho": "Tal situação reflete a inexistência de instalações portuárias\nadequadas para as exportações do setor de rochas ornamentais e de revestimento no Espírito\nSanto, o que prejudica a competitividade das empresas exportadoras capixabas."
+  },
+  {
+   "fenomeno": "Sazonalidade: maior movimentação de abril a setembro",
+   "causa_atribuida": "Verão no hemisfério norte",
+   "trecho": "Usualmente\no período de maior movimentação vai de abril a setembro, em função do verão no hemisfério\nnorte."
+  },
+  {
+   "fenomeno": "Retração da China nas rochas e crescimento de suas exportações de artificiais a partir de 2015",
+   "causa_atribuida": "Obrigatoriedade de aproveitamento dos rejeitos imposta pelo governo chinês",
+   "trecho": "A obrigatoriedade de\naproveitamento dos rejeitos do setor de rochas, imposta pelo governo chinês, induziu essa produção e\nexportações de materiais artificiais, que têm nos rejeitos sua principal matéria-prima."
+  },
+  {
+   "fenomeno": "Declínio da participação da Itália no mercado internacional (30% para 11%)",
+   "causa_atribuida": "Migração das atividades produtivas para países extra-europeus (China, Índia, Turquia, Brasil)",
+   "trecho": "O declínio da Itália\natrelou-se à migração das atividades produtivas do setor de rochas para países extra-europeus,\nespecialmente China, Índia, Turquia e Brasil."
+  },
+  {
+   "fenomeno": "Crescimento mais rápido do faturamento de Índia e Turquia",
+   "causa_atribuida": "Crescimento do volume físico de exportações de rochas brutas para a China, mais que agregação de valor",
+   "trecho": "foram devidas menos à agregação de valor dos produtos\nexportados, do que ao grande crescimento do volume físico das exportações, principalmente de\nrochas brutas para a China."
+  },
+  {
+   "fenomeno": "Recuo do volume de chapas exportadas apesar de materiais mais valorizados",
+   "causa_atribuida": "Mercado de exóticos menor que o de convencionais; counter tops nos EUA/Canadá substituídos por artificiais",
+   "trecho": "Boa parte do mercado de counter tops,\npor exemplo nos EUA e Canadá, foi substituído por materiais artificiais (quartz surfaces ou\nengineered stones)."
+  },
+  {
+   "fenomeno": "Recuo/estabilização do volume exportado por Índia e Turquia a partir de 2021",
+   "causa_atribuida": "Aumento da produção e exportação de materiais artificiais",
+   "trecho": "Para Índia e Turquia, a mesma tendência está sendo anotada apenas a partir\nde 2021, também provocada pelo aumento da produção e exportações de materiais artificiais."
+  },
+  {
+   "fenomeno": "Reajuste de preços médios de Itália, China e Brasil a partir de 2019",
+   "causa_atribuida": "Reação ao aumento dos custos de produção e transporte provocados pela pandemia; no Brasil também maior participação de chapas de maior valor",
+   "trecho": "Observa-se que Itália, China e Brasil\nconseguiram reajustar seus preços médios a partir de 2019, reagindo ao aumento dos custos gerais\nde produção e transporte provocados pela pandemia."
+  },
+  {
+   "fenomeno": "Crise do setor a partir de 2008 (crédito, concorrência, pressão de oferta)",
+   "causa_atribuida": "Estouro da bolha imobiliária norte-americana",
+   "trecho": "com o estouro da bolha imobiliária norte-americana e instalação de uma expressiva crise\neconômica, a partir de meados de 2008, promoveu-se um cenário delineado pelo forte enxugamento\ndo crédito"
+  },
+  {
+   "fenomeno": "Reversão do quadro negativo a partir de 2010",
+   "causa_atribuida": "Medidas anticíclicas para recuperação do mercado imobiliário, sobretudo nos EUA",
+   "trecho": "Este quadro negativo foi revertido já a partir de 2010, através de medidas\nanticíclicas direcionadas para recuperação do mercado imobiliário e da economia como um todo,\nsobretudo nos EUA."
+  },
+  {
+   "fenomeno": "Deslocamento de parte do mercado de materiais naturais (counter tops, América do Norte)",
+   "causa_atribuida": "Pressão de oferta de materiais artificiais liderada pela China; porcelanatos de grande formato inspirados em rochas exóticas",
+   "trecho": "Este processo foi liderado pela China, que estabeleceu uma forte\nconcorrência e deslocamento de parte do mercado de materiais naturais, especialmente em counter\ntops e, sobretudo, na América do Norte."
+  },
+  {
+   "fenomeno": "Produção de artificiais nos EUA e Canadá",
+   "causa_atribuida": "Incentivos à atividade industrial visando substituição das importações chinesas",
+   "trecho": "Os incentivos à atividade industrial, visando substituição das importações chinesas, incentivou a\nprodução de materiais artificiais nos EUA e Canadá."
+  },
+  {
+   "fenomeno": "Tendência de queda do comércio internacional de rochas; perda de economicidade das rochas comuns",
+   "causa_atribuida": "Conflitos geopolíticos e grande aumento do custo dos fretes marítimos",
+   "trecho": "Conflitos geopolíticos diversos estão condicionando uma tendência de queda do\ncomércio internacional de rochas ornamentais e de revestimento, sobretudo atrelada ao grande\naumento do custo dos fretes marítimos."
+  },
+  {
+   "fenomeno": "Descolamento das exportações mundiais de cerâmicos a partir de 2018",
+   "causa_atribuida": "Expansão do comércio de porcelanatos de grande formato, competindo com rochas no mercado residencial dos EUA",
+   "trecho": "O “descolamento” dos cerâmicos, a partir de\n2018, foi devido à expansão do comércio de porcelanatos, inclusive de grandes formatos, que\ntambém passaram a competir com rochas ornamentais no grande mercado residencial unifamiliar"
+  },
+  {
+   "fenomeno": "Recuo das importações de rochas artificiais pelos EUA em 2019-2020",
+   "causa_atribuida": "Sanções comerciais dos EUA a produtos chineses, produção própria nos EUA e novos fornecedores",
+   "trecho": "O recuo das importações de rochas artificiais, em 2019-2020, está relacionado às sanções\ncomerciais estabelecidas pelos EUA para produtos chineses, à própria produção de materiais\nartificiais nos EUA e ao surgimento de outros fornecedores no mercado internacional."
+  },
+  {
+   "fenomeno": "Exportações mundiais estagnadas abaixo de US$ 20 bilhões desde 2008",
+   "causa_atribuida": "Permanência da pauta em blocos e chapas",
+   "trecho": "Observar que, a partir de 2008,\nquando atingiram US$ 18 bilhões, essas exportações não ultrapassaram o patamar de US$ 20\nbilhões/ano, visto que permaneceram pautadas pela comercialização de blocos e chapas."
+  }
+ ],
+ "mercados": [
+  {
+   "pais": "EUA",
+   "afirmacao": "Faturamento com EUA (chapas) 3,6 vezes o da China (blocos) com o mesmo volume; EUA 54,7% do total, menor índice da série",
+   "trecho": "O volume físico exportado para os EUA e China foi rigorosamente equivalente (650 mil t cada),"
+  },
+  {
+   "pais": "China",
+   "afirmacao": "Crescimento das exportações para a China, essencialmente blocos",
+   "trecho": "registrou-se crescimento das exportações brasileiras para a China, representadas\n    essencialmente por rochas brutas (blocos)."
+  },
+  {
+   "pais": "América Latina",
+   "afirmacao": "Presença tímida, dominada pela China; deveria ser foco prioritário via offshore trading",
+   "trecho": "tem presença ainda bastante tímida na América Latina, atualmente dominada pela China, mas\nque deveria constituir um dos focos prioritários para promoção de nossas exportações"
+  },
+  {
+   "pais": "México",
+   "afirmacao": "4º maior comprador, por nearshore trading com os EUA",
+   "trecho": "maior comprador, justamente devido ao “nearshore trading” deste país com os EUA, com"
+  },
+  {
+   "pais": "EUA",
+   "afirmacao": "Brasil pode perder a liderança no fornecimento aos EUA já em 2024-2025 sem transição para acabados",
+   "trecho": "obras, o Brasil perderá sua liderança no fornecimento de rochas naturais para os EUA, talvez já a partir\nde 2024-2025."
+  },
+  {
+   "pais": "EUA/México/China",
+   "afirmacao": "China poderá vender revestimentos nos EUA via empresas mexicanas aproveitando isenções tarifárias",
+   "trecho": "A China, a exemplo do que já está praticando com veículos e peças, poderá comercializar\nseus materiais de revestimento, nos EUA, através de empresas mexicanas, aproveitando as isenções\ntarifárias destas empresas."
+  },
+  {
+   "pais": "Reino Unido",
+   "afirmacao": "Grande importador de produtos de ardósia brasileira",
+   "trecho": "destacando-se o Reino\nUnido como grande importador de produtos da ardósia brasileira."
+  },
+  {
+   "pais": "EUA",
+   "afirmacao": "Importações de artificiais pelos EUA diversificaram fornecedores (Vietnã, Índia, Canadá, México); Brasil não participou",
+   "trecho": "como recuo da China a partir de 2018. O Brasil não participou desses movimentos."
+  }
+ ],
+ "politicas": [
+  {
+   "medida": "Convênio ApexBrasil/ABIROCHAS (terceira onda exportadora)",
+   "afirmacao": "Programa de produtos acabados apoiado pela ApexBrasil até 2020 e descontinuado",
+   "trecho": "na “terceira onda exportadora”, de produtos acabados, desenvolvido com apoio da ApexBrasil\naté 2020, e então descontinuado."
+  },
+  {
+   "medida": "Sanções comerciais dos EUA a produtos chineses",
+   "afirmacao": "Reduziram importações de artificiais chineses pelos EUA em 2019-2020",
+   "trecho": "está relacionado às sanções\ncomerciais estabelecidas pelos EUA para produtos chineses"
+  },
+  {
+   "medida": "Obrigatoriedade chinesa de aproveitamento de rejeitos",
+   "afirmacao": "Induziu produção e exportação de artificiais na China",
+   "trecho": "aproveitamento dos rejeitos do setor de rochas, imposta pelo governo chinês, induziu essa produção e"
+  },
+  {
+   "medida": "Relatórios anuais de lavra (RAL/ANM)",
+   "afirmacao": "Produção declarada nos RALs é sempre inferior à real",
+   "trecho": "Reitera-se que a produção constante dos relatórios anuais de lavra (RALs), elaborados para a\nAgência Nacional de Mineração (ANM) por empresas formais, é sempre inferior ou até muito"
+  }
+ ],
+ "precos": [
+  {
+   "produto": "Blocos e chapas",
+   "afirmacao": "Tendência de comoditização do preço médio, encurtando vida útil das rochas no mercado",
+   "trecho": "Sempre se observou uma inequívoca tendência de “comoditização” do preço médio de blocos\ne chapas de cada rocha, responsável pelo encurtamento de sua vida útil no mercado interno"
+  },
+  {
+   "produto": "Rochas exóticas e quartzitos; preço médio geral",
+   "afirmacao": "Exóticos -2% no preço médio; preço médio geral -0,3% em 2023 contra +10% em 2022",
+   "trecho": "porém com redução do seu faturamento (-5%), de seu volume físico (-3%) e de seu preço\nmédio (-2%); e a queda de 0,3% no preço médio geral das exportações, contra o incremento\nde 10% registrado em 2022 frente a 2021."
+  },
+  {
+   "produto": "Preço médio por destino",
+   "afirmacao": "De US$ 260/t (China, blocos) a US$ 2.170/t (Austrália, chapas)",
+   "trecho": "O preço médio dos produtos exportados variou de US$ 260/t\npara a China, com blocos, até US$ 2.170/t para a Austrália, com chapas."
+  },
+  {
+   "produto": "Preço médio por porto",
+   "afirmacao": "US$ 900/t Rio, US$ 680/t Santos, US$ 270/t Vitória",
+   "trecho": "(US$ 900/t no Rio de Janeiro, US$ 680/t em Santos, US$ 270/t em Vitória)"
+  },
+  {
+   "produto": "Importações de rochas naturais",
+   "afirmacao": "Preço médio importado US$ 502,9/t (+0,62%)",
+   "trecho": "teve incremento de 0,62% frente a 2022, atingindo US$ 502,9/t."
+  },
+  {
+   "produto": "Preço médio mundial",
+   "afirmacao": "12 maiores exportadores: cerca de US$ 800/t ou US$ 42/m²",
+   "trecho": "produtos comercializados pelos 12 maiores exportadores mundiais aproxima-se de US$ 800/t ou US$\n42/m2 equivalente para chapas com 2 cm de espessura."
+  },
+  {
+   "produto": "Agregação de valor",
+   "afirmacao": "Chapas agregam 4 vezes o valor dos blocos; acabados 10 vezes",
+   "trecho": "Estima-se que, em média, as chapas agregam quatro vezes o valor de comercialização das\nrochas brutas que lhes deram origem, sendo dez vezes a agregação de valor de produtos acabados"
+  },
+  {
+   "produto": "Exóticos",
+   "afirmacao": "Mercado de exóticos também sujeito à comoditização de preços",
+   "trecho": "valorizadas. O volume de mercado destas rochas exóticas é inferior ao das rochas convencionais e\ntambém estará submetido à tendência de comoditização de preços."
+  }
+ ],
+ "desafios": [
+  {
+   "afirmacao": "Exportações tendem a cair abaixo de US$ 1 bilhão se mantido perfil de blocos e chapas",
+   "trecho": "caminhando para um\npatamar inferior a US$ 1 bilhão."
+  },
+  {
+   "afirmacao": "Bahia produz muito mas praticamente não beneficia",
+   "trecho": "Espírito Santo, sendo, no entanto, praticamente nula a capacidade baiana de beneficiamento dessas\n rochas."
+  },
+  {
+   "afirmacao": "Canibalização das rochas comuns e comoditização das exóticas, inclusive quartzitos",
+   "trecho": "o que acirrará tanto a “canibalização” das rochas\ncomuns, quanto a comoditização das rochas exóticas, inclusive e principalmente de quartzitos"
+  },
+  {
+   "afirmacao": "Falta de instalações portuárias adequadas no ES",
+   "trecho": "reflete a inexistência de instalações portuárias\nadequadas para as exportações do setor de rochas ornamentais e de revestimento no Espírito"
+  },
+  {
+   "afirmacao": "Sustentabilidade ambiental (aproveitamento de rejeitos) como grande desafio competitivo",
+   "trecho": "O grande desafio competitivo, agora colocado\npara o setor de rochas, é o da sustentabilidade ambiental, centrada no aproveitamento dos\nrejeitos/resíduos dos processos de lavra e beneficiamento industrial."
+  },
+  {
+   "afirmacao": "Marketing de artificiais e porcelanato continuará deprimindo o mercado de naturais",
+   "trecho": "estratégias de marketing para materiais artificiais e porcelanato, cuja pressão de oferta continuará\ndeprimindo o mercado dos naturais."
+  },
+  {
+   "afirmacao": "Silicose pode desacelerar artificiais, mas não basta para recuperar exportações",
+   "trecho": "internacional dos diversos materiais artificiais de revestimento, pelo problema da silicose."
+  }
+ ],
+ "pleitos": [
+  {
+   "afirmacao": "Adequar urgentemente os programas de promoção das exportações ao novo cenário",
+   "trecho": "É preciso urgentemente adequar nossos programas de\npromoção das exportações a esse novo cenário do setor de rochas ornamentais"
+  },
+  {
+   "afirmacao": "Exportar produtos acabados para revitalizar granitos convencionais (noroeste do ES)",
+   "trecho": "Destaca-se que a revitalização econômica da atividade mínero-industrial dos granitos mais\nconvencionais, por exemplo da região noroeste do Espírito Santo, poderia ser buscada pela\nexportação de produtos acabados."
+  },
+  {
+   "afirmacao": "Exportar rochas comuns como acabados, no modelo chinês, aproveitando blocos menores",
+   "trecho": "a única forma vislumbrada para preservação comercial das\nrochas mais comuns é a sua exportação como produtos acabados, exatamente no mesmo\nmodelo de atuação dos chineses"
+  },
+  {
+   "afirmacao": "Transição para oferta de acabados para grandes obras",
+   "trecho": "Sem uma transição concreta para a oferta de produtos acabados, visando o atendimento de grandes\nobras"
+  }
+ ],
+ "observacao": "Páginas 13-15 (Figuras 5-7, incluindo a de política cambial) vieram sem texto no pdftotext (só imagem); conteúdo delas não fichado."
+}

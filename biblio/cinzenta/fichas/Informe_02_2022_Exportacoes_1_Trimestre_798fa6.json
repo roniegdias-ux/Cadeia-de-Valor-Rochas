@@ -1,0 +1,128 @@
+{
+  "id": "Informe_02_2022_Exportacoes_1_Trimestre_798fa6",
+  "arquivo": "Informe_02_2022_Exportacoes_1_Trimestre.pdf",
+  "emissor": "Abirochas",
+  "titulo": "Balanço das exportações e importações brasileiras de materiais rochosos naturais e artificiais de ornamentação e revestimento no 1º trimestre de 2022",
+  "data_publicacao": "2022-04",
+  "periodo_coberto": "jan-mar/2022",
+  "tipo": "conjuntura",
+  "tema": "Balanço trimestral de exportações e importações de rochas naturais e artificiais, com queda das processadas, alta das brutas e perda de participação dos EUA.",
+  "elos": ["E6", "E5", "E7"],
+  "indicadores": [
+    {
+      "nome": "Preço médio geral das exportações",
+      "valor": "563,2 (vs 513,4 em 2021; +9,7%)",
+      "unidade": "US$/t",
+      "periodo": "1º trim/2022",
+      "trecho": "O preço médio geral das exportações elevou-se 9,7%, de US$ 513,4/t em 2021 para US$\n563,2/t em 2022."
+    },
+    {
+      "nome": "Participação das rochas processadas no faturamento exportado",
+      "valor": "74,4 (vs 82,4 no 1º trim/2021)",
+      "unidade": "%",
+      "periodo": "1º trim/2022",
+      "trecho": "Sua participação no total do faturamento recuou de\n82,4% no 1º trimestre de 2021 para 74,4% no 1º trimestre de 2022."
+    },
+    {
+      "nome": "Preço médio da posição 6802.99.90 (chapas de quartzitos e rochas exóticas)",
+      "valor": "2.250,5",
+      "unidade": "US$/t",
+      "periodo": "1º trim/2022",
+      "trecho": "O maior preço médio entre os produtos exportados foi\njustamente o da posição 6802.99.90 (US$ 2.250,5/t)."
+    },
+    {
+      "nome": "Preço médio da ardósia exportada",
+      "valor": "396 (vs 377 em 2021)",
+      "unidade": "US$/t",
+      "periodo": "1º trim/2022",
+      "trecho": "registraram um incremento de 5,1% no preço médio,\npassando de US$ 377/t em 2021 para US$ 396/t em 2022."
+    },
+    {
+      "nome": "Participação dos EUA nas exportações brasileiras de rochas",
+      "valor": "54,5 (vs 63,4 no 1º trim/2021)",
+      "unidade": "%",
+      "periodo": "1º trim/2022",
+      "trecho": "As exportações brasileiras de rochas para os EUA somaram US$ 153,5 milhões no 1º trimestre\nde 2022, correspondendo a 54,5% do total exportado."
+    },
+    {
+      "nome": "Importações de materiais artificiais aglomerados",
+      "valor": "16,1 milhões e 25,8 mil t",
+      "unidade": "US$ / t",
+      "periodo": "1º trim/2022",
+      "trecho": "6810.19.00 e 6810.99.00, somaram US$ 16,1 milhões e 25,8 mil t, o que representou uma\nvariação positiva de respectivamente 11,5% e 0,9% frente ao 1º trimestre de 2021."
+    }
+  ],
+  "explicacoes": [
+    {
+      "fenomeno": "Queda de 8 pontos percentuais na participação dos EUA nas exportações",
+      "causa_atribuida": "Aumento da participação de rochas brutas nas exportações e crescimento de Itália e sobretudo China como destinos",
+      "trecho": "A diminuição de 8 pontos\npercentuais na participação dos EUA reflete o aumento da participação de rochas brutas nas\nexportações de 2022 e indica o crescimento da Itália e, sobretudo, da China como destinos"
+    },
+    {
+      "fenomeno": "Volume das importações de aglomerados já é o dobro do de rochas naturais",
+      "causa_atribuida": "Crescimento dos materiais aglomerados também no mercado interno",
+      "trecho": "O volume físico das importações de materiais aglomerados já representa o dobro dos\nmateriais rochosos naturais, refletindo seu crescimento também no mercado interno."
+    },
+    {
+      "fenomeno": "Substituição das chapas brasileiras nos EUA",
+      "causa_atribuida": "Concorrência de materiais artificiais em countertops",
+      "trecho": "concentra-se nos EUA, onde são utilizadas sobretudo para countertops e estão sendo\nfortemente substituídas por materiais artificiais."
+    },
+    {
+      "fenomeno": "Pressão sobre a economicidade das exportações, inclusive de rochas de batalha",
+      "causa_atribuida": "Forte elevação dos custos de transporte marítimo no novo ciclo econômico mundial",
+      "trecho": "neste novo ciclo\neconômico mundial marcado por forte elevação dos custos de transporte marítimo."
+    }
+  ],
+  "mercados": [
+    {
+      "pais": "EUA",
+      "afirmacao": "Participação dos EUA caiu de 63,4% para 54,5% do total exportado.",
+      "trecho": "No 1º trimestre de 2021 essa\nparticipação dos EUA foi de 63,4%, fechando o ano com 62,6%."
+    },
+    {
+      "pais": "Emirados Árabes Unidos",
+      "afirmacao": "Mercado de interesse para processadas, abastecido por China e Itália; exportações brasileiras caíram 40%.",
+      "trecho": "Para os Emirados Árabes Unidos, que representam outro alvo de muito interesse\npara rochas processadas brasileiras e que têm China e Itália como principais fornecedores, as\nnossas exportações tiveram queda de 40% em 2022."
+    },
+    {
+      "pais": "América do Norte (EUA, Canadá, México)",
+      "afirmacao": "Importância de conquistar fatia do mercado norte-americano de produtos acabados.",
+      "trecho": "a conquista\nde uma fatia do mercado norte-americano (EUA, Canadá e México) de produtos acabados."
+    }
+  ],
+  "politicas": [],
+  "precos": [
+    {
+      "produto": "Rochas processadas",
+      "afirmacao": "Queda de 2,6% no faturamento e 16,6% no volume, com alta de 16,7% no preço médio.",
+      "trecho": "As rochas processadas tiveram queda de 2,6% no faturamento e 16,6% no volume físico, com\nincremento de 16,7% no preço médio."
+    },
+    {
+      "produto": "Granitos e quartzitos brutos",
+      "afirmacao": "Preço médio dos mármores brutos subiu 0,8% e o de granitos e quartzitos 30,1%.",
+      "trecho": "O\npreço médio dos mármores brutos teve elevação de 0,8% e o dos granitos e quartzitos de\n30,1%."
+    }
+  ],
+  "desafios": [
+    {
+      "afirmacao": "Comercialização das chapas concentrada nos EUA, onde são substituídas por artificiais.",
+      "trecho": "Nosso principal\nproduto de exportação são as chapas em geral e sua comercialização desde há muito\nconcentra-se nos EUA"
+    }
+  ],
+  "pleitos": [
+    {
+      "afirmacao": "Diversificação de mercados para chapas e conquista do mercado norte-americano de acabados.",
+      "trecho": "Destaca-se, portanto, a importância da diversificação de mercados para chapas"
+    },
+    {
+      "afirmacao": "Terceira onda exportadora, de produtos acabados, poderia garantir a economicidade até de rochas de batalha.",
+      "trecho": "Destaca-se ainda que a terceira onda exportadora, de produtos acabados, principalmente\npara os EUA, poderia garantir a economicidade, até de rochas de batalha"
+    },
+    {
+      "afirmacao": "Diversificação da oferta e aumento da demanda no mercado doméstico, inclusive rochas de batalha.",
+      "trecho": "Outro viés\nde economicidade é a diversificação de oferta e aumento da demanda dos materiais rochosos\nnaturais, também incluídos os de batalha, no mercado doméstico."
+    }
+  ],
+  "observacao": null
+}

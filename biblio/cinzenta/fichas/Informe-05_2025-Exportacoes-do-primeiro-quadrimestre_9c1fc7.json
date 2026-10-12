@@ -1,0 +1,40 @@
+{
+  "id": "Informe-05_2025-Exportacoes-do-primeiro-quadrimestre_9c1fc7",
+  "arquivo": "Informe-05_2025-Exportacoes-do-primeiro-quadrimestre.pdf",
+  "emissor": "Abirochas",
+  "titulo": "Exportações e Importações Brasileiras de Rochas Ornamentais no 1º Quadrimestre de 2025 (Informe 05/2025)",
+  "data_publicacao": "2025-05",
+  "periodo_coberto": "jan-abr/2025",
+  "tipo": "relatorio-mensal",
+  "tema": "Exportações e importações de rochas no 1º quadrimestre de 2025, com destaque para a alta de preços médios, o peso dos quartzitos maciços e o alerta de comoditização dos blocos de quartzito.",
+  "elos": ["E1", "E3", "E6"],
+  "indicadores": [
+    {"nome": "Preço médio das exportações", "valor": "690,3 (+14,9%)", "unidade": "US$/t", "periodo": "jan-abr/2025", "trecho": "O preço médio das exportações teve elevação de 14,9%, atingindo US$ 690,3/t."},
+    {"nome": "Preço médio das rochas processadas exportadas", "valor": "1.331,4 (+19,9%)", "unidade": "US$/t", "periodo": "jan-abr/2025", "trecho": "Para as rochas processadas esta elevação foi de 19,9%, com preço médio de US$ 1.331,4/t."},
+    {"nome": "Preço médio de blocos de quartzito maciço e quartzo natural", "valor": "558,8 (-6,8%)", "unidade": "US$/t", "periodo": "jan-abr/2025", "trecho": "Com US$ 558,8/t, este preço médio permanece, no entanto, muito mais elevado do que as demais rochas brutas exportadas."},
+    {"nome": "Participação de quartzitos maciços e quartzo (blocos e chapas) nas exportações", "valor": "53,3% do faturamento; 22,3% do volume", "unidade": "%", "periodo": "jan-abr/2025", "trecho": "As rochas quartzíticas maciças e de quartzo cristalino, considerando blocos e chapas, já representaram 53,3% do faturamento e 22,3% do volume físico das exportações brasileiras"},
+    {"nome": "Preço médio das importações", "valor": "504,7 (-2%)", "unidade": "US$/t", "periodo": "jan-abr/2025", "trecho": "Seu preço médio teve variação negativa de 2%, atingindo US$ 504,7/t."},
+    {"nome": "Número de países de destino", "valor": "105", "unidade": "países", "periodo": "jan-abr/2025", "trecho": "Exportações para 105 países."}
+  ],
+  "explicacoes": [
+    {"fenomeno": "Alta do preço médio das rochas silicáticas brutas (+9,2%)", "causa_atribuida": "Incremento de 15% no preço médio dos blocos de granito da posição 2516.12.00", "trecho": "As rochas silicáticas e silicosas brutas tiveram elevação de 9,2% em seu preço médio, atingindo US$ 261,2/t e sendo alavancadas pelo incremento de 15% do preço médio dos blocos de granito da posição 2516.12.00."},
+    {"fenomeno": "Participação dos blocos de quartzito cai no faturamento e sobe em volume", "causa_atribuida": "Queda de 6,8% do preço médio desses blocos", "trecho": "enquanto em volume físico elevou-se de 7,4% para 8,7%, o que foi devido a uma queda de 6,8% do seu preço médio frente ao 1º quadrimestre de 2024."},
+    {"fenomeno": "Comoditização dos blocos de quartzito maciço (com extensão futura às chapas)", "causa_atribuida": "Aumento do volume exportado a par da queda do preço médio", "trecho": "O incremento do volume físico das exportações de blocos de quartzito maciço e quartzo natural, a par da tendência de queda de seu preço médio, sinaliza um processo indesejável de comoditização destes produtos comerciais"},
+    {"fenomeno": "Abertura contínua de frentes de lavra e descomissionamento de lavras", "causa_atribuida": "Perda de economicidade associada à comoditização; só acabados evitam a tendência", "trecho": "Pode-se assim prescindir do processo contínuo e intenso de abertura de frentes de lavra para novos materiais e o descomissionamento de lavras ativas, pela perda de sua economicidade."}
+  ],
+  "mercados": [
+    {"pais": "Turquia, México, Índia, Egito", "afirmacao": "Maiores fornecedores de rochas para o Brasil; carbonáticas dominam as importações", "trecho": "As rochas carbonáticas, em blocos e chapas, representaram a maior parte dessas importações. Turquia, México, Índia e Egito foram os maiores fornecedores para o Brasil."}
+  ],
+  "politicas": [],
+  "precos": [
+    {"produto": "Blocos de granito (2516.12.00)", "afirmacao": "Alta de 15% do preço médio", "trecho": "pelo incremento de 15% do preço médio dos blocos de granito da posição 2516.12.00"},
+    {"produto": "Blocos de quartzito maciço e quartzo natural", "afirmacao": "Queda de 6,8% e tendência de comoditização", "trecho": "o que foi devido a uma queda de 6,8% do seu preço médio frente ao 1º quadrimestre de 2024."},
+    {"produto": "Rochas processadas", "afirmacao": "Preço médio subiu 19,9% para US$ 1.331,4/t", "trecho": "Para as rochas processadas esta elevação foi de 19,9%"}
+  ],
+  "desafios": [
+    {"afirmacao": "Comoditização dos quartzitos maciços, a estender-se para suas chapas", "trecho": "sinaliza um processo indesejável de comoditização destes produtos comerciais, que deverá futuramente estender-se para suas chapas."},
+    {"afirmacao": "Somente produtos acabados evitam a comoditização e mantêm a diversificação da carteira", "trecho": "Apenas os produtos acabados/finais permitem evitar a tendência de comoditização e manter a diversificação da carteira de rochas brasileiras comercializadas no mercado interno e, sobretudo, no externo."}
+  ],
+  "pleitos": [],
+  "observacao": null
+}

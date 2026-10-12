@@ -1,0 +1,145 @@
+{
+  "id": "Informe-07_2025-Exportacoes-julho_54dc58",
+  "arquivo": "Informe-07_2025-Exportacoes-julho.pdf",
+  "emissor": "Abirochas",
+  "titulo": "Balanço das exportações e importações brasileiras de rochas ornamentais no período janeiro-julho de 2025",
+  "data_publicacao": "2025-08",
+  "periodo_coberto": "jan-jul/2025",
+  "tipo": "conjuntura",
+  "tema": "Balanço jan-jul/2025: faturamento +22,9% por antecipação das compras dos EUA ao tarifaço de agosto; isenção da NCM 6802.99.90 e pleito de revisão da classificação fiscal.",
+  "elos": ["E6", "E5", "E10"],
+  "indicadores": [
+    {
+      "nome": "Preço médio das exportações",
+      "valor": "717,4 (vs 568,3 em 2024; +26,4%)",
+      "unidade": "US$/t",
+      "periodo": "jan-jul/2025",
+      "trecho": "o preço médio das\nexportações registrou incremento de 26,4% em 2025, evoluindo de US$ 568,3/t em\n2024 para US$ 717,4/t no ano em curso."
+    },
+    {
+      "nome": "Participação das rochas processadas no faturamento e no volume",
+      "valor": "78,5% do faturamento (vs 75,7%); 48,1% do volume (vs 44,4%)",
+      "unidade": "%",
+      "periodo": "jan-jul/2025",
+      "trecho": "a participação de rochas processadas evoluiu de 75,7% para\n78,5% no total do faturamento e de 44,4% para 48,1% do total do volume físico das\nexportações."
+    },
+    {
+      "nome": "Participação dos EUA no faturamento exportado",
+      "valor": "US$ 511,2 milhões; 57,7%",
+      "unidade": "US$; %",
+      "periodo": "jan-jul/2025",
+      "trecho": "As exportações para os\nEUA somaram US$ 511,2 milhões e representaram 57,7% do total do nosso\nfaturamento."
+    },
+    {
+      "nome": "Participação de Vitória, Rio de Janeiro e Santos no volume exportado",
+      "valor": "89,6",
+      "unidade": "%",
+      "periodo": "jan-jul/2025",
+      "trecho": "respondendo por 89,6% do total do seu volume físico no período janeiro-julho de\n2025."
+    },
+    {
+      "nome": "Preço médio dos produtos embarcados em Vitória vs Rio de Janeiro e Santos",
+      "valor": "260 (Vitória) vs 1.100 (RJ e Santos)",
+      "unidade": "US$/t",
+      "periodo": "jan-jul/2025",
+      "trecho": "O preço médio dos produtos exportados em Vitória (US$ 260/t), Rio de Janeiro\ne Santos (US$ 1.100/t), aponta a deﬁciência do Espírito Santo para cargas\nconteinerizadas."
+    },
+    {
+      "nome": "Importações de rochas de revestimento (volume) e participação de Santos e RJ",
+      "valor": "49,2 mil t; 76,3%",
+      "unidade": "t; %",
+      "periodo": "jan-jul/2025",
+      "trecho": "Os portos de Santos e Rio de Janeiro operaram 76,3% do volume\nfísico das importações brasileiras de rochas de revestimento, que totalizaram 49,2\nmil t no período considerado."
+    },
+    {
+      "nome": "Número de estados exportadores e importadores",
+      "valor": "20 exportadores; 23 importadores",
+      "unidade": "estados",
+      "periodo": "jan-jul/2025",
+      "trecho": "Exportações de rochas foram\nanotadas em 20 estados brasileiros."
+    },
+    {
+      "nome": "Preço médio máximo e mínimo por NCM",
+      "valor": "6802.99.90: 2.390; 2516.12.00: 210",
+      "unidade": "US$/t",
+      "periodo": "jan-jul/2025",
+      "trecho": "o maior preço médio foi da\nNCM 6802.99.90 (US$ 2.390/t) e o menor da 2516.12.00 (US$ 210/t)."
+    }
+  ],
+  "explicacoes": [
+    {
+      "fenomeno": "Alta de 22,9% no faturamento e de 26,4% no preço médio em jan-jul/2025",
+      "causa_atribuida": "Antecipação das importações dos EUA ao tarifaço sobre exportações brasileiras vigente a partir de agosto",
+      "trecho": "O excepcional desempenho do período janeiro-julho continuou reﬂetindo a\nantecipação das importações estadunidenses ao tarifaço imposto às exportações\nbrasileiras e que teve vigência a partir do mês de agosto."
+    },
+    {
+      "fenomeno": "Crescimento de 27,4% do faturamento das rochas processadas",
+      "causa_atribuida": "Incremento de 20,7% no preço médio dessas rochas",
+      "trecho": "Com incremento de 20,7% anotado para o preço médio dessas\nrochas processadas, seu faturamento registrou crescimento de 27,4% no período\nconsiderado."
+    },
+    {
+      "fenomeno": "Baixo preço médio das exportações embarcadas em Vitória",
+      "causa_atribuida": "Deficiência do Espírito Santo para cargas conteinerizadas",
+      "trecho": "aponta a deﬁciência do Espírito Santo para cargas\nconteinerizadas."
+    },
+    {
+      "fenomeno": "Redução previsível do faturamento a partir de agosto de 2025",
+      "causa_atribuida": "Sobretarifação dos EUA (peso das exportações para esse país)",
+      "trecho": "As exportações de rochas deverão ser atípicas em 2025, com redução previsível do\nfaturamento a partir de agosto."
+    }
+  ],
+  "mercados": [
+    {
+      "pais": "México",
+      "afirmacao": "Significativa evolução do comércio bilateral de rochas entre Brasil e México.",
+      "trecho": "Destaca-se a signiﬁcativa evolução do comércio bilateral\nde rochas entre Brasil e México."
+    },
+    {
+      "pais": "Vários (ranking de destinos)",
+      "afirmacao": "EUA, China, Itália, México, Reino Unido, Espanha, Austrália, Canadá, EAU e Polônia são os principais destinos.",
+      "trecho": "Os principais países de destino das exportações brasileiras incluíram, nesta ordem\nde faturamento, EUA, China, Itália, México, Reino Unido, Espanha, Austrália,"
+    },
+    {
+      "pais": "Turquia, México, Índia, Espanha, Egito, China",
+      "afirmacao": "Principais fornecedores de rochas ao Brasil em volume.",
+      "trecho": "Os principais fornecedores de rochas\npara o Brasil incluíram, nesta ordem de volume físico, Turquia, México, Índia,\nEspanha, Egito e China."
+    }
+  ],
+  "politicas": [
+    {
+      "medida": "Sobretarifação dos EUA com isenção da NCM 6802.99.90",
+      "afirmacao": "Será preciso reforçar, com critério, as vendas pela NCM isenta.",
+      "trecho": "Considerando-se o peso das exportações para os\nEUA e a isenção da NCM 6802.99.90 da sobretarifação para esse país, será preciso\nreforçar, com o devido critério, as vendas abrigadas nessa NCM."
+    },
+    {
+      "medida": "Classificação fiscal (NCM) das exportações de rochas",
+      "afirmacao": "Parte das exportações pela NCM 6802.93.90 poderia ter sido feita pela 6802.99.90, isenta da sobretarifação.",
+      "trecho": "Acredita-se que parte das exportações brasileiras pela NCM 6802.93.90 poderiam\ne deveriam ter sido efetuadas pela posição ﬁscal 6802.99.90, que ﬁcaram isentas\nda sobretarifação."
+    },
+    {
+      "medida": "Classificação fiscal de granitos (2516.12.00 / 2516.11.00)",
+      "afirmacao": "Parte das rochas exportadas como granito não seriam granitos verdadeiros e deveriam ir para a 2516.90.00.",
+      "trecho": "supõe-se\nque parte das rochas exportadas pelas posições 2516.12.00 e 2516.11.00 não\nsejam de granitos verdadeiros"
+    }
+  ],
+  "precos": [
+    {
+      "produto": "Pedra-sabão (NCM 6802.29.00)",
+      "afirmacao": "Elevado preço médio sugere que parte da pedra-sabão poderia ser abrigada na 6802.99.90.",
+      "trecho": "pelo elevado preço médio das exportações\nefetuadas pela NCM 6802.29.00, acredita-se que parte dos produtos de pedra-\nsabão nela comercializados poderiam ser abrigados na NCM 6802.99.90."
+    }
+  ],
+  "desafios": [
+    {
+      "afirmacao": "Deficiência do Espírito Santo para cargas conteinerizadas.",
+      "trecho": "Os portos de Vitória (ES), Rio de Janeiro (RJ) e Santos (SP), nesta ordem,\nconstituíram os principais locais de embarque das exportações brasileiras"
+    }
+  ],
+  "pleitos": [
+    {
+      "afirmacao": "Revisão e complementação dos códigos fiscais dos capítulos 25 e 68 da TEC/NESH com base na classificação geológica, não nas designações comerciais.",
+      "trecho": "recomendam uma revisão e complementação dos\ncódigos ﬁscais associados aos capítulos 25 e 68 da TEC NESH, tendo-se como base\na classiﬁcação geológica dos materiais rochosos naturais envolvidos e não as\ndesignações comerciais utilizadas."
+    }
+  ],
+  "observacao": "Tabelas e gráficos (UF, NCM, países, portos, séries) nas pp. 2-11 não fichados item a item."
+}

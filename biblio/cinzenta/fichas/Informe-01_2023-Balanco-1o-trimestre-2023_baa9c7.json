@@ -1,0 +1,55 @@
+{
+  "id": "Informe-01_2023-Balanco-1o-trimestre-2023_baa9c7",
+  "arquivo": "Informe-01_2023-Balanco-1o-trimestre-2023.pdf",
+  "emissor": "Abirochas",
+  "titulo": "Balanço das Exportações e Importações de Rochas no 1º Trimestre de 2023 (Informe 01/2023)",
+  "data_publicacao": "2023-05",
+  "periodo_coberto": "jan-mar/2023",
+  "tipo": "conjuntura",
+  "tema": "Balanço das exportações e importações brasileiras de rochas ornamentais no 1º trimestre de 2023, com queda atribuída ao mercado imobiliário chinês, guerra da Ucrânia e limites do modelo de blocos e chapas.",
+  "elos": ["E2", "E3", "E5", "E6", "E10"],
+  "indicadores": [
+    {"nome": "Variação do preço médio das exportações", "valor": "9,2", "unidade": "%", "periodo": "1º tri/2023 vs 1º tri/2022", "trecho": "Apesar de um incremento de 9,2% no seu preço médio"},
+    {"nome": "Recuo do volume de rochas silicáticas exportadas", "valor": "32,2% (mais de 70 mil t)", "unidade": "%", "periodo": "1º tri/2023", "trecho": "recuo de 32,2% do volume de rochas silicáticas exportadas, correspondente\na mais de 70 mil t"},
+    {"nome": "Preço médio e participação da posição 6802.99.90 (chapas de quartzito maciço)", "valor": "US$ 2.250/t; 30,2% do faturamento e 8,2% do volume", "unidade": "US$/t; %", "periodo": "1º tri/2023", "trecho": "tem o maior preço médio entre\nos produtos exportados (US$ 2.250/t), já responderam por 30,2% do total do\nfaturamento das exportações de rochas, compondo apenas 8,2% do seu volume físico."},
+    {"nome": "Participação do Espírito Santo no faturamento das exportações", "valor": "79,3% (US$ 177,5 milhões)", "unidade": "%", "periodo": "1º tri/2023", "trecho": "O Espírito Santo respondeu assim por 79,3%\ndo faturamento brasileiro."},
+    {"nome": "Participação dos EUA no faturamento", "valor": "52,6% (US$ 117,8 milhões)", "unidade": "%", "periodo": "1º tri/2023", "trecho": "Os EUA constituíram o principal país de destino, respondendo por 52,6% (US$ 117,8\nmilhões) do total do faturamento."},
+    {"nome": "Embarques pelo porto do Rio de Janeiro vs Vitória", "valor": "RJ: US$ 137,6 milhões e 158,7 mil t; Vitória: 116,2 mil t e US$ 32,6 milhões", "unidade": "US$ / t", "periodo": "1º tri/2023", "trecho": "O Rio de Janeiro embarcou US$ 137,6 milhões e 158,7 mil t de\nprodutos, contra 116,2 mil t e apenas US$ 32,6 milhões do porto de Vitória."},
+    {"nome": "Preço médio dos produtos importados vs exportados", "valor": "US$ 473/t vs US$ 614/t", "unidade": "US$/t", "periodo": "1º tri/2023", "trecho": "chegando-se a\num valor de US$ 473/t, contra US$ 614/t dos exportados pelo Brasil."},
+    {"nome": "Participação das rochas processadas no volume exportado", "valor": "de 51,5% para 55,2%", "unidade": "%", "periodo": "1º tri/2022 a 1º tri/2023", "trecho": "incremento de 51,5% para 55,2% na participação de rochas processadas"}
+  ],
+  "explicacoes": [
+    {"fenomeno": "Recuo das exportações no 1º trimestre de 2023, sobretudo de rochas silicáticas", "causa_atribuida": "Desaceleração do mercado imobiliário chinês", "trecho": "correspondente\na mais de 70 mil t e devido sobretudo à desaceleração do mercado imobiliário chinês."},
+    {"fenomeno": "Redução expressiva das atividades produtivas dos granitos clássicos", "causa_atribuida": "Perda de economicidade das exportações de chapas e blocos dos granitos clássicos brasileiros", "trecho": "registrou-se a perda de economicidade das exportações de chapas e\nblocos dos granitos clássicos brasileiros, que levou a uma expressiva redução de suas\natividades produtivas."},
+    {"fenomeno": "Cenário de desaceleração ou recessão das exportações", "causa_atribuida": "Condicionantes mercadológicas negativas ligadas à guerra da Ucrânia e à instabilidade no comércio mundial", "trecho": "relacionadas aos desdobramentos da guerra da Ucrânia e à instabilidade gerada no\ncomércio mundial."},
+    {"fenomeno": "Limite de faturamento das exportações brasileiras", "causa_atribuida": "Diminuição do diferencial de preços de blocos e chapas de quartzitos, mármores e granitos exóticos e ausência de exportação de granitos clássicos como produtos acabados", "trecho": "aparentemente atingiu-se o limite possível de faturamento para\nexportações calcadas na comercialização de blocos e chapas"},
+    {"fenomeno": "Baixo valor embarcado pelo porto de Vitória frente ao Rio de Janeiro", "causa_atribuida": "Navios que atracam em Vitória sem rotas e capacidade de carga adequadas para containers", "trecho": "parte dos navios que atracam em Vitória não têm rotas e capacidade de carga\nadequadas para o transporte de containers."},
+    {"fenomeno": "Baixo preço médio das importações", "causa_atribuida": "Boa parte dos produtos importados não seria de primeira qualidade", "trecho": "Pelo preço médio\ndas importações, fica sugerido que boa parte dos produtos importados não são de\nprimeira qualidade."},
+    {"fenomeno": "Queda da participação das silicáticas brutas no volume exportado", "causa_atribuida": "Coerente com o recuo das silicáticas exportadas (mercado chinês)", "trecho": "De forma coerente, a participação das rochas silicáticas brutas no volume físico das\nexportações caiu de 45,3% para 42,1%"}
+  ],
+  "mercados": [
+    {"pais": "China", "afirmacao": "Exportações somaram 105 mil t com faturamento de apenas US$ 22,6 milhões; Itália ultrapassou a China em faturamento.", "trecho": "As exportações para a China somaram 105 mil t,\napesar de representarem um faturamento de apenas US$ 22,6 milhões."},
+    {"pais": "México", "afirmacao": "Ultrapassou o Reino Unido e já é o 4º principal destino.", "trecho": "O México ultrapassou o Reino Unido e já é o 4º principal destino das exportações"},
+    {"pais": "Itália", "afirmacao": "Ultrapassou a China em faturamento, com US$ 29 milhões; também fornece chapas de mármores brancos ao Brasil.", "trecho": "A Itália\nultrapassou a China em faturamento, respondendo por US$ 29 milhões."},
+    {"pais": "Estados Unidos", "afirmacao": "Principal destino, com 52,6% do faturamento.", "trecho": "Os EUA constituíram o principal país de destino"},
+    {"pais": "Mercado internacional (produtos acabados)", "afirmacao": "Há grande espaço para comercialização de produtos acabados, levando as exportações à fronteira de agregação de valor.", "trecho": "Existe grande espaço no mercado internacional para essa comercialização de produtos\nacabados"}
+  ],
+  "politicas": [
+    {"medida": "Classificação fiscal TEC/NESH - posição 6802.99.90", "afirmacao": "É inadmissível a ausência de códigos SH8 específicos para quartzitos maciços processados.", "trecho": "É inadmissível que a TEC NESH ainda não tenha incluído códigos fiscais específicos (SH8)\npara quartzitos maciços processados"},
+    {"medida": "Projeto setorial da ABIROCHAS - terceira onda exportadora", "afirmacao": "O projeto definia a exportação de produtos acabados como a terceira onda, sucedendo blocos e chapas.", "trecho": "visando suceder a “primeira onda”, de blocos, e a “segunda onda”, de\nchapas."}
+  ],
+  "precos": [
+    {"produto": "Quartzitos, mármores e granitos exóticos exportados", "afirmacao": "Tendência de diminuição do preço médio desses materiais de maior valor agregado, já sinalizada no 4º trimestre de 2022.", "trecho": "Sinalizava-se também a tendência de diminuição do preço médio das\nexportações de quartzitos, mármores e granitos exóticos"},
+    {"produto": "Produtos importados", "afirmacao": "Queda de 0,7% no preço médio, para US$ 473/t.", "trecho": "Observou-se queda de 0,7% no preço médio dos produtos importados"}
+  ],
+  "desafios": [
+    {"afirmacao": "Perda de economicidade dos granitos clássicos em blocos e chapas.", "trecho": "perda de economicidade das exportações de chapas e\nblocos dos granitos clássicos brasileiros"},
+    {"afirmacao": "Esgotamento do modelo exportador baseado em blocos e chapas.", "trecho": "quanto pela não realização de exportações\nde granitos clássicos como produtos acabados."},
+    {"afirmacao": "Navios em Vitória sem rotas e capacidade adequadas para containers.", "trecho": "não têm rotas e capacidade de carga\nadequadas para o transporte de containers"}
+  ],
+  "pleitos": [
+    {"afirmacao": "Inclusão de códigos fiscais SH8 específicos para quartzitos maciços processados.", "trecho": "ainda não tenha incluído códigos fiscais específicos (SH8)\npara quartzitos maciços processados, complementando a SH6 6802.99.90."},
+    {"afirmacao": "Exportar produtos acabados (terceira onda exportadora) para agregar valor e manter mercado dos granitos clássicos.", "trecho": "viabilizando a manutenção ou até ampliação do\nmercado para os granitos clássicos mais tradicionais."}
+  ],
+  "observacao": null
+}

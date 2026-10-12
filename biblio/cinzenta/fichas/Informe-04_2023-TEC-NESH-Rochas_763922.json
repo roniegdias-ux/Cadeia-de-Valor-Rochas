@@ -1,0 +1,83 @@
+{
+ "id": "Informe-04_2023-TEC-NESH-Rochas_763922",
+ "arquivo": "Informe-04_2023-TEC-NESH-Rochas.pdf",
+ "emissor": "Abirochas",
+ "titulo": "Informe 04/2023 - Códigos do Sistema Harmonizado, baseados na Nomenclatura Comum do Mercosul (NCM), de interesse para o setor de rochas ornamentais e de revestimento",
+ "data_publicacao": "2023-06",
+ "periodo_coberto": null,
+ "tipo": "estudo-tematico",
+ "tema": "Apresentação das 24 posições NCM/NESH (capítulos 25 e 68) relativas a rochas ornamentais, enquadramento de materiais artificiais e proposta de novos códigos NCM para diferenciar tipos de rocha e produtos.",
+ "elos": [
+  "E6",
+  "E10",
+  "E2",
+  "E3"
+ ],
+ "indicadores": [
+  {
+   "nome": "Posições da NCM relativas ao setor de rochas ornamentais",
+   "valor": "24",
+   "unidade": "posições NCM",
+   "periodo": "2023",
+   "trecho": "(NESH), as 24 posições da NCM relativas ao setor de rochas ornamentais."
+  },
+  {
+   "nome": "Novos códigos NCM propostos",
+   "valor": "4",
+   "unidade": "códigos SH8",
+   "periodo": "2023",
+   "trecho": "Tais adequações poderiam ser atendidas por apenas quatro novos códigos NCM (SH8),\nagregados ao Capítulo 68"
+  }
+ ],
+ "explicacoes": [],
+ "mercados": [],
+ "politicas": [
+  {
+   "medida": "Revisão parcial dos códigos NCM dos capítulos 25 e 68",
+   "afirmacao": "Os códigos NCM vigentes são inespecíficos para alguns tipos de rochas e produtos comerciais, dificultando seu entendimento e aplicação.",
+   "trecho": "Os códigos NCM atualmente utilizados são inespecíficos para alguns tipos de rochas e produtos"
+  },
+  {
+   "medida": "Criação de códigos NCM próprios para rochas silicosas e ultramáficas",
+   "afirmacao": "Aponta-se a necessidade de discriminar quartzitos, arenitos e pedra-sabão por códigos próprios.",
+   "trecho": "Também é apontada a necessidade de discriminação de\nrochas silicosas (quartzitos, arenitos etc.) e ultramáficas (sobretudo pedra-sabão), através de\ncódigos NCM próprios."
+  },
+  {
+   "medida": "Vinculação do Capítulo 25 apenas a produtos diretos da lavra",
+   "afirmacao": "Chapas brutas passariam a ser classificadas no Capítulo 68 (SH5 6802.2) e produtos acabados no SH5 6802.9.",
+   "trecho": "Todos os códigos NCM atrelados ao Capítulo 25 ficam assim vinculados aos produtos diretos da\nlavra de rochas ornamentais, excluindo as chapas brutas"
+  },
+  {
+   "medida": "Orientações da ANM",
+   "afirmacao": "A proposta acolheu orientações sugeridas pela Agência Nacional de Mineração.",
+   "trecho": "Foram, no caso, acolhidas, as orientações sugeridas pela ANM –\nAgência Nacional de Mineração"
+  },
+  {
+   "medida": "Classificação de quartz surfaces / engineered stones",
+   "afirmacao": "Superfícies de quartzo aglomerado enquadram-se na posição 6810; nanoglass na subposição 7005.21.00.",
+   "trecho": "Os denominados quartz\nsurfaces ou engineered stones, como p.ex. Caesarstone (pó de quartzo, resina e pigmentos),\ntambém se enquadram na posição 6810."
+  }
+ ],
+ "precos": [],
+ "desafios": [
+  {
+   "afirmacao": "Aumento do volume de exportações em códigos NCM que funcionam como 'cestas genéricas' prejudica o controle estatístico das exportações setoriais.",
+   "trecho": "o aumento do volume de\nexportações em códigos NCM que constituem as referidas “cestas genéricas” (p.ex. da\n6802.99.90)"
+  }
+ ],
+ "pleitos": [
+  {
+   "afirmacao": "Adequar os códigos NCM para diferenciar tipos de rochas e produtos comerciais, contribuindo para entender as exportações setoriais e o mercado internacional.",
+   "trecho": "sugere-se uma adequação dos códigos NCM vigentes para os materiais rochosos\nnaturais, de maneira que se possa diferenciar os tipos de rochas versus seus produtos\ncomerciais"
+  },
+  {
+   "afirmacao": "As modificações devem ser acordadas com a ProdList (IBGE), via consulta à SECEX e às autoridades alfandegárias do Mercosul.",
+   "trecho": "As modificações/inserções propostas devem ser acordadas com os produtos brasileiros da\nProdList (IBGE), por intermédio de consulta à SECEX (Secretaria e Comércio Exterior) e às\nautoridades alfandegárias do Mercosul."
+  },
+  {
+   "afirmacao": "Subdividir os códigos 6802.10.00, 6801.00.00 e 6803.00.00 por tipos de rochas e produtos (incl. telhas de ardósia).",
+   "trecho": "pode-se aventar a subdivisão dos códigos NCM 6802.10.00 (peças para\nmosaicos e paisagismo, com lados menores que 7 cm) e 6801.00.00 (produtos de\nbeneficiamento simples) por tipos de rochas"
+  }
+ ],
+ "observacao": "Documento técnico-normativo (classificação fiscal); grande parte é transcrição das Notas Explicativas do SH. Não trata de conjuntura nem de causas de variação."
+}

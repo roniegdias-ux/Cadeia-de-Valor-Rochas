@@ -1,0 +1,56 @@
+{
+  "id": "Informe-03_2023-Porcelanatos-IA-1_2ce88b",
+  "arquivo": "Informe-03_2023-Porcelanatos-IA-1.pdf",
+  "emissor": "Abirochas",
+  "titulo": "Geomimética e Inteligência Artificial: a pedra inspirando a indústria cerâmica",
+  "data_publicacao": "2023-06",
+  "periodo_coberto": null,
+  "tipo": "estudo-tematico",
+  "tema": "Uso de inteligência artificial por fabricantes italianos de porcelanato para simular padrões de rochas ornamentais (sobretudo exóticas brasileiras) e a pressão concorrencial resultante sobre os materiais naturais.",
+  "elos": ["E7", "E11", "E6"],
+  "indicadores": [],
+  "explicacoes": [
+    {
+      "fenomeno": "Previsão de maior pressão de mercado sobre materiais rochosos naturais",
+      "causa_atribuida": "Porcelanatos de grandes formatos e maiores espessuras com padrões gerados por IA que simulam rochas exóticas brasileiras",
+      "trecho": "Para os grandes formatos e maiores espessuras, os resultados são incríveis e fazem\nprever mais pressão de mercado sobre os materiais naturais."
+    },
+    {
+      "fenomeno": "Ampliação das fatias de mercado de China e Itália",
+      "causa_atribuida": "Migração chinesa dos materiais naturais para rochas artificiais e investimento italiano pesado em porcelanatos",
+      "trecho": "Os italianos estão por\nsua vez investindo pesado e inovando na produção de porcelanatos, com China e Itália\nampliando suas fatias de mercado."
+    }
+  ],
+  "mercados": [
+    {
+      "pais": "China",
+      "afirmacao": "Nos últimos 10 anos os chineses migraram fortemente dos materiais naturais para as rochas artificiais.",
+      "trecho": "nos últimos 10 anos os chineses efetuaram uma\nforte migração dos materiais naturais para as rochas artificiais."
+    },
+    {
+      "pais": "Itália",
+      "afirmacao": "Fabricantes italianos de grês porcelanato usam IA/machine learning para simular padrões estéticos de rochas exóticas brasileiras.",
+      "trecho": "Fabricantes italianos de grês porcelanato já estão utilizando Inteligência Artificial (IA),\ncom “machine learning” (aprendizagem automática) para simular padrões estéticos de"
+    }
+  ],
+  "politicas": [
+    {
+      "medida": "Promoção comercial da ABIROCHAS (Brasil Original Stones, Academia das Rochas)",
+      "afirmacao": "O marketing italiano de cerâmicas é comparado ao 'encantamento' adotado pela ABIROCHAS em seus projetos de promoção comercial.",
+      "trecho": "criados para seus projetos de promoção comercial nos mercados interno e externo, por\nexemplo através do brand Brasil Original Stones e do projeto Academia das Rochas."
+    }
+  ],
+  "precos": [],
+  "desafios": [
+    {
+      "afirmacao": "Cerâmicas concebidas por IA reproduzem atributos estéticos similares aos de rochas exóticas brasileiras, silicáticas e carbonáticas.",
+      "trecho": "Coverings, exibiu materiais concebidos por IA com atributos estéticos absolutamente\nsimilares ao de rochas exóticas brasileiras e outras, tanto silicosas e silicáticas, quanto\ncarbonáticas."
+    },
+    {
+      "afirmacao": "O marketing italiano de cerâmicas é muito apurado e incorpora a 'geomimética'.",
+      "trecho": "o marketing italiano para cerâmicas é de fato muito\napurado, incorporando um conceito que podemos chamar de geomimética"
+    }
+  ],
+  "pleitos": [],
+  "observacao": "Texto curto (nota temática com fotos); sem dados numéricos."
+}

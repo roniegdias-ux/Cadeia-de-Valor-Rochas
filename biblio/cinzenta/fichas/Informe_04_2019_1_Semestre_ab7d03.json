@@ -1,0 +1,120 @@
+{
+ "id": "Informe_04_2019_1_Semestre_ab7d03",
+ "arquivo": "Informe_04_2019_1_Semestre.pdf",
+ "emissor": "Abirochas",
+ "titulo": "Balanço das exportações e importações brasileiras de rochas ornamentais no 1º semestre de 2019 (Informe 04/2019)",
+ "data_publicacao": "2019-07",
+ "periodo_coberto": "jan-jun/2019",
+ "tipo": "conjuntura",
+ "tema": "Balanço semestral do comércio exterior de materiais rochosos naturais e artificiais no 1º semestre de 2019, com preços médios por produto e por fornecedor.",
+ "elos": [
+  "E6",
+  "E7"
+ ],
+ "indicadores": [
+  {
+   "nome": "Preço médio das exportações de materiais rochosos naturais",
+   "valor": "496,5 (+8,59%)",
+   "unidade": "US$/t",
+   "periodo": "1º sem/2019",
+   "trecho": "O preço médio dessas exportações evoluiu 8,59%, passando de US$ 457,2/t em 2018 para US$\n496,5/t em 2019."
+  },
+  {
+   "nome": "Participação de rochas processadas nas exportações",
+   "valor": "81,44 (faturamento); 58,51 (volume)",
+   "unidade": "%",
+   "periodo": "1º sem/2019",
+   "trecho": "A participação de rochas processadas foi de 81,44% no faturamento e de 58,51% no volume\nfísico das exportações"
+  },
+  {
+   "nome": "Preço e participação das chapas de quartzito e mármore",
+   "valor": "2.100 e 1.000 US$/t; 18,13% e 5,58% do faturamento",
+   "unidade": "US$/t; %",
+   "periodo": "1º sem/2019",
+   "trecho": "Chapas de quartzitos e mármores continuam sustentando preços mais elevados,\nrespectivamente de US$ 2.100/t e US$ 1.000/t"
+  },
+  {
+   "nome": "Participação dos EUA no faturamento das exportações",
+   "valor": "62,5",
+   "unidade": "%",
+   "periodo": "1º sem/2019",
+   "trecho": "mesmo que esse país\nesteja respondendo por 62,5% do total do faturamento dessas exportações."
+  },
+  {
+   "nome": "Importações em m2 equivalentes",
+   "valor": "cerca de 1 milhão (380 mil naturais; 620 mil artificiais)",
+   "unidade": "m2 (chapas 2 cm)",
+   "periodo": "1º sem/2019",
+   "trecho": "as importações do 1º semestre\njá terão somado cerca de 1 milhão m2, dos quais 380 mil m2 correspondentes a MRN e 620 mil\nm2 a MRA."
+  },
+  {
+   "nome": "Preço médio das importações de materiais artificiais",
+   "valor": "637,2 (-9,02%)",
+   "unidade": "US$/t",
+   "periodo": "1º sem/2019",
+   "trecho": "Seu preço médio recuou 9,02%,\npassando de US$ 700,4/t no 1º semestre de 2018 para US$ 637,2/t no 1º semestre de 2019."
+  },
+  {
+   "nome": "Participação dos EUA nas exportações de materiais artificiais",
+   "valor": "85,3 (faturamento); 81,7 (volume)",
+   "unidade": "%",
+   "periodo": "1º sem/2019",
+   "trecho": "As vendas para os EUA representaram 85,3% do total do faturamento e 81,7% do volume físico\nexportado."
+  }
+ ],
+ "explicacoes": [
+  {
+   "fenomeno": "Alta de 7,3% no faturamento das exportações apesar da queda do volume",
+   "causa_atribuida": "Incremento da participação de produtos de maior valor agregado",
+   "trecho": "O faturamento dessas exportações\nteve, no entanto, variação positiva de 7,3%, devida ao incremento de participação de produtos\ncom maior valor agregado."
+  }
+ ],
+ "mercados": [
+  {
+   "pais": "EUA",
+   "afirmacao": "Principal destino (US$ 306,6 milhões); crescimento de 9% em volume e 11,4% em faturamento, mas talvez insuficiente para elevar significativamente as exportações de 2019.",
+   "trecho": "o aumento de vendas para os EUA talvez não seja capaz de\nelevar significativamente as exportações brasileiras de rochas em 2019"
+  },
+  {
+   "pais": "China",
+   "afirmacao": "Maior preço médio entre fornecedores de rochas naturais ao Brasil, enquanto o preço das exportações brasileiras para a China é o menor entre os destinos.",
+   "trecho": "O maior preço médio entre os principais fornecedores\né o da China (US$ 774,7/t), sendo que o preço médio das exportações brasileiras de MRN para\nesse país é o menor (US$ 180/t)"
+  },
+  {
+   "pais": "Turquia",
+   "afirmacao": "Maior saldo negativo da balança comercial brasileira de rochas naturais.",
+   "trecho": "O maior saldo negativo da balança comercial brasileira de MRN é com a Turquia (US$ 1,3\nmilhões)."
+  },
+  {
+   "pais": "China",
+   "afirmacao": "Principal fornecedor de materiais artificiais, com preço cerca de três vezes menor que Espanha, Itália, Israel e Rep. Tcheca.",
+   "trecho": "O preço médio praticado pela\nChina (US$ 550/t) é cerca de três vezes menor aos da Espanha (US$ 1.440/t)"
+  },
+  {
+   "pais": "Espanha",
+   "afirmacao": "Maior fornecedor de rochas naturais ao Brasil em volume (5,2 mil t).",
+   "trecho": "Os maiores fornecedores para o Brasil, em ordem decrescente de volume físico e com mais\nde 1.000 t, foram Espanha (5,2 mil t)"
+  }
+ ],
+ "politicas": [],
+ "precos": [
+  {
+   "produto": "Rochas silicáticas brutas (exceto blocos de quartzito e mármore)",
+   "afirmacao": "Exportações declinantes em valor e volume, apesar de incremento de 6,13% no preço médio.",
+   "trecho": "Exceto pelos blocos de quartzito e mármores, foram declinantes em valor e volume físico as\nexportações de rochas silicáticas brutas"
+  },
+  {
+   "produto": "Importações de rochas naturais",
+   "afirmacao": "Preço médio recuou 10,72%, de US$ 586,7/t para US$ 523,8/t.",
+   "trecho": "Seu preço médio recuou 10,72%, passando de US$ 586,7/t para US$ 523,8/t nos períodos\nconsiderados."
+  }
+ ],
+ "desafios": [
+  {
+   "afirmacao": "Volume físico das importações de materiais artificiais já é quase o dobro do de rochas naturais.",
+   "trecho": "O volume físico dessas importações já representa quase o dobro daquelas de MRN."
+  }
+ ],
+ "pleitos": [],
+ "observacao": "Grande parte do documento são gráficos (séries mensais) sem texto analítico."
+}

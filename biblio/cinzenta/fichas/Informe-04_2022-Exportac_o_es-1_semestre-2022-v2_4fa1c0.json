@@ -1,0 +1,134 @@
+{
+  "id": "Informe-04_2022-Exportac_o_es-1_semestre-2022-v2_4fa1c0",
+  "arquivo": "Informe-04_2022-Exportações-1_semestre-2022-v2.pdf",
+  "emissor": "Abirochas",
+  "titulo": "Balanço das exportações e importações brasileiras de rochas ornamentais no 1º semestre de 2022",
+  "data_publicacao": "2022-07",
+  "periodo_coberto": "jan-jun/2022",
+  "tipo": "conjuntura",
+  "tema": "Balanço do 1º semestre de 2022: faturamento +10,9% com volume -3,6% por maior preço médio; EUA e China como destinos; queda de importações de aglomerados atribuída a sinterizados e fundidos.",
+  "elos": ["E6", "E7", "E10"],
+  "indicadores": [
+    {
+      "nome": "Preço médio dos produtos exportados",
+      "valor": "+15,1%",
+      "unidade": "%",
+      "periodo": "jan-jun/2022",
+      "trecho": "Isto ocorreu pelo incremento do preço médio dos produtos comercializados\n(+15,1%)"
+    },
+    {
+      "nome": "Participação das rochas no total das exportações brasileiras",
+      "valor": "0,4",
+      "unidade": "%",
+      "periodo": "jan-jun/2022",
+      "trecho": "faturamento das exportações de rochas no semestre representou 0,4% do total das\nexportações brasileiras no período (US$ 164,1 bilhões)."
+    },
+    {
+      "nome": "Participação dos EUA nas exportações de rochas",
+      "valor": "US$ 360,1 milhões (56,7%) e 390,7 mil t (36,2%)",
+      "unidade": "US$; t; %",
+      "periodo": "jan-jun/2022",
+      "trecho": "respondendo por US$ 360,1 milhões (56,7%) e 390,7 mil t (36,2% do total exportado)."
+    },
+    {
+      "nome": "Preço médio das exportações para China vs EUA",
+      "valor": "250 (China) vs 920 (EUA)",
+      "unidade": "US$/t",
+      "periodo": "jan-jun/2022",
+      "trecho": "Com\num preço médio de apenas US$ 250/t, contra US$ 920/t dos EUA, a China coloca-se como\nsegundo principal destino das exportações brasileiras de rochas"
+    },
+    {
+      "nome": "Preço médio das rochas naturais importadas",
+      "valor": "491",
+      "unidade": "US$/t",
+      "periodo": "jan-jun/2022",
+      "trecho": "Seu preço médio teve incremento de 0,6%, atingindo US$\n491/t."
+    },
+    {
+      "nome": "Participação da China nas importações brasileiras de aglomerados",
+      "valor": "39,6 mil t (95%)",
+      "unidade": "t; %",
+      "periodo": "jan-jun/2022",
+      "trecho": "A China é o principal fornecedor para o Brasil,\nrespondendo por 39,6 mil t (95%) dessas importações."
+    },
+    {
+      "nome": "Importações de materiais fundidos (SH6 7005.21, Nanoglass)",
+      "valor": "4,2 milhões e 6,5 mil t",
+      "unidade": "US$; t",
+      "periodo": "jan-jun/2022",
+      "trecho": "Pela SH6 7005.21, que abriga materiais fundidos como o Nanoglass e outros2, as importações\nefetuadas no 1º semestre atingiram US$ 4,2 milhões e 6,5 mil t"
+    },
+    {
+      "nome": "Exportações de rochas para os EUA comparadas à carne bovina",
+      "valor": "360 vs 285",
+      "unidade": "US$ milhões",
+      "periodo": "jan-jun/2022",
+      "trecho": "somando US$ 360 milhões e ficando acima, por exemplo,\nda carne bovina (US$ 285 milhões)."
+    }
+  ],
+  "explicacoes": [
+    {
+      "fenomeno": "Faturamento exportado +10,9% apesar de queda de 3,6% no volume",
+      "causa_atribuida": "Aumento do preço médio pela maior participação de produtos mais valorizados (chapas de quartzitos, mármores, granitos exóticos; blocos de quartzitos e mármores)",
+      "trecho": "resultante da maior participação dos produtos mais valorizados nas exportações\n(chapas de quartzitos, mármores e granitos exóticos, além de blocos de quartzitos e\nmármores)."
+    },
+    {
+      "fenomeno": "Queda das importações de aglomerados artificiais",
+      "causa_atribuida": "Maior participação de sinterizados e fundidos nas importações (não contabilizados), e não queda do consumo de artificiais ou desaquecimento imobiliário",
+      "trecho": "refletindo a maior\nparticipação de produtos sinterizados e produtos fundidos nas importações, o que não é ainda\ncontabilizado."
+    },
+    {
+      "fenomeno": "Aumento da demanda interna por rochas, sobretudo as mais valorizadas",
+      "causa_atribuida": "Investimentos da construção civil canalizados para projetos imobiliários de alto padrão",
+      "trecho": "projetos imobiliários de alto padrão aquisitivo, incrementando a demanda das rochas\nornamentais em geral e, particularmente, daquelas mais valorizadas"
+    }
+  ],
+  "mercados": [
+    {
+      "pais": "EUA",
+      "afirmacao": "Principal importador mundial de rochas processadas, tendo o Brasil como maior fornecedor.",
+      "trecho": "Destaca-se que os EUA permanecem como principal\nimportador mundial de rochas processadas, tendo o Brasil como seu maior fornecedor."
+    },
+    {
+      "pais": "China",
+      "afirmacao": "Segundo destino, com US$ 91,8 milhões e 369,5 mil t a preço médio baixo.",
+      "trecho": "segundo principal destino das exportações brasileiras de rochas, respondendo por US$ 91,8\nmilhões e 369,5 mil t."
+    },
+    {
+      "pais": "China",
+      "afirmacao": "Principal fornecedor de aglomerados artificiais ao Brasil.",
+      "trecho": "importações de produtos artificiais de revestimento somaram US$ 25,4 milhões e 41,7 mil t,\ncom variação negativa de respectivamente 15,2% e 22,0% frente a 2021."
+    },
+    {
+      "pais": "Brasil (mercado interno)",
+      "afirmacao": "Demanda interna impulsionada por projetos de alto padrão.",
+      "trecho": "De fato, os investimentos na construção civil estão sendo canalizados para"
+    }
+  ],
+  "politicas": [
+    {
+      "medida": "Classificação fiscal do Nanoglass (Solução de Consulta nº 98.021 - Cosit, Receita Federal)",
+      "afirmacao": "Nanoglass e similares fundidos devem ser enquadrados na posição 7005.21, ficando fora das estatísticas de artificiais de revestimento.",
+      "trecho": "De acordo com a Solução de Consulta nº 98.021 - Cosit, apresentada pela Receita Federal, o Nanoglass e\nsimilares fundidos devem ser atrelados à posição 7005.21 da NCM/TEC/Tipi"
+    }
+  ],
+  "precos": [
+    {
+      "produto": "Aglomerados artificiais importados",
+      "afirmacao": "Preço médio subiu 8,7%, para US$ 609,6/t.",
+      "trecho": "O preço médio teve\nincremento de 8,7%, passando a US$ 609,6/t."
+    }
+  ],
+  "desafios": [
+    {
+      "afirmacao": "A imprensa econômica não dá o merecido destaque aos resultados do setor de rochas no mercado internacional.",
+      "trecho": "As notícias econômicas veiculadas pela imprensa brasileira não dão o\nmerecido destaque para os resultados alcançados pelo setor de rochas no mercado\ninternacional e especialmente nos EUA."
+    },
+    {
+      "afirmacao": "Importações de fundidos (Nanoglass) não são contabilizadas como artificiais concorrentes; deveriam ser incluídas para efeito estatístico.",
+      "trecho": "produtos artificiais de ornamentação e revestimento para efeito estatístico de materiais\nconcorrentes."
+    }
+  ],
+  "pleitos": [],
+  "observacao": "Páginas 4-9 são gráficos (NCM, UF, destinos, séries mensais, portos), não fichados."
+}

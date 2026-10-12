@@ -1,0 +1,253 @@
+{
+ "id": "Informe_01_2019_Balanco_2018-1_da19a4",
+ "arquivo": "Informe_01_2019_Balanco_2018-1.pdf",
+ "emissor": "Abirochas",
+ "titulo": "Balanço das Exportações e Importações Brasileiras de Rochas Ornamentais em 2018 (Informe 01/2019)",
+ "data_publicacao": "2019-01",
+ "periodo_coberto": "2018",
+ "tipo": "conjuntura",
+ "tema": "Balanço anual de exportações, importações, produção e consumo interno aparente de rochas ornamentais em 2018, com avaliação de desempenho e perspectivas.",
+ "elos": [
+  "E1",
+  "E2",
+  "E5",
+  "E6",
+  "E7",
+  "E10"
+ ],
+ "indicadores": [
+  {
+   "nome": "Produção brasileira de rochas ornamentais",
+   "valor": "9,0 milhões (-2,6%)",
+   "unidade": "t",
+   "periodo": "2018",
+   "trecho": "estima-se que a produção brasileira de rochas ornamentais tenha recuado 2,6% frente a 2017,"
+  },
+  {
+   "nome": "Produção voltada ao mercado externo",
+   "valor": "3,0 milhões (-7,0%)",
+   "unidade": "t",
+   "periodo": "2018",
+   "trecho": "A produção voltada para o atendimento do mercado externo somou 3,0 milhões t (-7,0%). A produção para o mercado interno foi da ordem de 6 milhões t,"
+  },
+  {
+   "nome": "Consumo interno aparente",
+   "valor": "3,66 milhões (3,63 milhões em 2017)",
+   "unidade": "t",
+   "periodo": "2018",
+   "trecho": "o consumo interno aparente de rochas ornamentais tenha atingido 3,66 milhões t em 2018, contra 3,63 milhões t em 2017."
+  },
+  {
+   "nome": "Consumo per capita",
+   "valor": "0,32 m2 ou 17,28 kg",
+   "unidade": "m2/hab e kg/hab",
+   "periodo": "2018",
+   "trecho": "o consumo per capita foi de 0,32 m2 ou 17,28 kg, incluindo materiais rochosos naturais e artificiais."
+  },
+  {
+   "nome": "Consumo interno em m2 equivalentes",
+   "valor": "78 milhões (2013) para 67,8 milhões (2018)",
+   "unidade": "m2 equivalentes",
+   "periodo": "2013-2018",
+   "trecho": "Este consumo interno foi estimado em 78 milhões m2 equivalentes em 2013, recuando para 67,8 milhões m2 em 2018."
+  },
+  {
+   "nome": "Preço médio das exportações",
+   "valor": "US$ 452,0/t (-3,73%)",
+   "unidade": "US$/t",
+   "periodo": "2018",
+   "trecho": "O preço médio das exportações recuou 3,73%, passando de US$ 469,5/t para US$ 452,0/t."
+  },
+  {
+   "nome": "Participação dos EUA no faturamento das exportações",
+   "valor": "59,9% (62,5% em 2017)",
+   "unidade": "%",
+   "periodo": "2018",
+   "trecho": "Os EUA representaram 59,9% do total do faturamento das exportações brasileiras de rochas, recuando dos 62,5% anotados em 2017."
+  },
+  {
+   "nome": "Participação do Espírito Santo nas exportações",
+   "valor": "79,7% do faturamento e 71,5% do volume",
+   "unidade": "%",
+   "periodo": "2018",
+   "trecho": "O Espírito Santo respondeu por 79,7% do total do faturamento e 71,5% do total do volume físico das exportações brasileiras de rochas"
+  },
+  {
+   "nome": "Exportações de chapas em m2 equivalentes",
+   "valor": "22,6 milhões (2016), 21,9 milhões (2017), 19,1 milhões (2018)",
+   "unidade": "m2 equivalentes (2 cm)",
+   "periodo": "2016-2018",
+   "trecho": "As exportações brasileiras de chapas recuaram de 22,6 milhões m 2 equivalentes, com 2 cm de espessura, em 2016, para 21,9 milhões m2 em 2017 e 19,1 milhões m2 em 2018."
+  },
+  {
+   "nome": "Importações de materiais rochosos artificiais",
+   "valor": "US$ 44,5 milhões e 64,1 mil t (+13,7% e +12,3%)",
+   "unidade": "US$ e t",
+   "periodo": "2018",
+   "trecho": "As importações de materiais rochosos artificiais para ornamentação e revestimento somaram, por sua vez, US$ 44,5 milhões e 64,1 mil t, com variação positiva de respectivamente 13,7% e"
+  }
+ ],
+ "explicacoes": [
+  {
+   "fenomeno": "Queda do preço médio das exportações",
+   "causa_atribuida": "Queda da participação de rochas processadas no total exportado",
+   "trecho": "O recuo do preço médio das exportações foi devido à queda da participação de rochas processadas no total exportado."
+  },
+  {
+   "fenomeno": "Declínio das exportações no plano internacional",
+   "causa_atribuida": "Perda de espaço das rochas naturais para superfícies de quartzo e porcelanatos, sobretudo nos EUA",
+   "trecho": "No plano internacional o problema é mercadológico, pela perda de espaço das rochas em relação às “superfícies de quartzo” e aos porcelanatos, sobretudo na América do Norte e, principalmente, nos EUA"
+  },
+  {
+   "fenomeno": "Declínio do consumo interno",
+   "causa_atribuida": "Desaquecimento da economia brasileira",
+   "trecho": "No plano doméstico, o problema é fundamentalmente remetido ao desaquecimento da nossa economia."
+  },
+  {
+   "fenomeno": "Expansão contida da demanda interna de revestimentos",
+   "causa_atribuida": "Desaquecimento persistente do setor imobiliário, poucos lançamentos residenciais e comerciais",
+   "trecho": "o já persistente desaquecimento do setor imobiliário da construção civil tem obstaculizado a expansão da demanda de revestimentos"
+  },
+  {
+   "fenomeno": "Perda de fatia de mercado das rochas naturais no plano internacional",
+   "causa_atribuida": "Crescimento de materiais artificiais e porcelanatos de grandes formatos",
+   "trecho": "No plano internacional observa-se um crescimento significativo da fatia de mercado dos materiais rochosos artificiais e dos porcelanatos de grandes formatos"
+  },
+  {
+   "fenomeno": "Recuperação das exportações em set-dez/2018",
+   "causa_atribuida": "Ação antidumping dos EUA contra materiais artificiais chineses",
+   "trecho": "Isto aparentemente constitui resultado da ação antidumping dos EUA com materiais artificiais chineses."
+  },
+  {
+   "fenomeno": "Perda de competitividade das exportações",
+   "causa_atribuida": "Portos do Espírito Santo não atendem às necessidades do setor",
+   "trecho": "Os portos instalados no Espírito Santo continuam não atendendo às necessidades do estado para o setor de rochas, o que acaba por afetar a competitividade das exportações brasileiras."
+  },
+  {
+   "fenomeno": "Perspectiva de recuperação das vendas internas",
+   "causa_atribuida": "Expansão de investimentos e lançamentos no mercado imobiliário apontada por analistas",
+   "trecho": "analistas apontam expansão de investimentos e novos lançamentos no mercado imobiliário da construção civil, fazendo prever o início de um processo de recuperação das vendas de rochas ornamentais"
+  },
+  {
+   "fenomeno": "Importações sem sinal de recuperação",
+   "causa_atribuida": "Mercado interno da construção civil sem início de recuperação",
+   "trecho": "Os números consolidados para as importações brasileiras de materiais rochosos naturais e artificiais não sugeriram um início de recuperação no mercado interno da construção civil."
+  },
+  {
+   "fenomeno": "Crescimento das exportações de cerâmica versus queda das de rochas",
+   "causa_atribuida": "Produtos cerâmicos conquistando espaço comercial frente às rochas naturais",
+   "trecho": "fica sugerido que, de fato, os produtos cerâmicos têm conquistado espaço comercial frente às rochas naturais"
+  }
+ ],
+ "mercados": [
+  {
+   "pais": "EUA",
+   "afirmacao": "Exportações dominadas por chapas, US$ 594,4 milhões, queda de 14,1% em valor",
+   "trecho": "As exportações para os EUA, dominadas por chapas, somaram US$ 594,4 milhões e 844,2 mil t, com variação negativa de respectivamente 14,1% e 14,4% frente a 2017."
+  },
+  {
+   "pais": "China",
+   "afirmacao": "Exportações dominadas por blocos, participação crescente de 8,6% (2015) a 14,0% (2018)",
+   "trecho": "A participação da China, no total do faturamento das exportações brasileiras de rochas, evoluiu de 8,6% em 2015 para 11,5% em 2016, 12,3% em 2017 e 14,0% em 2018."
+  },
+  {
+   "pais": "China / Taiwan / Canadá / Vietnã",
+   "afirmacao": "Menores preços médios para China e Taiwan, maiores para Canadá e Vietnã",
+   "trecho": "os menores preços médios de venda foram praticados para a China (US$ 170/t) e Taiwan (US$ 160/t), tendo-se para o Canadá (US$ 1.010/t) e Vietnam (US$ 870/t) os maiores preços."
+  },
+  {
+   "pais": "Itália",
+   "afirmacao": "Vendas mais diversificadas",
+   "trecho": "As vendas para a Itália são as mais diversificadas, incluindo blocos e chapas de granitos e mármores, além de produtos de ardósia e quartzitos foliados."
+  },
+  {
+   "pais": "EUA",
+   "afirmacao": "Importações de rochas dos EUA superam US$ 3 bilhões/ano, metade de produtos acabados",
+   "trecho": "As importações de rochas ornamentais efetuadas pelos EUA já ultrapassaram a marca de US$ 3 bilhões/ano, metade das quais relativas a produtos acabados"
+  },
+  {
+   "pais": "Américas",
+   "afirmacao": "Países das Américas deveriam receber mais atenção dos exportadores de rochas",
+   "trecho": "É muito mais factível ampliar as exportações de rochas para países situados dentro de nossa área direta de influência do que enfrentarmos a concorrência na Ásia e Europa."
+  },
+  {
+   "pais": "China",
+   "afirmacao": "China responde por 84,1% do volume das importações brasileiras de artificiais",
+   "trecho": "China foi responsável por 84,1% do volume físico das importações brasileiras de materiais artificiais em 2018"
+  },
+  {
+   "pais": "Brasil",
+   "afirmacao": "Importações de artificiais já superam as de naturais; artificiais preferidos por consumidores de maior poder aquisitivo",
+   "trecho": "sugere-se que os materiais rochosos artificiais estejam sendo preferidos aos naturais, pelo menos no Brasil, e junto a consumidores de maior poder aquisitivo."
+  }
+ ],
+ "politicas": [
+  {
+   "medida": "Antidumping dos EUA sobre materiais artificiais chineses",
+   "afirmacao": "Teria favorecido a recuperação das exportações brasileiras no fim de 2018",
+   "trecho": "Isto aparentemente constitui resultado da ação antidumping dos EUA com materiais artificiais chineses."
+  },
+  {
+   "medida": "Projeto Academia das Rochas (ABIROCHAS)",
+   "afirmacao": "Difundir vantagens das rochas naturais frente aos artificiais junto a marmorarias, design e arquitetura",
+   "trecho": "a ABIROCHAS está implementando o Projeto Academia das Rochas, que tem por objetivo difundir as vantagens econômicas e estéticas das rochas naturais frente aos produtos artificiais concorrentes"
+  },
+  {
+   "medida": "Convênio Apex-Brasil/ABIROCHAS",
+   "afirmacao": "Inteligência comercial focada em produtos acabados, especialmente EUA e Oriente Médio",
+   "trecho": "O Projeto Apex/ABIROCHAS, por sua vez, está mais do que nunca focado em atividades de “Inteligência Comercial”, capazes de identificar e entender a demanda de produtos acabados em mercados selecionados, especialmente nos EUA e Oriente Médio."
+  }
+ ],
+ "precos": [
+  {
+   "produto": "Blocos de quartzito",
+   "afirmacao": "Preço médio já superior ao das chapas de granito",
+   "trecho": "O preço médio dos blocos de quartzito (US$ 670,9/t) já é superior ao das chapas de granito pela posição 6802.93.90 (US$ 600,5/t), a partir de um incremento de 8,55% em 2018."
+  },
+  {
+   "produto": "Rochas ornamentais (média)",
+   "afirmacao": "Pela primeira vez preço médio inferior ao das exportações gerais brasileiras",
+   "trecho": "Pela primeira vez o preço médio das exportações de rochas (US$ 452,0/t) foi inferior ao preço médio das exportações gerais brasileiras (US$ 477,0/t)."
+  },
+  {
+   "produto": "Chapas de quartzito (6802.99.90)",
+   "afirmacao": "Preço médio de US$ 2.104,4/t",
+   "trecho": "preço médio de US$ 2.104,4/t (incremento de 3,8% frente a 2017);"
+  },
+  {
+   "produto": "Rochas processadas",
+   "afirmacao": "Preço médio estável",
+   "trecho": "Nas rochas processadas, o preço médio evoluiu 0,27%, de US$ 679,1/t para US$ 681,0/t."
+  },
+  {
+   "produto": "Materiais artificiais importados",
+   "afirmacao": "Artificiais da Espanha e Israel cerca de três vezes mais caros que os da China e Hong Kong",
+   "trecho": "O preço médio dos materiais artificiais provenientes da Espanha e Israel é cerca de três vezes superior àqueles da China e Hong Kong."
+  }
+ ],
+ "desafios": [
+  {
+   "afirmacao": "Inespecificidade dos códigos fiscais impede distinguir exportações de chapas",
+   "trecho": "A inespecificidade dos códigos fiscais existentes na TEC/NESH não permite distinguir o volume das exportações de chapas de outros produtos processados exportados"
+  },
+  {
+   "afirmacao": "Esgotamento do modelo exportador baseado em blocos e chapas",
+   "trecho": "O modelo exportador centrado na venda de blocos e chapas parece já ter cumprido e, de certa forma, esgotado suas possibilidades de expansão."
+  },
+  {
+   "afirmacao": "Aumento do consumo relativo de artificiais no Brasil",
+   "trecho": "Assim como em vários outros países, também no Brasil está aumentando o consumo relativo de materiais rochosos artificiais de revestimento."
+  },
+  {
+   "afirmacao": "Promover exportação de produtos acabados é a grande aposta e desafio",
+   "trecho": "A grande aposta e desafio do setor de rochas e suas entidades representativas é promover a exportação de produtos acabados, para atendimento direto de obras."
+  }
+ ],
+ "pleitos": [
+  {
+   "afirmacao": "Marmorarias devem atuar como sistemistas de soluções integradas de revestimento",
+   "trecho": "As marmorarias brasileiras não devem continuar atuando como simples fornecedoras de insumos, mas como sistemistas de soluções integradas de revestimento para a construção civil."
+  }
+ ],
+ "observacao": null
+}

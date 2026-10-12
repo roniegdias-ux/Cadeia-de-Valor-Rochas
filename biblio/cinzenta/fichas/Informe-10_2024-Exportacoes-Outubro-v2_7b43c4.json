@@ -1,0 +1,40 @@
+{
+  "id": "Informe-10_2024-Exportacoes-Outubro-v2_7b43c4",
+  "arquivo": "Informe-10_2024-Exportacoes-Outubro-v2.pdf",
+  "emissor": "Abirochas",
+  "titulo": "Síntese das Exportações Brasileiras de Rochas Ornamentais e de Revestimento – Janeiro a Outubro de 2024 (Informe 10/2024)",
+  "data_publicacao": "2024-11",
+  "periodo_coberto": "jan-out/2024",
+  "tipo": "conjuntura",
+  "tema": "Síntese das exportações jan-out/2024 (+8,4%), atribuindo o desempenho à economia dos EUA, à antecipação de compras ante tarifas de Trump, à demanda chinesa e ao câmbio.",
+  "elos": ["E6", "E7"],
+  "indicadores": [
+    {"nome": "Participação dos EUA nas exportações", "valor": "55,6 (valor) / 30,7 (volume)", "unidade": "%", "periodo": "jan-out/2024", "trecho": "os EUA, somaram US$ 571,6 milhões e 530,1 mil t, representando respec�vamente 55,6% e 30,7% do total das exportações brasileiras."},
+    {"nome": "Participação da China nas exportações", "valor": "17,5 (valor) / 44,6 (volume)", "unidade": "%", "periodo": "jan-out/2024", "trecho": "essas vendas somaram US$ 180 milhões e 770,1 mil t, representando respec�vamente 17,5% e 44,6% do total das exportações brasileiras de rochas."},
+    {"nome": "Cotação do dólar", "valor": "próxima de 6,00", "unidade": "R$/US$", "periodo": "4º tri/2024", "trecho": "a cotação do US dólar tem se man�do em patamares próximos a R$ 6,00"},
+    {"nome": "Número de países de destino", "valor": "122", "unidade": "países", "periodo": "jan-out/2024", "trecho": "Exportações para 122 países. Fonte dos dados: Comex Stat"},
+    {"nome": "Número de estados exportadores", "valor": "20", "unidade": "UF", "periodo": "jan-out/2024", "trecho": "20 estados exportadores. Fonte dos dados: Comex Stat"}
+  ],
+  "explicacoes": [
+    {"fenomeno": "Bom desempenho das exportações em 2024", "causa_atribuida": "Condições nos EUA: inflação sob controle, mercado de trabalho saudável e crescimento dos salários (apesar de custo de vida e juros hipotecários elevados)", "trecho": "a inﬂação desse país ﬁcou sob controle, o mercado de trabalho permaneceu saudável e os salários experimentaram crescimento"},
+    {"fenomeno": "Ressalva ao desempenho nos EUA", "causa_atribuida": "Custo de vida elevado e juros altos das hipotecas residenciais", "trecho": "apesar do custo de vida ainda muito elevado para os trabalhadores de baixa e média renda e de taxas de juros também elevadas para as hipotecas imobiliárias residenciais."},
+    {"fenomeno": "Incremento das importações norte-americanas de rochas brasileiras", "causa_atribuida": "Antecipação de compras diante do aumento de tarifas sinalizado por Donald Trump", "trecho": "o aumento de tarifas sinalizado por Donald Trump, novo presidente eleito dos EUA, promoveu expressiva antecipação de compras pelas empresas norte-americanas"},
+    {"fenomeno": "Vendas vigorosas para a China", "causa_atribuida": "Mantidas apesar de suposta crise do mercado imobiliário chinês", "trecho": "apesar de uma suposta crise do mercado imobiliário chinês, as vendas de rochas brasileiras para esse país permaneceram vigorosas em 2024."},
+    {"fenomeno": "Melhoria de rentabilidade dos exportadores", "causa_atribuida": "Forte valorização cambial do dólar (perto de R$ 6,00), favorecendo quartzitos maciços e quartzo natural", "trecho": "a forte valorização cambial do US dólar tem proporcionado expressiva melhoria de rentabilidade para os exportadores brasileiros de rochas ornamentais."},
+    {"fenomeno": "Riscos futuros para a economia dos EUA (citando Acemoglu)", "causa_atribuida": "População mais velha, ascensão da IA e reconfiguração da economia global", "trecho": "uma população mais velha; a ascensão da Inteligência Ar�ﬁcial; e uma reconﬁguração da economia global."}
+  ],
+  "mercados": [
+    {"pais": "EUA", "afirmacao": "Principal mercado; condicionantes do bom desempenho são sobretudo relativos aos EUA", "trecho": "O bom desempenho dessas exportações reﬂete condicionantes sobretudo rela�vas aos EUA, nosso principal mercado"},
+    {"pais": "EUA", "afirmacao": "2024 seria um período de calmaria antes de uma tempestade econômica e social (Acemoglu)", "trecho": "o ano de 2024 representa apenas um “período de calmaria”, num país que caminha inconsciente para uma “tempestade econômica e social”."},
+    {"pais": "China", "afirmacao": "Vendas vigorosas, 44,6% do volume exportado", "trecho": "as vendas de rochas brasileiras para esse país permaneceram vigorosas em 2024."}
+  ],
+  "politicas": [
+    {"medida": "Tarifas sinalizadas por Donald Trump", "afirmacao": "Promoveram antecipação de compras favorecendo rochas brasileiras", "trecho": "incrementando suas importações e favorecendo, entre vários outros produtos, as rochas ornamentais brasileiras."}
+  ],
+  "precos": [
+    {"produto": "Quartzitos maciços e quartzo natural", "afirmacao": "Produtos mais valorizados especialmente favorecidos pelo câmbio", "trecho": "favorecendo em especial os produtos comerciais de rochas mais valorizadas, como os quartzitos maciços e o quartzo natural."}
+  ],
+  "desafios": [],
+  "pleitos": [],
+  "observacao": "Texto com caracteres corrompidos ('�' no lugar de 'ti') do pdftotext; trechos copiados com esses caracteres. Gráficos repetidos."
+}

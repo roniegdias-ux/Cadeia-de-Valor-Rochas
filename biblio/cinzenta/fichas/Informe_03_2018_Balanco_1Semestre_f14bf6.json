@@ -1,0 +1,207 @@
+{
+ "id": "Informe_03_2018_Balanco_1Semestre_f14bf6",
+ "arquivo": "Informe_03_2018_Balanco_1Semestre.pdf",
+ "emissor": "Abirochas",
+ "titulo": "Balanço das Exportações e Importações Brasileiras de Rochas Ornamentais no 1º Semestre de 2018 (Informe 03/2018)",
+ "data_publicacao": "2018-07",
+ "periodo_coberto": "jan-jun/2018",
+ "tipo": "conjuntura",
+ "tema": "Balanço semestral de exportações e importações de rochas naturais e artificiais no 1º semestre de 2018, com comentários sobre códigos fiscais, dados do Comex Stat e deslocamento regional do setor.",
+ "elos": [
+  "E2",
+  "E5",
+  "E6",
+  "E7",
+  "E10"
+ ],
+ "indicadores": [
+  {
+   "nome": "Preço médio das exportações de rochas ornamentais",
+   "valor": "488,3 (+1,69%)",
+   "unidade": "US$/t",
+   "periodo": "1º sem/2018",
+   "trecho": "O preço médio das exportações teve variação positiva de 1,69%, passando de US$ 480,2/t no\n1º semestre de 2017 para US$ 488,3/t no 1º semestre de 2018."
+  },
+  {
+   "nome": "Preço médio das rochas processadas exportadas",
+   "valor": "+10,92%",
+   "unidade": "variação %",
+   "periodo": "1º sem/2018",
+   "trecho": "O preço médio das rochas\nprocessadas evoluiu 10,92%, minimizando o efeito da redução do volume físico exportado."
+  },
+  {
+   "nome": "Participação das rochas processadas no faturamento das exportações",
+   "valor": "79,7 (contra 82,0 em 2017)",
+   "unidade": "%",
+   "periodo": "1º sem/2018",
+   "trecho": "79,7% de participação de rochas processadas no faturamento (contra 82,0% em 2017)."
+  },
+  {
+   "nome": "Participação das rochas no total das exportações brasileiras",
+   "valor": "0,43 (contra 0,53 em 2017)",
+   "unidade": "%",
+   "periodo": "1º sem/2018",
+   "trecho": "0,43% de participação no total do faturamento das exportações brasileiras (contra\n         0,53% em 2017)."
+  },
+  {
+   "nome": "Participação dos EUA no faturamento das exportações",
+   "valor": "62,7 (preço médio US$ 790/t)",
+   "unidade": "%",
+   "periodo": "1º sem/2018",
+   "trecho": "Com um preço médio de US$ 790/t, as vendas para os EUA representaram\n62,7% do total do faturamento das exportações."
+  },
+  {
+   "nome": "Participação da posição 6801 (pedra São Tomé etc.) nas exportações",
+   "valor": "0,7 (já foi 5% em meados de 2000)",
+   "unidade": "%",
+   "periodo": "2018",
+   "trecho": "Estas exportações chegaram a compor 5% do total\ndas exportações brasileiras de rochas em meados da década de 2000, estando hoje em apenas\n0,7%."
+  },
+  {
+   "nome": "Importações de materiais rochosos artificiais",
+   "valor": "US$ 21,8 milhões e 31,2 mil t (+36,4% e +33,1%)",
+   "unidade": "US$ / t",
+   "periodo": "1º sem/2018",
+   "trecho": "somaram US$ 21,8 milhões e 31,2 mil t no 1º semestre\nde 2018, registrando variação positiva de respectivamente 36,4% e 33,1% frente ao mesmo\nperíodo de 2017."
+  },
+  {
+   "nome": "Importações de materiais de revestimento (naturais + artificiais)",
+   "valor": "57,2 mil t (+12,8%)",
+   "unidade": "t",
+   "periodo": "1º sem/2018",
+   "trecho": "totalizaram 57,2 mil t no 1º semestre\n         de 2018, o que caracterizou incremento de 12,8% sobre as importações de igual\n         período de 2017 (50,7 mil t)."
+  },
+  {
+   "nome": "Exportações de materiais rochosos artificiais",
+   "valor": "US$ 1,7 milhão e 2.964,7 t",
+   "unidade": "US$ / t",
+   "periodo": "1º sem/2018",
+   "trecho": "No 1º semestre de 2018 as exportações brasileiras desses materiais rochosos artificiais\nsomaram US$ 1,7 milhão e 2.964,7 t"
+  }
+ ],
+ "explicacoes": [
+  {
+   "fenomeno": "Redução do impacto da queda do volume exportado",
+   "causa_atribuida": "Aumento de 10,92% do preço médio das rochas processadas",
+   "trecho": "O preço médio das rochas\nprocessadas evoluiu 10,92%, minimizando o efeito da redução do volume físico exportado."
+  },
+  {
+   "fenomeno": "Alta de 12,8% nas importações de materiais de revestimento",
+   "causa_atribuida": "Não indica recuperação do mercado interno da construção; apenas preferência por artificiais entre importados",
+   "trecho": "Isto não é suficiente para evidenciar uma recuperação\n         palpável do mercado interno da construção civil imobiliária. Os números apenas\n         sugerem a preferência dos materiais artificiais sobre os naturais, entre os produtos\n         importados;"
+  },
+  {
+   "fenomeno": "Substituição de rochas naturais por materiais artificiais e cerâmicos",
+   "causa_atribuida": "Desglobalização e reinternalização industrial nos países desenvolvidos (citando Paulo Feldmann)",
+   "trecho": "As noções de Paulo Feldmann são aderentes às\n         da substituição de produtos de base extrativa mineral, como os materiais rochosos\n         naturais de revestimento, por produtos de base essencialmente industrial"
+  },
+  {
+   "fenomeno": "Deslocamento das atividades mínero-industriais do setor para o Nordeste e norte de ES e MG",
+   "causa_atribuida": "Áreas de atuação da Sudene; melhoria de infraestrutura levaria o setor ao interior",
+   "trecho": "as atividades mínero-industriais do\n         setor de rochas estão se deslocando do sul-sudeste do Brasil para a região nordeste."
+  }
+ ],
+ "mercados": [
+  {
+   "pais": "EUA",
+   "afirmacao": "Principal destino, com 62,7% do faturamento a US$ 790/t",
+   "trecho": "foram EUA (US$ 306,3 milhões), China (US$ 64,2 milhões) e Itália (US$ 31,5\nmilhões)"
+  },
+  {
+   "pais": "China",
+   "afirmacao": "Preço médio de US$ 180/t; 13,2% do faturamento e 36,1% do volume",
+   "trecho": "Com preço médio de US$ 180/t, superior\napenas ao de Taiwan (US$ 170/t), as vendas para a China compuseram 13,2% do total do\nfaturamento e 36,1% do volume físico"
+  },
+  {
+   "pais": "China",
+   "afirmacao": "Principal fornecedor de rochas artificiais importadas pelo Brasil",
+   "trecho": "O principal fornecedor brasileiro, por larga margem sobre outros 15\npaíses, foi a China (26,1 mil t)."
+  },
+  {
+   "pais": "Itália / Espanha",
+   "afirmacao": "Principais origens das importações de rochas naturais",
+   "trecho": "destacando-se a Itália (6,4 mil t) e Espanha (5,8 mil t)."
+  },
+  {
+   "pais": "EUA / América do Sul",
+   "afirmacao": "Destinos das exportações de materiais artificiais, EUA com 38,1% a US$ 830/t",
+   "trecho": "são mais expressivas as vendas de artificiais\npara os EUA (US$ 629,5 mil), perfazendo 38,1% do total do faturamento das exportações"
+  }
+ ],
+ "politicas": [
+  {
+   "medida": "Projeto Setorial Apex/Abirochas",
+   "afirmacao": "Busca incrementar exportação de produtos acabados ('terceira onda exportadora')",
+   "trecho": "O Projeto Setorial Apex/ABIROCHAS procura\n         incrementar a exportação de produtos acabados e de maior valor agregado"
+  },
+  {
+   "medida": "Projeto Sebrae/Abirochas",
+   "afirmacao": "Qualificação das marmorarias para fortalecer o consumo interno",
+   "trecho": "O Projeto Sebrae/\n         ABIROCHAS, por sua vez, foca a qualificação das marmorarias como forma de\n         aprimorar os seus serviços e fortalecer o consumo de rochas no mercado interno;"
+  },
+  {
+   "medida": "Base Comex Stat do MDIC",
+   "afirmacao": "Alterações significativas dos números mensais ao longo do semestre prejudicam setores com pequenas empresas",
+   "trecho": "Está sendo muito ruim,\n         especialmente para os setores exportadores integrados por pequenas empresas, tal\n         tipo de descontrole."
+  }
+ ],
+ "precos": [
+  {
+   "produto": "Chapas de granito (6802.93.90)",
+   "afirmacao": "Queda expressiva das exportações apesar de alta de 12,12% no preço médio",
+   "trecho": "Também se registrou queda expressiva das exportações pela posição 6802.93.90 que, não\nobstante, tiveram variação positiva de 12,12% em seu preço médio."
+  },
+  {
+   "produto": "Ardósia (6803.00.00)",
+   "afirmacao": "Recuperação com alta de faturamento, volume e preço médio (4,8%)",
+   "trecho": "Os produtos de ardósia\n(posição 6803.00.00), da mesma forma, têm evidenciado recuperação em 2018"
+  },
+  {
+   "produto": "Rochas naturais importadas",
+   "afirmacao": "Preço médio subiu 4,4%, de US$ 562,1/t para US$ 586,7/t",
+   "trecho": "O preço médio dos produtos importados teve incremento de\n4,4%, passando de US$ 562,1/t em 2017 para US$ 586,7/t em 2018."
+  },
+  {
+   "produto": "Rochas ornamentais vs exportações gerais",
+   "afirmacao": "US$ 488,3/t das rochas contra US$ 344,8/t das exportações gerais",
+   "trecho": "USD 488,3/t de preço médio das exportações brasileiras de rochas ornamentais, contra\n         USD 344,8/t das exportações gerais brasileiras."
+  }
+ ],
+ "desafios": [
+  {
+   "afirmacao": "Indicadores de exportação continuam negativos no 1º semestre de 2018",
+   "trecho": "Continuam negativos os indicadores de desempenho das exportações brasileiras de\n         rochas ornamentais ao final do 1º semestre de 2018, o que constitui um grande desafio"
+  },
+  {
+   "afirmacao": "Códigos fiscais inespecíficos não distinguem chapas de acabados nem quartzitos maciços",
+   "trecho": "Isto é\ncrítico em alguns casos, por exemplo ao não permitir a distinção entre chapas e produtos\nacabados nas SH8 do Capítulo 68 da NCM"
+  },
+  {
+   "afirmacao": "Arrefecimento das exportações de chapas de rochas carbonáticas",
+   "trecho": "Parece estar arrefecendo o ímpeto das exportações de chapas de rochas carbonáticas"
+  },
+  {
+   "afirmacao": "Queda contínua das exportações de quartzito foliado (pedra São Tomé), Paduana e Morisca",
+   "trecho": "continuam\nevidenciando queda significativa em 2018."
+  },
+  {
+   "afirmacao": "Artificiais importados concorrem com rochas naturais importadas e nacionais",
+   "trecho": "apresentam-se como produtos concorrentes dos materiais rochosos naturais, tanto\nimportados quanto nacionais."
+  }
+ ],
+ "pleitos": [
+  {
+   "afirmacao": "Adequação/revisão dos códigos do Capítulo 68 da NCM",
+   "trecho": "Recomenda-se, portanto, uma adequação/revisão dos códigos do Capítulo 68, tomando-se o\ncuidado de não dificultar o seu entendimento pelos exportadores."
+  },
+  {
+   "afirmacao": "Criação de SH8 específicos para chapas e acabados de quartzito maciço",
+   "trecho": "Tem-se um\n         SH8 específico (2506.20.00) para blocos desses quartzitos, necessitando-se de outros\n         dois, também específicos, para suas chapas e produtos acabados;"
+  },
+  {
+   "afirmacao": "Correção da instabilidade dos dados mensais do Comex Stat",
+   "trecho": "Espera-se que o problema seja sanado o mais rapidamente possível, até\n         para não se desqualificar as fontes brasileiras de informações setoriais."
+  }
+ ],
+ "observacao": null
+}

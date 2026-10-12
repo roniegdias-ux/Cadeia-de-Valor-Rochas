@@ -1,0 +1,137 @@
+{
+ "id": "Informe-5_2026-Exportacoes-1o-Quadrimestre-v2_766617",
+ "arquivo": "Informe-5_2026-Exportacoes-1o-Quadrimestre-v2.pdf",
+ "emissor": "Abirochas",
+ "titulo": "Exportações e Importações Brasileiras de Rochas Ornamentais no 1º Quadrimestre de 2026 (Informe 05/2026)",
+ "data_publicacao": "2026-05",
+ "periodo_coberto": "jan-abr/2026",
+ "tipo": "conjuntura",
+ "tema": "Balanço quadrimestral do comércio exterior de rochas ornamentais em 2026, com aumento da participação de blocos, queda de preço das chapas de quartzito e origem dos blocos de quartzito exportados pelo ES.",
+ "elos": [
+  "E1",
+  "E2",
+  "E6"
+ ],
+ "indicadores": [
+  {
+   "nome": "Participação de rochas processadas no faturamento",
+   "valor": "70,8 (contra 80,1 em 2025)",
+   "unidade": "%",
+   "periodo": "jan-abr/2026",
+   "trecho": "A participação de rochas processadas no total do\nfaturamento do 1º quadrimestre, em relação ao 1º quadrimestre de 2025, foi\nreduzida de 80,1% para 70,8%."
+  },
+  {
+   "nome": "Participação de rochas brutas no volume físico exportado",
+   "valor": "61,1 (contra 51,2 em 2025)",
+   "unidade": "%",
+   "periodo": "jan-abr/2026",
+   "trecho": "A participação de rochas brutas, no total do volume físico, evoluiu, por sua vez, de\n51,2% para 61,1% nos mesmos períodos."
+  },
+  {
+   "nome": "Preço médio das exportações",
+   "valor": "646,7 (-6,3%)",
+   "unidade": "US$/t",
+   "periodo": "jan-abr/2026",
+   "trecho": "O preço médio das exportações teve redução de 6,3%, passando de US$ 690/t em\n2025 para US$ 646,7/t em 2026."
+  },
+  {
+   "nome": "Participação do Espírito Santo no faturamento exportado",
+   "valor": "76,9",
+   "unidade": "%",
+   "periodo": "jan-abr/2026",
+   "trecho": "O estado do Espírito Santo exportou US$ 327,1 milhões no 1º quadrimestre de\n2026, representando 76,9% do total do faturamento brasileiro do setor de rochas"
+  },
+  {
+   "nome": "Preço médio das importações de rochas naturais",
+   "valor": "413,1 (-18,2%)",
+   "unidade": "US$/t",
+   "periodo": "jan-abr/2026",
+   "trecho": "O preço médio dessas importações foi de US$ 413,1/t,\nrepresentando uma variação negativa de 18,2% em relação a 2025."
+  },
+  {
+   "nome": "Importações de materiais artificiais",
+   "valor": "US$ 20,6 milhões e 39,9 mil t (US$ 517/t)",
+   "unidade": "US$ / t",
+   "periodo": "jan-abr/2026",
+   "trecho": "As importações de materiais artiﬁciais somaram US$ 20,6 milhões e 39,9 mil t, com\npreço médio de US$ 517/t."
+  },
+  {
+   "nome": "Número de países importadores de rochas brasileiras",
+   "valor": "94",
+   "unidade": "países",
+   "periodo": "jan-abr/2026",
+   "trecho": "94 países importaram rochas brasileiras no 1º quadrimestre de 2026."
+  },
+  {
+   "nome": "Número de UF exportadoras",
+   "valor": "18",
+   "unidade": "UF",
+   "periodo": "jan-abr/2026",
+   "trecho": "18 UF exportaram rochas ornamentais no 1º quadrimestre de 2026."
+  }
+ ],
+ "explicacoes": [
+  {
+   "fenomeno": "Primeira queda de faturamento (-3,6%) e preço médio (-4,5%) das chapas de quartzito (6802.99.90)",
+   "causa_atribuida": "Possível excesso de oferta no mercado internacional, sobretudo nos EUA",
+   "trecho": "já sinalizando um possível excesso de oferta no mercado\ninternacional, sobretudo nos EUA."
+  },
+  {
+   "fenomeno": "Aumento de 23,6% no preço médio das exportações para a China",
+   "causa_atribuida": "Maior participação de quartzitos brutos",
+   "trecho": "o preço médio dessas exportações teve incremento de\n23,6%, sobretudo devido ao aumento da participação de quartzitos brutos."
+  },
+  {
+   "fenomeno": "Liderança do Espírito Santo nas exportações de blocos de quartzito maciço",
+   "causa_atribuida": "Registro no ES de blocos lavrados em CE, BA e MG",
+   "trecho": "Esses blocos têm sua origem em lavras localizadas principalmente nos estados do"
+  }
+ ],
+ "mercados": [
+  {
+   "pais": "China",
+   "afirmacao": "Exportações quase só de blocos; 345,3 mil t, +23,7% frente a 2025",
+   "trecho": "As exportações brasileiras para a China, representadas quase essencialmente por\nrochas brutas (blocos), totalizaram 345,3 mil t e tiveram incremento de 23,7% frente\na 2025."
+  },
+  {
+   "pais": "EUA",
+   "afirmacao": "Possível excesso de oferta de chapas de quartzito no mercado dos EUA",
+   "trecho": "já sinalizando um possível excesso de oferta no mercado\ninternacional, sobretudo nos EUA."
+  },
+  {
+   "pais": "Turquia / México / Egito / Índia",
+   "afirmacao": "Principais fornecedores de rochas naturais ao Brasil",
+   "trecho": "Os principais\nfornecedores do Brasil foram, nesta ordem, Turquia, México, Egito e Índia"
+  },
+  {
+   "pais": "China",
+   "afirmacao": "Principal fornecedor de materiais artificiais ao Brasil",
+   "trecho": "O principal fornecedor foi a China, com US$ 18,9\nmilhões e 38,9 mil t."
+  }
+ ],
+ "politicas": [],
+ "precos": [
+  {
+   "produto": "Chapas de quartzito (6802.99.90)",
+   "afirmacao": "Queda de 4,5% no preço médio, pela primeira vez",
+   "trecho": "faturamento (-3,6%) e do preço médio (-4,5%) das chapas de quartzito exportadas\npela posição 6802.99.90"
+  },
+  {
+   "produto": "Exportações para a China",
+   "afirmacao": "Preço médio subiu 23,6%",
+   "trecho": "o preço médio dessas exportações teve incremento de\n23,6%"
+  }
+ ],
+ "desafios": [
+  {
+   "afirmacao": "Estatística estadual distorcida: exportações de blocos de quartzito contabilizadas para o ES e não para os estados de origem",
+   "trecho": "se essas exportações fossem contabilizadas\npara os estados de origem dos blocos, não constariam os números registrados para\no Espírito Santo."
+  },
+  {
+   "afirmacao": "Maiores incrementos em blocos de quartzito e granito (reprimarização da pauta)",
+   "trecho": "Os maiores incrementos em valor e\nvolume físico das exportações foram assim registrados para blocos de quartzito\n(+45,3% e +44,8%) e blocos de granito e similares (+35,3% e +11,7%)."
+  }
+ ],
+ "pleitos": [],
+ "observacao": "Informe essencialmente estatístico; poucas atribuições causais explícitas."
+}

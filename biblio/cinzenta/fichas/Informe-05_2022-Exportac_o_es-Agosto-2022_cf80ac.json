@@ -1,0 +1,166 @@
+{
+  "id": "Informe-05_2022-Exportac_o_es-Agosto-2022_cf80ac",
+  "arquivo": "Informe-05_2022-Exportações-Agosto-2022.pdf",
+  "emissor": "Abirochas",
+  "titulo": "Balanço das exportações e importações brasileiras de rochas ornamentais no período janeiro-agosto de 2022",
+  "data_publicacao": "2022-09",
+  "periodo_coberto": "jan-ago/2022",
+  "tipo": "conjuntura",
+  "tema": "Balanço jan-ago/2022 com desaceleração do faturamento e prognóstico de crise mundial (pandemia, guerra na Ucrânia, clima, bolhas imobiliárias nos EUA e China) afetando exportações e mercado interno.",
+  "elos": ["E6", "E5", "E7", "E10"],
+  "indicadores": [
+    {
+      "nome": "Preço médio das exportações",
+      "valor": "599,7 (vs 530,1 em 2021; +13,14%)",
+      "unidade": "US$/t",
+      "periodo": "jan-ago/2022",
+      "trecho": "O preço médio dessas exportações evoluiu 13,14%, passando de US$ 530,1/t em 2021 para\nUS$ 599,7/t em 2022."
+    },
+    {
+      "nome": "Composição do faturamento exportado por tipo de rocha",
+      "valor": "processadas 77,7%; silicáticas brutas 19,7%; carbonáticas brutas 2,6%",
+      "unidade": "%",
+      "periodo": "jan-ago/2022",
+      "trecho": "As rochas processadas representaram 77,7% do faturamento das\nexportações, com 19,7% devidos às rochas silicáticas brutas e 2,6% às rochas carbonáticas\nbrutas."
+    },
+    {
+      "nome": "Preço médio das chapas de quartzito (6802.99.90)",
+      "valor": "2,31 mil",
+      "unidade": "US$/t",
+      "periodo": "jan-ago/2022",
+      "trecho": "O maior preço médio entre os produtos exportados (US$ 2,31 mil/t) é devido às chapas\nde quartzito, abrigadas na posição fiscal 6802.99.90."
+    },
+    {
+      "nome": "Blocos de quartzito maciço no faturamento exportado",
+      "valor": "7% e 107,2 mil t",
+      "unidade": "%; t",
+      "periodo": "jan-ago/2022",
+      "trecho": "Os blocos de quartzito maciço\nrepresentaram 7% do faturamento das exportações e somaram 107,2 mil t."
+    },
+    {
+      "nome": "Número de países de destino",
+      "valor": "117",
+      "unidade": "países",
+      "periodo": "jan-ago/2022",
+      "trecho": "continuam representando os principais destinos entre os 117 países para onde são exportadas\nas rochas brasileiras."
+    },
+    {
+      "nome": "Preço médio das exportações para a Austrália",
+      "valor": "2,12 mil",
+      "unidade": "US$/t",
+      "periodo": "jan-ago/2022",
+      "trecho": "As exportações para a Austrália, país que representa o 9º principal\nmercado brasileiro, tem o maior preço médio (US$ 2,12 mil/t) dos destinos relevantes."
+    },
+    {
+      "nome": "Preço médio das exportações do Paraná",
+      "valor": "1,29 mil",
+      "unidade": "US$/t",
+      "periodo": "jan-ago/2022",
+      "trecho": "O maior\npreço médio (US$ 1,29 mil/t) é atribuído ao estado do Paraná devido às suas exportações de\nchapas de mármore."
+    },
+    {
+      "nome": "Preço médio das rochas importadas",
+      "valor": "518,4 (vs 492,3; +5,3%)",
+      "unidade": "US$/t",
+      "periodo": "jan-ago/2022",
+      "trecho": "O preço médio dos produtos importados\nelevou-se de US$ 492,3/t para US$ 518,4/t, representando incremento de 5,3% no período"
+    },
+    {
+      "nome": "Participação média dos EUA no faturamento exportado",
+      "valor": "60",
+      "unidade": "%",
+      "periodo": "jan-ago/2022",
+      "trecho": "Representando em média 60% do faturamento das exportações\nbrasileiras, o mercado dos EUA é o de maior interesse e preocupação para esse\nacompanhamento."
+    }
+  ],
+  "explicacoes": [
+    {
+      "fenomeno": "Crise econômica mundial em delineamento, com impacto na construção civil",
+      "causa_atribuida": "Simultaneidade de pandemia, guerra na Ucrânia e problemas climáticos, afetando cadeia logística, custo do frete marítimo e custo de energia",
+      "trecho": "O planeta não\nestava preparado para a simultaneidade da pandemia, da guerra na Ucrânia e de problemas\nclimáticos, que intensamente afetaram a cadeia logística global, o custo do transporte\nmarítimo"
+    },
+    {
+      "fenomeno": "Forte queda das importações europeias de ardósias e outros revestimentos naturais em setembro",
+      "causa_atribuida": "Efeitos da conjuntura de crise na Europa",
+      "trecho": "A Europa já está sofrendo os efeitos desta conjuntura, registrando-se em\nsetembro forte queda de suas importações de ardósias e outros materiais naturais de\nrevestimento."
+    },
+    {
+      "fenomeno": "Provável recuo das exportações brasileiras de rochas",
+      "causa_atribuida": "Estouro de bolhas imobiliárias nos EUA e na China",
+      "trecho": "os EUA e a China experimentarão o\nestouro de bolhas imobiliárias, sinalizando um provável recuo das exportações das rochas\nbrasileiras e seus produtos comerciais."
+    },
+    {
+      "fenomeno": "Problemas esperados no mercado interno da construção civil imobiliária",
+      "causa_atribuida": "Contágio da crise nas economias dos dois principais parceiros (EUA e China)",
+      "trecho": "Afetadas as economias dos dois principais parceiros comerciais do Brasil (EUA e China), aqui\ntambém a crise deverá se instalar e trazer problemas para o agora aquecido mercado interno"
+    },
+    {
+      "fenomeno": "Exportações de 2022 não devem superar as de 2021; arrefecimento previsto para 2023",
+      "causa_atribuida": "Crise mundial e seus efeitos nos parceiros comerciais",
+      "trecho": "Assim, ao contrário do esperado no 1º semestre, as\nexportações brasileiras de rochas não deverão superar, ao final de 2022, aquelas realizadas\nem 2021."
+    },
+    {
+      "fenomeno": "Eventuais efeitos negativos sobre as exportações",
+      "causa_atribuida": "Crise econômica que extrapola a competência dos programas da ApexBrasil (não atribuível a eles nem ao quadro político eleitoral)",
+      "trecho": "não se poderá atribuir,\npor exemplo aos programas de promoção de exportações da ApexBrasil, os efeitos negativos\ncausados por uma crise econômica que extrapola sua área de competência."
+    }
+  ],
+  "mercados": [
+    {
+      "pais": "EUA",
+      "afirmacao": "Exportações para os EUA recuaram de US$ 516,2 milhões para US$ 509,7 milhões em jan-ago.",
+      "trecho": "Para os\nEUA, no período janeiro-agosto as exportações recuaram de US$ 516,2 milhões em 2021 para\nUS$ 509,7 milhões em 2022."
+    },
+    {
+      "pais": "Vários (ranking)",
+      "afirmacao": "EUA, China, Itália, México, Reino Unido, Canadá, Espanha e Argentina são os principais destinos.",
+      "trecho": "EUA, China, Itália, México, Reino Unido, Canadá, Espanha e Argentina, nesta ordem,"
+    },
+    {
+      "pais": "Turquia, México, Espanha, Itália, Indonésia, China",
+      "afirmacao": "Principais origens das importações brasileiras de rochas naturais.",
+      "trecho": "Turquia, México,\nEspanha, Itália, Indonésia e China, nesta ordem, foram os principais responsáveis por essas\nimportações."
+    },
+    {
+      "pais": "Brasil (mercado interno)",
+      "afirmacao": "Vendas domésticas direcionadas a empreendimentos imobiliários de alto padrão, com arrefecimento previsto em 2023.",
+      "trecho": "Já para 2023 pode-se prever o efetivo arrefecimento dessas exportações e do\npróprio mercado interno, mesmo que as vendas domésticas continuem direcionadas para\nempreendimentos imobiliários de alto padrão."
+    },
+    {
+      "pais": "Brasil (estados)",
+      "afirmacao": "Cinco dos 10 maiores estados exportadores são do Nordeste; sete considerando a área da SUDENE no ES e MG.",
+      "trecho": "Cinco entre os 10 maiores exportadores estaduais são a região nordeste\ndo Brasil, elevando-se este número para sete se consideradas as áreas de abrangência da\nSUDENE"
+    }
+  ],
+  "politicas": [
+    {
+      "medida": "Projeto Apex / programas de promoção da ApexBrasil",
+      "afirmacao": "Emissor critica juízo equivocado que atribuiu à ABIROCHAS a estagnação das exportações e a retirou da condução do Projeto Apex.",
+      "trecho": "visando não repetir o juízo\nequivocado que anteriormente se fez da ABIROCHAS, até pela própria Apex, atribuindo-lhe\nresponsabilidade por uma estagnação das exportações e tirando-a da condução do Projeto\nApex."
+    },
+    {
+      "medida": "Eleição brasileira",
+      "afirmacao": "Nenhum quadro político da próxima eleição seria capaz de alterar os problemas esperados.",
+      "trecho": "Nenhum quadro político definido a partir da próxima eleição brasileira será capaz de alterar\nos problemas esperados"
+    }
+  ],
+  "precos": [
+    {
+      "produto": "Rochas processadas, silicáticas brutas e carbonáticas brutas",
+      "afirmacao": "Preço médio +14,8% nas processadas, +18,6% nas silicáticas brutas e -2% nas carbonáticas brutas.",
+      "trecho": "tiveram variação positiva os preços médios das rochas\nprocessadas (+14,8%) e das rochas silicáticas brutas (+18,6%), com recuo para as rochas\ncarbonáticas brutas (-2%)."
+    }
+  ],
+  "desafios": [
+    {
+      "afirmacao": "A crise em perspectiva deverá impactar o setor ainda mais intensamente que a de 2008.",
+      "trecho": "Ainda mais intensamente que a crise de 2008, aquela agora em perspectiva deverá impactar\no setor de rochas ornamentais brasileiro, tanto no mercado interno quanto, sobretudo, suas\nexportações."
+    },
+    {
+      "afirmacao": "Desaceleração da variação do faturamento ao longo do ano (10,9% no semestre, 9,4% até julho, 5,7% até agosto).",
+      "trecho": "Frente a 2021, a variação do faturamento das exportações recuou de 10,9% no período\njaneiro-junho, para 9,4% no período janeiro-julho e 5,7% no período janeiro-agosto."
+    }
+  ],
+  "pleitos": [],
+  "observacao": "Páginas 4-11 são gráficos (NCM, UF, destinos, portos, séries); erro tipográfico no original ('1801,1 mil t em agosto')."
+}

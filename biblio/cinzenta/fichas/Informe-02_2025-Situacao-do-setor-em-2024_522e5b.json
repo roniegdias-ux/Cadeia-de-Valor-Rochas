@@ -1,0 +1,152 @@
+{
+ "id": "Informe-02_2025-Situacao-do-setor-em-2024_522e5b",
+ "arquivo": "Informe-02_2025-Situacao-do-setor-em-2024.pdf",
+ "emissor": "Abirochas",
+ "titulo": "O Setor Brasileiro de Rochas Ornamentais e de Revestimento em Números - 2024 (Informe 02/2025)",
+ "data_publicacao": "2025-03",
+ "periodo_coberto": "2024",
+ "tipo": "conjuntura",
+ "tema": "Números do setor em 2024: produção por estado e tipo de rocha, exportações, importações, balança comercial e consumo interno aparente por tipo e região.",
+ "elos": [
+  "E1",
+  "E2",
+  "E6",
+  "E7",
+  "E10"
+ ],
+ "indicadores": [
+  {
+   "nome": "Produção total estimada",
+   "valor": "10,5",
+   "unidade": "milhões t",
+   "periodo": "2024",
+   "trecho": "Total estimado                                                                                 10,5                       100"
+  },
+  {
+   "nome": "Produção do Espírito Santo",
+   "valor": "2.400",
+   "unidade": "1.000 t",
+   "periodo": "2024",
+   "trecho": "Espírito Santo             2.400          Granito e mármore"
+  },
+  {
+   "nome": "Produção da Bahia",
+   "valor": "2.100",
+   "unidade": "1.000 t",
+   "periodo": "2024",
+   "trecho": "Bahia                2.100"
+  },
+  {
+   "nome": "Produção de granito e similares",
+   "valor": "3,5 Mt (33%)",
+   "unidade": "Mt",
+   "periodo": "2024",
+   "trecho": "Granito e similares                                                                             3,5                        33"
+  },
+  {
+   "nome": "Produção de quartzito maciço",
+   "valor": "2,7 Mt (26%)",
+   "unidade": "Mt",
+   "periodo": "2024",
+   "trecho": "Quartzito Maciço                                                                                2,7                        26"
+  },
+  {
+   "nome": "Produção para mercado externo/interno",
+   "valor": "2,7 milhões t (26%) externo; 7,8 milhões t (74%) interno",
+   "unidade": "t",
+   "periodo": "2024",
+   "trecho": "2.700.000 (-4%)                  7.800.000 (+8,0%)                 10.500.000 (+5%)"
+  },
+  {
+   "nome": "Consumo interno aparente",
+   "valor": "4.738,7",
+   "unidade": "1.000 t",
+   "periodo": "2024",
+   "trecho": "Consumo interno                                    3.787,6       3.649,4           4.158,7    4.313,9        4.568,4       4.738,7"
+  },
+  {
+   "nome": "Consumo per capita",
+   "valor": "22,3",
+   "unidade": "kg/hab",
+   "periodo": "2024",
+   "trecho": "Consumo per capita (kg)***                          17,95            17,28          19,44      21,25          21,8           22,3"
+  },
+  {
+   "nome": "Consumo interno de São Paulo",
+   "valor": "38,6 milhões m2 (44%)",
+   "unidade": "milhões m2 equivalentes",
+   "periodo": "2024",
+   "trecho": "São Paulo                                                               38,6                        44"
+  },
+  {
+   "nome": "Participação das exportações de rochas no total das exportações brasileiras",
+   "valor": "0,37",
+   "unidade": "%",
+   "periodo": "2024",
+   "trecho": "Variação           0,49                 0,47                 0,26                 0,26                 0,37"
+  }
+ ],
+ "explicacoes": [
+  {
+   "fenomeno": "Ampliação do faturamento das exportações em 2024 apesar de menor volume de processadas",
+   "causa_atribuida": "Aumento da participação de chapas de maior valor agregado",
+   "trecho": "Destaca-se que o aumento da participação de rochas processadas (chapas) com maior valor agregado, determinou ampliação do faturamento das exportações, apesar da redução do volume físico dessas rochas processadas."
+  },
+  {
+   "fenomeno": "Cenário complexo e imprevisível para o setor",
+   "causa_atribuida": "Intervenções do governo Trump no comércio internacional",
+   "trecho": "as intervenções do governo Trump, nas relações internacionais de comércio, criam um cenário complexo e imprevisível para o setor brasileiro de rochas ornamentais."
+  },
+  {
+   "fenomeno": "Risco de restrição à produção e consumo de granitos comuns no mercado interno",
+   "causa_atribuida": "Pressão de oferta de produtos chineses, especialmente artificiais",
+   "trecho": "Também é pouco provável que não haja pressão de oferta de produtos chineses, especialmente materiais artificiais de revestimento, no mercado interno, restringindo a produção e consumo dos granitos brasileiros mais comuns ou de batalha."
+  }
+ ],
+ "mercados": [
+  {
+   "pais": "EUA",
+   "afirmacao": "Provável surgimento de constrangimentos tarifários no principal destino",
+   "trecho": "É pouco provável não surgirem constrangimentos tarifários para as rochas brasileiras no mercado dos EUA, justamente o principal país de destino de nossas exportações."
+  },
+  {
+   "pais": "EUA",
+   "afirmacao": "Melhor perspectiva, mais remota, é ausência de tarifação e de recessão nos EUA",
+   "trecho": "A melhor perspectiva, porém mais remota, é que não haja tarifação dos produtos brasileiros do setor de rochas nos EUA, nem recessão da economia norte-americana."
+  }
+ ],
+ "politicas": [
+  {
+   "medida": "Programa de promoção de exportações para o travertino Bege Bahia",
+   "afirmacao": "APL baiano mereceria programa de promoção de exportações",
+   "trecho": "Pelo menos o travertino Bege Bahia, único APL do estado cujas empresas lograram desenvolver uma significativa base de industrialização e comercialização de suas matérias-primas, mereceria ser contemplado por um programa de promoção de exportações."
+  },
+  {
+   "medida": "Tarifas dos EUA (governo Trump)",
+   "afirmacao": "Risco de tarifação das rochas brasileiras",
+   "trecho": "É pouco provável não surgirem constrangimentos tarifários para as rochas brasileiras no mercado dos EUA"
+  }
+ ],
+ "precos": [],
+ "desafios": [
+  {
+   "afirmacao": "Exportações capixabas dependem de rochas extraídas em MG, BA e Nordeste, para onde se desloca a produção de exóticos",
+   "trecho": "Estima-se que pelo menos 80% das exportações capixabas de 2024 envolvam rochas extraídas no norte-nordeste de Minas Gerais, na Bahia e em outros estados da região nordeste do brasil"
+  },
+  {
+   "afirmacao": "Centro-oeste como nova fronteira de produção de mármores brancos",
+   "trecho": "Outra importante fronteira de produção é a região centro-oeste, destacada pela presença de mármores brancos desenhados, com massa fina."
+  },
+  {
+   "afirmacao": "Exportações de Bahia e Minas Gerais aquém da produção; Bahia no patamar de 1999",
+   "trecho": "Especialmente nos casos da Bahia e Minas Gerais, as exportações não fazem jus ao grande volume e diversidade da sua produção de rochas ornamentais."
+  }
+ ],
+ "pleitos": [
+  {
+   "afirmacao": "Programa de promoção de exportações para empresas baianas, a exemplo dos mármores do ES",
+   "trecho": "Acredita-se que tal iniciativa serviria como acesso dessas empresas à produção e comercialização de outras rochas baianas, a exemplo do que aconteceu com os mármores do Espírito Santo no século passado."
+  }
+ ],
+ "observacao": "Documento predominantemente tabular; as figuras das páginas 7 e 8 (incluindo a relativa à política cambial) não têm texto extraído. Indicadores retirados de linhas de tabela."
+}

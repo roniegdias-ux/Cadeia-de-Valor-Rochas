@@ -1,0 +1,219 @@
+{
+ "id": "Quartzitos_Sao_Tome_303d5d",
+ "arquivo": "Quartzitos_Sao_Tome.pdf",
+ "emissor": "Abirochas",
+ "titulo": "Os quartzitos de São Thomé das Letras, Minas Gerais: principais demandas para o desenvolvimento sustentável da atividade produtiva",
+ "data_publicacao": "2003-11",
+ "periodo_coberto": "2002-2003",
+ "tipo": "posicionamento",
+ "tema": "Perfil do setor de rochas no Brasil e em MG e do APL de quartzitos foliados de São Thomé das Letras, com demandas setoriais (crédito, licenciamento, tecnologia, mercado, tributos, promoção, RH, saúde) apresentadas ao MME.",
+ "elos": [
+  "E1",
+  "E2",
+  "E3",
+  "E6",
+  "E8",
+  "E9",
+  "E10",
+  "E11"
+ ],
+ "indicadores": [
+  {
+   "nome": "Produção brasileira de rochas",
+   "valor": "6,0",
+   "unidade": "milhões t/ano",
+   "periodo": "c. 2003",
+   "trecho": "Sua produção totaliza 6,0 milhões t/ano"
+  },
+  {
+   "nome": "Empresas e empregos diretos no setor (Brasil)",
+   "valor": "11.100 empresas; 114.000 empregos",
+   "unidade": "empresas/empregos",
+   "periodo": "c. 2003",
+   "trecho": "toneladas. Estima -se a existência de 11.100 empresas atuantes no setor, responsáveis\npela agregação de 114.000 empregos diretos."
+  },
+  {
+   "nome": "Consumo interno aparente (Brasil)",
+   "valor": "49,1 milhões m²/ano (25 kg per capita)",
+   "unidade": "m²/ano",
+   "periodo": "c. 2002",
+   "trecho": "de 49,1 milhões m2 /ano, equivalentes a 25 kg per capita."
+  },
+  {
+   "nome": "Produção e frentes de lavra em MG",
+   "valor": "160 frentes; 1,2 milhão t/ano",
+   "unidade": "t/ano",
+   "periodo": "c. 2003",
+   "trecho": "Estima -se, em Minas Gerais, a existência de 160 frentes ativas de lavra, com uma\nprodução de 1,2 milhões de toneladas/ano."
+  },
+  {
+   "nome": "Empresas do setor em MG",
+   "valor": "1.800 (investimentos de US$ 300 milhões)",
+   "unidade": "empresas",
+   "periodo": "c. 2003",
+   "trecho": "Cerca de 1.800 empresas atuam nos segmentos de lavra, beneficiamento e marmoraria\nem Minas Gerais, representando investimentos privados da ordem de US$ 300 milhões."
+  },
+  {
+   "nome": "Empregos diretos em MG",
+   "valor": "22.000 (6.000 lavra; 16.000 beneficiamento/marmoraria)",
+   "unidade": "empregos",
+   "periodo": "c. 2003",
+   "trecho": "Estima -se também que as empresas do setor no estado estejam gerando 22.000\nempregos diretos, 6.000 dos quais no segmento de lavra e 16.000 nos de beneficiamento"
+  },
+  {
+   "nome": "Custo de geração de um emprego direto",
+   "valor": "10 mil",
+   "unidade": "US$",
+   "periodo": "c. 2003",
+   "trecho": "calcula-se que seria de US$\n10 mil o custo para a geração de um emprego direto."
+  },
+  {
+   "nome": "Produção de quartzitos foliados em MG",
+   "valor": "300 mil t/ano (5,2 milhões m²); 6.000 empregos; 140 empresas",
+   "unidade": "t/ano",
+   "periodo": "c. 2003",
+   "trecho": "A atividade mínero-industrial gera aproximadamente 6.000 empregos\ndiretos, alocados em pelo menos 140 empresas atuantes na lavra e beneficiamento."
+  },
+  {
+   "nome": "Produção do centro de São Thomé das Letras",
+   "valor": "200 mil t/ano (3,4 milhões m²/ano)",
+   "unidade": "t/ano",
+   "periodo": "c. 2003",
+   "trecho": "A produção estimada para esse centro\nprodutor é de 200 mil t/ano, que desdobram cerca de 3,4 milhões m2 /ano em lajotas"
+  },
+  {
+   "nome": "Trabalhadores e destino da produção em São Thomé",
+   "valor": "2.000 diretos + 1.500 indiretos; 65% SP e Sul; 20% exportados",
+   "unidade": "pessoas/%",
+   "periodo": "c. 2003",
+   "trecho": "Cerca de 2.000 pessoas trabalham na extração, às quais se\nsomam mais 1.500 trabalhadores indiretos. A produção destina-se principalmente ao\nestado de São Paulo e região sul (65%), sendo que 20% são exportados."
+  }
+ ],
+ "explicacoes": [
+  {
+   "fenomeno": "Tendência negativa das exportações de MG desde o fim dos anos 1990",
+   "causa_atribuida": "Declínio das exportações de granitos brutos, desvalorização desses produtos no mercado internacional e pequena participação de granitos processados",
+   "trecho": "A tendência negativa de Minas Gerais, a partir do final da década de 90, é explicada pelo\ndeclínio das exportações de rochas graníticas brutas, bem como pela gradativa"
+  },
+  {
+   "fenomeno": "Compensação do fraco desempenho dos granitos em MG",
+   "causa_atribuida": "Exportações de ardósias e quartzitos foliados (pedra São Thomé)",
+   "trecho": "O fraco desempenho das rochas graníticas tem sido compensado pelas exportações de\nardósias e quartzitos foliados (pedra São Thomé)."
+  }
+ ],
+ "mercados": [
+  {
+   "pais": "EUA",
+   "afirmacao": "Avaliar segmentação do mercado norte-americano e ampliar vendas de quartzito",
+   "trecho": "Avaliar a segmentação do mercado norte-americano para rochas processadas\n     acabadas e semi-acabadas"
+  },
+  {
+   "pais": "México",
+   "afirmacao": "Avaliar o México como porta de entrada para os EUA",
+   "trecho": "Avaliar o mercado mexicano como porta de entrada de produtos mineiros para os\n     EUA;"
+  },
+  {
+   "pais": "Europa/Portugal",
+   "afirmacao": "Canais para petit pavê na Europa via parceria com empresas portuguesas",
+   "trecho": "Estudar canais de comercialização para pedra petit pavê no mercado europeu, via\n     parceria com empresas portuguesas;"
+  }
+ ],
+ "politicas": [
+  {
+   "medida": "ICMS",
+   "afirmacao": "Pleito de redução da alíquota de 18% para 12% nas operações internas",
+   "trecho": "Redução da alíquota do ICMS de 18,0% para 12,0% nas operações internas da\n    extração e beneficiamento;"
+  },
+  {
+   "medida": "Limites de financiamento para PMEs",
+   "afirmacao": "Limites hoje fixados em R$ 100 mil",
+   "trecho": "ampliação dos limites de financiamento para pequenas e\n    médias empresas, hoje fixados em R$ 100 mil;"
+  },
+  {
+   "medida": "Licenciamento ambiental",
+   "afirmacao": "Uma das principais condicionantes da isonomia competitiva e do acesso a crédito",
+   "trecho": "O licenciamento ambiental representa uma das principais condicionantes para a\n    isonomia competitiva das empresas e sua habilitação junto às instituições de crédito."
+  },
+  {
+   "medida": "Programas de fomento",
+   "afirmacao": "Pequenas empresas do setor normalmente não atendidas pelos programas governamentais",
+   "trecho": "acabamento, que normalmente não têm suas necessidades atendidas pelos\n    programas governamentais/institucionais de fomento;"
+  }
+ ],
+ "precos": [
+  {
+   "produto": "Produtos acabados e semiacabados",
+   "afirmacao": "Preço é o principal mecanismo de pressão competitiva",
+   "trecho": "o principal mecanismo de pressão competitiva, tanto no mercado interno\n    quanto no mercado externo, é exercido através do preço dos produtos acabados e"
+  }
+ ],
+ "desafios": [
+  {
+   "afirmacao": "Questão ambiental é a principal demanda do segmento",
+   "trecho": "Remete-se à questão ambiental, a principal demanda hoje observada para o segmento\nmínero-industrial dos quartzitos de São Thomé das Letras."
+  },
+  {
+   "afirmacao": "Lavra ainda rudimentar e beneficiamento simples",
+   "trecho": "As condições de lavra dos quartzitos foliados de São Thomé das Letras ainda são, no\ngeral, rudimentares"
+  },
+  {
+   "afirmacao": "Sobrefiscalização ambiental por órgãos estaduais, federais e promotoria",
+   "trecho": "sobretudo quanto à sobrefiscalização imposta na questão ambiental por órgãos\n    estaduais, federais e a promotoria pública."
+  },
+  {
+   "afirmacao": "Poeira respirável e ruído nas serrarias e marmorarias",
+   "trecho": "Definição de alternativas técnicas para eliminação de pó/poeira respirável nas\n    serrarias e marmorarias"
+  }
+ ],
+ "pleitos": [
+  {
+   "afirmacao": "Crédito e financiamento compatível com o perfil das empresas",
+   "trecho": "Disponibilidade de crédito e financiamento compatível com o perfil das\n       empresas do setor."
+  },
+  {
+   "afirmacao": "Compatibilizar exigências legais à realidade da pequena empresa; guichê único DNPM/FEAM",
+   "trecho": "Simplificação e desoneração dos processos de concessão de lavra, via articulação do\n    DNPM e FEAM (Guichê Único);"
+  },
+  {
+   "afirmacao": "Criação do Centro Tecnológico do Quartzito em Três Corações",
+   "trecho": "Criação do Centro Tecnológico do Quartzito em Três Corações;"
+  },
+  {
+   "afirmacao": "Incentivos fiscais para aproveitamento de rejeitos",
+   "trecho": "Instituição de incentivos fiscais para o aproveitamento dos rejeitos gerados pelo\n    setor, em todas as fases de produção;"
+  },
+  {
+   "afirmacao": "ICMS de 7% para insumos, máquinas e equipamentos produzidos no estado",
+   "trecho": "Instituição de uma alíquota de 7,0% do ICMS para os insumos, máquinas e\n    equipamentos, utilizados no processo produtivo e produzidos no estado."
+  },
+  {
+   "afirmacao": "Selos de autenticidade e procedência",
+   "trecho": "Confecção de selos de autenticidade, para caracterização de identidade e\n    procedência dos materiais de São Thomé das Letras;"
+  },
+  {
+   "afirmacao": "Pedreira-escola e cursos de formação",
+   "trecho": "Criação da pedreira-escola em São Thomé das Letras;"
+  },
+  {
+   "afirmacao": "Serviço coletivo de segurança e saúde do trabalhador",
+   "trecho": "Criação de serviço coletivo de segurança e saúde do trabalhador do setor de\n    quartzitos"
+  },
+  {
+   "afirmacao": "Consórcios de exportação",
+   "trecho": "Exportação - Formulação de bases adequadas para consórcios de exportação,"
+  },
+  {
+   "afirmacao": "Planta de beneficiamento para a COOPEDRA",
+   "trecho": "Cooperativa - apoio à montagem de planta industrial de beneficiamento para a\n    COOPEDRA, em São Thomé das Letras."
+  },
+  {
+   "afirmacao": "Tratar rochas como specialties, não commodities",
+   "trecho": "não devem ser entendidos e tratados como commodities minerais, e sim,\n    como specialties;"
+  },
+  {
+   "afirmacao": "Incentivos fiscais e tributários para atração de empreendimentos",
+   "trecho": "é de fundamental importância a concessão de incentivos fiscais e\n    tributários, como base para a atração de empreendimentos e desoneração do setor"
+  }
+ ],
+ "observacao": "Documento sem data explícita na capa; nota de rodapé indica apresentação no MME em novembro de 2003 (elaborado por Denize Kistemann Chiodi para a AMIST)."
+}

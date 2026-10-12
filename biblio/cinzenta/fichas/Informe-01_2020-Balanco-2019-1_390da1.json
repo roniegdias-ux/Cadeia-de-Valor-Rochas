@@ -1,0 +1,63 @@
+{
+  "id": "Informe-01_2020-Balanco-2019-1_390da1",
+  "arquivo": "Informe-01_2020-Balanco-2019-1.pdf",
+  "emissor": "Abirochas",
+  "titulo": "Balanço das Exportações e Importações Brasileiras de Rochas Ornamentais em 2019 (Informe 01/2019)",
+  "data_publicacao": "2020-01",
+  "periodo_coberto": "2019",
+  "tipo": "conjuntura",
+  "tema": "Balanço anual 2019 do comércio exterior de rochas ornamentais naturais e artificiais, com estimativas de produção, consumo interno e capacidade de serragem.",
+  "elos": ["E1", "E2", "E5", "E6", "E7", "E10", "E11"],
+  "indicadores": [
+    {"nome": "Produção brasileira de rochas ornamentais", "valor": "9,2", "unidade": "milhões t", "periodo": "2019", "trecho": "a produção brasileira de rochas ornamentais e de revestimento totalizou 9,2 milhões t em 2019, reproduzindo os mesmos números de 2017"},
+    {"nome": "Consumo interno aparente", "valor": "70,5 (67,8 em 2018)", "unidade": "milhões m2 equivalentes (2 cm)", "periodo": "2019", "trecho": "de 67,8 milhões m2 em 2018 para 70,5 milhões m2 em 2019, tendo-se um consumo per capita em 0,33 m2 ou 18,3 kg."},
+    {"nome": "Capacidade instalada de serragem de chapas", "valor": "90", "unidade": "milhões m2/ano", "periodo": "2019", "trecho": "A capacidade instalada do parque brasileiro de serragem de chapas permaneceu em estimados 90 milhões m2/ano, o mesmo de 2018."},
+    {"nome": "Exportações de chapas", "valor": "19,8 (19,1 em 2018)", "unidade": "milhões m2 equivalentes (2 cm)", "periodo": "2019", "trecho": "As exportações de chapas, por sua vez, evoluíram de 19,1 milhões m 2 equivalentes, com 2 cm de espessura, em 2018, para 19,8 milhões m - em 2019."},
+    {"nome": "Preço médio das exportações (variação)", "valor": "+4", "unidade": "%", "periodo": "2019", "trecho": "O preço médio dos produtos exportados teve uma elevação de 4%."},
+    {"nome": "Participação dos EUA no faturamento das exportações", "valor": "62", "unidade": "%", "periodo": "2019", "trecho": "Os EUA responderam por 62% do total do faturamento dessas exportações"},
+    {"nome": "Participação do Espírito Santo nas exportações", "valor": "82 (faturamento) / 77 (volume)", "unidade": "%", "periodo": "2019", "trecho": "Isso correspondeu a 82% do total do faturamento e 77% do total do volume físico das exportações brasileiras de rochas ornamentais."},
+    {"nome": "Preço médio das chapas de quartzito exportadas", "valor": "2.000", "unidade": "US$/t", "periodo": "2019", "trecho": "sobretudo as chapas de quartzitos (US$ 2.000/t)"},
+    {"nome": "Número de países de destino", "valor": "119", "unidade": "países", "periodo": "2019", "trecho": "O Brasil exportou rochas ornamentais para 119 países em 2019."},
+    {"nome": "Preço médio das importações de materiais rochosos artificiais", "valor": "638 (China 530; Espanha 1.470)", "unidade": "US$/t", "periodo": "2019", "trecho": "O seu preço médio foi de US$ 638/t, representando um recuo de 8,1% em relação ao ano anterior."}
+  ],
+  "explicacoes": [
+    {"fenomeno": "Alta do faturamento das exportações com queda do volume físico", "causa_atribuida": "Aumento da participação de produtos de maior valor agregado (chapas de mármore, pedra-sabão, chapas de quartzito)", "trecho": "O desempenho das exportações refletiu o aumento da participação de produtos com maior valor agregado, destacando-se as chapas de mármores (US$ 970/t)"},
+    {"fenomeno": "Recuo do volume exportado de blocos e chapas de granito", "causa_atribuida": "Pressão de porcelanatos e materiais rochosos artificiais no mercado internacional, sobretudo nos EUA", "trecho": "está reproduzindo a pressão de porcelanatos e materiais rochosos artificiais no mercado internacional e particularmente nos EUA."},
+    {"fenomeno": "Pressão concorrencial maior sobre granitos homogêneos", "causa_atribuida": "Materiais concorrentes (porcelanato, artificiais) afetam mais os granitos homogêneos, exceto os esbranquiçados", "trecho": "A pressão de materiais concorrentes é mais intensa sobre as linhagens de granitos homogêneos, excetuando-se aqueles de coloração esbranquiçada."},
+    {"fenomeno": "Recuo das exportações no último trimestre de 2019 maior que o esperado", "causa_atribuida": "Fim do efeito das sanções dos EUA aos produtos chineses, incluindo materiais rochosos artificiais", "trecho": "parece também sinalizar o fim do efeito das sanções dos EUA aos produtos chineses em geral e aos seus materiais rochosos artificiais em particular."},
+    {"fenomeno": "Uso do porto de Santos para cargas conteinerizadas capixabas", "causa_atribuida": "Inadequação do porto de Vitória para embarcações de maior porte", "trecho": "A inadequação do porto de Vitória, para embarcações de maior porte, determina a utilização do porto de Santos, para onde as cargas contaneirizadas são transportadas por cabotagem."},
+    {"fenomeno": "Queda do preço médio das importações de rochas naturais", "causa_atribuida": "Redução das importações de rochas brutas menos acentuada que a de rochas processadas", "trecho": "A redução das importações de rochas brutas foi menos acentuada que a de rochas processadas, fazendo com que o preço médio dos produtos importados recuasse 7,1% frente a 2018"},
+    {"fenomeno": "Aumento da estimativa de produção da Bahia", "causa_atribuida": "Incremento das lavras de quartzitos maciços e mármores no estado", "trecho": "O incremento das lavras de quartzitos maciços e mármores na Bahia elevou a estimativa de produção desse estado"},
+    {"fenomeno": "Crescimento das exportações (2%) contra queda das exportações gerais brasileiras", "causa_atribuida": "Oportunidades proporcionadas pelos quartzitos maciços e mármores no mercado dos EUA", "trecho": "aproveitando as oportunidades que lhes foram proporcionadas pelos quartzitos maciços e mármores no mercado dos EUA."}
+  ],
+  "mercados": [
+    {"pais": "EUA", "afirmacao": "Principal destino (62% do faturamento), compra essencialmente chapas; também mercado para ardósias", "trecho": "As vendas para os EUA, México e Canadá são essencialmente de chapas, enquanto para a China vende-se blocos."},
+    {"pais": "China", "afirmacao": "Segundo destino (12,1%), compra blocos; noticiou-se offshore trading chinês para os EUA via terceiros países", "trecho": "Noticiou-se que a China estaria praticando offshore trading para o mercado dos EUA, exportando através de países não afetados pelas sanções norte-americanas."},
+    {"pais": "Itália e Espanha", "afirmacao": "Compram blocos, chapas e produtos de ardósia", "trecho": "Itália e Espanha compram blocos, chapas e produtos de ardósia (telhas e tampos para bilhar)."},
+    {"pais": "Reino Unido", "afirmacao": "Compra principalmente telhas de ardósia", "trecho": "O Reino Unido compra principalmente telhas de ardósia."},
+    {"pais": "EUA", "afirmacao": "Principal destino das exportações de materiais rochosos artificiais", "trecho": "Os EUA concentram 53,4% do volume físico e 73,5% do faturamento dessas exportações."},
+    {"pais": "China", "afirmacao": "Principal fornecedora de materiais rochosos artificiais ao Brasil", "trecho": "China e Espanha destacaram-se como as principais fornecedoras do Brasil, a primeira com 62,3 mil t e a segunda com 5,1 mil t."},
+    {"pais": "Brasil (mercado interno)", "afirmacao": "Importações ainda não sinalizam recuperação do mercado interno da construção civil", "trecho": "revestimento ainda não permite sinalizar recuperação do mercado interno da construção civil."}
+  ],
+  "politicas": [
+    {"medida": "Sanções dos EUA a produtos chineses", "afirmacao": "Efeito das sanções parece ter terminado no fim de 2019; EUA deverão agir contra offshore trading", "trecho": "Os EUA deverão tomar providências a esse respeito, independentemente da atenuação das sanções frente a China."},
+    {"medida": "Códigos fiscais (NCM) do setor", "afirmacao": "Códigos inespecíficos impedem diferenciar tipo de rocha e produto", "trecho": "Seria recomendável efetuar uma revisão geral dos códigos fiscais existentes para rochas ornamentais pois, em muitos casos, eles não permitem diferenciar nem o tipo de rocha e nem o tipo de produto exportado."},
+    {"medida": "Divulgação de empresas exportadoras pelo governo", "afirmacao": "Governo deixou de fornecer lista de empresas por código fiscal", "trecho": "Esse tipo de informação não está sendo mais fornecido pelo governo brasileiro, o que também dificulta o acompanhamento das exportações."}
+  ],
+  "precos": [
+    {"produto": "Chapas de quartzito, mármore e pedra-sabão", "afirmacao": "Preços elevados por código: 6802.99.90 US$ 2.070/t, 6802.91.00 US$ 970/t, 6802.21.00 US$ 1.390/t", "trecho": "códigos 6802.99.90 (US$ 2.070/t), 6802.91.00 (US$ 970/t) e 6802.21.00 (US$ 1.390/t), sendo que o primeiro abriga chapas de quartzitos e os dois últimos chapas de mármore."},
+    {"produto": "Preço médio por destino", "afirmacao": "US$ 730/t para EUA (chapas), US$ 160/t para China (blocos de granito)", "trecho": "registrando-se US$ 730/t para os EUA (chapas), US$ 160/t para a China"},
+    {"produto": "Importações de rochas naturais", "afirmacao": "Preço médio caiu de US$ 563/t para US$ 523/t", "trecho": "a 2018, passando de US$ 563/t para US$ 523/t."},
+    {"produto": "Materiais rochosos artificiais importados", "afirmacao": "Produtos espanhóis a US$ 1.470/t e chineses a US$ 530/t", "trecho": "o preço médio dos produtos espanhóis alcançou US$ 1.470/t, enquanto os da China ficaram em US$ 530/t."}
+  ],
+  "desafios": [
+    {"afirmacao": "Limitações portuárias do Espírito Santo reduzem a competitividade", "trecho": "As limitações portuárias do Espírito Santo impõem dificuldades competitivas para o setor de rochas."},
+    {"afirmacao": "Inespecificidade dos códigos fiscais prejudica o acompanhamento das exportações", "trecho": "A inespecificidade dos códigos fiscais, existentes para o setor de rochas ornamentais, continua a impedir a discriminação de alguns produtos e rochas"},
+    {"afirmacao": "Declínio do uso de teares multilâminas de aço e crescimento dos multifios diamantados", "trecho": "Continuou em crescimento a serragem atrelada a teares multifios diamantados e em declínio a utilização dos teares multilâminas de aço."}
+  ],
+  "pleitos": [
+    {"afirmacao": "Revisão geral dos códigos fiscais de rochas ornamentais", "trecho": "Seria recomendável efetuar uma revisão geral dos códigos fiscais existentes para rochas ornamentais"},
+    {"afirmacao": "Listar empresas exportadoras/importadoras pelos códigos fiscais usados, não pela CNAE principal", "trecho": "as empresas exportadoras e importadoras deveriam ser listadas e identificadas a partir dos códigos fiscais por elas utilizados nas operações de comércio"}
+  ],
+  "observacao": "Valor de exportação no texto aparece como 'US$ 1.012.059,91' (provavelmente em US$ mil). Páginas finais são gráficos com colunas embaralhadas pelo pdftotext."
+}

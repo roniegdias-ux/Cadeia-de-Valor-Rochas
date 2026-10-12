@@ -1,0 +1,202 @@
+{
+ "id": "Informe-12_2025-Exportacoes-Dezembro_8ad905",
+ "arquivo": "Informe-12_2025-Exportacoes-Dezembro.pdf",
+ "emissor": "Abirochas",
+ "titulo": "Balanço das exportações e importações brasileiras de rochas ornamentais de janeiro a dezembro de 2025",
+ "data_publicacao": "2026-01",
+ "periodo_coberto": "2025",
+ "tipo": "conjuntura",
+ "tema": "Balanço anual 2025 do comércio exterior de rochas: recorde de faturamento puxado por chapas de quartzitos maciços, efeito da sobretarifação dos EUA, concentração no ES e importações via Rondônia.",
+ "elos": [
+  "E2",
+  "E3",
+  "E5",
+  "E6",
+  "E10"
+ ],
+ "indicadores": [
+  {
+   "nome": "Preço médio das exportações de rochas",
+   "valor": "699,2 (+14,20%)",
+   "unidade": "US$/t",
+   "periodo": "2025",
+   "trecho": "Seu preço médio teve incremento de\n14,20%, evoluindo de US$ 612,3/t em 2024 para US$ 699,2/t em 2025."
+  },
+  {
+   "nome": "Participação das rochas processadas no faturamento",
+   "valor": "75,47",
+   "unidade": "%",
+   "periodo": "2025",
+   "trecho": "As rochas\nprocessadas compuseram 75,47% do total do faturamento, representando US$ 1,1 bilhão,"
+  },
+  {
+   "nome": "Preço médio de chapas beneficiadas de quartzito vs. blocos/chapas brutas",
+   "valor": "2.370 vs. 569",
+   "unidade": "US$/t",
+   "periodo": "2025",
+   "trecho": "Enquanto as chapas beneﬁciadas atingiram preço médio de US$ 2.370/t, os produtos\nenquadrados na NCM 2506.20.00 foram negociados, em média, por US$ 569/t"
+  },
+  {
+   "nome": "Participação conjunta das NCMs de quartzitos maciços no faturamento",
+   "valor": "56,9",
+   "unidade": "%",
+   "periodo": "2025",
+   "trecho": "Em conjunto, essas\nduas posições ﬁscais representaram 56,9% do total do faturamento brasileiro"
+  },
+  {
+   "nome": "Participação do ES na capacidade industrial de beneficiamento",
+   "valor": "mais de 90",
+   "unidade": "%",
+   "periodo": "2025",
+   "trecho": "estado do Espírito Santo, que concentra mais de 90% da\ncapacidade industrial brasileira de beneﬁciamento."
+  },
+  {
+   "nome": "Participação dos EUA na receita de exportações",
+   "valor": "54",
+   "unidade": "%",
+   "periodo": "2025",
+   "trecho": "Os Estados Unidos lideraram como principal destino das rochas brasileiras, respondendo\npor 54% da receita obtida no período"
+  },
+  {
+   "nome": "Concentração nos dez maiores importadores",
+   "valor": "91",
+   "unidade": "% do faturamento",
+   "periodo": "2025",
+   "trecho": "os dez maiores importadores de rochas\nbrasileiras em valor foram responsáveis por 91% do faturamento total do setor."
+  },
+  {
+   "nome": "Participação do ES nas exportações",
+   "valor": "78 (valor); 69 (volume)",
+   "unidade": "%",
+   "periodo": "2025",
+   "trecho": "O Espírito Santo lidera de forma expressiva,\nrespondendo por 78% do valor total das exportações"
+  },
+  {
+   "nome": "Participação da via marítima nas exportações",
+   "valor": "99",
+   "unidade": "%",
+   "periodo": "2025",
+   "trecho": "Praticamente 99% das exportações brasileiras de rochas ornamentais se dá por via\nmarítima."
+  },
+  {
+   "nome": "Recintos aduaneiros utilizados",
+   "valor": "31 em 15 UFs",
+   "unidade": "recintos",
+   "periodo": "2025",
+   "trecho": "as exportações brasileiras de rochas ornamentais foram realizadas a\npartir de um total de 31 recintos aduaneiros espalhados pelo país."
+  }
+ ],
+ "explicacoes": [
+  {
+   "fenomeno": "Andamento das exportações brasileiras em 2025",
+   "causa_atribuida": "Expectativa da nova tarifação das importações dos EUA, que acabou isentando a NCM 6802.99.90",
+   "trecho": "O andamento das exportações brasileiras de 2025 foi claramente atrelado à expectativa da\nnova tarifação das importações estadunidenses, que acabou por isentar aquelas\nabrigadas no código ﬁscal 6802.99.90."
+  },
+  {
+   "fenomeno": "Manutenção dos EUA como maior mercado em valor",
+   "causa_atribuida": "Apesar da sobretarifação vigente desde agosto, ou paradoxalmente por causa dela",
+   "trecho": "Mesmo diante da\nsobretarifação vigente desde agosto, ou paradoxalmente por causa dela, os EUA se\nmantiveram como nosso maior mercado em termos de valor"
+  },
+  {
+   "fenomeno": "Expansão da produção de rochas no Nordeste e norte de MG",
+   "causa_atribuida": "Crescimento dos quartzitos maciços",
+   "trecho": "O crescimento dos quartzitos turbinou a produção de rochas ornamentais na Bahia, Ceará\ne outros estados da Região Nordeste do Brasil, bem como no norte de Minas Gerais."
+  },
+  {
+   "fenomeno": "Concentração dos benefícios socioeconômicos da expansão no ES",
+   "causa_atribuida": "ES concentra mais de 90% da capacidade de beneficiamento e processa materiais de MG, BA e CE",
+   "trecho": "Os\nbenefícios socioeconômicos dessas expansão, que se refere às exportações e mercado\ninterno, foram canalizados para o estado do Espírito Santo"
+  },
+  {
+   "fenomeno": "Rondônia como maior importador estadual de rochas",
+   "causa_atribuida": "Regimes aduaneiros especiais federais e incentivos de ICMS estaduais, como a Área de Livre Comércio de Guajará-Mirim",
+   "trecho": "Essa combinação de benefícios locais e federais estimula\na movimentação comercial, beneﬁciando empresas que buscam maior competitividade e\neﬁciência nas transações internacionais."
+  },
+  {
+   "fenomeno": "Dificuldade de diagnóstico e volatilidade prevista para 2026",
+   "causa_atribuida": "Tensões geopolíticas vigentes",
+   "trecho": "as tensões geopolíticas vigentes diﬁcultam a formulação de\ndiagnósticos de cenário para o setor de rochas ornamentais."
+  },
+  {
+   "fenomeno": "Diferença de preço médio entre portos (Vitória vs. Rio/Santos)",
+   "causa_atribuida": "Vitória exporta sobretudo blocos; produtos de maior valor (chapas) saem por Rio de Janeiro e Santos",
+   "trecho": "Os produtos com maior valor agregado, como as chapas acabadas, são exportados\nprincipalmente pelos portos do Rio de Janeiro e Santos."
+  }
+ ],
+ "mercados": [
+  {
+   "pais": "EUA",
+   "afirmacao": "Principal destino em valor, US$ 795 milhões (54% da receita), mesmo com sobretarifação.",
+   "trecho": "o que equivale a US$ 795 milhões."
+  },
+  {
+   "pais": "China",
+   "afirmacao": "Maior importador em volume (44%, 939 mil t).",
+   "trecho": "a China desponta como o maior importador, representando 44%\ndas exportações brasileiras, com um total de 939 mil toneladas."
+  },
+  {
+   "pais": "Europa e América do Sul",
+   "afirmacao": "59% do faturamento vai à América do Norte e 48% do volume à Ásia; Europa e América do Sul podem ser mais bem explorados.",
+   "trecho": "Europa e América do Sul são mercados que podem ser mais bem explorados."
+  },
+  {
+   "pais": "Turquia",
+   "afirmacao": "Principal fornecedor de rochas ao Brasil em 2025 (US$ 12,3 milhões).",
+   "trecho": "Turquia                    12,3              30,6          400"
+  }
+ ],
+ "politicas": [
+  {
+   "medida": "Sobretarifação dos EUA (desde agosto/2025) e isenção da NCM 6802.99.90",
+   "afirmacao": "A nova tarifação estadunidense isentou a posição 6802.99.90 (chapas de quartzitos).",
+   "trecho": "nova tarifação das importações estadunidenses, que acabou por isentar aquelas\nabrigadas no código ﬁscal 6802.99.90."
+  },
+  {
+   "medida": "Abrangência da NCM 6802.99.90 / HTSUS 6802.99.00",
+   "afirmacao": "A posição é abrangente e pode abrigar várias rochas silicáticas e silicosas em chapas acabadas, mas não produtos do Cap. 25, carbonáticas, granitos s.s. e ardósias.",
+   "trecho": "Reitera-se que a NCM 6802.99.90, correspondente à 6802.99.00 no HTSUS, é bastante\nabrangente e capaz de abrigar, inclusive no mercado dos EUA, várias rochas silicáticas"
+  },
+  {
+   "medida": "Regimes especiais em Rondônia (Drawback, Admissão Temporária, Entreposto, ALCGM)",
+   "afirmacao": "Regimes federais e incentivos de ICMS estimulam importações por Rondônia.",
+   "trecho": "Em Rondônia, além dos regimes aduaneiros especiais federais, como Drawback, Admissão\nTemporária e Entreposto Aduaneiro, estão presentes regimes especiais de tributação do\nICMS concedidos pelo próprio estado."
+  }
+ ],
+ "precos": [
+  {
+   "produto": "Chapas de quartzitos maciços (NCM 6802.99.90)",
+   "afirmacao": "Faturamento de US$ 695 milhões (+39,8%) e preço médio de US$ 2.369/t.",
+   "trecho": "O faturamento registrado foi de US$ 695 milhões, valor 39,8%\nsuperior ao obtido em 2024. O preço médio dessas exportações foi de US$ 2.369 por\ntonelada."
+  },
+  {
+   "produto": "Quartzito beneficiado vs. bruto",
+   "afirmacao": "Valor do bruto é quatro vezes menor, evidenciando valorização do beneficiado.",
+   "trecho": "valor quatro vezes menor. Isso evidencia a valorização do produto beneﬁciado em relação\nao bruto no mercado internacional."
+  }
+ ],
+ "desafios": [
+  {
+   "afirmacao": "Concentração do mercado internacional em poucos países.",
+   "trecho": "Este dado\nevidencia a concentração do mercado internacional em poucos países."
+  },
+  {
+   "afirmacao": "Falta de verticalização em MG e BA concentra receitas em outros estados.",
+   "trecho": "Caso os estados de Minas Gerais e Bahia processassem os materiais extraídos em seus\npróprios territórios, haveria uma distribuição mais equilibrada das exportações entre as\nregiões."
+  },
+  {
+   "afirmacao": "Previsão de forte volatilidade econômica global em 2026, com impacto em mercados importantes.",
+   "trecho": "Pode-se apenas prever um\nquadro de forte volatilidade econômica global, capaz de impactar importantes mercados\nde atuação de empresas exportadoras brasileiras."
+  }
+ ],
+ "pleitos": [
+  {
+   "afirmacao": "Avaliar o que promover em favor de exportadores de granitos, rochas carbonáticas, ardósias e rochas de processamento simples, cujos principais destinos são os EUA e que envolvem pequenas empresas e APLs.",
+   "trecho": "Resta avaliar mais detidamente o que se poderia promover em favor dos exportadores de\ngranitos verdadeiros (posições 6802.93.90 e 6802.23.00)"
+  },
+  {
+   "afirmacao": "Verticalização da produção local em MG e BA fortaleceria a economia regional.",
+   "trecho": "a verticalização da produção local\ncontribuiria para reduzir a concentração de receitas em outros estados e fortaleceria a\neconomia regional."
+  }
+ ],
+ "observacao": "O texto menciona 'no mês de outubro' para número de países e estados num balanço anual (provável resíduo de edição)."
+}

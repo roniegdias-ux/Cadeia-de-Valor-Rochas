@@ -1,0 +1,53 @@
+{
+  "id": "Exportacoes-e-Importacoes-Brasileiras-2021_043515",
+  "arquivo": "Exportacoes-e-Importacoes-Brasileiras-2021.pdf",
+  "emissor": "Abirochas",
+  "titulo": "Exportações e Importações Brasileiras em 2020",
+  "data_publicacao": "2021-10",
+  "periodo_coberto": "2020",
+  "tipo": "conjuntura",
+  "tema": "Balanço das exportações e importações brasileiras de rochas ornamentais em 2020: valores, preços médios, destinos, estados, portos, produção voltada aos mercados interno e externo e comentários.",
+  "elos": ["E5", "E6", "E7", "E10"],
+  "indicadores": [
+    {"nome": "Participação da produção voltada às exportações", "valor": "33% (3,0 Mt)", "unidade": "% da produção", "periodo": "2020", "trecho": "33% (3,0 Mt) da produção brasileira de 2020 foi voltada para atendimento das exportações"},
+    {"nome": "Participação dos EUA no faturamento das exportações", "valor": "63", "unidade": "%", "periodo": "2020", "trecho": "Os EUA representaram 63% do total do faturamento das exportações brasileiras de rochas."},
+    {"nome": "Participação da China no faturamento das exportações", "valor": "12,1 (8,6% em 2015)", "unidade": "%", "periodo": "2020", "trecho": "A participação da China, no total do faturamento das exportações brasileiras de rochas, evoluiu de 8,6% em 2015 para 12,1% em 2020."},
+    {"nome": "Preço médio das exportações de rochas", "valor": "457,6 (-2,31%)", "unidade": "US$/t", "periodo": "2020", "trecho": "O preço médio das exportações recuou 2,31%, passando de US$ 468,4/t para US$ 457,6/t."},
+    {"nome": "Participação do Espírito Santo no faturamento exportado", "valor": "82,5 (MG 10,7)", "unidade": "%", "periodo": "2020", "trecho": "O Espírito Santo respondeu por 82,5% do total do faturamento, seguindo-se Minas Gerais com 10,7% do total brasileiro"},
+    {"nome": "Concentração portuária (Santos e Vitória)", "valor": "80,3", "unidade": "% do volume físico", "periodo": "2020", "trecho": "Os portos de Santos (SP) e Vitória (ES) responderam por 80,3% do volume físico das exportações brasileiras de rochas"},
+    {"nome": "Exportações de chapas", "valor": "20,2 (19,8 em 2019)", "unidade": "milhões m2 equivalentes (2 cm)", "periodo": "2020", "trecho": "As exportações brasileiras de chapas elevaram-se de 19,8 milhões m2 equivalentes, com 2 cm de espessura, em 2019, para 20,2 milhões m2 em 2020."},
+    {"nome": "Exportações brasileiras de materiais rochosos artificiais", "valor": "11,0 mil t e US$ 10,3 milhões", "unidade": "t / US$", "periodo": "2020", "trecho": "As exportações brasileiras de materiais rochosos artificiais somaram 11,0 mil t e US$ 10,3 milhões em 2020"},
+    {"nome": "Importações de materiais rochosos artificiais", "valor": "US$ 39,1 milhões e 69,2 mil t", "unidade": "US$ / t", "periodo": "2020", "trecho": "As importações de materiais rochosos artificiais para ornamentação e revestimento somaram, por sua vez, US$ 39,1 milhões e 69,2 mil t"},
+    {"nome": "Participação no total das exportações brasileiras", "valor": "0,47", "unidade": "%", "periodo": "2020", "trecho": "0,47% de participação no total do faturamento das exportações brasileiras."}
+  ],
+  "explicacoes": [
+    {"fenomeno": "Preço médio das exportações para os EUA mantido em torno de US$ 700/t", "causa_atribuida": "Incremento das vendas de chapas de quartzito e mármore", "trecho": "O preço médio dessas exportações permaneceu ao redor de US$ 700/t em 2020, sobretudo devido ao incremento das vendas de chapas de quartzito e mármore."},
+    {"fenomeno": "Perda de competitividade das exportações", "causa_atribuida": "Portos do Espírito Santo não atendem às necessidades do setor", "trecho": "Os portos instalados no Espírito Santo continuam não atendendo às necessidades do"},
+    {"fenomeno": "Importações não indicam recuperação da construção civil", "causa_atribuida": "Leitura do emissor sobre os números de importação (mercado interno da construção sem recuperação)", "trecho": "Os números consolidados para as importações brasileiras de materiais rochosos naturais e artificiais não sugeriram um início de recuperação no mercado interno da construção civil."}
+  ],
+  "mercados": [
+    {"pais": "EUA", "afirmacao": "Exportações dominadas por chapas somaram US$ 620,9 milhões", "trecho": "As exportações para os EUA, dominadas por chapas, somaram US$ 620,9 milhões e 886,9 mil toneladas."},
+    {"pais": "China", "afirmacao": "Exportações dominadas por blocos somaram US$ 122,0 milhões", "trecho": "As exportações para a China, dominadas por blocos, somaram US$ 122,0 milhões e 762,9 mil toneladas em 2020."},
+    {"pais": "Diversos", "afirmacao": "Exportações para 135 países; principais EUA, China e Itália", "trecho": "O Brasil exportou rochas ornamentais para 135 países no ano de 2020. Os três principais destinos foram EUA, China e Itália, nesta ordem."},
+    {"pais": "Itália", "afirmacao": "Vendas mais diversificadas", "trecho": "As vendas para a Itália são as mais diversificadas, incluindo blocos e chapas de granitos e mármores, além de produtos de ardósia e quartzitos foliados."},
+    {"pais": "China e Espanha (importações)", "afirmacao": "Responsáveis por 97,5% do volume de artificiais importados", "trecho": "China e Espanha foram responsáveis por 97,5% do volume físico das importações brasileiras de materiais artificiais em 2020."},
+    {"pais": "Brasil (mercado interno)", "afirmacao": "Aumento do consumo relativo de artificiais", "trecho": "Assim como em vários outros países, também no Brasil está aumentando o consumo"}
+  ],
+  "politicas": [
+    {"medida": "Códigos fiscais TEC/NESH", "afirmacao": "Inespecificidade impede distinguir exportações de chapas", "trecho": "A inespecificidade dos códigos fiscais existentes na TEC/NESH não permite distinguir o"}
+  ],
+  "precos": [
+    {"produto": "Rochas processadas", "afirmacao": "Preço médio recuou 4,6% para US$ 661/t", "trecho": "Nas rochas processadas, o preço médio recuou 4,6%, de US$ 692,8/t para US$ 661/t."},
+    {"produto": "Rochas carbonáticas brutas", "afirmacao": "Alta de 31,2%; silicáticas brutas -1,5%", "trecho": "O preço médio das rochas silicáticas brutas teve variação negativa de 1,5%, com variação positiva de 31,2% para rochas carbonáticas brutas"},
+    {"produto": "Blocos de quartzito vs chapas de granito", "afirmacao": "Bloco de quartzito já supera chapa de granito em preço", "trecho": "O preço médio dos blocos de quartzito (US$ 572,7/t) já é superior ao das chapas de granito (US$ 513,1/t)."},
+    {"produto": "Exportações por destino", "afirmacao": "Menores preços para China e Taiwan, maiores para Canadá e Vietnã", "trecho": "os menores preços médios de venda foram praticados para a China (US$ 160/t) e Taiwan (US$ 210/t), tendo-se para o Canadá (US$ 1.060/t) e Vietnã"},
+    {"produto": "Materiais naturais importados", "afirmacao": "Preço médio US$ 501/t, recuo de 4,3%", "trecho": "O preço médio de materiais naturais importados, que incluem rochas brutas, foi de US$ 501/t, o que representou um recuo de 4,3% frente a 2019."},
+    {"produto": "Artificiais importados por origem", "afirmacao": "Espanha e Israel 2-3 vezes mais caros que China e Hong Kong", "trecho": "O preço médio dos materiais artificiais provenientes da Espanha e Israel são duas a três vezes superiores àqueles da China e Hong Kong."}
+  ],
+  "desafios": [
+    {"afirmacao": "Portos do ES insuficientes afetam a competitividade", "trecho": "estado para o setor de rochas, o que acaba por afetar a competitividade das exportações brasileiras."},
+    {"afirmacao": "Ausência de recuperação da construção civil interna", "trecho": "não sugeriram um início de recuperação no mercado interno da construção civil."}
+  ],
+  "pleitos": [],
+  "observacao": "Apesar do nome do arquivo (2021), o conteúdo trata das exportações e importações de 2020 (texto de Cid Chiodi Filho, outubro/2021). Não há menção explícita à pandemia. Texto do preço médio de artificiais importados está truncado no original ('recuo de % frente a 2019')."
+}

@@ -1,0 +1,50 @@
+{
+  "id": "Informe-01_2026-Situacao-do-setor-em-2025_168726",
+  "arquivo": "Informe-01_2026-Situacao-do-setor-em-2025.pdf",
+  "emissor": "Abirochas",
+  "titulo": "O Setor Brasileiro de Rochas Ornamentais e de Revestimento em Números – 2025 (Informe 01/2026)",
+  "data_publicacao": "2026-03",
+  "periodo_coberto": "2025 (séries 2003-2025)",
+  "tipo": "conjuntura",
+  "tema": "Números do setor em 2025: produção estimada por estado e tipo de rocha, exportações, importações, balança comercial e consumo interno aparente, com observações sobre deslocamento produtivo, tarifas dos EUA e concorrência chinesa.",
+  "elos": ["E1", "E2", "E6", "E7", "E10"],
+  "indicadores": [
+    {"nome": "Produção brasileira estimada de rochas ornamentais", "valor": "10.620", "unidade": "1.000 t", "periodo": "2025", "trecho": "Total Brasil                                   10.620"},
+    {"nome": "Produção por tipo de rocha: quartzito maciço", "valor": "3,0 Mt (28%)", "unidade": "Mt", "periodo": "2025", "trecho": "Quartzito Maciço                                                                                3,0                        28"},
+    {"nome": "Produção por tipo de rocha: granito e similares", "valor": "3,3 Mt (31%)", "unidade": "Mt", "periodo": "2025", "trecho": "Granito e Similares                                                                             3,3                        31"},
+    {"nome": "Produção voltada ao mercado externo / interno", "valor": "2,75 Mt externo (26%); 7,87 Mt interno (74%)", "unidade": "t", "periodo": "2025", "trecho": "2.750.000 (+1,9%)                 7.870.000 (+0,9%)                10.620.000 (+1,1%)"},
+    {"nome": "Consumo interno aparente", "valor": "4.820,7 mil t", "unidade": "1.000 t", "periodo": "2025", "trecho": "Consumo interno                                   3.649,4       4.158,7          4.313,9     4.568,4        4.738,7       4.820,7"},
+    {"nome": "Consumo interno aparente em área", "valor": "89,3", "unidade": "Mm2 equivalentes (2 cm)", "periodo": "2025", "trecho": "Total estimado                                              89,3                      100"},
+    {"nome": "Consumo per capita", "valor": "22,7", "unidade": "kg/hab", "periodo": "2025", "trecho": "Consumo per capita (kg)***                          17,28            19,44          21,25       21,8          22,3           22,7"},
+    {"nome": "Consumo interno no estado de São Paulo", "valor": "39,3 Mm2 (44,0%)", "unidade": "Mm2 equivalentes", "periodo": "2025", "trecho": "São Paulo                                                               39,3                       44,0"},
+    {"nome": "Participação dos EUA no faturamento das exportações (PP%)", "valor": "53,9", "unidade": "%", "periodo": "2025", "trecho": "56,6   53,9"},
+    {"nome": "Participação das exportações capixabas com rochas extraídas em outros estados", "valor": "cerca de 80", "unidade": "%", "periodo": "2025", "trecho": "cerca de 80% das exportações capixabas de 2025 são compostas por rochas extraídas predominantemente no norte-nordeste de Minas Gerais, Bahia, Ceará e outros estados da Região Nordeste do Brasil."}
+  ],
+  "explicacoes": [
+    {"fenomeno": "Ampliação do faturamento das exportações", "causa_atribuida": "Crescimento da participação de rochas processadas (chapas) de maior valor agregado; aumento do valor unitário compensou queda do volume", "trecho": "Um fator determinante para a ampliação do faturamento das exportações tem sido o crescimento da participação de rochas processadas, especialmente chapas, com maior valor agregado."},
+    {"fenomeno": "Faturamento cresce apesar da redução do volume físico de processadas", "causa_atribuida": "Aumento do valor unitário", "trecho": "Mesmo com a redução do volume físico exportado dessas rochas, o aumento do valor unitário compensou a queda em quantidade, impulsionando o faturamento do setor."},
+    {"fenomeno": "Deslocamento da produção de rochas exóticas para N-NE de MG, BA, CE e Nordeste", "causa_atribuida": "Tendência evidenciada pela origem das rochas exportadas pelo ES", "trecho": "Essa tendência demonstra um deslocamento da produção nacional de rochas exóticas, incluindo quartzitos maciços, para essas regiões."},
+    {"fenomeno": "Desafios e incertezas no mercado dos EUA", "causa_atribuida": "Intervenções do governo Trump nas relações comerciais; prováveis novos constrangimentos tarifários", "trecho": "As intervenções do governo Trump nas relações comerciais internacionais continuam trazendo desafios e incertezas para o setor de rochas ornamentais."},
+    {"fenomeno": "Possível restrição à produção e consumo de granitos comuns", "causa_atribuida": "Pressão de produtos chineses, especialmente materiais artificiais, no mercado interno", "trecho": "Soma-se a isso a crescente pressão de produtos chineses, especialmente materiais artificiais de revestimento, no mercado interno, o que pode restringir a produção e o consumo dos granitos nacionais mais comuns."},
+    {"fenomeno": "Evolução do faturamento das exportações em reais", "causa_atribuida": "Política cambial (gráfico intitulado 'importância da política cambial')", "trecho": "Evolução do faturamento das exportações – importância da política cambial"}
+  ],
+  "mercados": [
+    {"pais": "EUA", "afirmacao": "Principal destino; provável enfrentamento de novos constrangimentos tarifários", "trecho": "É provável que o Brasil enfrente novos constrangimentos tarifários no mercado dos Estados Unidos, principal destino das nossas exportações."},
+    {"pais": "EUA", "afirmacao": "Melhor perspectiva: ausência de tarifação e crescimento econômico dos EUA", "trecho": "A melhor perspectiva, ainda que distante, seria a ausência de tarifação dos produtos brasileiros do setor no mercado norte-americano, aliada à manutenção do crescimento econômico dos EUA."},
+    {"pais": "China (no mercado interno brasileiro)", "afirmacao": "Pressão crescente de materiais artificiais chineses", "trecho": "crescente pressão de produtos chineses, especialmente materiais artificiais de revestimento, no mercado interno"}
+  ],
+  "politicas": [
+    {"medida": "Tarifas dos EUA (governo Trump)", "afirmacao": "Intervenções trazem desafios e incertezas; prováveis novos constrangimentos tarifários", "trecho": "É provável que o Brasil enfrente novos constrangimentos tarifários no mercado dos Estados Unidos"},
+    {"medida": "Programas de promoção de exportações", "afirmacao": "Potencial para ampliar acesso de empresas baianas ao mercado externo, como ocorreu com o ES", "trecho": "evidencia o potencial para que programas de promoção de exportações ampliem o acesso das empresas baianas não apenas ao mercado externo desse material"},
+    {"medida": "APL do travertino Bege Bahia", "afirmacao": "Cadeia estruturada em APL desenvolveu base de industrialização e comercialização", "trecho": "cuja cadeia produtiva, estruturada em Arranjo Produtivo Local (APL), conseguiu desenvolver uma base significativa de industrialização e comercialização."}
+  ],
+  "precos": [
+    {"produto": "Rochas processadas (chapas)", "afirmacao": "Aumento do valor unitário compensou queda de quantidade", "trecho": "o aumento do valor unitário compensou a queda em quantidade"}
+  ],
+  "desafios": [
+    {"afirmacao": "Produção de BA e MG não se reflete proporcionalmente nas exportações", "trecho": "Apesar do destaque produtivo, especialmente da Bahia e Minas Gerais, o volume e a diversidade da produção local não se refletem proporcionalmente nas exportações de rochas ornamentais."},
+    {"afirmacao": "Incerteza tarifária nos EUA e concorrência de artificiais chineses no mercado interno", "trecho": "continuam trazendo desafios e incertezas para o setor de rochas ornamentais"}
+  ],
+  "pleitos": [],
+  "observacao": "Documento majoritariamente composto por tabelas e gráficos; vários indicadores têm trecho extraído de linhas de tabela. Elaborado por Cid Chiodi Filho e Denize Kistemann Chiodi, 17/03/2026."
+}

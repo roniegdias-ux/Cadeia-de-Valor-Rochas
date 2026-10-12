@@ -1,0 +1,42 @@
+{
+  "id": "Informe-2_2026-Exportacoes-1o-Bimestre_74c436",
+  "arquivo": "Informe-2_2026-Exportacoes-1o-Bimestre.pdf",
+  "emissor": "Abirochas",
+  "titulo": "Exportações e Importações Brasileiras de Rochas Ornamentais no 1º Bimestre de 2026 (Informe 02/2026)",
+  "data_publicacao": "2026-03",
+  "periodo_coberto": "jan-fev/2026",
+  "tipo": "conjuntura",
+  "tema": "Exportações e importações brasileiras de rochas ornamentais no 1º bimestre de 2026, com forte retração atribuída à recomposição de estoques nos EUA após antecipação de compras pelo temor da tarifa.",
+  "elos": ["E6", "E10"],
+  "indicadores": [
+    {"nome": "Participação das rochas processadas no faturamento", "valor": "de 81,7% (2025) para 67,6% (2026)", "unidade": "%", "periodo": "1º bimestre 2025-2026", "trecho": "A participação de rochas processadas, no total\ndo faturamento do 1º bimestre, recuou de 81,7% em 2025 para 67,6% em 2026"},
+    {"nome": "Participação das rochas processadas no volume físico", "valor": "de 50,9% para 35,3%", "unidade": "%", "periodo": "1º bimestre 2025-2026", "trecho": "com recuo de 50,9% para 35,3% do volume físico no mesmo período."},
+    {"nome": "Exportações de chapas de granito (6802.93.90)", "valor": "de US$ 52,5 milhões para US$ 24,7 milhões (-52,9%); preço médio -15,7%", "unidade": "US$ / %", "periodo": "1º bimestre 2025-2026", "trecho": "recuaram 52,9% em faturamento, passando de US$ 52,5 milhões em 2025 para US$\n24,7 milhões em 2026, ao mesmo tempo com queda de 15,7% em seu preço médio."},
+    {"nome": "Participação da China nas exportações", "valor": "28% do faturamento e 58,1% do volume", "unidade": "%", "periodo": "1º bimestre 2026", "trecho": "aumentou a participação da China nas exportações\nbrasileiras do 1º bimestre, perfazendo 28% do faturamento e 58,1% do volume\nfísico."},
+    {"nome": "Participação do Espírito Santo nas exportações", "valor": "68,6% do volume e 76,2% do faturamento", "unidade": "%", "periodo": "1º bimestre 2026", "trecho": "ampliou-se a participação do Espírito Santo no total das\nexportações brasileiras, com 68,6% do volume físico e 76,2% do faturamento."},
+    {"nome": "Exportações para EUA e China somadas", "valor": "US$ 127,2 milhões de US$ 173,2 milhões", "unidade": "US$", "periodo": "1º bimestre 2026", "trecho": "Responsáveis por US$ 127,2 milhões exportados, em um total de US$ 173,2\nmilhões, EUA e China permaneceram como principais destinos"},
+    {"nome": "Número de países importadores de rochas brasileiras", "valor": "79", "unidade": "países", "periodo": "1º bimestre 2026", "trecho": "79 países importaram rochas brasileiras no 1º bimestre de 2026."},
+    {"nome": "Número de UF exportadoras", "valor": "17", "unidade": "UF", "periodo": "1º bimestre 2026", "trecho": "17 UF exportaram rochas ornamentais no 1º bimestre de 2026."},
+    {"nome": "Importações da Turquia (maior fornecedor)", "valor": "9,2 mil t e US$ 2,3 milhões", "unidade": "t / US$", "periodo": "1º bimestre 2026", "trecho": "A Turquia foi o maior fornecedor de rochas ornamentais para o Brasil no 1º bimestre de\n2026, com 9,2 mil t e US$ 2,3 milhões"}
+  ],
+  "explicacoes": [
+    {"fenomeno": "Forte retração das exportações no 1º bimestre de 2026", "causa_atribuida": "Expressiva queda das vendas de rochas processadas (incluindo chapas de quartzitos) e queda expressiva do preço médio", "trecho": "Sobretudo pela expressiva queda das vendas de rochas processadas, incluindo\nchapas de quartzitos, aliada à queda também expressiva do preço médio dos\nprodutos comercializados"},
+    {"fenomeno": "Queda das vendas aos EUA no início de 2026", "causa_atribuida": "Suprimento dos estoques dos EUA em 2025 por antecipação de compras pelo temor da tarifação das importações", "trecho": "Aventa-se, no\ncaso, tenha ocorrido o suprimento dos estoques dos EUA no ano passado, durante\no qual registrou-se forte movimento de antecipação de compras pelo temor da\ntarifação das importações desse país."},
+    {"fenomeno": "Aumento da participação da China nas exportações", "causa_atribuida": "Exportações de rochas brutas", "trecho": "Sempre com rochas brutas, aumentou a participação da China nas exportações"}
+  ],
+  "mercados": [
+    {"pais": "Estados Unidos", "afirmacao": "Em 2025 houve antecipação de compras pelo temor da tarifação, suprindo estoques e reduzindo compras no início de 2026.", "trecho": "forte movimento de antecipação de compras pelo temor da\ntarifação das importações desse país"},
+    {"pais": "China", "afirmacao": "Aumentou participação, sempre com rochas brutas: 28% do faturamento e 58,1% do volume.", "trecho": "perfazendo 28% do faturamento e 58,1% do volume\nfísico"},
+    {"pais": "Turquia", "afirmacao": "Maior fornecedor ao Brasil, destacando travertinos em blocos ou chapas brutas.", "trecho": "destacando travertinos em blocos ou chapas brutas\n(NCM 2515.12.20)"}
+  ],
+  "politicas": [
+    {"medida": "Tarifação das importações pelos EUA", "afirmacao": "O temor da tarifa levou à antecipação de compras em 2025.", "trecho": "pelo temor da\ntarifação das importações desse país"}
+  ],
+  "precos": [
+    {"produto": "Produtos exportados em geral", "afirmacao": "Queda expressiva do preço médio no 1º bimestre de 2026.", "trecho": "aliada à queda também expressiva do preço médio dos\nprodutos comercializados"},
+    {"produto": "Chapas de granito (6802.93.90)", "afirmacao": "Queda de 15,7% no preço médio.", "trecho": "ao mesmo tempo com queda de 15,7% em seu preço médio"}
+  ],
+  "desafios": [],
+  "pleitos": [],
+  "observacao": "Documento majoritariamente composto por gráficos e tabelas; texto corrido limitado a dois parágrafos e notas."
+}

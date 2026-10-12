@@ -1,0 +1,86 @@
+{
+  "id": "Informe-02_2024-Exportacoes-1_Bimestre_006541",
+  "arquivo": "Informe-02_2024-Exportacoes-1_Bimestre.pdf",
+  "emissor": "Abirochas",
+  "titulo": "Síntese das exportações brasileiras de rochas ornamentais e de revestimento no 1º bimestre de 2024",
+  "data_publicacao": "2024-03",
+  "periodo_coberto": "jan-fev/2024",
+  "tipo": "conjuntura",
+  "tema": "Síntese do 1º bimestre de 2024: alta de 55% nas exportações puxada por quartzitos maciços (6802.99.90), declínio de ardósias e quartzitos foliados de MG e mercado interno aquecido.",
+  "elos": ["E6", "E7", "E2"],
+  "indicadores": [
+    {
+      "nome": "Participação das rochas processadas no faturamento e no volume exportados",
+      "valor": "79,7% do faturamento (vs 73,8%); 52% do volume (vs 48,1%)",
+      "unidade": "%",
+      "periodo": "jan-fev/2024",
+      "trecho": "Registrou-se incremento da participação de rochas processadas no total exportado, tanto em\nfaturamento (de 73,8% para 79,7%), quanto em volume físico (de 48,1% para 52%)."
+    },
+    {
+      "nome": "Preço médio geral das exportações",
+      "valor": "625,5 (+14,6%)",
+      "unidade": "US$/t",
+      "periodo": "jan-fev/2024",
+      "trecho": "puxando o preço médio geral das exportações brasileiras para US$ 625,5/t\n(+14,6%)."
+    },
+    {
+      "nome": "Participação e preço médio da posição 6802.99.90 (quartzitos maciços e exóticas)",
+      "valor": "39,7% do faturamento; 2.328 US$/t",
+      "unidade": "%; US$/t",
+      "periodo": "jan-fev/2024",
+      "trecho": "atingindo uma participação de 39,7% no total do faturamento das exportações\nbrasileiras e o maior preço médio entre os produtos exportados (US$ 2.328/t)."
+    },
+    {
+      "nome": "Preço médio de pedra-sabão (6802.29.00) e mármores (6802.91.00)",
+      "valor": "1.275 e 1.187",
+      "unidade": "US$/t",
+      "periodo": "jan-fev/2024",
+      "trecho": "6802.29.00 (US$ 1.275/t, pedra-sabão) e 6802.91.00 (US$ 1.187/t, mármores)."
+    }
+  ],
+  "explicacoes": [
+    {
+      "fenomeno": "Alta do preço médio geral das exportações",
+      "causa_atribuida": "Incremento do preço médio das rochas processadas (+14,7%), em contraste com as brutas",
+      "trecho": "Ao\ncontrário das rochas brutas, essas rochas processadas evidenciaram incremento do seu preço\nmédio (+14,7%)"
+    },
+    {
+      "fenomeno": "Queda futura esperada do preço médio das chapas de quartzito maciço",
+      "causa_atribuida": "Aumento da oferta de chapas de quartzito maciço, observado no posicionamento comercial das empresas nas feiras",
+      "trecho": "O aumento da oferta de chapas de quartzito maciço, observado inclusive e principalmente"
+    },
+    {
+      "fenomeno": "Crescimento acima de 40% das importações de rochas naturais",
+      "causa_atribuida": "Importância do mercado interno, com grande quantidade de lançamentos imobiliários de alto padrão",
+      "trecho": "indicadores apontam a importância ora assumida pelo mercado interno, com grande\nquantidade de lançamentos imobiliários de alto padrão, para o setor de rochas ornamentais."
+    }
+  ],
+  "mercados": [
+    {
+      "pais": "Brasil (mercado interno)",
+      "afirmacao": "Importações de rochas naturais cresceram mais de 40%, sinalizando aquecimento do mercado interno.",
+      "trecho": "As importações brasileiras de materiais rochosos naturais de revestimento revelaram\nincremento superior a 40%, em valor e volume físico, no 1º bimestre de 2024."
+    }
+  ],
+  "politicas": [],
+  "precos": [
+    {
+      "produto": "Rochas brutas",
+      "afirmacao": "Preço médio caiu 11,1% nas carbonáticas e 4,3% nas silicáticas, sem queda de faturamento e volume.",
+      "trecho": "A variação negativa do preço médio das rochas brutas (-11,1% para as carbonáticas e -4,3%\npara as silicáticas), não foi acompanhada por uma queda de faturamento e volume físico de"
+    },
+    {
+      "produto": "Chapas de quartzito maciço",
+      "afirmacao": "Aumento da oferta acabará por determinar queda do preço médio das exportações.",
+      "trecho": "pelo posicionamento comercial das empresas brasileiras nas feiras setoriais, acabará por\ndeterminar a queda do preço médio de suas exportações."
+    }
+  ],
+  "desafios": [
+    {
+      "afirmacao": "Exportações de ardósias e quartzitos foliados seguem declinantes, afetando Minas Gerais.",
+      "trecho": "Permaneceram declinantes as exportações de ardósias e quartzitos foliados, afetando o setor\nde rochas ornamentais do estado de Minas Gerais."
+    }
+  ],
+  "pleitos": [],
+  "observacao": "Páginas 4-9 são gráficos (NCM, UF, países, portos, séries mensais), não fichados."
+}

@@ -1,0 +1,134 @@
+{
+ "id": "Informe_02_2018_Balanco_1_Trimestre_73bf14",
+ "arquivo": "Informe_02_2018_Balanco_1_Trimestre.pdf",
+ "emissor": "Abirochas",
+ "titulo": "Balanço das Exportações e Importações Brasileiras de Rochas Ornamentais no 1º Trimestre de 2018 (Informe 02/2018)",
+ "data_publicacao": "2018-05",
+ "periodo_coberto": "jan-mar/2018",
+ "tipo": "conjuntura",
+ "tema": "Balanço trimestral do comércio exterior de rochas ornamentais no 1º trimestre de 2018, com queda das exportações de chapas e importações de artificiais superando as de naturais.",
+ "elos": [
+  "E2",
+  "E6",
+  "E7"
+ ],
+ "indicadores": [
+  {
+   "nome": "Preço médio geral das exportações",
+   "valor": "469,5 (-0,03%)",
+   "unidade": "US$/t",
+   "periodo": "1º tri/2018",
+   "trecho": "O preço médio geral das exportações recuou de US$ 469,6/t no 1º trimestre de 2017 para US$\n469,5/t no 1º trimestre de 2018"
+  },
+  {
+   "nome": "Preço médio das rochas processadas exportadas",
+   "valor": "671,3 (+2,62%)",
+   "unidade": "US$/t",
+   "periodo": "1º tri/2018",
+   "trecho": "As rochas\nprocessadas tiveram incremento de 2,62% do preço médio no mesmo período, passando de\nUS$ 654,1/t para US$ 671,3/t."
+  },
+  {
+   "nome": "Preço médio das rochas silicáticas e silicosas brutas",
+   "valor": "218,8 (+8,06%)",
+   "unidade": "US$/t",
+   "periodo": "1º tri/2018",
+   "trecho": "As rochas silicáticas e silicosas brutas passaram de US$ 202,5/t\npara US$ 218,8/t, com uma variação também positiva de 8,06%."
+  },
+  {
+   "nome": "Participação do Espírito Santo no faturamento exportado",
+   "valor": "77,7",
+   "unidade": "%",
+   "periodo": "1º tri/2018",
+   "trecho": "O Espírito Santo respondeu por 77,7% (US$ 154,6 milhões) do\ntotal do faturamento das exportações brasileiras no período."
+  },
+  {
+   "nome": "Preço médio das exportações do Ceará",
+   "valor": "690",
+   "unidade": "US$/t",
+   "periodo": "1º tri/2018",
+   "trecho": "o Ceará registrou o maior preço médio para os produtos exportados (US$\n690/t)."
+  },
+  {
+   "nome": "Importações de materiais rochosos artificiais",
+   "valor": "18,1 mil t e US$ 12,3 milhões (+40,3% em volume)",
+   "unidade": "t / US$",
+   "periodo": "1º tri/2018",
+   "trecho": "As importações de materiais rochosos artificiais somaram por sua vez 18,1 mil t e US$ 12,3\nmilhões no 1º trimestre, com incremento de 40,3% no volume físico"
+  },
+  {
+   "nome": "Participação das rochas no total das exportações brasileiras",
+   "valor": "0,37 (contra 0,49 em 2017)",
+   "unidade": "%",
+   "periodo": "1º tri/2018",
+   "trecho": "0,37% de participação no total do faturamento das exportações brasileiras (contra\n         0,49% em 2017)."
+  },
+  {
+   "nome": "Participação dos EUA nas exportações",
+   "valor": "58,8",
+   "unidade": "%",
+   "periodo": "1º tri/2018",
+   "trecho": "US$ 116,9 milhões exportados para os EUA (58,8% do total das exportações)."
+  },
+  {
+   "nome": "Número de estados exportadores",
+   "valor": "14",
+   "unidade": "estados",
+   "periodo": "1º tri/2018",
+   "trecho": "Foram efetuadas exportações por 14 estados brasileiros."
+  }
+ ],
+ "explicacoes": [
+  {
+   "fenomeno": "Queda expressiva das exportações no 1º trimestre de 2018",
+   "causa_atribuida": "Redução da venda de chapas",
+   "trecho": "Foi bastante expressiva a queda das exportações, sobretudo devido à redução da venda de\nchapas."
+  },
+  {
+   "fenomeno": "Crescimento das importações de rochas naturais",
+   "causa_atribuida": "Não indica recuperação consistente da construção civil e do mercado interno",
+   "trecho": "os índices de crescimento das importações de materiais rochosos naturais\nnão sugerem recuperação consistente da construção civil e do mercado interno de\nrevestimentos já em 2018."
+  },
+  {
+   "fenomeno": "Importações de artificiais superando as de naturais",
+   "causa_atribuida": "Processo de substituição de materiais naturais por artificiais e cerâmicos também no Brasil",
+   "trecho": "O processo de substituição dos materiais naturais por\nartificiais, aqui incluídos os produtos cerâmicos, parece estar também ocorrendo no mercado\nbrasileiro."
+  }
+ ],
+ "mercados": [
+  {
+   "pais": "Itália / Espanha / Indonésia / Turquia / China",
+   "afirmacao": "Principais origens das importações de rochas naturais",
+   "trecho": "Os principais países de origem, com volumes superiores a 1.000 t, foram Itália (2,98 mil t),\nEspanha (2,33 mil t), Indonésia (1,47 mil t), Turquia (1,41 mil t) e China (1,40 mil t)"
+  },
+  {
+   "pais": "Brasil (mercado interno)",
+   "afirmacao": "Reaquecimento da construção poderá beneficiar mais artificiais e cerâmicos que rochas naturais",
+   "trecho": "o reaquecimento da construção civil poderá ser mais benéfico\npara os materiais artificiais e produtos cerâmicos do que para os materiais naturais de\nrevestimento."
+  }
+ ],
+ "politicas": [],
+ "precos": [
+  {
+   "produto": "Materiais rochosos artificiais importados",
+   "afirmacao": "Preço médio (US$ 680/t) no patamar das rochas processadas brasileiras exportadas (US$ 671,3/t)",
+   "trecho": "Seu preço médio (US$ 680/t) recuou ao\npatamar de preços das exportações brasileiras de rochas processadas (US$ 671,3/t)."
+  },
+  {
+   "produto": "Rochas ornamentais vs exportações gerais",
+   "afirmacao": "US$ 469,5/t das rochas contra US$ 355,8/t das exportações gerais",
+   "trecho": "USD 469,5/t de preço médio das exportações brasileiras de rochas ornamentais, contra\n         USD 355,8/t das exportações gerais brasileiras."
+  }
+ ],
+ "desafios": [
+  {
+   "afirmacao": "Desempenho negativo das chapas de granito e mármore e do quartzito foliado",
+   "trecho": "Foi negativo\no desempenho das exportações de chapas de granitos e mármores e de produtos de quartzito\nfoliado (6801.00.00)."
+  },
+  {
+   "afirmacao": "Importações de artificiais já superam as de naturais em valor e volume",
+   "trecho": "Como já se prenunciava em 2017, essas importações superaram em valor e volume\nfísico aquelas dos materiais rochosos naturais."
+  }
+ ],
+ "pleitos": [],
+ "observacao": "Dados primários da base ALICE/MDIC; gráficos sem texto relevante."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Arquivo-da-apresentacao-da-RFB_3a1440",
+  "arquivo": "Arquivo-da-apresentacao-da-RFB.pdf",
+  "emissor": "Centrorochas",
+  "titulo": "DRAWBACK SUSPENSÃO",
+  "data_publicacao": "2020-07",
+  "periodo_coberto": null,
+  "tipo": "apresentacao",
+  "tema": "Apresentação de auditor-fiscal da Receita Federal em webinar do Centrorochas sobre o regime de drawback suspensão: princípios, regularização, multas, decadência e fiscalização no ES.",
+  "elos": ["E6", "E10"],
+  "indicadores": [],
+  "explicacoes": [],
+  "mercados": [],
+  "politicas": [
+    {"medida": "Drawback suspensão", "afirmacao": "O regime suspende II, IPI, PIS, COFINS e AFRMM mediante industrialização e compromisso de exportar.", "trecho": "1. Suspensão de II, IPI, PIS, COFINS E\nAFRMM;"},
+    {"medida": "Drawback suspensão - princípio da fungibilidade/equivalência", "afirmacao": "A apresentação aponta os princípios de vinculação física (Art. 389 do Regulamento Aduaneiro) e de fungibilidade/equivalência (Art. 5º-A da Portaria RFB/SECEX 467/2014).", "trecho": "2. Fungibilidade / Equivalência\n>> Art. 5º-A Portaria RFB/SECEX 467/2014"},
+    {"medida": "Drawback suspensão - procedimentos de regularização", "afirmacao": "O Art. 390 do Regulamento Aduaneiro prevê devolução, destruição, nacionalização ou entrega à Fazenda Nacional.", "trecho": "1. Devolução\n2. Destruição\n3. Nacionalização\n4. Entrega à Fazenda Nacional"},
+    {"medida": "Drawback suspensão - multas por inadimplemento", "afirmacao": "O inadimplemento implica recolher tributos proporcionais, acréscimos legais e multa de 75%.", "trecho": "3. Multa de 75% (Lei 9.430, Art. 44, I)"},
+    {"medida": "Drawback suspensão - decadência", "afirmacao": "O direito de exigir o tributo extingue-se em 5 anos, com termo inicial específico para o drawback suspensão.", "trecho": "O direito de exigir o tributo extingue-se em 5 anos contatos"},
+    {"medida": "Fiscalização do drawback no ES", "afirmacao": "A fiscalização no ES aponta redução de casos de inadimplência total e parcial.", "trecho": "1. Redução de casos inadimplência total;"}
+  ],
+  "precos": [],
+  "desafios": [],
+  "pleitos": [],
+  "observacao": "Apresentação de slides curta (Receita Federal, julho/2020) apenas com tópicos; não menciona rochas ornamentais diretamente nem traz dados numéricos do setor."
+}

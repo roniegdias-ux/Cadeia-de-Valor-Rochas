@@ -1,0 +1,45 @@
+{
+  "id": "Informe-09_2025-Exportacoes-Setembro_d5fee8",
+  "arquivo": "Informe-09_2025-Exportacoes-Setembro.pdf",
+  "emissor": "Abirochas",
+  "titulo": "Balanço das Exportações e Importações Brasileiras de Rochas Ornamentais no Período Janeiro-Setembro de 2025 (Informe 09/2025)",
+  "data_publicacao": "2025-10",
+  "periodo_coberto": "jan-set/2025",
+  "tipo": "conjuntura",
+  "tema": "Balanço jan-set/2025: alta de 19,4% no faturamento puxada por chapas de quartzito, perda de participação dos EUA em ago-set e barreiras técnicas a telhas de ardósia no Reino Unido.",
+  "elos": ["E1", "E3", "E6", "E10"],
+  "indicadores": [
+    {"nome": "Preço médio das exportações", "valor": "692,0 (589,2 em 2024)", "unidade": "US$/t", "periodo": "jan-set/2025", "trecho": "Em 2024, o preço médio era de US$ 589,2 por tonelada, enquanto em 2025 subiu para US$ 692,0 por tonelada."},
+    {"nome": "Participação das rochas processadas no faturamento", "valor": "75,9", "unidade": "%", "periodo": "jan-set/2025", "trecho": "As rochas processadas tiveram destaque nas exportações brasileiras, representando 75,9% do faturamento total do setor entre janeiro e setembro de 2025."},
+    {"nome": "Participação dos quartzitos maciços (chapas e blocos) nas exportações", "valor": "55", "unidade": "%", "periodo": "jan-set/2025", "trecho": "de quartzitos maciços revela que esse produto já corresponde a 55% do total das exportações brasileiras de rochas ornamentais."},
+    {"nome": "Preço médio das chapas de quartzito maciço", "valor": "2.387,7", "unidade": "US$/t", "periodo": "jan-set/2025", "trecho": "O preço médio das chapas de quartzitos maciços exportadas alcançou US$ 2.387,7 por tonelada"},
+    {"nome": "Preço médio dos blocos de quartzito", "valor": "597,1", "unidade": "US$/t", "periodo": "jan-set/2025", "trecho": "Já os blocos desses quartzitos foram comercializados a um preço médio de US$ 597,1 por tonelada"},
+    {"nome": "Participação dos EUA no faturamento", "valor": "54,6 (37,1 em agosto; 45,0 em setembro)", "unidade": "%", "periodo": "jan-set/2025", "trecho": "os EUA respondendo por 37,1% das exportações em agosto e 45,0% em setembro, patamares inferiores aos registrados nos meses anteriores de 2025."},
+    {"nome": "Projeção das exportações para 2025", "valor": "até 1,4 (+14,8%)", "unidade": "US$ bilhão", "periodo": "2025", "trecho": "estima-se que as exportações brasileiras de rochas ornamentais possam alcançar até US$ 1,4 bilhão"},
+    {"nome": "Participação de MG, CE e BA na matéria-prima processada no ES", "valor": "pelo menos 90", "unidade": "%", "periodo": "não especificado", "trecho": "Minas Gerais, Ceará e Bahia são responsáveis por pelo menos 90% da produção da matéria-prima utilizada pelo Espírito Santo para processamento e exportação."},
+    {"nome": "Número de países de destino", "valor": "124", "unidade": "países", "periodo": "jan-set/2025", "trecho": "Exportações para 124 países. Fonte dos dados: Comex Stat"}
+  ],
+  "explicacoes": [
+    {"fenomeno": "Aumento do preço médio das exportações (+17,5%)", "causa_atribuida": "Melhora na valorização das rochas brasileiras no mercado internacional", "trecho": "Esse aumento evidencia uma melhora na valorização das rochas ornamentais brasileiras no mercado internacional."},
+    {"fenomeno": "Peso da posição 6802.99.90 (45,3% do faturamento)", "causa_atribuida": "Comercialização de chapas de quartzitos maciços, de alta valorização no mercado externo", "trecho": "refere-se principalmente à comercialização de chapas de quartzitos maciços, que têm se destacado pela alta valorização no mercado externo."},
+    {"fenomeno": "Sucesso das exportações capixabas", "causa_atribuida": "Integração com estados produtores de matéria-prima (MG, CE, BA)", "trecho": "Esse dado evidencia a integração entre os estados e a importância das regiões produtoras de matéria-prima para o sucesso das exportações capixabas de rochas ornamentais."},
+    {"fenomeno": "Risco à produção de ardósias de MG e folhelhos de SC", "causa_atribuida": "Barreiras técnicas no Reino Unido a roofing slates somadas à sobretaxação das dimension slates nos EUA", "trecho": "considerando ainda a sobre tarifação já aplicada para as dimension slates (posição 2514.00.00) no mercado dos Estados Unidos, pode haver consequências significativas para a cadeia produtiva brasileira."}
+  ],
+  "mercados": [
+    {"pais": "EUA", "afirmacao": "54,6% do faturamento em jan-set, mas participação em retração em agosto e setembro", "trecho": "No entanto, observou-se uma retração dessa participação ao longo dos meses"},
+    {"pais": "China, Itália, México, Reino Unido", "afirmacao": "Demais principais destinos", "trecho": "A China aparece em segundo lugar, com US$ 182,2 milhões, seguida pela Itália, com US$ 89,7 milhões."},
+    {"pais": "Reino Unido", "afirmacao": "Entidades locais buscam barreiras técnicas às telhas de ardósia brasileiras", "trecho": "Entidades representativas do segmento de telhas de ardósia no Reino Unido estão, mais uma vez, buscando implementar barreiras técnicas que dificultem a comercialização dos produtos brasileiros naquele mercado."}
+  ],
+  "politicas": [
+    {"medida": "Barreiras técnicas no Reino Unido a telhas de ardósia", "afirmacao": "Argumentos de alta absorção de água e baixa resistência à flexão", "trecho": "Os principais argumentos utilizados para justificar essas restrições são a suposta alta absorção de água e a baixa resistência à flexão das telhas de ardósia produzidas no Brasil."},
+    {"medida": "Sobretarifação das dimension slates (2514.00.00) nos EUA", "afirmacao": "Sobretaxa já aplicada nos EUA às ardósias", "trecho": "sobre tarifação já aplicada para as dimension slates (posição 2514.00.00) no mercado dos Estados Unidos"}
+  ],
+  "precos": [
+    {"produto": "Chapas versus blocos de quartzito", "afirmacao": "Diferença relevante entre preço de processados e brutos", "trecho": "evidenciando diferença relevante entre os produtos processados e brutos."}
+  ],
+  "desafios": [
+    {"afirmacao": "Competitividade das ardósias de MG e folhelhos de Trombudo Central pode ser comprometida", "trecho": "podem ser comprometidas, afetando diretamente a competitividade desses produtos nos mercados internacionais."}
+  ],
+  "pleitos": [],
+  "observacao": "Texto não atribui causa explícita à retração da participação dos EUA em agosto e setembro de 2025."
+}

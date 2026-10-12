@@ -1,0 +1,137 @@
+{
+ "id": "Informe_02_2019_1Trimestre-1_3dc1d5",
+ "arquivo": "Informe_02_2019_1Trimestre-1.pdf",
+ "emissor": "Abirochas",
+ "titulo": "Balanço das Exportações e Importações Brasileiras de Rochas Ornamentais no 1º Trimestre de 2019 (Informe 02/2019)",
+ "data_publicacao": "2019-04",
+ "periodo_coberto": "jan-mar/2019",
+ "tipo": "conjuntura",
+ "tema": "Balanço trimestral de exportações e importações de rochas naturais e artificiais, com destaque para quartzitos e sanções dos EUA a artificiais chineses.",
+ "elos": [
+  "E5",
+  "E6",
+  "E7",
+  "E10"
+ ],
+ "indicadores": [
+  {
+   "nome": "Preço médio das exportações de rochas naturais",
+   "valor": "US$ 494,3/t (+4,10%)",
+   "unidade": "US$/t",
+   "periodo": "1º tri/2019",
+   "trecho": "preço médio das exportações foi de US$ 494,3/t, com incremento de 4,10% em relação a 2018."
+  },
+  {
+   "nome": "Exportações de materiais rochosos artificiais",
+   "valor": "US$ 1,36 milhões e 1.725,6 t; preço médio US$ 790/t",
+   "unidade": "US$, t",
+   "periodo": "1º tri/2019",
+   "trecho": "somaram US$ 1,36 milhões e 1.725,6 t no 1º trimestre de 2019. Seu preço médio foi de US$ 790/t."
+  },
+  {
+   "nome": "Participação do ES no faturamento das exportações de artificiais",
+   "valor": "87,5% (só 4,2% do volume embarcado no ES)",
+   "unidade": "%",
+   "periodo": "1º tri/2019",
+   "trecho": "O Espírito Santo foi responsável por 87,5% do faturamento das exportações brasileiras de materiais rochosos artificiais."
+  },
+  {
+   "nome": "Importações de artificiais vs. naturais",
+   "valor": "20,3 mil t vs. 9,9 mil t",
+   "unidade": "t",
+   "periodo": "1º tri/2019",
+   "trecho": "O volume físico das importações de materiais rochosos artificias somou 20,3 mil t, mais que o dobro das importações de materiais rochosos naturais (9,9 mil t)"
+  },
+  {
+   "nome": "Faturamento de chapas de quartzito",
+   "valor": "US$ 38,6 milhões, segundo produto exportado",
+   "unidade": "US$",
+   "periodo": "1º tri/2019",
+   "trecho": "As chapas de quartzitos geraram faturamento de US$ 38,6 milhões e já representam o segundo principal produto exportado pelo setor de rochas"
+  }
+ ],
+ "explicacoes": [
+  {
+   "fenomeno": "Incremento das exportações de rochas no 1º tri/2019",
+   "causa_atribuida": "Desempenho dos quartzitos e sanções dos EUA aos artificiais chineses",
+   "trecho": "O incremento das exportações de rochas parece estar em parte relacionado ao desempenho dos quartzitos e em parte às sanções dos EUA para os materiais artificiais chineses."
+  },
+  {
+   "fenomeno": "Baixo embarque de artificiais no Espírito Santo",
+   "causa_atribuida": "Limitações portuárias do ES",
+   "trecho": "Pelas limitações portuárias, apenas 4,2% do volume físico dessas exportações foram embarcadas no Espírito Santo."
+  },
+  {
+   "fenomeno": "Estabilidade do volume importado (ausência de reaquecimento)",
+   "causa_atribuida": "Mercado interno sem reaquecimento",
+   "trecho": "não sugerindo, pelo menos para os materiais naturais, o reaquecimento do mercado interno."
+  },
+  {
+   "fenomeno": "Mudança no mercado brasileiro de revestimentos",
+   "causa_atribuida": "Crescimento de porcelanatos de grandes formatos e artificiais",
+   "trecho": "parece estar crescendo a participação de produtos cerâmicos (especialmente porcelanatos de grandes formatos) e de materiais rochosos artificiais, no mercado brasileiro de revestimentos."
+  },
+  {
+   "fenomeno": "Pressão sobre margens de mineradores e serradores",
+   "causa_atribuida": "Modelo exportador baseado em blocos e chapas",
+   "trecho": "A exportação baseada em blocos e chapas continuará pressionando as margens de lucro dos integrantes da base da cadeia produtiva do setor de rochas, aí compreendidos os mineradores e serradores"
+  }
+ ],
+ "mercados": [
+  {
+   "pais": "EUA",
+   "afirmacao": "EUA respondem por 75,9% das exportações de artificiais, seguidos de cinco países sul-americanos",
+   "trecho": "Os EUA responderam por 75,9% do faturamento dessas exportações, seguindo-se cinco países da América do Sul (Uruguai, Paraguai, Argentina, Bolívia e Colômbia)."
+  },
+  {
+   "pais": "EUA",
+   "afirmacao": "Maior espaço potencial de crescimento nos EUA, mais para produtos acabados",
+   "trecho": "Reitera-se que o maior espaço potencial de crescimento para as exportações brasileiras de rochas ornamentais está no mercado dos EUA, mais para produtos acabados do que para chapas."
+  },
+  {
+   "pais": "China",
+   "afirmacao": "China principal fornecedor de artificiais ao Brasil",
+   "trecho": "os principais fornecedores incluíram China, Espanha e Hong Kong, com grande destaque para a China"
+  }
+ ],
+ "politicas": [
+  {
+   "medida": "Sanções dos EUA a materiais artificiais chineses",
+   "afirmacao": "Parcialmente responsáveis pelo aumento das exportações brasileiras",
+   "trecho": "em parte às sanções dos EUA para os materiais artificiais chineses."
+  }
+ ],
+ "precos": [
+  {
+   "produto": "Chapas de quartzito, granito e mármore",
+   "afirmacao": "Quartzito US$ 2.000/t, granito US$ 600/t, mármore US$ 1.000/t",
+   "trecho": "As chapas de quartzitos exportadas tiveram preço médio de US$ 2.000/t, contra US$ 600/t das chapas de granitos e US$ 1.000/t das chapas de mármores."
+  },
+  {
+   "produto": "Blocos de quartzito",
+   "afirmacao": "Três vezes o preço dos blocos de granito e superior ao das chapas de granito",
+   "trecho": "O preço médio dos blocos de quartzitos (US$ 650/t) foi três vezes superior ao dos blocos de granitos e até superior ao das próprias chapas de granito."
+  },
+  {
+   "produto": "Artificiais importados",
+   "afirmacao": "Preço médio US$ 641,6/t, recuo de 5,7%",
+   "trecho": "O preço médio foi de US$ 641,6/t, com recuo de 5,7%."
+  }
+ ],
+ "desafios": [
+  {
+   "afirmacao": "Inespecificidade das NCMs do capítulo 68 impede avaliar produtos acabados",
+   "trecho": "A inespecificidade das NCMs atreladas ao capítulo 68 da TEC/NESH, continua não permitindo avaliar a participação de produtos acabados nas exportações brasileiras de rochas ornamentais."
+  },
+  {
+   "afirmacao": "Limitações portuárias do ES como grave entrave competitivo",
+   "trecho": "As limitações portuárias do Espírito Santo continuam representado um grave entrave competitivo para o setor brasileiro de rochas ornamentais."
+  },
+  {
+   "afirmacao": "Modelo de blocos e chapas abrevia o ciclo de maturação comercial das rochas",
+   "trecho": "bem como continuará abreviando e limitando o ciclo de maturação comercial das rochas ornamentais brasileiras."
+  }
+ ],
+ "pleitos": [],
+ "observacao": null
+}

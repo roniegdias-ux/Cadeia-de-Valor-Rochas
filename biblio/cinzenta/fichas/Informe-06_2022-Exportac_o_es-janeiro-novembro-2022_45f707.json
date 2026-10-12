@@ -1,0 +1,62 @@
+{
+  "id": "Informe-06_2022-Exportac_o_es-janeiro-novembro-2022_45f707",
+  "arquivo": "Informe-06_2022-Exportações-janeiro-novembro-2022.pdf",
+  "emissor": "Abirochas",
+  "titulo": "Balanço das Exportações e Importações Brasileiras de Rochas Ornamentais no Período Janeiro-Novembro/2022 (Informe 06/2022)",
+  "data_publicacao": "2022-12",
+  "periodo_coberto": "jan-nov/2022",
+  "tipo": "conjuntura",
+  "tema": "Balanço das exportações e importações de rochas ornamentais em jan-nov/2022, com recuo no fim do ano, custos logísticos, artificiais, exportação de blocos para concorrentes, falta de beneficiamento no Nordeste e problemas no mercado interno (marmorarias).",
+  "elos": ["E2", "E3", "E5", "E6", "E7", "E10"],
+  "indicadores": [
+    {"nome": "Variação do preço médio dos materiais naturais exportados", "valor": "10", "unidade": "%", "periodo": "jan-nov/2022", "trecho": "O preço médio dos materiais rochosos naturais exportados teve incremento de 10%."},
+    {"nome": "Preço médio das exportações para a China vs EUA", "valor": "US$ 250/t (China, brutas) vs US$ 900/t (EUA, chapas)", "unidade": "US$/t", "periodo": "jan-nov/2022", "trecho": "geraram faturamento de US$\n       703,0 milhões, pois seu preço médio foi de US$ 900/t."},
+    {"nome": "Exportações para a China", "valor": "635,2 mil t e US$ 158,6 milhões, preço médio US$ 250/t", "unidade": "t / US$", "periodo": "jan-nov/2022", "trecho": "com um preço médio de US$ 250/t, as exportações para a China,\n       essencialmente na forma de rochas brutas, somaram 635,2 mil t e geraram um\n       faturamento de apenas US$ 158,6 milhões."},
+    {"nome": "Participação dos EUA no faturamento", "valor": "58", "unidade": "%", "periodo": "jan-nov/2022", "trecho": "Os EUA responderam por 58% do faturamento no período"},
+    {"nome": "Preço médio e faturamento da posição 6802.99.90", "valor": "US$ 2,3 mil/t; US$ 356,6 milhões e 154,8 mil t", "unidade": "US$/t", "periodo": "jan-nov/2022", "trecho": "Com um preço médio de US$ 2,3 mil/t e variação positiva de 11,8% no faturamento,\n       os produtos abrigados na posição 6802.99.90 responderam por US$ 356,6 milhões"},
+    {"nome": "Volume exportado de blocos de quartzito maciço", "valor": "mais de 150 mil t (7,6% do total)", "unidade": "t / %", "periodo": "jan-nov/2022", "trecho": "que já ultrapassaram a marca de 150 mil t e representaram 7,6% do total brasileiro."},
+    {"nome": "Exportações de CE, BA, RN e PB somadas", "valor": "US$ 78,3 milhões", "unidade": "US$", "periodo": "jan-nov/2022", "trecho": "somaram apenas US$ 78,3\n       milhões e permaneceram muito abaixo do seu potencial mínero-industrial."},
+    {"nome": "Importações de materiais rochosos artificiais (6810.19.00 e 6810.99.00)", "valor": "US$ 49,2 milhões e 81,0 mil t", "unidade": "US$ / t", "periodo": "jan-nov/2022", "trecho": "6810.99.00, somaram por sua vez US$ 49,2 milhões e 81,0 mil toneladas"},
+    {"nome": "Projeção de recuo do volume físico exportado", "valor": "cerca de 10%", "unidade": "%", "periodo": "2022", "trecho": "O volume físico das exportações deverá recuar cerca de 10% em 2022."}
+  ],
+  "explicacoes": [
+    {"fenomeno": "Recuo do volume físico exportado maior que o do faturamento", "causa_atribuida": "Elevação das vendas de rochas com maior valor agregado", "trecho": "O maior recuo do volume físico exportado foi devido à\nelevação das vendas de rochas com maior valor agregado entre os produtos exportados."},
+    {"fenomeno": "Incerteza e possível nova fase de retração em 2023", "causa_atribuida": "Condições políticas e econômicas mundiais ligadas aos desdobramentos da pandemia e à guerra na Ucrânia", "trecho": "As condições políticas e econômicas mundialmente vigentes, atreladas sobretudo aos\ndesdobramentos da pandemia e à guerra na Ucrânia, dificultam projeções seguras para 2023."},
+    {"fenomeno": "Inviabilização econômica de rochas de menor valor agregado exportadas como blocos e chapas", "causa_atribuida": "Forte elevação dos custos logísticos e operacionais e aumento da participação de materiais artificiais de revestimento", "trecho": "Fatores como a forte elevação dos custos logísticos e operacionais das atividades produtivas,\nalém do aumento da participação de materiais artificiais de revestimento, continuarão\nconcorrendo para a inviabilização econômica de rochas de menor valor agregado"},
+    {"fenomeno": "Ausência de salto significativo no faturamento das exportações", "causa_atribuida": "Exportações calcadas em blocos e chapas, sem atendimento de obras com produtos acabados", "trecho": "se tais exportações continuarem\ncalcadas na comercialização de blocos e chapas, não se pode esperar qualquer salto\nsignificativo em seu faturamento"},
+    {"fenomeno": "Exportações do CE, BA, RN e PB muito abaixo do potencial", "causa_atribuida": "Inexistência de um parque regional de beneficiamento para agregação de valor", "trecho": "Tal\n       situação é devida à inexistência de um parque regional de beneficiamento para\n       agregação de valor às suas matérias-primas."},
+    {"fenomeno": "Faturamento baixo das exportações para a China apesar do grande volume", "causa_atribuida": "Exportações essencialmente na forma de rochas brutas, com preço médio de US$ 250/t", "trecho": "essencialmente na forma de rochas brutas, somaram 635,2 mil t e geraram um\n       faturamento de apenas US$ 158,6 milhões"},
+    {"fenomeno": "Faturamento elevado das exportações para os EUA", "causa_atribuida": "Exportações essencialmente de chapas, com preço médio de US$ 900/t", "trecho": "exportações de 777,3 mil t, essencialmente de chapas, geraram faturamento de US$\n       703,0 milhões"},
+    {"fenomeno": "Problema de articulação comercial no mercado interno", "causa_atribuida": "Compra direta de chapas pelas construtoras às serradoras do ES e montagem de marmorarias irregulares nos canteiros de obras", "trecho": "mas na montagem de marmorarias\nirregulares no próprio canteiro de obras das edificações"},
+    {"fenomeno": "Marmoristas não cobrem custos", "causa_atribuida": "Preços impostos pelas construtoras", "trecho": "os preços via de\nregra impostos pelas construtoras não cobrem os custos do marmorista."},
+    {"fenomeno": "Desconhecimento da carteira brasileira de rochas por especificadores", "causa_atribuida": "Carteira de materiais muito restrita oferecida pelos marmoristas", "trecho": "é\nmuito restrita a carteira de materiais próprios geralmente oferecida pelos marmoristas aos\nseus clientes, o que dificulta a visualização da enorme variedade de rochas brasileiras"},
+    {"fenomeno": "Mudança de tendência das exportações em outubro e novembro de 2022", "causa_atribuida": "Significativo recuo frente ao mesmo período de 2021 (sem causa adicional explicitada além do cenário pandemia/Ucrânia)", "trecho": "Este quadro mudou em outubro e novembro, quando as exportações\nevidenciaram significativo recuo frente às do mesmo período de 2021."}
+  ],
+  "mercados": [
+    {"pais": "Estados Unidos", "afirmacao": "Principal destino, com 58% do faturamento, essencialmente chapas a US$ 900/t.", "trecho": "EUA, China, Itália e México, nesta ordem, representaram os principais destinos das\n       exportações brasileiras."},
+    {"pais": "China", "afirmacao": "Compra essencialmente rochas brutas a preço médio de US$ 250/t; atesta, com a Itália, a estratégia de produtos acabados.", "trecho": "Itália e China atestam esse direcionamento\nsetorial estratégico."},
+    {"pais": "Brasil (mercado interno)", "afirmacao": "Mercado interno ainda aquecido em 2022, com lançamentos focados em alto padrão.", "trecho": "Tais indicadores apontam um mercado interno ainda aquecido em 2022, com numerosos\nlançamentos sobretudo focados em consumidores de alto padrão aquisitivo."},
+    {"pais": "Concorrentes internacionais", "afirmacao": "Exportação de blocos de quartzito maciço e de mármore disponibiliza as rochas mais valorizadas como matéria-prima a concorrentes.", "trecho": "estamos disponibilizando nossas\n       duas rochas mais valorizadas, na forma de matéria-prima, para grandes concorrentes\n       internacionais do Brasil."}
+  ],
+  "politicas": [
+    {"medida": "Classificação fiscal (6802.99.90 e 6802.29.00)", "afirmacao": "Códigos inespecíficos impedem diferenciar quartzitos maciços de silicáticos exóticos e pedra-sabão de graníticas; ABIROCHAS discutiu proposta com a ANM, mas a discussão deve ir à DECEX.", "trecho": "A ABIROCHAS\njá discutiu com a ANM proposta para tal diferenciação. Essa discussão na realidade deve ser\nremetida à DECEX."},
+    {"medida": "Posições 6810.19.00 e 6810.99.00 (artificiais)", "afirmacao": "Parecem não abrigar sinterizados e fundidos, apenas aglomerados com resinas.", "trecho": "Registre-se que as referidas posições parecem não\nabrigar materiais de revestimento sinterizados e fundidos, mas apenas os aglomerados com\nresinas."}
+  ],
+  "precos": [
+    {"produto": "Materiais rochosos naturais exportados", "afirmacao": "Incremento de 10% no preço médio.", "trecho": "O preço médio dos materiais rochosos naturais exportados teve incremento de 10%."},
+    {"produto": "Serviços de marmoraria", "afirmacao": "Preços impostos pelas construtoras não cobrem os custos do marmorista.", "trecho": "Quando devidamente remetidas para acabamento em marmorarias formais, os preços via de\nregra impostos pelas construtoras"}
+  ],
+  "desafios": [
+    {"afirmacao": "Possível nova fase de retração similar à de 2013-2018.", "trecho": "aventando-se o início\nde uma nova fase de retração talvez similar à do período 2013-2018."},
+    {"afirmacao": "Exportação de blocos de quartzito maciço em volume preocupante.", "trecho": "Causa preocupação o volume físico das exportações de blocos de quartzito maciço"},
+    {"afirmacao": "Marmorarias irregulares no canteiro de obras.", "trecho": "No mercado interno está ocorrendo um problema de articulação comercial, relacionado à\ncompra direta de chapas pelas construtoras às serradoras do Espírito Santo."},
+    {"afirmacao": "Desconhecimento da carteira brasileira de produtos por arquitetos, designers e engenheiros.", "trecho": "O desconhecimento da carteira brasileira de produtos comerciais é\ncomumente relatado pelos especificadores e compradores"},
+    {"afirmacao": "Código fiscal 6802.99.90 inespecífico.", "trecho": "O código fiscal 6802.99.90 continua sendo inespecífico, não permitindo diferenciar as\nexportações de quartzitos maciços daquelas de materiais silicáticos exóticos."}
+  ],
+  "pleitos": [
+    {"afirmacao": "O setor deve funcionar como sistemista da construção civil, oferecendo soluções integradas de revestimento.", "trecho": "é preciso que o setor de rochas\nornamentais brasileiro funcione como sistemista da construção civil, oferecendo soluções\nintegradas de revestimento"},
+    {"afirmacao": "Atender obras com produtos acabados no mercado internacional.", "trecho": "somente possível através do atendimento de obras com\nprodutos acabados no mercado internacional."},
+    {"afirmacao": "Estudo de caso sobre marmorarias irregulares em canteiros de obras.", "trecho": "irregulares no próprio canteiro de obras das edificações, o que mereceria um estudo de caso."}
+  ],
+  "observacao": null
+}

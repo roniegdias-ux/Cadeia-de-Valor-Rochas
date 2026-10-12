@@ -1,0 +1,65 @@
+{
+  "id": "Informe-06_2023-Balanc_o-1_semestre-2023_b34560",
+  "arquivo": "Informe-06_2023-Balanço-1_semestre-2023.pdf",
+  "emissor": "Abirochas",
+  "titulo": "Balanço das Exportações e Importações de Rochas Ornamentais no 1º Semestre de 2023 (Informe 06/2023)",
+  "data_publicacao": "2023-07",
+  "periodo_coberto": "jan-jun/2023",
+  "tipo": "conjuntura",
+  "tema": "Balanço semestral do comércio exterior de rochas, com comentários sobre conjuntura internacional, nearshore/offshore trading e impressões da feira Coverings 2023.",
+  "elos": ["E3", "E5", "E6", "E7", "E8", "E10"],
+  "indicadores": [
+    {"nome": "Preço médio das exportações", "valor": "599,8 (588,3 em 2022)", "unidade": "US$/t", "periodo": "1º sem/2023", "trecho": "O preço médio dessas exportações teve incremento de 2% frente a 2022, passando de US$ 588,3/t para US$599,8/t."},
+    {"nome": "Preço médio das exportações para EUA e China", "valor": "900 (EUA) / 240 (China)", "unidade": "US$/t", "periodo": "1º sem/2023", "trecho": "O preço médio dos produtos exportados para os EUA foi de US$ 900/t, enquanto para a China de apenas US$ 240/t."},
+    {"nome": "Concentração nos cinco principais destinos", "valor": "83", "unidade": "% do faturamento", "periodo": "1º sem/2023", "trecho": "EUA, China, Itália, México e Reino Unido, nesta ordem, representaram os cinco principais destinos das exportações, compondo 83% do total do seu faturamento."},
+    {"nome": "Participação das posições 6802.93.90 e 6802.99.90 no faturamento", "valor": "63", "unidade": "%", "periodo": "1º sem/2023", "trecho": "As posições 6802.93.90 e 6802.99.90 compuseram 63% do total do faturamento das exportações efetuadas no 1º semestre."},
+    {"nome": "Preço médio das exportações capixabas", "valor": "660", "unidade": "US$/t", "periodo": "1º sem/2023", "trecho": "O preço médio das exportações capixabas, de US$ 660/t, é lastreado pela comercialização de chapas."},
+    {"nome": "Participação das rochas nas exportações brasileiras totais", "valor": "0,33", "unidade": "%", "periodo": "1º sem/2023", "trecho": "As exportações de rochas ornamentais no 1º semestre de 2023 representaram 0,33% do total das exportações brasileiras nesse período"},
+    {"nome": "Preço médio das importações de rochas naturais", "valor": "499,3", "unidade": "US$/t", "periodo": "1º sem/2023", "trecho": "O preço médio das importações foi de US$ 499,3/t, portanto inferior ao das exportações brasileiras de rochas"},
+    {"nome": "Importações de rochas artificiais aglomeradas", "valor": "US$ 28,2 milhões / 46,9 mil t", "unidade": "US$ / t", "periodo": "1º sem/2023", "trecho": "as importações brasileiras de rochas artificiais aglomeradas superaram amplamente as de materiais naturais, somando US$ 28,2 milhões e 46,9 mil t, e tendo a China como principal país de origem."}
+  ],
+  "explicacoes": [
+    {"fenomeno": "Exportações de 2023 não deverão superar as de 2022", "causa_atribuida": "Elevação dos juros básicos nos EUA, fraco crescimento da economia chinesa e crise imobiliária na China, conflito Rússia-Ucrânia e instabilidade global da construção civil", "trecho": "concorrendo para isto a elevação da taxa básica de juros nos EUA, o “fraco” crescimento da economia chinesa e a crise de seu mercado imobiliário, além da continuidade do conflito Rússia-Ucrânia"},
+    {"fenomeno": "Queda das exportações a partir do 4º trimestre de 2022 e recuo de faturamento em 2023", "causa_atribuida": "Desaceleração da economia mundial, especialmente EUA e Europa Ocidental", "trecho": "sugerindo-se um quadro de desaceleração da economia mundial e, particularmente, dos países mais desenvolvidos, inclusive e principalmente os EUA e da"},
+    {"fenomeno": "Baixo preço médio dos embarques pelo porto de Vitória", "causa_atribuida": "Deficiência do porto de Vitória para fretes de rochas processadas", "trecho": "260/t em Vitória, o que ilustra a deficiência deste último para fretes de rochas processadas."},
+    {"fenomeno": "Impacto crescente sobre o mercado da construção e as exportações de rochas", "causa_atribuida": "Crescimento e aperfeiçoamento tecnológico de materiais artificiais (quartzo, aglomerados, sinterizados) e porcelanatos", "trecho": "Os porcelanatos também evoluíram muito e deverão provocar um impacto ainda maior no mercado da construção civil e nas exportações brasileiras de rochas."},
+    {"fenomeno": "Elevado faturamento de China e Itália nas exportações de rochas", "causa_atribuida": "Exportações calcadas em produtos acabados", "trecho": "têm a maior parte de suas exportações de rochas calcadas em produtos acabados, o que justifica o seu elevado faturamento."},
+    {"fenomeno": "Concentração em rochas de alto valor tende a restringir nichos e favorecer artificiais e porcelanatos", "causa_atribuida": "Custos mais elevados e inadequação para grandes áreas de aplicação", "trecho": "tanto devido aos custos mais elevados, quanto à inadequação de seu uso em grandes áreas de aplicação, podendo favorecer o aumento da demanda por materiais artificiais e porcelanatos."},
+    {"fenomeno": "Recrudescimento de efeitos inibidores das exportações", "causa_atribuida": "Foco em matéria-prima e chapas polidas, negligenciando produtos acabados/cut-to-size para obras", "trecho": "indicam o recrudescimento de efeitos inibidores das exportações de rochas a manter-se o foco em matéria-prima e chapas polidas"},
+    {"fenomeno": "Liderança do México entre fornecedores de rochas naturais ao Brasil", "causa_atribuida": "Importações possivelmente de mármore ônix em blocos (código 2515.12.20)", "trecho": "estão principalmente abrigados no código fiscal 2515.12.20, tratando-se, possivelmente, de mármore ônix em blocos."}
+  ],
+  "mercados": [
+    {"pais": "EUA", "afirmacao": "Principal destino; mercado de chapas muito concentrado nos EUA", "trecho": "essas oportunidades emergentes atenderiam à diversificação do mercado de chapas, atualmente muito concentrado nos EUA"},
+    {"pais": "América Latina", "afirmacao": "Cada vez mais atendida por produtos chineses; proposta de nearshore trading", "trecho": "É preciso discutir mais consistentemente os mecanismos de nearshore trading para o setor de rochas ornamentais brasileiro com países da América Latina, cada vez mais atendidos por produtos chineses."},
+    {"pais": "México", "afirmacao": "Operações de nearshore com os EUA incentivadas; mercado mexicano deveria ser objeto de promoção", "trecho": "Outra possibilidade muito atraente é ligada ao México, cujas operações fundamentadas em nearshore com os EUA estão sendo significativamente incentivadas."},
+    {"pais": "Portugal, Itália, Emirados Árabes, ASEAN", "afirmacao": "Parcerias de offshore trading para Europa, Oriente Médio e China", "trecho": "Refere-se neste caso as empresas portuguesas para o mercado europeu; empresas italianas e dos Emirados Árabes para o mercado do Oriente Médio"},
+    {"pais": "Tunísia", "afirmacao": "7º destino em volume com preço médio de US$ 70/t, o que mereceria esclarecimentos", "trecho": "Isto mereceria esclarecimentos, pois é muito difícil assumir economicidade para produtos com preço médio inferior a US$ 150/t."},
+    {"pais": "Turquia", "afirmacao": "Maior e mais notável conjunto nacional de estandes na Coverings 2023", "trecho": "O maior e mais notável conjunto nacional de estandes foi o da Turquia, com boa distribuição de espaços e design esmerado."}
+  ],
+  "politicas": [
+    {"medida": "Convênio de promoção de exportações com a ABIROCHAS (Projeto Setorial)", "afirmacao": "Objetivo de agregação de valor desapareceu das ações do Convênio atual", "trecho": "Esse objetivo estava em curso nos últimos Convênios firmados com a ABIROCHAS, mas, desapareceu das ações do Convênio atual."},
+    {"medida": "Projeto Setorial / promoção de produtos acabados", "afirmacao": "Não há iniciativa explicitada para promover exportação de produtos acabados", "trecho": "Refere-se que não existe qualquer iniciativa explicitada pelo Projeto Setorial atual e pelas grandes empresas brasileiras do setor em promover a exportação de produtos acabados."},
+    {"medida": "Classificação fiscal de revestimentos fundidos e sinterizados", "afirmacao": "É preciso discriminar melhor essas importações, hoje na posição 7005.21.00", "trecho": "É preciso discriminar mais adequadamente as importações de revestimentos de materiais fundidos e sinterizados"}
+  ],
+  "precos": [
+    {"produto": "Posição 6802.99.90 (rochas silicáticas exóticas e chapas de quartzito)", "afirmacao": "Primeira queda de preço médio em anos", "trecho": "Mesmo que ligeiramente, pela primeira vez nos últimos anos registrou-se queda do preço médio da posição 6802.99.90, dominada por rochas silicáticas exóticas e chapas de quartzitos."},
+    {"produto": "Blocos de granito (2516.12.00) e 6802.99.90", "afirmacao": "Menor preço US$ 186,2/t; maior US$ 2.237,8/t", "trecho": "blocos de granito exportados pela posição 2516.12.00 (US$ 186,2/t), enquanto o mais elevado é o dos produtos abrigados na posição 6802.99.90 (US$ 2.237,8/t)."},
+    {"produto": "Preço por porto de embarque", "afirmacao": "Rio de Janeiro US$ 870/t, Santos US$ 660/t, Vitória US$ 260/t", "trecho": "O preço médio dos produtos embarcados no porto do Rio de Janeiro foi de US$ 870/t, registrando-se US$ 660/t no porto de Santos e apenas US$"},
+    {"produto": "Importações por fornecedor", "afirmacao": "China US$ 800/t; México US$ 410/t; Turquia US$ 420/t", "trecho": "O maior preço médio entre esses principais fornecedores foi da China, com US$ 800/t; o menor foi do México, com US$ 410/t, seguido da Turquia com US$ 420/t."}
+  ],
+  "desafios": [
+    {"afirmacao": "Declínio contínuo das exportações de blocos, ardósia e quartzito foliado", "trecho": "Continuam em declínio as exportações de blocos de mármores e granitos, além de produtos de ardósia e quartzito foliado (tipo pedra São Tomé)."},
+    {"afirmacao": "Quartzitos sem garantia de fornecimento e com problemas físico-mecânicos", "trecho": "Aparentemente, alguns quartzitos expostos na Coverings não têm garantia de fornecimento e poderão gerar constrangimentos comerciais."},
+    {"afirmacao": "Fraturamento tensional de certos quartzitos", "trecho": "alguns problemas físico-mecânicos sofridos por certos quartzitos, inclusive durante seu manuseio, por fraturamento tensional."},
+    {"afirmacao": "Pavilhão brasileiro na Coverings com dificuldades operacionais e design aquém", "trecho": "O design geral do pavilhão não correspondeu às expectativas, ficando aquém do estande da ANFACER."},
+    {"afirmacao": "Novos grandes players surgem a partir de materiais artificiais e cerâmicos", "trecho": "Novos grandes players nacionais e empresariais estão se formando a partir da produção e comercialização de materiais artificiais, inclusive cerâmicos."},
+    {"afirmacao": "Práticas ESG induzem o setor a assumir responsabilidades", "trecho": "práticas de governança ambiental, social e corporativa (ESG) estão cada vez mais induzindo o setor de rochas a assumir responsabilidades nesse sentido."},
+    {"afirmacao": "Necessidade de preservar mercado e retomar produção de granitos comuns", "trecho": "É fundamental a preservação do mercado e retomada da produção de rochas comuns, a exemplo dos granitos homogêneos convencionais"}
+  ],
+  "pleitos": [
+    {"afirmacao": "Discutir mecanismos de nearshore trading com a América Latina, com produtos acabados e marmorarias", "trecho": "Busca-se neste caso o atendimento de obras com produtos acabados e de maior valor agregado, potencializando o envolvimento de marmorarias brasileiras."},
+    {"afirmacao": "Organizar promoção e venda de quartzitos para preservar valor", "trecho": "É preciso organizar a promoção e a venda de quartzitos, de forma a preservar seu valor de comercialização."},
+    {"afirmacao": "Comercializar granitos comuns no exterior como produtos prontos para obras", "trecho": "Para tal será necessária sua comercialização no mercado externo como produtos prontos para o atendimento de obras."}
+  ],
+  "observacao": "Páginas finais contêm painel BI, previsão de receita e 'Interpretação por Inteligência Artificial' (texto automático da Ciência Narrativa), não fichados como posição do emissor. Números de página do pdftotext intercalados no texto corrido."
+}

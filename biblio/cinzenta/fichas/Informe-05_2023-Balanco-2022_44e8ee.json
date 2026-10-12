@@ -1,0 +1,272 @@
+{
+ "id": "Informe-05_2023-Balanco-2022_44e8ee",
+ "arquivo": "Informe-05_2023-Balanco-2022.pdf",
+ "emissor": "Abirochas",
+ "titulo": "Balanço das exportações e importações de rochas ornamentais em 2022 (Informe 05/2023)",
+ "data_publicacao": "2023-07",
+ "periodo_coberto": "2022 (com séries 2002-2022 e quadro setorial 2013-2022)",
+ "tipo": "conjuntura",
+ "tema": "Balanço anual do comércio exterior de rochas ornamentais em 2022, quadro setorial brasileiro (produção, consumo interno) e evolução do mercado internacional, incluindo rochas artificiais.",
+ "elos": [
+  "E1",
+  "E2",
+  "E3",
+  "E6",
+  "E7",
+  "E10"
+ ],
+ "indicadores": [
+  {
+   "nome": "Produção brasileira de rochas ornamentais (total estimado)",
+   "valor": "10.000.000 (-2,0%); 70% mercado interno, 30% externo",
+   "unidade": "t",
+   "periodo": "2022",
+   "trecho": "3.000.000 (-10%)                 7.000.000 (+1,5%)                10.000.000 (-2,0%)"
+  },
+  {
+   "nome": "Produção por tipo de rocha: granito e similares",
+   "valor": "4,0 (40%)",
+   "unidade": "Mt",
+   "periodo": "2022",
+   "trecho": "Granito e similares                                                                         4,0                      40"
+  },
+  {
+   "nome": "Produção estadual do Espírito Santo",
+   "valor": "2.800",
+   "unidade": "1.000 t",
+   "periodo": "2022",
+   "trecho": "Espírito Santo              2.800         Granito e mármore"
+  },
+  {
+   "nome": "Consumo interno aparente",
+   "valor": "4.313,9",
+   "unidade": "1.000 t",
+   "periodo": "2022",
+   "trecho": "Consumo interno                                    3.633,7       3.660,7        3.787,6       3.649,4         4.158,7      4.313,9"
+  },
+  {
+   "nome": "Consumo per capita",
+   "valor": "21,25",
+   "unidade": "kg/hab",
+   "periodo": "2022",
+   "trecho": "Consumo per capita (kg)***                          17,28         17,28          17,95         17,28          19,44         21,25"
+  },
+  {
+   "nome": "Rejeito de processamento",
+   "valor": "3.739,7 (41%)",
+   "unidade": "1.000 t",
+   "periodo": "2022",
+   "trecho": "Rejeito de processamento (41%)                     3.368,4        3.260         3.375,5       3.302,1         3.783,5      3.739,7"
+  },
+  {
+   "nome": "Participação de São Paulo no consumo interno aparente",
+   "valor": "36 (45%)",
+   "unidade": "milhões m2 equivalentes",
+   "periodo": "2022",
+   "trecho": "São Paulo                                                                36                         45"
+  },
+  {
+   "nome": "Preço médio dos materiais rochosos naturais exportados",
+   "valor": "+10,1%",
+   "unidade": "variação %",
+   "periodo": "2022/2021",
+   "trecho": "O preço médio dos materiais rochosos naturais exportados teve incremento de 10,1%."
+  },
+  {
+   "nome": "Participação dos EUA no faturamento das exportações",
+   "valor": "58,3",
+   "unidade": "%",
+   "periodo": "2022",
+   "trecho": "Os EUA responderam por 58,3% do faturamento em\n         2022."
+  },
+  {
+   "nome": "Exportações mundiais de rochas artificiais em relação às naturais",
+   "valor": "50",
+   "unidade": "%",
+   "periodo": "2022",
+   "trecho": "2022, o valor das exportações mundiais de rochas artificiais já representou 50% das rochas naturais."
+  }
+ ],
+ "explicacoes": [
+  {
+   "fenomeno": "Flutuações episódicas das exportações brasileiras de rochas",
+   "causa_atribuida": "Eventos políticos e fatores mercadológicos globais",
+   "trecho": "Esses números reiteram que flutuações episódicas do desempenho das exportações são\ndeterminadas por eventos políticos e fatores mercadológicos globais."
+  },
+  {
+   "fenomeno": "Forte incremento das exportações em 2021",
+   "causa_atribuida": "Pacote de incentivos financeiros anticíclicos das economias desenvolvidas, especialmente EUA, contra os impactos da pandemia",
+   "trecho": "O forte incremento de\n2021 lastreou-se no gigantesco pacote de incentivos financeiros aportados como política\nanticíclica pelas economias desenvolvidas, especialmente dos EUA"
+  },
+  {
+   "fenomeno": "Recuo das exportações em 2022",
+   "causa_atribuida": "Desdobramentos da guerra na Ucrânia e instabilidade da economia mundial, com possível recessão",
+   "trecho": "desdobramentos da guerra na Ucrânia e à instabilidade gerada na economia mundial,\napontando para um indesejável, porém possível, cenário de recessão"
+  },
+  {
+   "fenomeno": "Desempenho das exportações em 2022 frente a 2021",
+   "causa_atribuida": "Limite de faturamento de exportações baseadas em blocos e chapas",
+   "trecho": "aparentemente atingiu-se o limite possível de faturamento para exportações calcadas\n        na comercialização de blocos e chapas;"
+  },
+  {
+   "fenomeno": "Perda de competitividade das exportações em 2022",
+   "causa_atribuida": "Apreciação do real frente ao dólar, após desvalorizações de 29% em 2020 e 9% em 2021",
+   "trecho": "registrou-se\n        uma apreciação do real frente ao US dólar em 2022, limitando a competitividade\n        brasileira no mercado internacional"
+  },
+  {
+   "fenomeno": "Forte recuo das exportações no último trimestre de 2022",
+   "causa_atribuida": "Fim dos efeitos das políticas anticíclicas nas economias desenvolvidas",
+   "trecho": "os efeitos das políticas anticíclicas nas economias desenvolvidas não alcançaram o\n        último trimestre de 2022, quando foi registrado um forte recuo das exportações."
+  },
+  {
+   "fenomeno": "Exportações de CE, BA, RN e PB muito abaixo do potencial",
+   "causa_atribuida": "Inexistência de parque regional de beneficiamento para agregar valor",
+   "trecho": "inexistência de um parque regional de beneficiamento para agregação de valor às suas\nmatérias-primas."
+  },
+  {
+   "fenomeno": "Previsão de continuidade do declínio das exportações em 2023",
+   "causa_atribuida": "Persistência das condicionantes negativas vigentes",
+   "trecho": "Projeta-se para 2023 a continuidade do declínio observado para as exportações em 2022, pois\nnão se espera superação das condicionantes negativas vigentes."
+  },
+  {
+   "fenomeno": "Faturamento das exportações em reais em 2021 (R$ 7,23 bilhões)",
+   "causa_atribuida": "Elevação da taxa de câmbio do dólar a partir de 2018",
+   "trecho": "Observar importância da variação positiva de taxa de câmbio do US dólar, que se elevou consistentemente a\npartir de 2018 e atingiu R$ 5,40 em 2021"
+  },
+  {
+   "fenomeno": "Recuo das importações de rochas artificiais pelos EUA em 2019-2020",
+   "causa_atribuida": "Sanções comerciais dos EUA a produtos chineses, produção própria nos EUA e novos fornecedores",
+   "trecho": "O recuo\ndas importações de rochas artificiais, em 2019-2020, está relacionado às sanções comerciais\nestabelecidas pelos EUA para produtos chineses, à própria produção de materiais artificiais nos\nEUA e ao surgimento de outros fornecedores."
+  },
+  {
+   "fenomeno": "Declínio da Itália nas exportações mundiais na década de 2000",
+   "causa_atribuida": "Crescimento da China e de outros emergentes extra-europeus",
+   "trecho": "O declínio\nda Itália, durante a primeira década dos anos 2000, foi em grande parte associado ao crescimento da\nChina e outros emergentes extra-europeus."
+  },
+  {
+   "fenomeno": "Crescimento do faturamento de Índia e Turquia superior a Brasil e Itália",
+   "causa_atribuida": "Aumento de produtos de baixo valor agregado, sobretudo rochas brutas para a China",
+   "trecho": "foi devida ao expressivo incremento da participação de produtos com baixo valor\nagregado, principalmente rochas brutas para a China."
+  },
+  {
+   "fenomeno": "Crescimento das exportações brasileiras",
+   "causa_atribuida": "Maior participação de chapas e de novos materiais de maior valor (quartzitos, mármores, pegmatitos)",
+   "trecho": "O crescimento das exportações brasileiras\nassociou-se à maior participação de rochas processadas semiacabadas (chapas) e de novos materiais\ncom maior valor agregado"
+  },
+  {
+   "fenomeno": "Declínio das exportações mundiais, chinesas e brasileiras de rochas naturais",
+   "causa_atribuida": "Incremento síncrono das exportações de rochas artificiais",
+   "trecho": "Incremento das exportações mundiais e chinesas de rochas artificiais, síncrono ao declínio das\nexportações mundiais, chinesas e brasileiras de materiais rochosos naturais de revestimento."
+  },
+  {
+   "fenomeno": "Queda das importações brasileiras de rochas naturais e alta das artificiais (2011-2022)",
+   "causa_atribuida": "Tendência internacional de ganho de fatia dos materiais artificiais",
+   "trecho": "Esta tendência é similar à do mercado internacional, onde os materiais\nartificiais estão ganhando expressiva fatia de comercialização dos naturais."
+  },
+  {
+   "fenomeno": "Recuo das exportações brasileiras em 2009 e entre 2014 e 2019",
+   "causa_atribuida": "Acompanhou a tendência mundial das exportações de rochas",
+   "trecho": "O recuo\ndessas exportações brasileiras, em 2009 e entre 2014 e 2019, acompanhou a tendência mundial."
+  }
+ ],
+ "mercados": [
+  {
+   "pais": "EUA",
+   "afirmacao": "Desempenho do faturamento das exportações condicionado pelas rochas processadas e pelo mercado dos EUA",
+   "trecho": "O desempenho do faturamento das exportações brasileiras tem sido condicionado pelas rochas\nprocessadas e pelo mercado dos EUA."
+  },
+  {
+   "pais": "EUA",
+   "afirmacao": "Brasil é o principal fornecedor mundial de rochas processadas para os EUA",
+   "trecho": "O Brasil é o principal fornecedor mundial de rochas processadas para os EUA (SH4 6802)."
+  },
+  {
+   "pais": "China",
+   "afirmacao": "Exportações para a China essencialmente de rochas brutas, a preço médio de US$ 250/t",
+   "trecho": "com um preço médio de US$ 250/t, as exportações para a China,\n         essencialmente na forma de rochas brutas, somaram 649,1 mil t"
+  },
+  {
+   "pais": "China",
+   "afirmacao": "Tarifas chinesas sobre rochas processadas praticamente inviabilizam chapas brasileiras",
+   "trecho": "envolviam a desoneração das importações\nchinesas de rochas processadas, que praticamente inviabilizam a comercialização de chapas\nbrasileiras naquele grande mercado"
+  },
+  {
+   "pais": "Emirados Árabes Unidos / Arábia Saudita",
+   "afirmacao": "Mercados-alvo pelos grandes projetos urbanísticos e habitacionais",
+   "trecho": "mercados do Oriente Médio, especialmente Emirados Árabes Unidos e Arábia Saudita, que\ntêm enormes projetos urbanísticos e habitacionais já em andamento."
+  },
+  {
+   "pais": "Brasil (mercado interno)",
+   "afirmacao": "Mercado interno ainda aquecido em 2022, com lançamentos de alto padrão",
+   "trecho": "Tais indicadores apontam um mercado interno ainda aquecido em 2022, com numerosos lançamentos\nsobretudo focados em consumidores de alto padrão aquisitivo."
+  },
+  {
+   "pais": "EUA",
+   "afirmacao": "Expansão de fornecedores de rochas artificiais aos EUA (Canadá, México, Vietnã, Índia) e recuo da China",
+   "trecho": "Observar crescimento do Vietnam e Índia, bem como recuo da\nChina a partir de 2018."
+  }
+ ],
+ "politicas": [
+  {
+   "medida": "Programa de Promoção das Exportações ApexBrasil",
+   "afirmacao": "A orientação da Abirochas para a 'terceira onda exportadora' de produtos acabados foi descontinuada no convênio da Apex com outra entidade",
+   "trecho": "Tal direcionamento, ao que tudo indica, foi descontinuado\nno atual convênio, firmado pela ApexBrasil com outra entidade."
+  },
+  {
+   "medida": "Classificação fiscal (NCM 6802.99.90 e 6802.29.00)",
+   "afirmacao": "Códigos inespecíficos; proposta de diferenciação discutida com a ANM, a remeter ao DECEX",
+   "trecho": "A ABIROCHAS já discutiu com a ANM\nproposta para tal diferenciação. Essa discussão na realidade deve ser remetida à DECEX."
+  }
+ ],
+ "precos": [
+  {
+   "produto": "Exportações para EUA vs China",
+   "afirmacao": "Chapas para os EUA a US$ 900/t contra US$ 250/t das brutas para a China",
+   "trecho": "Para os EUA, em contrapartida, exportações de 833,1 mil t,\n         essencialmente de chapas, geraram faturamento de US$ 749,2 milhões, pois seu preço médio\n         foi de US$ 900/t."
+  },
+  {
+   "produto": "Quartzitos maciços e silicáticas exóticas (6802.99.90)",
+   "afirmacao": "Preço médio de US$ 2,3 mil/t",
+   "trecho": "Com um preço médio de US$ 2,3 mil/t e variação positiva de 7,8% no faturamento"
+  },
+  {
+   "produto": "Rochas naturais exportadas (comparação internacional)",
+   "afirmacao": "Preços médios do Brasil próximos aos dos acabados da China; Índia e Turquia muito inferiores",
+   "trecho": "Os preços médios do Brasil, formados por rochas processadas semiacabadas, são próximos aos dos\nprodutos acabados da China."
+  },
+  {
+   "produto": "Acabamento em marmorarias para construtoras",
+   "afirmacao": "Preços impostos pelas construtoras não cobrem os custos do marmorista",
+   "trecho": "os preços via de regra\nimpostos pelas construtoras não cobrem os custos do marmorista."
+  }
+ ],
+ "desafios": [
+  {
+   "afirmacao": "Exportação de blocos de quartzito maciço e mármore como matéria-prima para concorrentes internacionais",
+   "trecho": "estamos disponibilizando\n         nossas duas rochas mais valorizadas, na forma de matéria-prima, para grandes concorrentes\n         internacionais do Brasil em rochas processadas."
+  },
+  {
+   "afirmacao": "Marmorarias irregulares montadas nos canteiros de obras com compra direta de chapas pelas construtoras",
+   "trecho": "O problema\nnão reside nessa forma de relacionamento comercial, mas na montagem de marmorarias irregulares\nno próprio canteiro de obras das edificações"
+  },
+  {
+   "afirmacao": "Desconhecimento da variedade de rochas brasileiras por especificadores e compradores",
+   "trecho": "carteira brasileira de produtos comerciais é comumente relatado pelos especificadores e\ncompradores, quer sejam arquitetos, designers de interiores ou engenheiros civis."
+  },
+  {
+   "afirmacao": "Concorrência crescente dos materiais artificiais aglomerados com os naturais",
+   "trecho": "Observa-se o aumento de participação de materiais artificiais aglomerados\nao longo do período considerado, também competindo com materiais rochosos naturais de\nrevestimento."
+  }
+ ],
+ "pleitos": [
+  {
+   "afirmacao": "Consolidação da 'terceira onda exportadora', de produtos acabados para grandes obras",
+   "trecho": "a consolidação da “terceira onda exportadora”,\nenvolvendo a comercialização de produtos acabados para o atendimento direto de grandes\nobras no mercado internacional."
+  },
+  {
+   "afirmacao": "Diferenciação dos códigos fiscais de quartzitos maciços e pedra-sabão",
+   "trecho": "O código fiscal 6802.99.90 continua sendo inespecífico, não permitindo diferenciar as\nexportações de quartzitos maciços daquelas de materiais silicáticos exóticos."
+  }
+ ],
+ "observacao": "Anexo com muitas tabelas e gráficos (pdftotext embaralha colunas); trechos de indicadores tirados de linhas de tabela. Dado de câmbio 2002-2022 apenas em tabela."
+}

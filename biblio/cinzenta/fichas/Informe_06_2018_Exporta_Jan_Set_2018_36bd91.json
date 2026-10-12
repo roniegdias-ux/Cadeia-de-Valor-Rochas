@@ -1,0 +1,106 @@
+{
+ "id": "Informe_06_2018_Exporta_Jan_Set_2018_36bd91",
+ "arquivo": "Informe_06_2018_Exporta_Jan_Set_2018.pdf",
+ "emissor": "Abirochas",
+ "titulo": "Síntese das Exportações e Importações Brasileiras de Rochas Ornamentais no Período Janeiro-Setembro de 2018 (Informe 06/2018)",
+ "data_publicacao": "2018-10",
+ "periodo_coberto": "jan-set/2018",
+ "tipo": "conjuntura",
+ "tema": "Síntese das exportações e importações de rochas ornamentais em jan-set/2018, com comentários sobre portos, antidumping dos EUA e quartzitos.",
+ "elos": [
+  "E5",
+  "E6",
+  "E10"
+ ],
+ "indicadores": [
+  {
+   "nome": "Preço médio das exportações",
+   "valor": "US$ 458,5/t (-2,7%)",
+   "unidade": "US$/t",
+   "periodo": "jan-set/2018",
+   "trecho": "O preço médio dessas exportações recuou 2,7%, passando de US$ 471,2/t em 2017 para US$ 458,5/t em 2018."
+  },
+  {
+   "nome": "Participação dos seis principais destinos no faturamento",
+   "valor": "87,5%",
+   "unidade": "%",
+   "periodo": "jan-set/2018",
+   "trecho": "tiveram destaque os EUA, China, Itália, México, Reino Unido e Canadá, que junto representaram 87,5% do total do faturamento brasileiro."
+  },
+  {
+   "nome": "Participação da pedra São Tomé (posição 6801) no valor exportado",
+   "valor": "0,7% (já foi mais de 5%)",
+   "unidade": "%",
+   "periodo": "jan-set/2018",
+   "trecho": "A pedra São Tomé, que constitui um excelente material e já representou mais de 5% do faturamento das exportações brasileiras de rochas, teve sua participação reduzida para 0,7% em 2018;"
+  },
+  {
+   "nome": "Participação no total das exportações brasileiras",
+   "valor": "0,39% (0,53% em 2017)",
+   "unidade": "%",
+   "periodo": "jan-set/2018",
+   "trecho": "0,39% de participação no total do faturamento das exportações brasileiras (contra 0,53% em 2017)."
+  },
+  {
+   "nome": "Importações de materiais rochosos artificiais",
+   "valor": "47,3 mil t (+22,4%)",
+   "unidade": "t",
+   "periodo": "jan-set/2018",
+   "trecho": "As importações de materiais rochosos artificiais somaram, por sua vez, 47,3 mil t, avançando 22,4% frente às do mesmo período de 2017."
+  }
+ ],
+ "explicacoes": [
+  {
+   "fenomeno": "Prejuízo às exportações do ES e à competitividade brasileira",
+   "causa_atribuida": "Crescente inadequação do porto de Vitória para contêineres",
+   "trecho": "A crescente inadequação do porto de Vitória, para carga de containers, segue prejudicando as exportações do Espírito Santo e a própria competitividade brasileira no mercado internacional;"
+  },
+  {
+   "fenomeno": "Possível benefício às exportações de chapas para os EUA",
+   "causa_atribuida": "Antidumping dos EUA (tarifação) sobre artificiais chineses, sem reverter tendência declinante",
+   "trecho": "A ação antidumping dos EUA frente aos materiais artificiais chineses, via tarifação, poderá beneficiar as exportações brasileiras de chapas para esse país, sem, contudo, alterar significativamente a trajetória declinante das nossas exportações;"
+  },
+  {
+   "fenomeno": "Crescimento das exportações pela posição 6802.99.90",
+   "causa_atribuida": "Chapas de quartzito maciço",
+   "trecho": "As exportações efetuadas pela posição 6802.99.90 continuam evidenciando um notável crescimento, principalmente devido às chapas de quartzito maciço."
+  }
+ ],
+ "mercados": [
+  {
+   "pais": "EUA",
+   "afirmacao": "EUA receberam US$ 421,7 milhões, 77,4% do total",
+   "trecho": "US$ 421,7 milhões exportados para os EUA (77,4% do total das exportações)."
+  }
+ ],
+ "politicas": [
+  {
+   "medida": "Antidumping dos EUA sobre artificiais chineses",
+   "afirmacao": "Pode beneficiar chapas brasileiras",
+   "trecho": "A ação antidumping dos EUA frente aos materiais artificiais chineses, via tarifação, poderá beneficiar as exportações brasileiras de chapas para esse país"
+  }
+ ],
+ "precos": [
+  {
+   "produto": "Rochas ornamentais (média) vs. exportações gerais",
+   "afirmacao": "Preço médio das rochas inferior ao das exportações gerais",
+   "trecho": "USD 458,5/t de preço médio das exportações brasileiras de rochas ornamentais, contra USD 478,9/t das exportações gerais brasileiras."
+  }
+ ],
+ "desafios": [
+  {
+   "afirmacao": "Instabilidade dos dados da base COMEX STAT ao longo do ano",
+   "trecho": "Continuam variando ao longo do ano os valores apresentados pela base COMEX STAT para as exportações brasileiras do setor de rochas ornamentais."
+  },
+  {
+   "afirmacao": "Exportações não devem atingir US$ 1 bilhão em 2018",
+   "trecho": "As exportações brasileiras de rochas não deverão atingir US$ 1 bilhão em 2018;"
+  },
+  {
+   "afirmacao": "Inadequação do porto de Vitória para contêineres",
+   "trecho": "A crescente inadequação do porto de Vitória, para carga de containers"
+  }
+ ],
+ "pleitos": [],
+ "observacao": null
+}
