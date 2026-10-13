@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "gerado_em": "2026-10-13T09:33:58.302260+00:00",
+  "janela_inicio": "2026-10-06T09:33:58.302260+00:00",
+  "fontes_tentadas": 1,
+  "fontes_com_erro": 0,
+  "itens_na_janela_dedup": 0,
+  "itens_novos": 0,
+  "descartados_filtro": 10,
+  "degradada": false
+ },
+ "log": [
+  {
+   "fonte": "Folha Vitória",
+   "url": "https://www.folhavitoria.com.br/feed/",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 10,
+   "na_janela": 10,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  }
+ ],
+ "itens": [],
+ "descartados_filtro": [
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Após duas décadas no setor florestal, grupo de Aracruz aposta em imóveis",
+   "link": "https://www.folhavitoria.com.br/social/apos-duas-decadas-no-setor-florestal-grupo-de-aracruz-aposta-em-imoveis/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Artes, belas artes na Galeria OÁ",
+   "link": "https://www.folhavitoria.com.br/social/artes-belas-artes-na-galeria-oa/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Unimed Vitória faz pronunciamento sobre as Beths, com  criação da MP",
+   "link": "https://www.folhavitoria.com.br/cotidiano/unimed-vitoria-faz-pronunciamento-sobre-as-beths-com-criacao-da-mp/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "ICVC sobe para a Superliga B e faz história no vôlei capixaba",
+   "link": "https://www.folhavitoria.com.br/esportes/icvc-sobe-para-a-superliga-b-e-faz-historia-no-volei-capixaba/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "EBC nega participação em falha de áudio na propaganda eleitoral de Flávio Bolsonaro",
+   "link": "https://www.folhavitoria.com.br/politica/ebc-nega-participacao-em-falha-de-audio-na-propaganda-eleitoral-de-flavio-bolsonaro/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Professora relata desespero para sair de carro após acidente que matou jovem na Serra: “Meu Deus, quero sair daqui”",
+   "link": "https://www.folhavitoria.com.br/transito/professora-relata-como-saiu-de-carro-apos-acidente-que-matou-jovem-na-serra-meu-deus-quero-sair-daqui/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Homem é achado morto em propriedade rural de Linhares; polícia encontra foice e martelo",
+   "link": "https://www.folhavitoria.com.br/policia/homem-e-achado-morto-em-propriedade-rural-de-linhares-policia-encontra-foice-e-martelo/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Apoiadores realizam ato pró-Lula em Copacabana sem a presença do presidente",
+   "link": "https://www.folhavitoria.com.br/eleicoes/apoiadores-realizam-ato-pro-lula-em-copacabana-sem-a-presenca-do-presidente/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Porte de arma para guardas municipais volta à pauta do STF; veja o que pode mudar",
+   "link": "https://www.folhavitoria.com.br/politica/porte-de-arma-para-guardas-municipais-volta-a-pauta-do-stf-veja-o-que-pode-mudar/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Dona de restaurante dá carros a funcionários que iam ao trabalho de bicicleta",
+   "link": "https://www.folhavitoria.com.br/mundo/dona-de-restaurante-da-carros-a-funcionarios-que-iam-ao-trabalho-de-bicicleta/"
+  }
+ ]
+}
