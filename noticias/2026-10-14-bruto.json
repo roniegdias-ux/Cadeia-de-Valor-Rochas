@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "gerado_em": "2026-10-14T09:43:07.352785+00:00",
+  "janela_inicio": "2026-10-07T09:43:07.352785+00:00",
+  "fontes_tentadas": 1,
+  "fontes_com_erro": 0,
+  "itens_na_janela_dedup": 0,
+  "itens_novos": 0,
+  "descartados_filtro": 10,
+  "degradada": false
+ },
+ "log": [
+  {
+   "fonte": "Folha Vitória",
+   "url": "https://www.folhavitoria.com.br/feed/",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 10,
+   "na_janela": 10,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  }
+ ],
+ "itens": [],
+ "descartados_filtro": [
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "“Não foi combinado, mas somos democratas”, diz governador sobre PEC das Emendas Impositivas",
+   "link": "https://www.folhavitoria.com.br/politica/nao-foi-combinado-mas-somos-democratas-diz-governador-sobre-pec-das-emendas-impositivas/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Governo propõe perdão de dívidas de MEIs a 11 dias do 2º turno; veja quem pode ser beneficiado",
+   "link": "https://www.folhavitoria.com.br/tecnologia/governo-propoe-perdao-de-dividas-de-meis-veja-quem-pode-ser-beneficiado/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "O Conexão Aracruz reuni público especial para apresentação de nova fase",
+   "link": "https://www.folhavitoria.com.br/social/o-conexao-aracruz-reuni-publico-especial-para-apresentacao-de-nova-fase/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Folia vip: camarote da Rede Vitória ferveu  com shows exclusivos",
+   "link": "https://www.folhavitoria.com.br/social/detalhes-do-camarote-da-rede-vitoria-no-vital-2026-com-shows-exclusivos/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Com celular de lado, Vivo provoca a conexão entre pais e filhos",
+   "link": "https://www.folhavitoria.com.br/cotidiano/com-celular-de-lado-vivo-provoca-a-conexao-entre-pais-e-filhos/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Fim da escala 6×1: como devem votar os senadores capixabas",
+   "link": "https://www.folhavitoria.com.br/politica/fim-da-escala-6x1-como-devem-votar-os-senadores-capixabas/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Findes defende negociação entre sindicatos para discutir fim da escala 6×1",
+   "link": "https://www.folhavitoria.com.br/economia/findes-defende-negociacao-entre-sindicatos-para-discutir-fim-da-escala-6x1/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Ricardo quer novas companhias de trânsito e barrar bet no Banestes de vez",
+   "link": "https://www.folhavitoria.com.br/eleicoes/ricardo-quer-novas-companhias-de-transito-e-barrar-bet-no-banestes-de-vez/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Morte de Netinho alerta para sintomas de linfoma; veja sinais da doença",
+   "link": "https://www.folhavitoria.com.br/saude/morte-de-netinho-alerta-para-sintomas-de-linfoma-veja-sinais-da-doenca/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Quem é Julio da Fetaes, deputado eleito que quer levar projetos do campo à Ales",
+   "link": "https://www.folhavitoria.com.br/eleicoes/quem-e-julio-da-fetaes-deputado-eleito-que-quer-levar-projetos-do-campo-a-ales/"
+  }
+ ]
+}
