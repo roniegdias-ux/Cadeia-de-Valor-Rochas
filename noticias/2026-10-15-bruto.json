@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "gerado_em": "2026-10-15T09:43:38.392439+00:00",
+  "janela_inicio": "2026-10-08T09:43:38.392439+00:00",
+  "fontes_tentadas": 1,
+  "fontes_com_erro": 0,
+  "itens_na_janela_dedup": 0,
+  "itens_novos": 0,
+  "descartados_filtro": 10,
+  "degradada": false
+ },
+ "log": [
+  {
+   "fonte": "Folha Vitória",
+   "url": "https://www.folhavitoria.com.br/feed/",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 10,
+   "na_janela": 10,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  }
+ ],
+ "itens": [],
+ "descartados_filtro": [
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Fim da 6×1: saiba quando entra em vigor nova jornada de trabalho",
+   "link": "https://www.folhavitoria.com.br/politica/fim-da-6x1-saiba-quando-entra-em-vigor-nova-jornada-de-trabalho/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Comércio antecipa contratações para Black Friday e Natal no ES",
+   "link": "https://www.folhavitoria.com.br/economia/comercio-antecipa-contratacoes-para-black-friday-e-natal-no-es/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Pilotos de 15 países no “Maracanã do Voo Livre”, em Baixo Guandu",
+   "link": "https://www.folhavitoria.com.br/social/pilotos-de-15-paises-no-maracana-do-voo-livre-em-baixo-guandu/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Luciana, Luzia e Sabrina comandam happy hour solidário na loja da Afecc",
+   "link": "https://www.folhavitoria.com.br/social/luciana-luzia-e-sabrina-comandam-happy-hour-solidario-na-loja-da-afecc/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Homem morre após parede despencar de segundo andar de construção na Serra",
+   "link": "https://www.folhavitoria.com.br/cotidiano/homem-morre-apos-parede-despencar-de-segundo-andar-de-construcao-na-serra/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Fim da escala 6×1: veja como votaram os senadores capixabas",
+   "link": "https://www.folhavitoria.com.br/politica/fim-da-escala-6x1-veja-como-votaram-os-senadores-capixabas/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Câmara aprova pacote eleitoral de Lula que perdoa dívidas e aumenta teto do MEI",
+   "link": "https://www.folhavitoria.com.br/politica/camara-aprova-pacote-eleitoral-de-lula-que-perdoa-dividas-e-aumenta-teto-do-mei/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Senado aprova em dois turnos o fim da escala 6×1; veja o que muda",
+   "link": "https://www.folhavitoria.com.br/politica/senado-aprova-o-fim-da-escala-6x1/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Do trabalho ao happy hour: 7 perfumes da Avon para ficar cheirosa o dia todo",
+   "link": "https://www.folhavitoria.com.br/beleza/do-trabalho-ao-happy-hour-7-perfumes-da-avon-para-ficar-cheirosa-o-dia-todo/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Morre sargento da PM suspeito de matar mulher em academia",
+   "link": "https://www.folhavitoria.com.br/policia/morre-sargento-da-pm-suspeito-de-matar-mulher-em-academia/"
+  }
+ ]
+}
