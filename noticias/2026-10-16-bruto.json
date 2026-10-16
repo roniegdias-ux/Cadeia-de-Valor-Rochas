@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "gerado_em": "2026-10-16T09:42:08.987800+00:00",
+  "janela_inicio": "2026-10-09T09:42:08.987800+00:00",
+  "fontes_tentadas": 1,
+  "fontes_com_erro": 0,
+  "itens_na_janela_dedup": 0,
+  "itens_novos": 0,
+  "descartados_filtro": 10,
+  "degradada": false
+ },
+ "log": [
+  {
+   "fonte": "Folha Vitória",
+   "url": "https://www.folhavitoria.com.br/feed/",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 10,
+   "na_janela": 10,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  }
+ ],
+ "itens": [],
+ "descartados_filtro": [
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Brunna Farizel – cofundadora da Splash Bebidas Urbanas",
+   "link": "https://www.folhavitoria.com.br/cotidiano/brunna-farizel-cofundadora-da-ssplash-bebidas-urbanas/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Pesquisa sobre os biomas brasileiros atravessa a pintura e encontra o corpo",
+   "link": "https://www.folhavitoria.com.br/social/pesquisa-sobre-os-biomas-brasileiros-atravessa-a-pintura-e-encontra-o-corpo/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Brilho na Prainha: Lara Calmon lança coleção de joias em noite de celebração dupla",
+   "link": "https://www.folhavitoria.com.br/social/brilho-na-prainha-lara-calmon-lanca-colecao-de-joias-em-noite-de-celebracao-dupla/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Granizo e ventos fortes atingem cidades na região Serrana do ES",
+   "link": "https://www.folhavitoria.com.br/tempo/granizo-e-ventos-fortes-atingem-cidades-na-regiao-serrana-do-es/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Operação prende 28 suspeitos de facção em Vitória; líderes são caçados pela polícia",
+   "link": "https://www.folhavitoria.com.br/policia/operacao-prende-28-suspeitos-de-integrar-faccao-criminosa-em-vitoria/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Senado aprova aumento do teto e perdão de dívidas de MEIs e dá aval a mais uma bandeira de Lula",
+   "link": "https://www.folhavitoria.com.br/politica/senado-aprova-aumento-do-teto-e-perdao-de-dividas-de-meis-e-da-aval-a-mais-uma-bandeira-de-lula/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Cidade do ES proíbe lavar carros e calçadas com mangueira",
+   "link": "https://www.folhavitoria.com.br/cotidiano/cidade-do-es-proibe-lavar-carros-e-calcadas-com-mangueira/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Fim da escala 6×1 pode elevar custos das empresas capixabas em até R$ 4,5 bilhões",
+   "link": "https://www.folhavitoria.com.br/economia/fim-da-escala-6x1-pode-elevar-custos-das-empresas-capixabas-em-ate-r-45-bilhoes/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "O que diz Ricardo sobre as decisões do Podemos e União Brasil: “Segundo plano”",
+   "link": "https://www.folhavitoria.com.br/politica/o-que-diz-ricardo-sobre-as-decisoes-do-podemos-e-uniao-brasil-segundo-plano/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Empresas do ES terão de rever escalas e custos com o fim da 6×1",
+   "link": "https://www.folhavitoria.com.br/trabalho/empresas-do-es-terao-de-rever-escalas-e-custos-com-o-fim-da-6x1/"
+  }
+ ]
+}
