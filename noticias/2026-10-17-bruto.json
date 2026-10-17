@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "gerado_em": "2026-10-17T09:39:13.069522+00:00",
+  "janela_inicio": "2026-10-10T09:39:13.069522+00:00",
+  "fontes_tentadas": 1,
+  "fontes_com_erro": 0,
+  "itens_na_janela_dedup": 0,
+  "itens_novos": 0,
+  "descartados_filtro": 10,
+  "degradada": false
+ },
+ "log": [
+  {
+   "fonte": "Folha Vitória",
+   "url": "https://www.folhavitoria.com.br/feed/",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 10,
+   "na_janela": 10,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  }
+ ],
+ "itens": [],
+ "descartados_filtro": [
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Mãe e filha juntas na literatura reúnem convidados em noite de lançamento",
+   "link": "https://www.folhavitoria.com.br/social/mae-e-filha-juntas-na-literatura-reunem-convidados-em-noite-de-lancamento/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Fátima Scarpa, Fernando Torquato e Leticia Birkhauer: famosos na Ilha",
+   "link": "https://www.folhavitoria.com.br/social/fatima-scarpa-fernando-torquato-e-leticia-birkhauer-famosos-na-ilha/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "ES terá cirurgia de prótese de joelho com auxílio de robô; entenda a técnica",
+   "link": "https://www.folhavitoria.com.br/saude/es-tera-cirurgia-de-protese-de-joelho-com-auxilio-de-robo-entenda-a-tecnica/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Morre mulher baleada pelo ex-genro no dia do aniversário em Itaguaçu",
+   "link": "https://www.folhavitoria.com.br/policia/morre-mulher-baleada-pelo-ex-genro-no-dia-do-aniversario-em-itaguacu/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Cenários de Vitória ganham iluminação especial durante o Outubro Rosa",
+   "link": "https://www.folhavitoria.com.br/cotidiano/cenarios-de-vitoria-ganham-iluminacao-especial-durante-o-outubro-rosa/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "“Preciso desse remédio para viver”: jovem com câncer luta por tratamento de alto custo no ES",
+   "link": "https://www.folhavitoria.com.br/saude/preciso-desse-remedio-para-viver-jovem-com-cancer-luta-por-tratamento-de-alto-custo-no-es/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Pré-poo antes do shampoo: como proteger os fios e facilitar o desembaraço",
+   "link": "https://www.folhavitoria.com.br/beleza/pre-poo-antes-do-shampoo-como-proteger-os-fios-e-facilitar-o-desembaraco/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Sabiá, sanhaços e tico-ticos: sete aves silvestres são apreendidas em Cariacica",
+   "link": "https://www.folhavitoria.com.br/meio-ambiente/sabia-sanhacos-e-tico-ticos-sete-aves-silvestres-sao-apreendidas-em-cariacica/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "TSE estabelece novas regras para vincular canais de WhatsApp a campanhas eleitorais",
+   "link": "https://www.folhavitoria.com.br/eleicoes/tse-estabelece-novas-regras-para-vincular-canais-de-whatsapp-a-campanhas-eleitorais/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Bumbum lisinho: receita caseira promete acabar com manchas",
+   "link": "https://www.folhavitoria.com.br/beleza/bumbum-lisinho-receita-caseira-promete-acabar-com-manchas/"
+  }
+ ]
+}
