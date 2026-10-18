@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "gerado_em": "2026-10-18T09:39:43.764431+00:00",
+  "janela_inicio": "2026-10-11T09:39:43.764431+00:00",
+  "fontes_tentadas": 1,
+  "fontes_com_erro": 0,
+  "itens_na_janela_dedup": 0,
+  "itens_novos": 0,
+  "descartados_filtro": 10,
+  "degradada": false
+ },
+ "log": [
+  {
+   "fonte": "Folha Vitória",
+   "url": "https://www.folhavitoria.com.br/feed/",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 10,
+   "na_janela": 10,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  }
+ ],
+ "itens": [],
+ "descartados_filtro": [
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Mais de 160 atletas e regra dos 210 anos: Curva da Jurema recebe o VA’A Team Challenge",
+   "link": "https://www.folhavitoria.com.br/social/mais-de-160-atletas-e-regra-dos-210-anos-curva-da-jurema-recebe-a-2a-edicao-do-vaa-team-challenge/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Bingo! Tarde divertida de jogatina amistosa com brindes, comes e bebes",
+   "link": "https://www.folhavitoria.com.br/social/bingo-tarde-divertida-de-jogatina-amistosa-com-brindes-comes-e-bebes/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Lula reúne núcleo da campanha antes do primeiro debate com Flávio Bolsonaro",
+   "link": "https://www.folhavitoria.com.br/eleicoes/lula-reune-nucleo-da-campanha-antes-do-primeiro-debate-com-flavio-bolsonaro/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Justiça torna réus 12 ex-executivos da Americanas por fraude bilionária",
+   "link": "https://www.folhavitoria.com.br/economia/justica-torna-reus-12-ex-executivos-da-americanas-por-fraude-bilionaria/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Chuva forte causa alagamentos e granizo em cidades do Sul do ES",
+   "link": "https://www.folhavitoria.com.br/tempo/chuva-forte-causa-alagamentos-e-granizo-em-cidades-do-sul-do-es/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Funcionária é agredida e mulher baleada em distribuidora de Cariacica",
+   "link": "https://www.folhavitoria.com.br/policia/funcionaria-e-agredida-e-mulher-baleada-em-distribuidora-de-cariacica/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Voo para Buenos Aires abre caminho para até três frequências semanais no ES",
+   "link": "https://www.folhavitoria.com.br/economia/voo-para-buenos-aires-abre-caminho-para-ate-tres-frequencias-semanais-no-es/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Reforma Tributária: 78 municípios do ES terão preparação para novas regras",
+   "link": "https://www.folhavitoria.com.br/economia/reforma-tributaria-78-municipios-do-es-terao-preparacao-para-novas-regras/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Família de comerciante cobra justiça após acidente fatal na Serra",
+   "link": "https://www.folhavitoria.com.br/transito/familia-de-comerciante-cobra-justica-apos-acidente-fatal-na-serra/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Cachorrinha caramelo “apaga” no colo ao som de Zezé di Camargo e Luciano",
+   "link": "https://www.folhavitoria.com.br/pet/cachorrinha-caramelo-apaga-no-colo-ao-som-de-zeze-di-camargo-e-luciano/"
+  }
+ ]
+}
