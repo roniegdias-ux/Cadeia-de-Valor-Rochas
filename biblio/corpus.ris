@@ -519,6 +519,7 @@ AU  - Jhonatan Pereira Lopes
 AU  - Filipe Alves Pinto
 AU  - José Nilson França de Holanda
 PY  - 2026
+JO  - Anais do III Congresso On-line Internacional de Sustentabilidade
 DO  - 10.51189/vii-coninters/91355
 UR  - https://doi.org/10.51189/vii-coninters/91355
 KW  - E8
@@ -4133,6 +4134,20 @@ UR  - https://doi.org/10.1007/978-3-032-30110-9_15
 ER  - 
 
 TY  - JOUR
+TI  - Influence of Sample Preparation and Vacuum Application on the Determination of Real Density of Natural Dimension Stones Using a Pycnometer
+AU  - Clea Tunjić
+AU  - Ana Maričić
+AU  - Vinko Baranašić
+PY  - 2026
+JO  - DIM-ESEE Conference
+DO  - 10.17794/dimesee.a.2026.2.5
+UR  - https://doi.org/10.17794/dimesee.a.2026.2.5
+AB  - Raw materials prospection and discoveries x Mining methods Geometallurgy and sustainable extraction Materials recycling and waste management Raw Materials
+KW  - E1
+KW  - E8
+ER  - 
+
+TY  - JOUR
 TI  - Influence of granite and iron ore waste incorporation on the mechanical behavior of ultra-high-strength concrete
 AU  - Ahmed M. Elhussiny
 AU  - Mohamed H. Mourad
@@ -4219,6 +4234,22 @@ DO  - 10.1021/acsomega.5c13429
 UR  - https://doi.org/10.1021/acsomega.5c13429
 AB  - /CaO, achieved a lactic acid yield of 20.7 mol % under reaction conditions of 10 g of catalyst, a temperature of 260 °C, and a reaction time of 150 min. A glycerol conversion of 68.5% was recorded. Secondary products formed during the reaction included 1,3-propanediol, formic acid, and acetic acid, with their maximum yields being 8.45 mol %, 2.20 mol %, and 1.79 mol %, respectively, observed at 260 °C after 180 min. The lactic acid yield was found to be dependent on both temperature and reaction time, reaching a maximum at 260 °C and 150 min, after which it declined due to thermal degradation into lighter gases and oxygenated byproducts. These results highlight the potential of utilizing marble waste-derived catalysts for the sustainable and value-added transformation of glycerol.
 KW  - E8
+ER  - 
+
+TY  - JOUR
+TI  - Investigating the Suitability of Selected Granitic Rocks in Kogi State for the Production of Dimension Stone
+AU  - A Shuaib
+PY  - 2026
+JO  - INTERNATIONAL JOURNAL OF ENGINEERING AND MODERN TECHNOLOGY
+DO  - 10.56201/ijemt.vol.11.no9.2025.pg105.123
+UR  - https://doi.org/10.56201/ijemt.vol.11.no9.2025.pg105.123
+AB  - This study evaluates the geological and geotechnical characteristics of some selected granite rocks in Kogi state, Nigeria to determine their suitability for dimension stone production. Field mapping, sampling and laboratory tests (petrographic analysis, uniaxial compressive strength, water absorption, porosity and durability tests) and fracture network were conducted on samples collected from selected Quarry sites; Itakpe Quarry, CGC Quarry and Gitto Quarry in Kogi state. The results show that the granite rocks possess suitable physical and mechanical properties, including high compressive strength (90 -110mpa), low water absorption (0.269- 1.20%) and good durability, with average joint spacing (1m to 2.57m). petrographic analysis reveals a predominantly Quartz-feldspathic composition with minimal weathering. The study concludes that the granite rocks in Kogi state meet the international standards for dimension stone production, making them suitable for use as construction material, architectural stone, and monumental stone. Of the three studied deposits, Itakpe and Gitto deposits was classified as having the highest potential for producing dimension stone. The compressive stress and geological feature are found to be the controlling factors in the classification of dimension stone. The Itakpe and Gitto quarries has dense, grey to dark grey pink to reddish-pink polishable non crystalline granitic rock. Quarry shows intensive fracturing and brittles, which makes their use as slab cutting and dimension stone production difficult. The findings of this research will contribute to the development of the dimension stone industry in Nigeria, provide valuable information for Quarry operators and construction companies, and promote sustainable exploitation of Nigeria natural resources
+KW  - E1
+KW  - E2
+KW  - E3
+KW  - E7
+KW  - E8
+KW  - E11
 ER  - 
 
 TY  - JOUR
@@ -5382,6 +5413,7 @@ AU  - João Vitor Vasconcelos Zardini
 AU  - Sayd Farage David
 AU  - Renato Siqueira
 PY  - 2026
+JO  - Anais do ... Congresso Nacional de Engenharia Mecânica
 DO  - 10.26678/abcm.conem2026.con26-1892
 UR  - https://doi.org/10.26678/abcm.conem2026.con26-1892
 KW  - E3
@@ -5869,6 +5901,24 @@ KW  - E11
 ER  - 
 
 TY  - JOUR
+TI  - Portable Automated Laser Triangulation Scanner for Three-Dimensional Characterization of Cultural Stone Surfaces
+AU  - Pablo Pardiñas-Torrado
+AU  - Javier Lamas
+AU  - Micaela Gómez-Coronel
+AU  - David Martin Freire-Lista
+AU  - Alberto Ramil
+AU  - Ana Jesús López Díaz
+PY  - 2026
+JO  - Machines
+DO  - 10.3390/machines14101225
+UR  - https://doi.org/10.3390/machines14101225
+AB  - Accurate three-dimensional digitization of cultural stone surfaces is important for their documentation and quantitative characterization. This work presents the design, implementation, and experimental evaluation of a portable, low-cost laser triangulation system for the automated digitization of small- and medium-sized stone surfaces. The prototype integrates a motorized positioning platform, interchangeable laser line sensors, embedded motion control, autonomous power supply, wireless communication, and dedicated acquisition and processing software. Static calibration characterized the sensor response in the X and Z coordinates. The Z-coordinate calibration exhibited high linearity over the investigated measurement range (R2=0.999966), with a residual RMSE of 0.497 mm and a maximum absolute residual of 1.248 mm, while the variation in horizontal scale with working distance was described by a Z-dependent calibration function. Laboratory experiments demonstrated the capability of the system to reconstruct surfaces with markedly different topographies and to derive quantitative areal surface parameters according to UNE-EN ISO 25178-2. Honed, sawn, and bush-hammered granite surfaces were successfully reconstructed, with Sa increasing from 0.039 to 0.243 and 0.444 mm, respectively, consistent with the increasing topographical amplitude of these finishes. Polished granite could not be reliably reconstructed because specular reflection interfered with laser-line detection. The results demonstrate the potential of the proposed platform for automated, non-contact three-dimensional documentation and quantitative surface characterization of cultural stone surfaces. Its modular and transportable architecture provides a basis for future field deployment and for adaptation to other applications requiring portable surface characterization.
+KW  - E3
+KW  - E6
+KW  - E7
+ER  - 
+
+TY  - JOUR
 TI  - Predicting the Compressive Strength of Ash‐Based Concrete Using Machine Learning Approach: Paving the Way to Sustainable Concrete
 AU  - Mahder Ketemaw Abitew
 AU  - Mitiku Damtie Yehualaw
@@ -6305,6 +6355,20 @@ KW  - E4
 KW  - E7
 KW  - E8
 KW  - E11
+ER  - 
+
+TY  - JOUR
+TI  - Results of the particle size analysis of granite screenings from Rybalskyi Granite Migmatite Quarry LLC
+AU  - Oleksandr Shevchenko
+AU  - Yevhen Lapshyn
+AU  - Yevhenii Malieiev
+PY  - 2026
+JO  - Kyiv Academic University
+DO  - 10.48788/dvua/6lwcuf
+UR  - https://doi.org/10.48788/dvua/6lwcuf
+AB  - The dataset contains information on the analysis of the particle size distribution of granite screenings sampled from various locations at the waste pile of Rybalskyi Granite Migmatite Quarry LLC. The data are organized into a table and—to facilitate analysis—presented as a graph based on the tabular results (within a single Excel file); these results reflect averaged characteristics (derived from 10 samples) determined under laboratory conditions at the M.S. Polyakov Institute of Geotechnical Mechanics of the National Academy of Sciences of Ukraine. Additionally, a PDF file provides a description and general photographs of the Rybalskyi Granite Quarry, as well as photographs of narrow particle size fractions of the screenings, which were subsequently processed using the WipFrag method. The segmented fragments of these narrow fractions were analyzed using the WipFrag software.
+KW  - E1
+KW  - E8
 ER  - 
 
 TY  - JOUR
@@ -7151,6 +7215,7 @@ AU  - Naveed Ahmed
 AU  - Syed Samuiddin
 AU  - Shalini Puthussery
 PY  - 2026
+JO  - International Conference on Sustainable and Futuristic Technologies (ICSFT)
 DO  - 10.1109/icsft67370.2026.11566244
 UR  - https://doi.org/10.1109/icsft67370.2026.11566244
 KW  - E7
@@ -8536,6 +8601,17 @@ JO  - Scientific Reports
 DO  - 10.1038/s41598-026-49528-6
 UR  - https://doi.org/10.1038/s41598-026-49528-6
 AB  - The main objective of this study is to experimentally investigate the potential use of marble stone waste as a stabilizing material to improve the geotechnical performance of mine haul road pavements. Geotechnical testing including Atterberg limits, compaction characteristics, unconfined compressive strength (UCS), California bearing ratio (CBR), and triaxial tests, along with microstructural analyses using X-ray diffraction (XRD), scanning electron microscopy (SEM), energy-dispersive spectroscopy (EDAX), and Fourier transform infrared spectroscopy (FTIR), was carried out on natural soil and samples stabilized with 0-30% marble powder (MP) in 5% increments. Furthermore, hydrated lime was added to the marble powder-clay mixtures to enhance pozzolanic reactions and further improve the soil mechanical behavior. The experimental results were then complemented by a 3D finite element analysis using the hardening soil (HS) model to evaluate the stress-strain response of the haul road pavement and assess the overall stabilized soil performance. The results demonstrated that adding marble powder significantly improved the geotechnical properties of the soil, evident in the liquid limit and plasticity index, along with an increase in its bearing capacity. Adding a small amount of hydrated lime (2%) further enhanced the soil's characteristics by promoting the pozzolanic reactivity of the binder. Based on the CBR results, a mixture containing 25% marble powder and 2% hydrated lime was identified as the optimum composition, showing promising performance with respect to base course requirements under the investigated conditions. Numerical analysis using the hardening soil model confirmed that the stabilized layers exhibited strain levels below the critical limit of 2000 micro-strains when appropriate layer thickness was considered. These findings show that the combination of marble powder and lime is a viable technical method to improve the structural performance of mine haul roads.
+KW  - E8
+ER  - 
+
+TY  - JOUR
+TI  - Valorization of marble waste as an adsorbent material for the control of eutrophication in water streams
+AU  - Joan Castellà Belloch
+PY  - 2026
+JO  - RiuNet (Universitat Politècnica de València)
+UR  - https://riunet.upv.es/handle/10251/242424
+AB  - [CA] L'abocament continu de fòsfor d'origen antròpic és un dels principals responsables de l'eutrofització, un procés que degrada la qualitat de l'aigua, afavorix la proliferació d'algues i amenaça la biodiversitat dels ecosistemes aquàtics. D'altra banda, la gestió dels residus generats per la indústria de la pedra natural, com la pols de marbre, representa un repte mediambiental important a causa de la seua acumulació massiva en abocadors. En aquest context, la valorització d'aquests residus inorgànics com a materials adsorbents de baix cost es planteja com una estratègia sostenible basada en els principis de l'economia circular, permetent abordar ambdós problemes de manera conjunta. L'objectiu principal d'aquest treball és avaluar el potencial de la pols de marbre en cru, subministrada per l'empresa COMPAC, com a material adsorbent per a l'eliminació de fòsfor en corrents d'aigua. Per a fer-ho, es va caracteritzar el material (compost en un 87,8% per carbonat càlcic) i es van dur a terme assajos en discontinu (batch) avaluant l'efecte del temps de contacte, la dosi d'adsorbent, la temperatura i la competència iònica. La modelització matemàtica de les dades experimentals va demostrar que la cinètica segueix un model de pseudosegon ordre, indicant un procés de quimiosorció. Així mateix, l'equilibri termodinàmic es va ajustar de manera excel·lent al model de Langmuir, revelant unes capacitats màximes d'adsorció excepcionals que oscil·len entre 143,56 i 266,12 mg/g. El material va mostrar una alta resiliència tèrmica (mantenint eficiències del 70-80% entre 10 i 30 ºC) i una notable selectivitat enfront d'anions competidors. Finalment, la validació en una matriu complexa d'aigua de riu real va confirmar una eficiència d'eliminació del 75,41%. Es conclou que la pols de marbre és una alternativa altament viable i ecològica per a mitigar l'eutrofització, permetent a més la seua futura reutilització agronòmica com a fertilitzant d'alliberament lent.
+KW  - E6
 KW  - E8
 ER  - 
 
@@ -14498,6 +14574,18 @@ KW  - E9
 KW  - E11
 ER  - 
 
+TY  - THES
+TI  - Influência dos resíduos de rochas ornamentais de diferentes naturezas empregados como adição mineral nas propriedades de argamassas estruturais
+AU  - Camila Maria Pereira Scalabrini
+PY  - 2025
+JO  - UFMG
+UR  - https://hdl.handle.net/1843/2701
+AB  - Brazil stands out as one of the world’s leading powers in the export and processing of ornamental stones; however, between 20 and 30% of this production is converted into waste. When incorporated into cementitious matrices, these wastes can act as fillers. Within this context, this study aimed to evaluate the individual performance of three waste derived from the sedimentation sludge of ornamental stone processing of different natures (granite, marble and São Tomé stone) when used as a mineral addition in structural mortars. The wastes were properly characterized, and the mortars were assessed in terms of their physical, mechanical and durability properties. The results indicated that the incorporation of ornamental stone waste led to improvements in most of the parameters evaluated. Open porosity was reduced by 29.7%, 28.0% and 21.2% in mortars containing São Tomé stone, marble and granite waste, respectively, compared to the reference mortar. Capillary water absorption showed more pronounced reductions of 37.0% and 22.7% in mortars with São Tomé stone and marble wastes. Similarly, total water absorption was significantly reduced, with decreases of 31% for São Tomé stone, 30% for marble and 22% for granite. The carbonation depth of mortars containing ornamental stone wastes was markedly low, with values below 0.4 mm. Regarding chloride penetration, improvements of 35.5% were observed in mortars with marble waste, 44.9% in those with granite waste and 47.7% in those with São Tomé stone waste. Compressive strength at 98 days was similar for all mortars, with values close to 70 MPa, as was flexural strength at 98 days, which reached approximately 8 MPa. It is concluded that the origin of the waste significantly influences the performance of structural mortars when used as a mineral addition, with a greater impact on physical and durability-related properties. Emphasis is given to the São Tomé stone waste, which is still scarcely explored in the scientific literature and presented the best overall results.
+KW  - E6
+KW  - E8
+KW  - E11
+ER  - 
+
 TY  - JOUR
 TI  - Infrared Thermography as Predictive Maintenance: A Case Study in the Metalworking and Ornamental Stone Industries
 AU  - Gustavo Neves Nantet
@@ -19827,6 +19915,7 @@ PY  - 2025
 JO  - AIP conference proceedings
 DO  - 10.1063/5.0258961
 UR  - https://doi.org/10.1063/5.0258961
+AB  - The rise in population and urbanization has been demanding the development of new infrastructures which motivates the construction industry to use natural ingredients. On the other side, a plentitude of waste marble is produced by marble processing units while sawing and polishing the marble stones and dumped in an open area. This uncontrolled disposal creates environmental issues like air pollution and infertility of soil. So as to protect the environment and control the excessive use of natural sand, marble waste powder can be integrated into the mortar/concrete. In the current study, waste marble powder (WMP) was integrated as a substitute for fine aggregates in cement-mortar mixes. Four replacement ratios for sand 0, 20, 50, and 80% were considered to make up the different mortar mixtures. The strength and durability characteristics of mortar were evaluated at different ages. It was concluded from outcomes that the use of WMP in lieu of sand in mortar increases the strength properties and helps to preserve the natural materials.
 KW  - E8
 ER  - 
 
