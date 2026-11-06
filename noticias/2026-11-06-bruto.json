@@ -1,0 +1,440 @@
+{
+ "meta": {
+  "gerado_em": "2026-11-06T16:45:34.577418+00:00",
+  "janela_inicio": "2026-10-30T16:45:34.577418+00:00",
+  "fontes_tentadas": 19,
+  "fontes_com_erro": 0,
+  "itens_na_janela_dedup": 10,
+  "itens_novos": 5,
+  "descartados_filtro": 28,
+  "degradada": false
+ },
+ "log": [
+  {
+   "fonte": "GN[pt] Centrorochas",
+   "url": "https://news.google.com/rss/search?q=Centrorochas+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 13,
+   "na_janela": 7,
+   "relevantes": 6,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] \"rochas ornamentais\"",
+   "url": "https://news.google.com/rss/search?q=%22rochas+ornamentais%22+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 18,
+   "na_janela": 7,
+   "relevantes": 4,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] \"setor de rochas\"",
+   "url": "https://news.google.com/rss/search?q=%22setor+de+rochas%22+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 13,
+   "na_janela": 5,
+   "relevantes": 4,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] \"Cachoeiro de Itapemirim\" rochas",
+   "url": "https://news.google.com/rss/search?q=%22Cachoeiro+de+Itapemirim%22+rochas+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 10,
+   "na_janela": 5,
+   "relevantes": 1,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] rochas tarifa Estados Unidos granito",
+   "url": "https://news.google.com/rss/search?q=rochas+tarifa+Estados+Unidos+granito+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 3,
+   "na_janela": 2,
+   "relevantes": 1,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[en] \"natural stone\" Brazil",
+   "url": "https://news.google.com/rss/search?q=%22natural+stone%22+Brazil+when%3A30d&hl=en-US&gl=US&ceid=US:en",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 4,
+   "na_janela": 1,
+   "relevantes": 1,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] \"mármore e granito\"",
+   "url": "https://news.google.com/rss/search?q=%22m%C3%A1rmore+e+granito%22+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 10,
+   "na_janela": 1,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] quartzito exportação",
+   "url": "https://news.google.com/rss/search?q=quartzito+exporta%C3%A7%C3%A3o+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 0,
+   "na_janela": 0,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] Abirochas",
+   "url": "https://news.google.com/rss/search?q=Abirochas+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 1,
+   "na_janela": 0,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] Sindirochas",
+   "url": "https://news.google.com/rss/search?q=Sindirochas+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 2,
+   "na_janela": 0,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] \"Vitória Stone Fair\"",
+   "url": "https://news.google.com/rss/search?q=%22Vit%C3%B3ria+Stone+Fair%22+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 0,
+   "na_janela": 0,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] \"pedras naturais\" exportação",
+   "url": "https://news.google.com/rss/search?q=%22pedras+naturais%22+exporta%C3%A7%C3%A3o+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 1,
+   "na_janela": 0,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[en] \"Brazilian granite\"",
+   "url": "https://news.google.com/rss/search?q=%22Brazilian+granite%22+when%3A30d&hl=en-US&gl=US&ceid=US:en",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 1,
+   "na_janela": 0,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[en] \"Brazilian quartzite\"",
+   "url": "https://news.google.com/rss/search?q=%22Brazilian+quartzite%22+when%3A30d&hl=en-US&gl=US&ceid=US:en",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 4,
+   "na_janela": 0,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[en] \"dimension stone\" Brazil",
+   "url": "https://news.google.com/rss/search?q=%22dimension+stone%22+Brazil+when%3A30d&hl=en-US&gl=US&ceid=US:en",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 0,
+   "na_janela": 0,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[it] marmo granito Brasile",
+   "url": "https://news.google.com/rss/search?q=marmo+granito+Brasile+when%3A30d&hl=it&gl=IT&ceid=IT:it",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 1,
+   "na_janela": 0,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[es] \"rocas ornamentales\" Brasil",
+   "url": "https://news.google.com/rss/search?q=%22rocas+ornamentales%22+Brasil+when%3A30d&hl=es-419&gl=AR&ceid=AR:es-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 0,
+   "na_janela": 0,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Folha Vitória",
+   "url": "https://www.folhavitoria.com.br/feed/",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 10,
+   "na_janela": 10,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Revista Minérios & Minerales",
+   "url": "https://revistaminerios.com.br/feed/",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 10,
+   "na_janela": 10,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  }
+ ],
+ "itens": [
+  {
+   "titulo": "Egito pode virar polo para beneficiar e distribuir rochas capixabas - Folha Vitória",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSS1YOVd6MncwRkpMMkpzbWJWci1XMm93M2NZblhtbVRBWTBQTnluenBYSGdkU1pkc3J5cGp6Y0xzY3lNa0dYcTdqdzlDVmJVWXptY2plQnphdWJQWkE1N3BEVVF2ekktZ1pyaXBUMU1rZTZ2aVZ2S3hURDgyT1pJOUkzYzBOSURFOTZSMlV3UXotRUt4QlRBRkNhV21DQkRWSGF4TlpSRlIxVXRzMVE?oc=5",
+   "publicado": "2026-11-06T12:11:34+00:00",
+   "resumo": "Egito pode virar polo para beneficiar e distribuir rochas capixabas &nbsp;&nbsp; Folha Vitória",
+   "veiculo": "Folha Vitória",
+   "relevancia": "forte:rochas capixabas",
+   "elos_pre": [],
+   "chave": "egito pode virar polo para beneficiar e distribuir rochas capixabas",
+   "fontes": [
+    "GN[pt] Centrorochas"
+   ]
+  },
+  {
+   "titulo": "Simagran-CE promove capacitação para preparar empresas do setor de rochas ornamentais para a reforma tributária - FIEC - Federação das Indústrias do Estado do Ceará",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNM1VwWGZzWHV3eU1fV1FrOVZ4dGFPcEI5NFFjdDB5a1hQdWZWcUgwZFZRSzNDQUE3WVNaNTROZWtDZHdCQlpjTzRVZnFwR0phX0dPVHJnV0hiMlI1R29FQ3l4Z1lNYXZTbmRudURzWGVhVjZNSlFDRDlielUwanZMSnBiX0xxTHNnQUtqNXN3TURtUmMza0RLdWVjdVI1S3NsVmQwdFU3NlZvSFNoN1N0ZXdpQTN4WFdsVlZNbm84LUNmR1FnVnhlekRoYUk4dDNwdVNKZEhWSHROeHl5a0xmbUEyczNkLUh5VlNKU0NFbw?oc=5",
+   "publicado": "2026-11-05T22:11:00+00:00",
+   "resumo": "Simagran-CE promove capacitação para preparar empresas do setor de rochas ornamentais para a reforma tributária &nbsp;&nbsp; FIEC - Federação das Indústrias do Estado do Ceará",
+   "veiculo": "FIEC - Federação das Indústrias do Estado do Ceará",
+   "relevancia": "forte:setor de rochas",
+   "elos_pre": [
+    "E10"
+   ],
+   "chave": "simagran ce promove capacitacao para preparar empresas do setor de rochas ornamentais para a reforma tributaria fiec federacao das industrias do estado do ceara",
+   "fontes": [
+    "GN[pt] \"rochas ornamentais\"",
+    "GN[pt] \"setor de rochas\""
+   ]
+  },
+  {
+   "titulo": "Museu Geológico da Bahia reabre Sala de Rochas Ornamentais com tecnologia e interatividade - ba.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRWtSaG9WY0NUeXVyQ3ZFdXRKWkVqYTdjRy1fLWRzeWwwa0UzQ1J1NlIybjd5amY2U01nU2duMjBjLUo0bVZHRGl6UGgtT0JJMjIyRXVKbDFNS2RQeDhyazg0UUxpdUJDc0F6Z2JmajFXLU9COWVJVzZqajQ2ZDlqTXBGSHFGYno5RHNLTDVVYllqWEZOcnpCcjQxekRLTURuemM2RWstTkN4YldIbHVwWlV4d0FPNldXMTV5QWNnMXluYzBvWlhmOFc1X2djUQ?oc=5",
+   "publicado": "2026-11-05T21:47:25+00:00",
+   "resumo": "Museu Geológico da Bahia reabre Sala de Rochas Ornamentais com tecnologia e interatividade &nbsp;&nbsp; ba.gov.br",
+   "veiculo": "ba.gov.br",
+   "relevancia": "forte:rochas ornament",
+   "elos_pre": [
+    "E1",
+    "E11"
+   ],
+   "chave": "museu geologico da bahia reabre sala de rochas ornamentais com tecnologia e interatividade",
+   "fontes": [
+    "GN[pt] \"rochas ornamentais\""
+   ]
+  },
+  {
+   "titulo": "Museu em Salvador reabre exposição de rochas ornamentais com realidade virtual e experiências interativas - Alô Alô Bahia",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPek1tTVBPRXRtWDRyaUp2QVdJbDhydlZfbXlyVjlRQWlKeDAzVTRaVUZrRHB0emJnVjdhWUp2VU1fRUdySExuWWZydG95eXR0UV9ZSG5mUHhhNnlzTlBncktZYWExSENuS21abU9aT0xveFRJSzN2WFR2SHJiU1dnZUZTenplY3F4R3N0dVRwYXhMenlqMWctSWJ6Yzl0cktwM3BuSXA1TTVTQ0xPYmM2Q2FuUDlTa3RJNW4xODFuZUxlOThMTnlnVTdGSm0wUmVhZHdUQ3hFTTNCMnlfQm1DTDJrNzc?oc=5",
+   "publicado": "2026-11-05T21:31:33+00:00",
+   "resumo": "Museu em Salvador reabre exposição de rochas ornamentais com realidade virtual e experiências interativas &nbsp;&nbsp; Alô Alô Bahia",
+   "veiculo": "Alô Alô Bahia",
+   "relevancia": "forte:rochas ornament",
+   "elos_pre": [],
+   "chave": "museu em salvador reabre exposicao de rochas ornamentais com realidade virtual e experiencias interativas",
+   "fontes": [
+    "GN[pt] \"rochas ornamentais\""
+   ]
+  },
+  {
+   "titulo": "Egito surge como nova oportunidade internacional para o setor de rochas de Cachoeiro - Aqui Notícias",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLTMtMy1tdE1vM1JsMjBNelh5UllJcDdOX3c3U2YyVFdRUlNMd1pwd1pqYUwxUGwtTXFZc243d3hiZk12Y3RqbFVVS20yQUJRZmljT081bEJZUE1qcEwzSE91WHNGcVFQQVk5eElLdlVWaEhuUTRiLTZTNzBUaFFrSDJXNHpLSjhQTXVma3hIaV9lU3pwdHMtRi1DZlEwNU9Ba3lfcDVEY2xBa2IzcWhiN1VHb0FVLVRXOFE?oc=5",
+   "publicado": "2026-11-05T18:55:53+00:00",
+   "resumo": "Egito surge como nova oportunidade internacional para o setor de rochas de Cachoeiro &nbsp;&nbsp; Aqui Notícias",
+   "veiculo": "Aqui Notícias",
+   "relevancia": "forte:setor de rochas",
+   "elos_pre": [],
+   "chave": "egito surge como nova oportunidade internacional para o setor de rochas de cachoeiro",
+   "fontes": [
+    "GN[pt] \"Cachoeiro de Itapemirim\" rochas",
+    "GN[pt] \"setor de rochas\"",
+    "GN[pt] Centrorochas"
+   ]
+  }
+ ],
+ "descartados_filtro": [
+  {
+   "fonte": "GN[pt] \"setor de rochas\"",
+   "titulo": "Rochas: estudo inédito aponta peso da industrialização e riscos para o ES - A Gazeta",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRUpzV3pfSXhzejJCLWc4czluLTB2SWFJTjBJQWVlQXJMenVZYTBWV0VWR094NXpKWUdhcXNCWmR6YnV0NFpGRGFJd0tkR1lObkxFSlc0b2lPRXowRElPMU0xcG9mdC1Za1R6dXpMWEFlbXRtaTdtQzdyWTZXUDF1ZG1JejlGSU9vU3RHYktWTDQ0YVo0aVh6dmMzUjRKR2FhQ3FBT2cwSEJ5OWMyd2lPeFdvZlAtZno2REhWaXROLTM?oc=5"
+  },
+  {
+   "fonte": "GN[pt] \"Cachoeiro de Itapemirim\" rochas",
+   "titulo": "Crédito de R$ 18,5 bi pode beneficiar exportadores capixabas - ES Hoje",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9la1ZvUmdwM05QSmRuVjVfM2pISVhnM3dSemNmY1NfOVVZLUk0QS1nNXl3WFF6R3VSLThObHpqT1NKeWVySk9WNmxJN0dWdmRWMnBibGstY2Z5Qzc2M3pQUVhfZXhfbXhvclJ2VHg4UzFTcHI0cWhJYnlR?oc=5"
+  },
+  {
+   "fonte": "GN[pt] \"rochas ornamentais\"",
+   "titulo": "PM reforça policiamento na divisa estadual por meio da Operação Protetor - Itamaraju Notícias",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT1VpaWx4RS16VEJueWlFYmJRSG5ldDN3MEk5ajFfMlRlbktXZXJ4UVhXWjNTMWd0dUdwUlpzTmtlMGFmNzYyblYxYVk1V3ZKQmhxdXFBTXpLNEhDS0JsQW1HNnlUWG1HUXVycENPU0ZMc1hlYUJRNHBrVlBqbTNESkx1cUU4NlpieWtCeE8temhfclEwaVJZeExndlhueGFDRUEybWxOazRTdzJXelpvN3h1bzgzejROSkQySWo2Zw?oc=5"
+  },
+  {
+   "fonte": "GN[pt] \"rochas ornamentais\"",
+   "titulo": "Rodovia fica bloqueada após colisão entre ônibus e carreta; 24 feridos - Itamaraju Notícias",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRDlQUGVtMHBFZUZTd1o2dE5pa0RnVEtDdTlfS1ZUME9LRThBbkNLUll4M1NES3c0WGpBOGJPVlpDX3B5dDhrX08weG03SDhKeG96RkJ4YVkzOXBFSW1oU19iT25HcUh4OWlMQnA4M1EtTExobDhNN1gxd183VlVLVGtsRi1kazg4ZGxqSUZOSXNLS05OQkw3RVNxRkp1ZzFKc2EwZkVKaFZ6UzhCT1VPR29sNlVHTmNW?oc=5"
+  },
+  {
+   "fonte": "GN[pt] \"rochas ornamentais\"",
+   "titulo": "CER IV concede 42 aparelhos auditivos e ultrapassa 200 entregas em 2026 - Itamaraju Notícias",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdm9Feng2NHVXeVdjM2xCYXoyajgyZ2xDbVRsRjhVbVBnQ3ZTRm1CVHlFaURVMEhuSm5aMEtDTXRfQ1J0OExJYmFpS0FaaXNtQW9TYlVDcWJ6S3dLN3FlRVpfZmdGQ1B6b0pkZ0oxODZvczh4MEttcGZsemotYWIyc1d2Q2M4MExxSkxZbEhQTmwtOHozZEhOZzdYbmZLcE8wejhYWWxIcmR6MkwtYnlsSDVQcUlFN25aSnNsQW9R?oc=5"
+  },
+  {
+   "fonte": "GN[pt] \"Cachoeiro de Itapemirim\" rochas",
+   "titulo": "Ponte do Valão: Prefeitura de Cachoeiro assume construção e apresenta detalhes do projeto - diaadiaes.com.br",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTDJSYi1TZVcxQjBrN3pYcjhVSVRNQW9IaHN2RVcxZ1lVaGRxcy1zYkNTazNsaTJDYnlITlBHdEk2cFQtUXp0SVBPSE1Va0w5MF8xc3A3Z1BsWUhHYmo0WTlhaDFOaUhFUTNuWmhVUEVKRDE4R1h6bW5VQk1HMndhMjA4Z0J3ZlYtQV9zODdDcUtadjMtNTZYWHI1a3NiVE0zZEdpbjRHXzZGeHZMUFFtQjF3dU0?oc=5"
+  },
+  {
+   "fonte": "GN[pt] \"Cachoeiro de Itapemirim\" rochas",
+   "titulo": "BR 101 será totalmente interditada por duas horas para obras em Fundão - A Gazeta",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdEpKSXl6Q2drNnYwOUdBdWJFaVdTNFg1a1Z4eWZwZGxpOGpTMzd4WGZEOWFQOEJabzE2WUg2RnNnVWZiZ0hpMkVzODZJRWV0TkxDZUtLclpvWjZ4aF9xM296bnMyNHp5WTVoVzJDemVJcXkyZEY1ZDdzQWJjQUFhejlrVVI5ZmxzVHJNRzhTeC14aEhPRzJSRTEtdThVVExNaHNqc1pyQzZudllS?oc=5"
+  },
+  {
+   "fonte": "GN[pt] \"Cachoeiro de Itapemirim\" rochas",
+   "titulo": "Foragido da Bahia por roubo é preso após ser atraído para delegacia no ES - A Gazeta",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5ucm51Y3BkZk81SXE5NFBpY1YwR092T0M4UzdFVVNpY05WZzJkRy1OTHNuZHlfd0xiVHowbWloYzd4MGQ2cG1v?oc=5"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Nova caneta de semaglutida chega às farmácias; veja quem pode usar e como funciona",
+   "link": "https://www.folhavitoria.com.br/saude/nova-caneta-de-semaglutida-chega-as-farmacias-veja-quem-pode-usar-e-como-funciona/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Scheila Carvalho choca ao mostrar rosto inchado após lifting e revela: “Muito ansiosa”",
+   "link": "https://www.folhavitoria.com.br/cultura/famosos/scheila-carvalho-choca-ao-mostrar-rosto-inchado-apos-lifting-e-revela-muito-ansiosa/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Franco Fiorot quer focar em agricultura, desenvolvimento e duplicação da BR-101 na Assembleia",
+   "link": "https://www.folhavitoria.com.br/eleicoes/franco-fiorot-quer-focar-em-agricultura-desenvolvimento-e-duplicacao-da-br-101-na-assembleia/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Céu, Silva e Arnaldo Antunes no ES: veja guia de shows gratuitos, horários e ingressos",
+   "link": "https://www.folhavitoria.com.br/cultura/eventos/movimento-cidade-veja-horarios-e-como-ir-aos-shows-gratuitos/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "GP do Brasil de F1: confira programação completa, horários e onde assistir ao vivo",
+   "link": "https://www.folhavitoria.com.br/esportes/gp-do-brasil-de-f1-confira-programacao-completa-horarios-e-onde-assistir-ao-vivo/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Justiça do ES investiga se engenheiro recebeu informação sobre condenação antes de deixar júri em Vitória",
+   "link": "https://www.folhavitoria.com.br/justica/justica-do-es-investiga-se-engenheiro-recebeu-informacao-sobre-condenacao-antes-de-deixar-juri-em-vitoria/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Rainha Letizia tem truque de beleza que toda mulher 40+ deveria conhecer, diz especialista",
+   "link": "https://www.folhavitoria.com.br/cultura/rainha-letizia-tem-truque-de-beleza-que-toda-mulher-40-deveria-conhecer-diz-especialista/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "“Stranger Things” ganhará prelúdio ambientado nos anos 1950; saiba mais",
+   "link": "https://www.folhavitoria.com.br/cultura/series/stranger-things-ganhara-preludio-ambientado-nos-anos-1950-saiba-mais/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Idaf abre inscrições nesta sexta para concurso com salários de até R$ 8,4 mil",
+   "link": "https://www.folhavitoria.com.br/trabalho/concursos/idaf-abre-inscricoes-nesta-sexta-para-concurso-com-salarios-de-ate-r-84-mil/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "7º Rede Saúde Summit reúne lideranças para debater qualidade e excelência no setor de saúde",
+   "link": "https://www.folhavitoria.com.br/saude/7o-rede-saude-summit-reune-liderancas-para-debater-qualidade-e-excelencia-no-setor-de-saude/"
+  },
+  {
+   "fonte": "Revista Minérios & Minerales",
+   "titulo": "Novo embaixador assume presidência do IBRAM em dezembro",
+   "link": "https://revistaminerios.com.br/novo-embaixador-presidencia-ibram-dezembro/"
+  },
+  {
+   "fonte": "Revista Minérios & Minerales",
+   "titulo": "Projeto patrocinado pela CMOC impulsiona aprendizado musical de 200 jovens na Bahia, Minas Gerais e Maranhão",
+   "link": "https://revistaminerios.com.br/projeto-cmoc-aprendizado-musical-200-jovens-bahia-minas-gerais-maranhao/"
+  },
+  {
+   "fonte": "Revista Minérios & Minerales",
+   "titulo": "Braço de tecnologia da Sotreq faz acordo com a Nokia para conectividade",
+   "link": "https://revistaminerios.com.br/sotreq-acordo-nokia-conectividade/"
+  },
+  {
+   "fonte": "Revista Minérios & Minerales",
+   "titulo": "Critical Metals investirá US$ 5 milhões no projeto Morro do Ferro da Power Minerals",
+   "link": "https://revistaminerios.com.br/critical-metals-investimento-5-milhoes-projeto-morro-do-ferro/"
+  },
+  {
+   "fonte": "Revista Minérios & Minerales",
+   "titulo": "Livro sobre a história da mineração brasileira entra em pré-venda",
+   "link": "https://revistaminerios.com.br/livro-historia-mineracao-brasileira-pre-venda/"
+  },
+  {
+   "fonte": "Revista Minérios & Minerales",
+   "titulo": "Projeto da Graphcoa reposiciona o Brasil no mercado global de grafite",
+   "link": "https://revistaminerios.com.br/projeto-graphcoa-reposiciona-brasil-mercado-global-grafite/"
+  },
+  {
+   "fonte": "Revista Minérios & Minerales",
+   "titulo": "Investimentos da Vale alcançam R$ 1,25 bi no 3º trimestre de 2026",
+   "link": "https://revistaminerios.com.br/investimentos-vale-r-125-bi-3-trimestre-2026/"
+  },
+  {
+   "fonte": "Revista Minérios & Minerales",
+   "titulo": "1º equipamento da chinesa Siton inicia operação em mina de Corumbá(MS)",
+   "link": "https://revistaminerios.com.br/equipamento-chinesa-siton-inicia-operacao-mina-corumba-ms/"
+  },
+  {
+   "fonte": "Revista Minérios & Minerales",
+   "titulo": "Brazilian Nickel leva cursos a gestores públicos e apicultores do Piauí",
+   "link": "https://revistaminerios.com.br/cursos-de-apicultura-e-gestao-no-piaui/"
+  },
+  {
+   "fonte": "Revista Minérios & Minerales",
+   "titulo": "Confira os projetos premiados no 2.º Prêmio Mina Sustentável",
+   "link": "https://revistaminerios.com.br/2-premio-de-mineracao-sustentavel-2026/"
+  }
+ ]
+}
