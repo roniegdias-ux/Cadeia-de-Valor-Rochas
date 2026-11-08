@@ -1,0 +1,322 @@
+{
+ "meta": {
+  "gerado_em": "2026-11-08T15:58:03.269693+00:00",
+  "janela_inicio": "2026-11-01T15:58:03.269693+00:00",
+  "fontes_tentadas": 19,
+  "fontes_com_erro": 1,
+  "itens_na_janela_dedup": 10,
+  "itens_novos": 1,
+  "descartados_filtro": 16,
+  "degradada": false
+ },
+ "log": [
+  {
+   "fonte": "Revista Minérios & Minerales",
+   "url": "https://revistaminerios.com.br/feed/",
+   "http": 0,
+   "tentativas": 4,
+   "itens_totais": 0,
+   "na_janela": 0,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": "URLError: <urlopen error timed out>"
+  },
+  {
+   "fonte": "GN[pt] \"rochas ornamentais\"",
+   "url": "https://news.google.com/rss/search?q=%22rochas+ornamentais%22+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 9,
+   "na_janela": 5,
+   "relevantes": 5,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] Centrorochas",
+   "url": "https://news.google.com/rss/search?q=Centrorochas+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 12,
+   "na_janela": 5,
+   "relevantes": 4,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] \"setor de rochas\"",
+   "url": "https://news.google.com/rss/search?q=%22setor+de+rochas%22+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 12,
+   "na_janela": 4,
+   "relevantes": 3,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] \"Cachoeiro de Itapemirim\" rochas",
+   "url": "https://news.google.com/rss/search?q=%22Cachoeiro+de+Itapemirim%22+rochas+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 9,
+   "na_janela": 5,
+   "relevantes": 2,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] \"mármore e granito\"",
+   "url": "https://news.google.com/rss/search?q=%22m%C3%A1rmore+e+granito%22+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 10,
+   "na_janela": 3,
+   "relevantes": 1,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] quartzito exportação",
+   "url": "https://news.google.com/rss/search?q=quartzito+exporta%C3%A7%C3%A3o+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 0,
+   "na_janela": 0,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] Abirochas",
+   "url": "https://news.google.com/rss/search?q=Abirochas+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 1,
+   "na_janela": 0,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] Sindirochas",
+   "url": "https://news.google.com/rss/search?q=Sindirochas+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 5,
+   "na_janela": 0,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] \"Vitória Stone Fair\"",
+   "url": "https://news.google.com/rss/search?q=%22Vit%C3%B3ria+Stone+Fair%22+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 0,
+   "na_janela": 0,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] \"pedras naturais\" exportação",
+   "url": "https://news.google.com/rss/search?q=%22pedras+naturais%22+exporta%C3%A7%C3%A3o+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 1,
+   "na_janela": 0,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] rochas tarifa Estados Unidos granito",
+   "url": "https://news.google.com/rss/search?q=rochas+tarifa+Estados+Unidos+granito+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 4,
+   "na_janela": 1,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[en] \"Brazilian granite\"",
+   "url": "https://news.google.com/rss/search?q=%22Brazilian+granite%22+when%3A30d&hl=en-US&gl=US&ceid=US:en",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 1,
+   "na_janela": 0,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[en] \"Brazilian quartzite\"",
+   "url": "https://news.google.com/rss/search?q=%22Brazilian+quartzite%22+when%3A30d&hl=en-US&gl=US&ceid=US:en",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 3,
+   "na_janela": 0,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[en] \"dimension stone\" Brazil",
+   "url": "https://news.google.com/rss/search?q=%22dimension+stone%22+Brazil+when%3A30d&hl=en-US&gl=US&ceid=US:en",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 0,
+   "na_janela": 0,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[en] \"natural stone\" Brazil",
+   "url": "https://news.google.com/rss/search?q=%22natural+stone%22+Brazil+when%3A30d&hl=en-US&gl=US&ceid=US:en",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 1,
+   "na_janela": 0,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[it] marmo granito Brasile",
+   "url": "https://news.google.com/rss/search?q=marmo+granito+Brasile+when%3A30d&hl=it&gl=IT&ceid=IT:it",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 1,
+   "na_janela": 0,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[es] \"rocas ornamentales\" Brasil",
+   "url": "https://news.google.com/rss/search?q=%22rocas+ornamentales%22+Brasil+when%3A30d&hl=es-419&gl=AR&ceid=AR:es-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 1,
+   "na_janela": 1,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Folha Vitória",
+   "url": "https://www.folhavitoria.com.br/feed/",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 10,
+   "na_janela": 10,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  }
+ ],
+ "itens": [
+  {
+   "titulo": "Museu Geológico da Bahia reabre Sala de Rochas Ornamentais com experiências interativas em Salvador - Portal UMBU",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZFlqMkR0NEpSaUhZbFJRZDVsbHo5dGpuRldQa0J1bHp6clZHcjFvdUdadlZiQm5pT3Exb3VJZ3EyX0RLR2NPc1JvQy0zbGpLRjBvTzllZFJJZmRsQnZySUNncWpBYndPYS1PLTRqQU5PaTJLaW1idk95RURWZklkb3lTUWhLejlQaVk5WElkYWdOMDJJVS1NQnFUOURHbGlfQzZXUlQ4c1liQ2VpLWZ0Nk5oNHhLbWNfWklEOTNQYmFKTm9m?oc=5",
+   "publicado": "2026-11-07T19:00:00+00:00",
+   "resumo": "Museu Geológico da Bahia reabre Sala de Rochas Ornamentais com experiências interativas em Salvador &nbsp;&nbsp; Portal UMBU",
+   "veiculo": "Portal UMBU",
+   "relevancia": "forte:rochas ornament",
+   "elos_pre": [
+    "E1"
+   ],
+   "chave": "museu geologico da bahia reabre sala de rochas ornamentais com experiencias interativas em salvador",
+   "fontes": [
+    "GN[pt] \"rochas ornamentais\""
+   ]
+  }
+ ],
+ "descartados_filtro": [
+  {
+   "fonte": "GN[pt] \"setor de rochas\"",
+   "titulo": "Rochas: estudo inédito aponta peso da industrialização e riscos para o ES - A Gazeta",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRUpzV3pfSXhzejJCLWc4czluLTB2SWFJTjBJQWVlQXJMenVZYTBWV0VWR094NXpKWUdhcXNCWmR6YnV0NFpGRGFJd0tkR1lObkxFSlc0b2lPRXowRElPMU0xcG9mdC1Za1R6dXpMWEFlbXRtaTdtQzdyWTZXUDF1ZG1JejlGSU9vU3RHYktWTDQ0YVo0aVh6dmMzUjRKR2FhQ3FBT2cwSEJ5OWMyd2lPeFdvZlAtZno2REhWaXROLTM?oc=5"
+  },
+  {
+   "fonte": "GN[pt] rochas tarifa Estados Unidos granito",
+   "titulo": "Crédito de R$ 18,5 bi pode beneficiar exportadores capixabas - ES Hoje",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9la1ZvUmdwM05QSmRuVjVfM2pISVhnM3dSemNmY1NfOVVZLUk0QS1nNXl3WFF6R3VSLThObHpqT1NKeWVySk9WNmxJN0dWdmRWMnBibGstY2Z5Qzc2M3pQUVhfZXhfbXhvclJ2VHg4UzFTcHI0cWhJYnlR?oc=5"
+  },
+  {
+   "fonte": "GN[pt] \"mármore e granito\"",
+   "titulo": "\"Parece a Caxemira\": como uma lixeira tóxica de mármore se tornou um ponto turístico - ZAP Notícias",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb2lDLUoxV3JxT09VRFp1R1prVHFqTmN2bXlIZVVnZGFSM2h4aDVuNm5KVGQ3SGF4bDA0WHlHNXQzWXgteDZ2OW04bFI0QUZoZFNobXFUeXAxdzcwUGROd0FEODR5ZVl1TDJxX1Q0NHBnLWpxbnRTM1FvRkIwblVlNmhPRkxPdVJxUExHRWcwNEtlTDR3Yjh1LUVmMkVMT3B4UWZubGZOdHBBTWhablN2WE9OZFFrdw?oc=5"
+  },
+  {
+   "fonte": "GN[pt] \"Cachoeiro de Itapemirim\" rochas",
+   "titulo": "BR 101 será totalmente interditada por duas horas para obras em Fundão - A Gazeta",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdEpKSXl6Q2drNnYwOUdBdWJFaVdTNFg1a1Z4eWZwZGxpOGpTMzd4WGZEOWFQOEJabzE2WUg2RnNnVWZiZ0hpMkVzODZJRWV0TkxDZUtLclpvWjZ4aF9xM296bnMyNHp5WTVoVzJDemVJcXkyZEY1ZDdzQWJjQUFhejlrVVI5ZmxzVHJNRzhTeC14aEhPRzJSRTEtdThVVExNaHNqc1pyQzZudllS?oc=5"
+  },
+  {
+   "fonte": "GN[pt] \"Cachoeiro de Itapemirim\" rochas",
+   "titulo": "Carro capota após acidente e mata homem de 58 anos na Serra - A Gazeta",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5ucm51Y3BkZk81SXE5NFBpY1YwR092T0M4UzdFVVNpY05WZzJkRy1OTHNuZHlfd0xiVHowbWloYzd4MGQ2cG1v?oc=5"
+  },
+  {
+   "fonte": "GN[es] \"rocas ornamentales\" Brasil",
+   "titulo": "La producción minera subió más de 7% interanual durante septiembre - Somos Pymes",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX3ZxcFQxWEVhN2lyNVJNUFNjbU9IWHpuY2x6b2MyX3Fra2JKSy1oRzJRb2ZmaGIyZ3hrSnpoU2FWU09SY1p2OHFGOEJ5TGVadVgyVXFlSFk1Z0F6Uko2ZnNUc2w1UFlpOEk4OGF2LTh1eEUtWjdOR2FONDNheWoxSlpWWWVRQUxVbGoxVWJXdVFlb1g0YjNxT0l5SGdXTFdFeTR4RjRVdHlaUdIBqgFBVV95cUxNX3ZxcFQxWEVhN2lyNVJNUFNjbU9IWHpuY2x6b2MyX3Fra2JKSy1oRzJRb2ZmaGIyZ3hrSnpoU2FWU09SY1p2OHFGOEJ5TGVadVgyVXFlSFk1Z0F6Uko2ZnNUc2w1UFlpOEk4OGF2LTh1eEUtWjdOR2FONDNheWoxSlpWWWVRQUxVbGoxVWJXdVFlb1g0YjNxT0l5SGdXTFdFeTR4RjRVdHlaUQ?oc=5"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Enem no ES: mais de 85 mil candidatos fazem 1º dia de prova, com 90 questões e redação",
+   "link": "https://www.folhavitoria.com.br/educacao/enem-no-es-mais-de-85-mil-candidatos-fazem-1o-dia-de-prova-com-90-questoes-e-redacao/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Tempestade, ventos de até 100 km/h e alagamento: veja os alertas para o ES neste domingo",
+   "link": "https://www.folhavitoria.com.br/tempo/tempestade-ventos-de-ate-100-km-h-e-alagamento-veja-os-alertas-para-o-es-neste-domingo/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Corrida da Cidadania 2026 reúne dois mil corredores em Vitória",
+   "link": "https://www.folhavitoria.com.br/esportes/corrida-da-cidadania-2026-reune-dois-mil-corredores-em-vitoria/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Daniel vira herói e coloca o Mundo Moderno na semifinal do futsal dos Jogos Estudantis do ES",
+   "link": "https://www.folhavitoria.com.br/esportes/daniel-vira-heroi-e-coloca-o-mundo-moderno-na-semifinal-do-futsal-dos-jogos-estudantis-do-es/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Lucro e propósito: por que a sustentabilidade se tornou uma agenda financeira",
+   "link": "https://www.folhavitoria.com.br/economia/ibef-lucro-e-proposito-por-que-a-sustentabilidade-se-tornou-uma-agenda-financeira/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Grêmio tem vaga garantida na Libertadores de 2027? Entenda cenário e riscos",
+   "link": "https://www.folhavitoria.com.br/esportes/gremio-tem-vaga-garantida-na-libertadores-de-2027-entenda-cenario-e-riscos/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Tratamento ortodôntico depois dos 60: existe idade limite?",
+   "link": "https://www.folhavitoria.com.br/saude/tratamento-ortodontico-depois-dos-60-existe-idade-limite/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "“Aos 50 anos, não temos obrigação de convidar ninguém, só quem amamos”",
+   "link": "https://www.folhavitoria.com.br/social/aos-50-anos-nao-temos-obrigacao-de-convidar-ninguem-so-quem-amamos/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Semiótica da IA e a arte de ler o que a máquina escreve",
+   "link": "https://www.folhavitoria.com.br/tecnologia/semiotica-da-ia-e-a-arte-de-ler-o-que-a-maquina-escreve/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Enem 2026: veja como fica o trânsito na Grande Vitória no primeiro domingo de prova",
+   "link": "https://www.folhavitoria.com.br/transito/enem-2026-veja-como-fica-o-transito-na-grande-vitoria-no-primeiro-domingo-de-prova/"
+  }
+ ]
+}
