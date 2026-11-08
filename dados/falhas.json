@@ -1,23 +1,9 @@
 [
  {
-  "serie": "comex_import_insumos_pais",
-  "periodo": "2012",
+  "serie": "comex_export_sh4_pais",
+  "periodo": "2025",
   "anos": [
-   2012
-  ]
- },
- {
-  "serie": "comex_import_insumos_pais",
-  "periodo": "2026",
-  "anos": [
-   2026
-  ]
- },
- {
-  "serie": "bcb_3698",
-  "periodo": "2026-2026",
-  "anos": [
-   2026
+   2025
   ]
  }
 ]

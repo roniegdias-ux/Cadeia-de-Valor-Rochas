@@ -1,10 +1,10 @@
 # Anexo estatístico — mapeamento da cadeia de rochas ornamentais
 
-Gerado em 2026-10-12 por `mapeamento.py` a partir de `dados/series/` e `biblio/corpus.jsonl`. Valores em US$ correntes (FOB). Recorte NCM validado contra os Informes Abirochas (diferença de 0,1–0,2%).
+Gerado em 2026-11-08 por `mapeamento.py` a partir de `dados/series/` e `biblio/corpus.jsonl`. Valores em US$ correntes (FOB). Recorte NCM validado contra os Informes Abirochas (diferença de 0,1–0,2%).
 
 ## A1. Exportação brasileira de rochas ornamentais, 1997–2026
 
-_2026 parcial: jan–09. Quartzito (NCM 2506.20) só existe na série a partir de 2007; antes disso o grupo silicático bruto está subestimado._
+_2026 parcial: jan–10. Quartzito (NCM 2506.20) só existe na série a partir de 2007; antes disso o grupo silicático bruto está subestimado._
 
 | Ano | US$ mi FOB | Mil t | US$/t médio | % beneficiadas no valor | US$/t beneficiadas | US$/t brutas silicáticas |
 |---|---|---|---|---|---|---|
@@ -37,7 +37,7 @@ _2026 parcial: jan–09. Quartzito (NCM 2506.20) só existe na série a partir d
 | 2023 | 1.111,0 | 1.819 | 611 | 73,3% | 936 | 286 |
 | 2024 | 1.255,0 | 2.050 | 612 | 73,1% | 1.079 | 259 |
 | 2025 | 1.475,3 | 2.110 | 699 | 72,0% | 1.294 | 302 |
-| 2026 | 1.084,1 | 1.585 | 684 | 69,4% | 1.315 | 312 |
+| 2026 | 1.251,4 | 1.777 | 704 | 70,3% | 1.334 | 318 |
 
 ## A2. Destinos — 2025
 
@@ -71,7 +71,6 @@ Destino por grupo (% do **peso**):
 
 | Mês | US$ mi total | US$ mi EUA | % EUA |
 |---|---|---|---|
-| 2024-10 | 107,9 | 57,5 | 53,3% |
 | 2024-11 | 103,3 | 63,9 | 61,9% |
 | 2024-12 | 124,6 | 75,8 | 60,8% |
 | 2025-01 | 127,8 | 75,3 | 58,9% |
@@ -88,13 +87,14 @@ Destino por grupo (% do **peso**):
 | 2025-12 | 132,8 | 59,6 | 44,9% |
 | 2026-01 | 93,0 | 47,1 | 50,6% |
 | 2026-02 | 80,1 | 31,6 | 39,4% |
-| 2026-03 | 104,9 | 45,3 | 43,1% |
-| 2026-04 | 146,7 | 83,7 | 57,0% |
+| 2026-03 | 104,9 | 45,2 | 43,1% |
+| 2026-04 | 146,7 | 83,6 | 57,0% |
 | 2026-05 | 116,4 | 62,4 | 53,6% |
 | 2026-06 | 163,1 | 94,0 | 57,6% |
 | 2026-07 | 123,9 | 61,4 | 49,5% |
 | 2026-08 | 124,3 | 71,4 | 57,4% |
 | 2026-09 | 131,6 | 64,8 | 49,3% |
+| 2026-10 | 167,4 | 100,2 | 59,9% |
 
 ## A4. Polos exportadores — % do valor por UF
 
@@ -230,21 +230,21 @@ Fonte: ANM, Relatório Anual de Lavra (dados abertos, `Producao_Bruta.csv`), sub
 
 ## A11. Literatura — núcleo Brasil (NÃO TRIADA)
 
-Corpus total: 7555 obras; escopo Brasil: **2342**. Classificação por palavra-chave sobre título e resumo; uma obra pode estar em vários elos. Ainda sem triagem PRISMA.
+Corpus total: 7621 obras; escopo Brasil: **2357**. Classificação por palavra-chave sobre título e resumo; uma obra pode estar em vários elos. Ainda sem triagem PRISMA.
 
 | Elo | Obras |
 |---|---|
-| E8 resíduos/ambiente | 1481 |
-| E11 tecnologia | 955 |
-| E1 lavra | 810 |
-| E7 mercado/construção | 810 |
-| E6 comércio/exportação | 656 |
-| E3 benef. final | 510 |
-| E9 trabalho/saúde | 321 |
-| E10 governança/política | 291 |
-| E4 insumos/máquinas | 216 |
-| E2 benef. primário | 215 |
-| E5 logística | 69 |
+| E8 resíduos/ambiente | 1499 |
+| E11 tecnologia | 968 |
+| E7 mercado/construção | 824 |
+| E1 lavra | 818 |
+| E6 comércio/exportação | 673 |
+| E3 benef. final | 517 |
+| E9 trabalho/saúde | 327 |
+| E10 governança/política | 299 |
+| E4 insumos/máquinas | 222 |
+| E2 benef. primário | 218 |
+| E5 logística | 73 |
 
 | Década | Obras |
 |---|---|
@@ -253,4 +253,4 @@ Corpus total: 7555 obras; escopo Brasil: **2342**. Classificação por palavra-c
 | 1990s | 50 |
 | 2000s | 424 |
 | 2010s | 1014 |
-| 2020s | 846 |
+| 2020s | 861 |
