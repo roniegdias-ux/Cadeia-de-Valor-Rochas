@@ -276,6 +276,20 @@ KW  - E11
 ER  - 
 
 TY  - JOUR
+TI  - A World on a Rock: Fourteen Days of Ecological Discovery on a Granite Boulder in an Urban Park in Hyderabad, and Ideas for Biomimetic Design
+AU  - V. Sri Gagana
+AU  - Pranathi
+AU  - Vishnu Prasanth
+PY  - 2026
+JO  - Zenodo (CERN European Organization for Nuclear Research)
+DO  - 10.5281/zenodo.24003264
+UR  - https://doi.org/10.5281/zenodo.24003264
+AB  - Hyderabad is sometimes called a city of rocks, and many of its old granite boulders still sit among the lawns and flower beds of its parks. A bare rock looks lifeless, but a seven-year-old child researcher set out to find what actually lives on one. She chose a large boulder in Vishwamitra Park, Nallagandla, with an ornamental tree at its foot. On every evening from 16 to 29 August 2026, during the monsoon, she visited it at about 6:15 pm. With adult supervision she climbed onto it and spent five minutes counting all the living things in a marked area. She also recorded what was growing on the surface, counted the patches of growth and the cracks, noted what was living in the cracks, and kept sketches and notes. The rock turned out to be a small, busy community. Black crustose lichens and small plants grew in six patches that stayed the same throughout, and two cracks sheltered plants and insects every day and spiders on most days. Between thirty and forty-six living things were counted each evening. Millipedes appeared on the second day of rain and were seen every day after that, crawling in and out of the cracks. The busiest evening came just after the first rainy spell, though over the whole fortnight rainy and dry days had almost the same average count. A gecko appeared once, on the day park workers cleared plants from the cracks, and a dragonfly visited later. Most of the larger animals she had expected, such as frogs, snakes and scorpions, were never seen, perhaps because they hide deep under rocks or come out after dark. The paper also explains how lichens slowly break rock down into soil over thousands of years. The rock suggested several design ideas. Its cracks and sheltered niches inspired the idea of parks and buildings with rock-like spaces that give small creatures somewhere to live in the city. The gecko's ability to cling to the rock, which comes from millions of tiny hairs on its toes, inspired the idea of a shoe with a gecko-like grip for climbers and trekkers. The millipede's many flexible segments were also suggested as a model for robots that move over uneven ground. These ideas were described but not drawn or built.
+KW  - E7
+KW  - E9
+ER  - 
+
+TY  - JOUR
 TI  - A dimension-stone-specific GIS-AHP framework for regional quarry suitability screening in under-mapped Precambrian basement: application to Cameroon’s West Region, Central African Fold Belt
 AU  - Bertrand Tatoh Aziwo
 AU  - Cheo Emmanuel Suh
@@ -535,6 +549,7 @@ PY  - 2026
 JO  - Anais ... Encontro Nacional de Engenharia de Produção/Anais do Encontro Nacional de Engenharia de Produção
 DO  - 10.14488/enegep2026_tce_000_0000_53556
 UR  - https://doi.org/10.14488/enegep2026_tce_000_0000_53556
+AB  - Ketulyn Caroline Gama de Paula
 KW  - E3
 KW  - E10
 ER  - 
@@ -1008,6 +1023,17 @@ KW  - E10
 ER  - 
 
 TY  - JOUR
+TI  - Artificial Stone Silicosis: Understanding an Emerging Occupational Epidemic
+AU  - Özlem Kar Kurt
+PY  - 2026
+JO  - Thoracic research and practice
+DO  - 10.4274/thoracrespract.2026.2026.221026
+UR  - https://doi.org/10.4274/thoracrespract.2026.2026.221026
+AB  - Documented as early as ancient Egypt and formally defined by the first international scientific consensus at the 1930 Johannesburg Conference on Silicosis, silicosis is among the oldest recognized occupational diseases.For much of its documented history, it was predominantly associated with well-known traditional industries and generally diagnosed in older workers after prolonged exposure.This epidemiological profile began to change in the early 2000s with the outbreak of denim sandblasting-associated silicosis, which was first brought to the attention of the international scientific community through reports from Türkiye.That outbreak-characterized by exceptionally intense exposure, short latency, rapidly progressive disease, and a strikingly young affected population-now finds a troubling parallel in the artificial or engineered stone industry, a relatively new but highly hazardous sector producing similarly aggressive disease among young workers exposed to extraordinarily high concentrations of respirable crystalline silica (RCS).In this issue of Thoracic Research and Practice, the review entitled "Artificial Stone Silicosis: New Face of an Old Disease" provides a timely and clinically oriented synthesis of the occupational context, pathogenesis, clinical manifestations, diagnostic challenges, management, and prevention of this emerging disease. 1
+KW  - E9
+ER  - 
+
+TY  - JOUR
 TI  - Artificial stone and silicosis: the Korean experience
 AU  - Jun‐Pyo Myong
 PY  - 2026
@@ -1146,6 +1172,7 @@ PY  - 2026
 JO  - IEEE Sensors Applications Symposium (SAS)
 DO  - 10.1109/sas70013.2026.11744170
 UR  - https://doi.org/10.1109/sas70013.2026.11744170
+AB  - The ornamental stone sector faces a taxonomic challenge in material identification: classification intrinsically relies on the tacit knowledge of human experts, a process prone to stochastic variability and degradation due to operational fatigue. This paper proposes the automation of this task through a soft sensor based on a Convolutional Neural Network (CNN) using the EfficientNetV2B2 architecture, applying Transfer Learning, Focal Loss, and balancing techniques to mitigate sample scarcity in minority classes. Experimental analysis quantified the performance across five stone classes representative of different Brazilian geological provinces (Bahia, Espírito Santo, Minas Gerais, Ceará), totaling 2,518 images acquired in an uncontrolled industrial environment. Using 5-fold cross-validation, the proposed configuration achieved a mean accuracy of 99.74% (std 0.21; 95% CI [99.55, 99.93]) and a Macro Recall of 99.81% (std 0.15; 95% CI [99.68, 99.94]), converging in only 10 epochs. An ablation study compares the baseline CNN, balanced training, and the proposed focal-loss configuration. The 400+ samples/class threshold is reported as an empirical observation specific to this dataset, demonstrating that CNNs outperform classical Digital Image Processing (DIP) methodologies through automatic hierarchical feature learning.
 ER  - 
 
 TY  - JOUR
@@ -1323,6 +1350,7 @@ TY  - JOUR
 TI  - Caracterização de blocos de rochas ornamentais por formas de onda: ultrassom, sísmica e modelagem numérica
 AU  - Paula Rayane Lopes de Andrade
 PY  - 2026
+JO  - Digital Library of Theses and Dissertations  (Universidade de São Paulo)
 DO  - 10.11606/t.14.2026.tde-31082026-140947
 UR  - https://doi.org/10.11606/t.14.2026.tde-31082026-140947
 KW  - E1
@@ -1935,6 +1963,21 @@ PY  - 2026
 JO  - Geothermics
 DO  - 10.1016/j.geothermics.2026.103632
 UR  - https://doi.org/10.1016/j.geothermics.2026.103632
+KW  - E8
+ER  - 
+
+TY  - JOUR
+TI  - Diabase Sludge as A New Eco-Friendly Waste for Use in Cement-Based Mortar
+AU  - María Concepción Pacheco-Menor
+AU  - Inês Flores‐Colen
+AU  - Jorge de Brito
+PY  - 2026
+JO  - Steps for civil, constructions and environmental engineering.
+DO  - 10.61706/sccee12011276
+UR  - https://doi.org/10.61706/sccee12011276
+AB  - Appropriate waste management is recognised as being of pivotal significance for sustainable development. The utilisation of waste materials has the potential to reduce final costs and provide alternative raw materials for industrial sectors, such as construction. The ornamental rock industry is responsible for the generation of substantial amounts of waste. A number of studies have been conducted on the utilisation of stone sludge in mortars. However, no such studies were identified regarding diabase sludge from the ornamental sector, despite a substantial increase in diabase rock consumption attributable to its colour and physical properties. The impact of diabase sludge from a quarry in western Spain was examined as a cement replacement in mortar, with particular attention to consistency and fresh density. The diabase sludge, as collected (GDS), and the fraction below 63 μm (FDS) were evaluated. The experimental programme incorporated mortars with diabase sludge at varying replacement levels. The following two criteria were employed: Firstly, it is imperative to utilise the same flow values in order to guarantee uniform consistency across all mortars. Secondly, the water-to-binder (w/b) ratio must be maintained constant to evaluate the impact of diabase sludge on consistency. The mortars with 30% GDS, 20% FDS and identical flow values to the reference mortar were deemed to be the most suitable. The mortars with 20% GDS, 25% FDS and the same w/b ratio as the reference mortar have flow values that are similar.
+KW  - E1
+KW  - E7
 KW  - E8
 ER  - 
 
@@ -2889,6 +2932,7 @@ AU  - Antonello Aquilano
 AU  - Elena Marrocchino
 AU  - Carmela Vaccaro
 PY  - 2026
+JO  - EGU General Assembly Conference Abstracts
 DO  - 10.5194/egusphere-egu26-18435
 UR  - https://doi.org/10.5194/egusphere-egu26-18435
 AB  - Starting from May 2024, the Critical Raw Materials Act entered into force in the European Union with the purpose of ensuring access to a secure, resilient, and sustainable supply of Critical Raw Materials (CRMs), including by enhancing efficiency and circularity throughout the entire value chain. Within this regulation, particular emphasis is devoted to the recovery of CRMs from extractive waste. Equal importance is given to the inventory of waste facilities, which must be carried out by Member States in order to obtain a clear framework in geographic, legal, volumetric, and compositional terms.In Italy, the Sardinia Region is characterized by a remarkably high number of waste deposits originating from ornamental granite extraction. These materials have potential for the recovery of some CRMs such as Rare Earth Elements, due to the presence of allanite, as well as feldspars for the ceramic industry [1–2]. However, the decline of the ornamental granite sector in Italy has resulted in a lack of updated data, making it impossible to estimate either the total amount of granite waste or its potential as a source of CRMs. In this context, the present study aims to estimate the volumes and potential CRMs supply associated with granite waste deposits in the Buddusò–Alà dei Sardi extractive district (Sardinia, Italy).Using QGIS software and available spatial datasets, extractive areas within the district were identified, and waste dumps were mapped based on satellite imagery. Given the absence of detailed Digital Elevation Models (DEMs) for the study area, these were reconstructed from satellite data, enabling the estimation of dump volumes. The resulting volumes showed a Root Mean Square Error (RMSE) of approximately 27% compared with more accurate DEMs. Subsequently, based on literature data concerning the composition of local granites and potential concentration processes for CRMs described by Aquilano et al. [1] and Vaccaro et al. [2], the potentially recoverable quantities of CRMs were calculated.Although the results are characterized by relatively high uncertainty, this approach provides a preliminary dataset for extensive areas where significant data gaps currently exist and where achieving high-accuracy estimates in the short term appears unrealistic. Moreover, extending this framework to the entire Region of Sardinia could support the identification of the most promising areas for more detailed investigations, ultimately improving data quality and targeting zones with the highest potential for CRMs recovery.[1] Aquilano, A.; Marrocchino, E.; Vaccaro, C. Gravity and Magnetic Separation for Concentrating Critical Raw Materials from Granite Quarry Waste: A Case Study from Buddusò (Sardinia, Italy). Resources 2025, 14, 24.[2] Vaccaro, C.; Aquilano, A.; Marrocchino, E. Alternative Sources of Raw Materials for the Ceramic Industry through Granite Waste Recycling: A Case Study from Buddusò, Sardinia, Italy. Appl. Sci. 2024, 14, 7967.
@@ -3456,6 +3500,23 @@ KW  - E11
 ER  - 
 
 TY  - JOUR
+TI  - Feasible supplementary cementitious materials for sustainable and advanced 3D concrete printing
+AU  - Mariana Fonseca
+AU  - Maryane Queiroz
+AU  - José Santos
+AU  - Lino Manuel Serra Maia
+PY  - 2026
+JO  - Low-carbon Materials and Green Construction
+DO  - 10.1007/s44242-026-00124-x
+UR  - https://doi.org/10.1007/s44242-026-00124-x
+AB  - Abstract Three-dimensional concrete printing (3DCP) is emerging as a sustainable technology because of automation and material efficiency. However, high Portland cement content compromises its environmental impact. Although using supplementary cementitious materials (SCMs) is a promising pathway to improve the environmental sustainability of printable mixtures, their technical and environmental viability is still a challenge. A systematic literature review was performed to understand the feasibility of standard and alternative SCMs as partial Portland cement replacements in 3DCP by considering technical feasibility, legal barriers, fresh state behaviour, and hardened performance. Standard SCMs have well-established standards and treatment processes, but their local availability and supply issues limit their use. Although SCMs from alternative sources, such as waste and by-products, can enhance resource efficiency and sustainability, their feasibility is limited by physical and chemical properties, which impact fresh and hardened performance. Thus, ground granulated blast furnace slag, fly ash, limestone powder, ornamental stone waste, and waste glass powder improve flowability, pumpability, and extrudability, while silica fume, calcined clay, metakaolin, burnt oil shale, construction and demolition waste powders, waste brick powder, and municipal solid waste are generally responsible for increasing the buildability and shape retention. Hence, ternary binders with Portland cement and two SCMs are commonly used to optimise fresh properties and achieve the desirable printability and hardened performance. The literature review indicates that combining SCMs with complementary rheological effects allows for achieving a balance between flowability and shape retention during the printing process. However, future life cycle assessments of printable mixtures with sensitivity analyses, including transport distance, treatment, and valorisation strategies, are required to boost the incorporation of alternative SCMs in printable mixtures.
+KW  - E7
+KW  - E8
+KW  - E9
+KW  - E11
+ER  - 
+
+TY  - JOUR
 TI  - Feedstock characterization and process calibration for fused pellet fabrication of PLA/limestone composites
 AU  - Joaquim Manoel Justino Netto
 AU  - Dora Sousa
@@ -3483,6 +3544,25 @@ DO  - 10.30686/1609-9192-2026-4s-142-149
 UR  - https://doi.org/10.30686/1609-9192-2026-4s-142-149
 AB  - This article presents the results of field tests of two-component mixtures of sodium chlorate as an oxidizer with solid combustible components. A method for calculating percentage ratio of the mixture components for a zero oxygen balance and the field tests results are described. The fact of breaking an oversized rock by a blasthole charge consisting of the test composition with a single DShE-6 shock tube as a primer along the entire charge was used as a criterion to asses the performance of this composition in industrial applications of dimensional stone quarrying or in secondary breaking. It has been established that the use of sodium chlorate mixtures with solid combustible components can be commercially used both for dimensional stone quarrying and for secondary breaking. Further research into the proposed compositions involves increasing the number of field tests to be performed to assess their characteristics. Adding a third component to two-component mixtures to boost the energy performance of the compositions seems highly promising. The protecting properties of the investigated compositions are of a particular interest.
 KW  - E1
+ER  - 
+
+TY  - JOUR
+TI  - Fission‐Product‐Sr‐Induced Structure and Performance Evolution in Cerium‐Containing Granite Waste Forms
+AU  - Wendong Zhang
+AU  - Longtao Sun
+AU  - Sihong Luo
+AU  - Wenhong Han
+AU  - Yi Liu
+AU  - Xirui Lu
+AU  - Xiaoyan Shu
+PY  - 2026
+JO  - Journal of the American Ceramic Society
+DO  - 10.1111/jace.71391
+UR  - https://doi.org/10.1111/jace.71391
+AB  - ABSTRACT The co‐immobilization of actinide and fission‐product surrogates is important for designing of highly capable and durable high‐level radioactive waste forms. In this work, granite‐derived aluminosilicate glass‐ceramic waste forms were prepared by adding 5–35 wt.% of SrO into Ce‐containing waste forms (at the Ce solubility limit of 6 wt.%). The results show that Ce is predominantly dissolved in the glass network at low SrO contents, while above a threshold of ∼10 wt.% SrO, Ce 4+ tends to form oxides owing to its large cationic potential, and a partial Ce precipitates as CeO 2 . With a further increase in SrO, the matrix changes to a SrAl 2 Si 2 O 8 ‐bearing glass‐ceramic, and the CeO 2 peak intensity decreases. Beyond 30 wt.% SrO, Si/Al is insufficient and the crystallized CeO 2 is enhanced. The FT–IR and XPS analyses confirm that Sr 2+ breaks Si–O–Si and Si–O–Al linkages, increasing non‐bridging oxygen and promoting the transformation of Q 3 /Q 4 into Q 1 /Q 2 units. The waste forms achieved a maximum density of 3.01 g·cm −3 at 35 wt.% SrO, a maximum Vickers hardness of 8.39 GPa at 30 wt.% SrO, and a minimum normalized Ce leaching rate of 3.5 × 10 −6 g·m −2 ·d −1 at 35 wt.% SrO.
+KW  - E6
+KW  - E7
+KW  - E8
 ER  - 
 
 TY  - JOUR
@@ -3594,6 +3674,7 @@ AU  - Silvia Gioiello
 AU  - Alberto Cazzaniga
 AU  - Niccolò Storni
 PY  - 2026
+JO  - EGU General Assembly Conference Abstracts
 DO  - 10.5194/egusphere-egu26-7460
 UR  - https://doi.org/10.5194/egusphere-egu26-7460
 AB  - This study explores the potential recovery of critical raw materials (CRMs) from extractive waste generated during the exploitation of ornamental granite in the Montorfano and Baveno plutons (Verbania, Piedmont, Italy). Current industrial flowsheets are primarily designed to maximise the purity of quartz and feldspar concentrates for ceramic and glass applications. Consequently, separation strategies favour the rejection of middlings, consisting of quartz-feldspar particles partially intergrown with Fe-bearing minerals that would compromise final product specifications, but show enrichments in CRMs. These middlings still contain significant amounts of recoverable non-magnetic silicate minerals and could be valorised through targeted process optimisation. Granite offcuts are reprocessed to extract non-magnetic fractions rich in feldspar and quartz, classified by grain size and chemical purity, while the magnetic fraction - dominated by micas - is typically sold as construction filler. However, this magnetic by-product hosts REE-bearing accessory phases and moderate concentrations of strategic elements - REE, Y, Sc, Li, Ti, Mg, and Mn - representing an underexploited CRM source. Feldspar itself is classified as a CRM under the EU Critical Raw Materials Act (CRMA), further reinforcing the strategic relevance of improving recovery efficiency from granite waste streams. Moreover, the mica-bearing magnetic fraction offers opportunities for market diversification: mica can be further valorised for high-value applications, including cosmetic formulations that exploit its lamellar structure and optical properties. The research addresses mineralogical and processing constraints limiting selective recovery, including low-grade and heterogeneous assemblages, complex mineral intergrowths, and incomplete liberation. A key challenge lies in balancing comminution to achieve sufficient liberation prior to magnetic separation while minimising the generation of ultrafine particles, which - despite facilitating physical separation - negatively affect downstream processing. Additional complexity arises from overlapping magnetic susceptibilities between target phases and Fe-bearing gangue silicates, frequently resulting in mixed products with suboptimal enrichment. Beyond REE minerals such as monazite, allanite, and xenotime - commonly locked within biotite - several elements of interest are plausibly incorporated within the crystal lattice of micas, underscoring the importance of prioritising mica concentration as a pre-treatment step, followed by targeted chemical extraction routes. Process optimisation through refined magnetic separation could simultaneously increase the recovery of non-magnetic material for further processing and alternative quartz and feldspar applications, and improve the grade of the magnetic concentrate, enabling more efficient CRMs recovery. Although CRM concentrations remain modest compared to primary deposits, valorising these materials off
@@ -3943,6 +4024,7 @@ TY  - JOUR
 TI  - Granito Ás de Paus: histórico, utilização e comportamento frente aos ensaios de intemperismo acelerado
 AU  - Carla Corrêa Felix
 PY  - 2026
+JO  - Digital Library of Theses and Dissertations  (Universidade de São Paulo)
 DO  - 10.11606/t.44.2026.tde-26022026-072258
 UR  - https://doi.org/10.11606/t.44.2026.tde-26022026-072258
 AB  - As pedras são reconhecidas por sua elevada durabilidade, por esse motivo são utilizadas desde a antiguidade em construções. Uma vez expostas, estão sujeitas a processos de deterioração que podem comprometer sua integridade física e/ou estética. Nesse sentido, foi estudado aqui um nefelina sienito, procedente do Rio de Janeiro e comercialmente conhecido como Granito Ás de Paus. Foi amplamente utilizado, principalmente, em fachadas de edifícios e lápides, e atualmente não é mais explorado. Foi realizado um mapeamento para verificar o uso desta pedra nas cidades do Rio de Janeiro e São Paulo, e um estudo sobre o histórico das pedreiras que exploravam esta pedra para fins ornamentais. Analiticamente, foram realizados ensaios em laboratório para a caracterização da rocha, como a identificação petrográfica, obtenção de índices físicos, absorção de água por capilaridade, absorção de água superficial com tubo de Karsten, velocidade de propagação de ondas ultrassônicas e análise cromática com espectrofotômetro. O foco principal da pesquisa foi avaliar o comportamento do Granito Ás de Paus frente aos agentes de intemperismo, a partir de ensaios de intemperismo acelerado em câmaras de névoa salina e dióxido de enxofre e com imersão parcial das amostras em soluções com NaOH, HNO3, HCl, H2SO4 e produtos de limpeza como desinfetante, limpa-pedras e água sanitária. Também foi realizado um ensaio experimental para avaliar a influência da seiva da folha de cajueiro na superfície desta rocha. Os resultados demonstraram que o Granito Ás de Paus exibe elevada resistência à névoa salina e ao dióxido de enxofre, apresentando alterações pouco significativas e ausência de mudança cromática perceptível. Em relação ao ensaio com soluções, o impacto mais significativo foi o amarelamento, principalmente nas amostras submetidas aos ácidos (na ordem de intensidade do maior para o menor: H2SO4, HCl e HNO3), e o clareamento pronunciado nas amostras submetidas ao limpa-pedras. Adicionalmente, as amostras submetidas aos ácidos apresentaram corrosão e as amostras submetidas ao limpa-pedras apresentaram acentuada rugosidade superficial, além de corrosão. O ensaio com seiva da folha do cajueiro também confirmou um impacto estético relevante, resultando no amarelamento da parte que a seiva foi aplicada. Os resultados obtidos a partir destes ensaios são fundamentais para a compreensão do comportamento do Granito Ás de Paus frente ao intemperismo e, consequentemente, contribuem para a preservação do patrimônio construído com esta pedra. De modo complementar, este trabalho também destacou a importância de rochas alcalinas no patrimônio natural e construído, no contexto brasileiro e internacional.
@@ -3972,6 +4054,7 @@ TY  - JOUR
 TI  - Guide for Selection of Dimension Stone
 AU  - C18 Committee
 PY  - 2026
+JO  - ASTM Standards
 DO  - 10.1520/c1528_c1528m-26
 UR  - https://doi.org/10.1520/c1528_c1528m-26
 ER  - 
@@ -3980,6 +4063,7 @@ TY  - JOUR
 TI  - Guide for Selection, Design, and Installation of Dimension Stone Attachment Systems
 AU  - C18 Committee
 PY  - 2026
+JO  - ASTM Standards
 DO  - 10.1520/c1242-26
 UR  - https://doi.org/10.1520/c1242-26
 KW  - E7
@@ -4789,6 +4873,21 @@ KW  - E11
 ER  - 
 
 TY  - JOUR
+TI  - Machine learning-assisted mixture design for compressive strength optimization of concrete pavers incorporating mineral residues
+AU  - Cícero Fellipe Diniz de Santana
+AU  - Larissa Santana Batista
+PY  - 2026
+JO  - Zenodo (CERN European Organization for Nuclear Research)
+DO  - 10.5281/zenodo.23930964
+UR  - https://doi.org/10.5281/zenodo.23930964
+AB  - Research data and Python codes supporting the study "Machine learning-assisted mixture design for compressive strength optimization of concrete pavers incorporating mineral residues". This repository contains research materials associated with the computational analysis of concrete pavers incorporating four types of mineral residues: scheelite residue, quartz residue, ornamental rock abrasive sludge (ROL), and crushed ornamental rock residue (ROB). The study investigates the prediction and optimization of 28-day compressive strength using regression models, machine learning algorithms, and Scheffé mixture models. The computational methodology includes leave-one-out cross-validation (LOOCV), model performance assessment using R² and RMSE, constrained ternary mixture optimization, and sensitivity analysis of minimum mineral residue incorporation levels. The original experimental investigation was conducted by Batista (2022) at the Federal University of Campina Grande (UFCG), Brazil, and is available at: https://dspace.sti.ufcg.edu.br/handle/riufcg/28958. This repository is intended to support transparency, reproducibility, and further research on the application of machine learning and mixture design methods to sustainable concrete paving materials.
+KW  - E4
+KW  - E7
+KW  - E8
+KW  - E11
+ER  - 
+
+TY  - JOUR
 TI  - Mapping the Research Landscape of Sustainable Cementitious Bricks Incorporating Waste of stone mines: A Bibliometric and Performance-Based Review
 AU  - Ashish Shrimali
 AU  - Priyanka Pandey
@@ -4874,6 +4973,7 @@ PY  - 2026
 JO  - Encontro de Sustentabilidade em Projeto
 DO  - 10.29327/9786527226116.1462339
 UR  - https://doi.org/10.29327/9786527226116.1462339
+AB  -  Este artigo descreve o processo de materialização da MaterioteCAA um recurso pedagógico para o ensino de materiais no curso de design no Campus Acadêmico do Agreste (CAA) da Universidade Federal de Pernambuco (UFPE). O projeto surgiu da necessidade de organizar e tornar acessível um acervo de 50 pedras ornamentais doadas por uma empresa de granitos da cidade de Caruaru à UFPE. O método para implantação física e digital do acervo foi desenvolvido em duas fases: 1. catalogação digital utilizando o Sistema de Catalogação de Amostras por Configuração (SCAMC) e 2. desenvolvimento de suportes expositivos físicos. Como resultado, os dados técnicos de 30 itens catalogados estão disponíveis na plataforma digital gratuita da Materialize® e as mesmas estão fisicamente disponíveis para manipulação dos estudantes na biblioteca central do CAA. Este projeto é uma das estratégias de organização e alinhamento dos dados entre a catalogação física e virtual das amostras, além de contribuir para o ensino do design estimulando o contato dos estudantes com os materiais nas fases de seleção e experimentação em projetos. 
 KW  - E8
 ER  - 
 
@@ -5703,6 +5803,23 @@ KW  - E8
 ER  - 
 
 TY  - JOUR
+TI  - POTENTIAL RECOVERY OF INDUSTRIAL MINERALS FROM GRANITE WASTE AS A CIRCULAR ECONOMIC OPPORTUNITY TO MITIGATE ITS IMPACTS: AN EVALUATIVE REVIEW
+AU  - Fatima Baila
+AU  - Hamza Beniddar
+AU  - Hasna Ait Said
+AU  - Yassine Darmane
+PY  - 2026
+JO  - Rudarsko-geološko-naftni zbornik
+DO  - 10.17794/rgn.2026.5.9
+UR  - https://doi.org/10.17794/rgn.2026.5.9
+AB  - Granite activity has a major contribution to the over-exploitation of natural resources, causing negative repercussions engendering an imbalanced ecosystem. In response to growing demand, there is an urgent need to optimise not only granite industry operations, but also related activities such as waste management in order to improve sustainability and strengthen the transition to a circular economy. Feldspar and biotite recovering, from the granite industry, offers an eco friendly and economical solution, typically involving lower operating costs for mitigating both resources-depletion and waste impacts. As technology continues to advance, biotite and feldspar will play an increasingly important role in various sectors, including energy, construction, and industrial applications. Ongoing studies aim at improving the performance and sustainability of separation methods to obtain high-quality feldspars with low iron impurities. Besides flotation, gravity separation and leaching, magnetic separation remains an effective and eco-friendly method for extracting iron oxides imparting the ceramic quality, based on the selective adsorption of magnetic particles. Its application, in dry or wet mode, depends on various factors, such as chemical and mineralogical composition, grain size, and environmental constraints. The dry mode is often preferred for practical and ecological reasons, for producing high-grade concentrates materials for ceramic and others applications. Although, simultaneous recovery of both minerals is not discussed, literature provides physicochemical criteria influencing their response to separation techniques.
+KW  - E6
+KW  - E7
+KW  - E8
+KW  - E11
+ER  - 
+
+TY  - JOUR
 TI  - Palm Kernel shell evaluation as partial coarse aggregate in concrete
 AU  - Richie I. Umasabor
 AU  - Osasere Ikponmwosa
@@ -6155,6 +6272,31 @@ KW  - E8
 ER  - 
 
 TY  - JOUR
+TI  - Pretransplant Pulmonary Hemodynamics, Explant Histology, and Primary Graft Dysfunction after Lung Transplantation for Silicosis
+AU  - Mateo Arnel Mendoza
+AU  - Alex Tang
+AU  - Alberto Mario Marchevsky
+AU  - ALEXANDER D. YUEN
+AU  - Keerthana Sankar
+AU  - Jeremy Falk
+AU  - Tamana Kaderi
+AU  - Laura DiChiacchio
+AU  - Dominick J. Megna
+AU  - Pedro Catarino
+AU  - Michael I. Lewis
+AU  - Reinaldo E. Rampolla
+AU  - Yuri P. Matusov
+PY  - 2026
+JO  - CHEST Journal
+DO  - 10.1016/j.chest.2026.10.040
+UR  - https://doi.org/10.1016/j.chest.2026.10.040
+AB  - BACKGROUND: Silicosis associated with progressive massive fibrosis (PMF) is a major cause of end-stage lung disease among workers in the artificial stone industry. Patients with PMF are increasingly referred for lung transplant (LTx) evaluation and there is emerging evidence of pulmonary hypertension (PH) in patients with advanced PMF. RESEARCH QUESTION: Among patients with PMF referred for lung transplantation, what is the incidence of PH and what are accompanying histopathologic pulmonary vascular aberrations? STUDY DESIGN AND METHODS: Retrospective single-center cohort study of prospectively-enrolled participants, providing granular data on the invasive hemodynamic profile of patients with silicosis-associated PMF, histopathologic data on pulmonary vascular aberrations, and clinical data on post-transplant complications. Clinical and sociodemographic variables were collected. Explanted lungs from patients with silicosis-associated PMF underwent detailed pulmonary vascular histopathologic review and were descriptively compared with PAH explants. The incidence of primary graft dysfunction (PGD) was evaluated and descriptive analysis performed to provide associations of clinical features and PGD incidence. RESULTS: PH was present in over 95% of 21 patients with silicosis-associated PMF who underwent LTx, with a hemodynamic profile similar to patients transplanted for PAH. . Silicosis explants showed confluent silicotic nodules, extensive fibrosis and hyalinization, obscuration or obliteration of vascular structures, and perivascular fibrohistiocytic infiltrates with extrinsic narrowing. Classic PAH-type arteriolar muscular hypertrophy and plexiform arteriopathy were uncommon. In exploratory comparisons, patients who developed PGD had more frequent pretransplant right ventricular dysfunction (71% vs 21%; risk difference 0.50, 95% CI 0.06-0.75) and a lower median TAPSE/RVSP ratio (0.27 vs 0.39; Hedges' g -0.93, 95% CI -1.88 to 0.02) than in those without PGD. INTERPRETATION: These findings suggest that PH in advanced silicosis with PMF is very common and represents a distinct pulmonary vascular phenotype characterized by extensive fibrotic vascular obliteration rather than the classic arteriopathy seen in PAH.
+KW  - E1
+KW  - E7
+KW  - E9
+ER  - 
+
+TY  - JOUR
 TI  - Preventable yet persistent: silicosis and gaps in public health policy – a narrative review
 AU  - Pradnya Rajmane
 AU  - Rametrika Saha
@@ -6583,6 +6725,36 @@ KW  - E11
 ER  - 
 
 TY  - JOUR
+TI  - Results of the particle size analysis of granite screenings from Chaplynskyi granite quarry LLC
+AU  - Oleksandr Shevchenko
+AU  - Yevhen Lapshyn
+AU  - Yevhenii Malieiev
+PY  - 2026
+JO  - Kyiv Academic University
+DO  - 10.48788/dvua/hdldhw
+UR  - https://doi.org/10.48788/dvua/hdldhw
+AB  - The dataset contains information on the analysis of the particle size distribution of granite screenings sampled from various locations at the waste pile of Chaplynskyi Granite Quarry LLC. The data are organized into a separate table (within a single Excel file) presenting the results of tests on the averaged characteristics of granite screenings (based on 10 samples), conducted under laboratory conditions at the M.S. Polyakov Institute of Geotechnical Mechanics of the National Academy of Sciences of Ukraine. In addition, the PDF file contains a description and general photographs of the Chaplynskyi granite quarry, as well as images of narrow size fractions of screenings, processed using a scientific-educational digital photoplanimetry program through the segmentation of the images of these fractions. The purpose of the dataset is to study the particle size distribution (across size ranges) in order to optimize the granulometric (fractional) composition of the sand. The following notations are used in the table and on the graph: d, mm – size fractions; γ, % – fraction yield. The presented results make it possible – through fine classification utilizing specific particle-size fractions – to achieve the required sand fineness modulus and to remove dust and clay inclusions (smaller than 0.16 mm).
+KW  - E1
+KW  - E8
+KW  - E11
+ER  - 
+
+TY  - JOUR
+TI  - Results of the particle size analysis of granite screenings from Lyubymivskyi Granite Quarry LLC
+AU  - Oleksandr Shevchenko
+AU  - Yevhen Lapshyn
+AU  - Yevhenii Malieiev
+PY  - 2026
+JO  - Kyiv Academic University
+DO  - 10.48788/dvua/iy1xnh
+UR  - https://doi.org/10.48788/dvua/iy1xnh
+AB  - The dataset contains information on the analysis of the particle size distribution of granite screenings sampled from various locations at the waste pile of Lyubymivskyi Granite Quarry LLC. The data are organized into a separate table (within a single Excel file) presenting the results of tests on the averaged characteristics of granite screenings (based on 10 samples), conducted under laboratory conditions at the M.S. Polyakov Institute of Geotechnical Mechanics of the National Academy of Sciences of Ukraine. In addition, the PDF file contains a description and general photographs of the Lyubymivskyi granite quarry, as well as images of narrow size fractions of screenings, processed using a scientific-educational digital photoplanimetry program through the segmentation of the images of these fractions. The purpose of the dataset is to study the particle size distribution (across size ranges) in order to optimize the granulometric (fractional) composition of the sand. The following notations are used in the table and on the graph: d, mm – size fractions; γ, % – fraction yield. The presented results make it possible – through fine classification utilizing specific particle-size fractions – to achieve the required sand fineness modulus and to remove dust and clay inclusions (smaller than 0.16 mm).
+KW  - E1
+KW  - E8
+KW  - E11
+ER  - 
+
+TY  - JOUR
 TI  - Results of the particle size analysis of granite screenings from Rybalskyi Granite Migmatite Quarry LLC
 AU  - Oleksandr Shevchenko
 AU  - Yevhen Lapshyn
@@ -6710,6 +6882,22 @@ DO  - 10.3390/ma19050886
 UR  - https://doi.org/10.3390/ma19050886
 AB  - This study examined the geopolymerization behavior of granite waste powder and reactive silica powder (GWS), utilizing granite waste powder as a sustainable precursor material, to develop an environmentally friendly substitute for Ordinary Portland cement. To obtain this objective, a total of three different mixes of calcined granite waste with reactive silica (1:1, 3:2, 7:3) were cast to evaluate the aim of this study. Due to low inherent reactivity of granite waste powder, the alkali activation was achieved using a combined solution of alkali activators consisting of 8 mol/L concentration of NaOH and Na2SiO3 solution at mass ratio of 1:1.2 prepared 24 h in advance to ensure complete dissolution and stabilization prior to pouring it into the GWS paste. The finest particle size distribution for optimal reactivity performance was achieved by choosing lowest median particles size from 4.0 μm–4.2 μm among all mixtures. ICP-MS analysis of granite waste and reactive silica showed the presence of silica (0.11% and 0.26% respectively) and calcium (49.61% and 38.92% respectively) content adequate for effective geopolymerization of the paste. The elemental composition, new phase formation and microstructural analysis were examined using X-ray diffraction (XRD), Fourier-transform infrared spectroscopy (FTIR) techniques and Scanning Electron Microscopy (SEM) analysis. XRD analysis revealed that all GWS mixes were predominantly amorphous, with crystalline quartz, feldspar and minor α-cristobalite peaks diminishing from GWS50 to GWS70 confirming increased reactivity due to enormous reactive silica content. FTIR spectra of GWS mixes displayed characteristics of O-H (3375 cm−1), H-O-H (1645 cm−1), and Si-O-T (982–1000 cm−1) bands, with the main Si-O-T peak shifting to higher wavenumbers from GWS50 to GWS70 due to increased GW content, indicating reduced geopolymerization effect in GWS50. SEM analysis revealed that among all mixes, GWS70 exhibited the most ideal dense matrix with increasing content of granite waste along with strong N-A-S-H gel formation. Compressive strength at 28 days increased from 11.2 MPa for GWS50 to 14.2 MPa for GWS60 and 13.8 MPa for GWS70, demonstrating that higher reactive silica powder content significantly enhanced the mechanical performance of the alkali-activated paste. These findings demonstrated that alkali-activated geopolymers of GSW offer a viable alternative to Ordinary Portland cement with optimized mixes by valorizing industrial waste and reducing reliance on high-carbon cement production.
 KW  - E8
+KW  - E9
+ER  - 
+
+TY  - JOUR
+TI  - S44 Artificial stone silicosis in the UK: what do we know?
+AU  - J Feary
+AU  - Tito Kabir
+AU  - P Howlett
+AU  - Anand Devaraj
+AU  - J Szram
+PY  - 2026
+JO  - Thorax
+DO  - 10.1136/thorax-2026-btsabstracts.50
+UR  - https://doi.org/10.1136/thorax-2026-btsabstracts.50
+AB  - Background Over 6000 cases of silicosis in worktop fabricators (WF) exposed to artificial stone (AS) are now reported globally. The first case was identified in the UK in 2023 in our service1 and the number of cases continues to rise. No UK case finding programme is currently planned. In 2025, our occupational lung disease service set up a self-referral system so that WF who are concerned about silicosis could contact us directly [www.lungsatwork.org.uk]. Aim To describe the current cases of silicosis in WF from a single UK centre. Methods We carried out a case note review of cases of silicosis in WF seen in the Royal Brompton Hospital occupational lung disease clinic. Results Forty-nine cases have been identified to date (table 1) with mean age of 43 years (range 23-65). All cases worked for micro-companies (<15 employees), all had dry processed AS and only two had health surveillance despite the UK guidance. In total, 29% had accelerated disease (defined as <10 years exposure to respirable crystalline silica) suggesting very high exposures. Compared with patients with chronic silicosis (or >10 years exposure) this group were younger, all had been born outside the UK, the majority (79%) had only worked with artificial stone and most had stopped work with silica at the time of diagnosis. Overall, 14% have died (n=4) or are awaiting lung transplant (n=3). To date, 22 WF have been seen in our clinic via the self-referral system and of these 78% (n=17) were subsequently diagnosed with silicosis. Conclusions Urgent action in the UK is needed to prevent silicosis in WF. This requires a multifaceted approach which includes a programme of education and ensuring workers are not exposed to high levels of respirable crystalline silica in the workplace. Findings from our clinic support the need for a proactive case finding programme to identify those with early disease enabling interventions to reduce morbidity and mortality in this young workforce. Reference Feary. et al. Thorax 2024.
+KW  - E3
 KW  - E9
 ER  - 
 
@@ -7443,6 +7631,7 @@ PY  - 2026
 JO  - International Conference on Sustainable and Futuristic Technologies (ICSFT)
 DO  - 10.1109/icsft67370.2026.11566244
 UR  - https://doi.org/10.1109/icsft67370.2026.11566244
+AB  - A great deal of waste marble powder is produced by the ornamental stone and environmental problems are therefore inevitable. It can also be a partial replacement of cement and aggregate in concrete, transforming garbage into resource. Recent studies have shown that replacing natural sand or cement by WMP at certain dosages results in concrete with similar or enhanced strengths. Furthermore, different types of additives (e.g. glass powder, polymer fibres and other industrial by-products), have also been investigated in order to further improve the performance. At the same time, machine learning (ML) methods have emerged as reliable and efficient prediction and optimization tools of concrete properties which alleviate experimental burden. In this review, literature on marble-waste concrete (usually incorporated with supplementary materials) and ML for predicting its properties are systematically reviewed. Through a PRISMA-guided literature search (Figure 1) we locate important works within WMP concrete and related sustainable mixes. We provide an overview of ML modeling methods (such as random forest, XGBoost, neural networks and symbolic regression) and performance criteria$(\mathbf{R}^{\mathbf{2}}$, RMSE, MAE). For instance, by using the random forest model,$R^{2}$value$\geq 0.95$are often achieved to predict compressive strength of sustainable concrete. Interpretable ML techniques (SHAP analysis, sensitivity analysis) have brought out the role of parameters such as cement content, aggregate ratio and curing age towards strength. Our review finds that waste marble can substitute$\sim \mathbf{10-25 \%}$of fine aggregate or cement with only a slight penalty in strength loss, and that an ML model is capable of reasonably capturing the nonlinear, complex effects of composition on performance. Finally, the open sources and future directions such as larger databases, multi-objective optimization (cost, carbon footprint) and application of advanced explainable AI to steer sustainability mix design are highlighted in the work.
 KW  - E7
 KW  - E8
 KW  - E11
@@ -7610,6 +7799,7 @@ UR  - https://doi.org/10.1007/s41024-026-00797-8
 AB  - Abstract This research investigates the sustainable use of sugarcane bagasse ash and marble waste in the production of unburnt bricks, brick prisms, and reinforced concrete beams. Given that cement production significantly contributes to global CO₂ emissions and sand mining causes severe environmental degradation, this study explores alternative materials to reduce the ecological footprint of conventional construction. Raw sugarcane bagasse ash, was dried and sieved (300 µm) for partial replacement for fly ash and cement. Simultaneously, marble waste was utilized as a substitute for fine aggregates such as river sand and crusher sand and tested to evaluate their mechanical and durability properties in both unburnt bricks and concrete. The optimal brick mix, containing 10% sugarcane bagasse ash and 10% marble waste, achieved improved compressive strength (5.65 MPa) and acceptable water absorption (< 20%), meeting the standards. Sugarcane bagasse ash - marble waste blended concrete also exhibited enhanced splitting tensile strength and superior resistance to acidic environments. Blended reinforced concrete beams demonstrated greater flexural strength compared to control specimens, confirming their structural applicability. Eventually, sugarcane bagasse ash and marble waste can effectively replace conventional construction materials without compromising performance, thereby promoting the sustainable reuse of industrial by-products and supporting eco-friendly construction practices.
 KW  - E7
 KW  - E8
+KW  - E11
 ER  - 
 
 TY  - JOUR
@@ -7949,6 +8139,7 @@ TY  - JOUR
 TI  - Terminology Relating to Dimension Stone
 AU  - C18 Committee
 PY  - 2026
+JO  - ASTM Standards
 DO  - 10.1520/c0119-26
 UR  - https://doi.org/10.1520/c0119-26
 ER  - 
@@ -7957,6 +8148,7 @@ TY  - JOUR
 TI  - Test Method for Structural Performance of Exterior Dimension Stone Cladding Systems by Uniform Static Air Pressure Difference
 AU  - C18 Committee
 PY  - 2026
+JO  - ASTM Standards
 DO  - 10.1520/c1201_c1201m-26
 UR  - https://doi.org/10.1520/c1201_c1201m-26
 KW  - E7
@@ -7967,6 +8159,7 @@ TY  - JOUR
 TI  - Test Methods for Absorption and Bulk Specific Gravity of Dimension Stone
 AU  - C18 Committee
 PY  - 2026
+JO  - ASTM Standards
 DO  - 10.1520/c0097_c0097m-26
 UR  - https://doi.org/10.1520/c0097_c0097m-26
 KW  - E11
@@ -9022,6 +9215,7 @@ JO  - South African Journal of Chemical Engineering
 DO  - 10.1016/j.sajce.2026.100976
 UR  - https://doi.org/10.1016/j.sajce.2026.100976
 AB  - The catalytic conversion of waste cooking oil (WCO) into hydrocarbon-rich liquid products offers a sustainable approach for waste valorization and renewable hydrocarbon liquid production. Marble waste (MW) was modified with 5 wt.% transition metals (Zn, Co, Cu, Fe, and Mo) via wet impregnation for hydrogen-free catalytic deoxygenation of WCO at 380°C. Among the catalysts investigated, Zn-modified marble waste (ZnMW) exhibited the highest catalytic activity, achieving 97% WCO conversion with a liquid yield of 72.7%. Additional control experiments using ZnO, raw MW, calcined MW, and a physical ZnO–MW mixture demonstrated that the impregnated ZnMW catalyst produced the highest liquid yield under identical reaction conditions. GC–MS semi-quantitative analysis indicated that gasoline-range (C8–C12) and diesel-range (C13–C20) hydrocarbons accounted for 45.47% and 54.20% of the identified hydrocarbon fraction, respectively, while carboxylic acids were not detected. Catalyst characterization suggested that Zn impregnation increased the accessible surface area and modified the surface properties of marble waste, which may contribute to the improved catalytic performance. Reusability evaluation showed partial retention of catalytic activity over four consecutive cycles, with WCO conversion decreasing from 97.0% to 79.3%, mainly attributed to coke deposition and catalyst deactivation. These findings suggest that Zn-modified marble waste is a promising and inexpensive catalyst for producing hydrocarbon-rich liquid intermediates from waste cooking oil under hydrogen-free conditions.
+KW  - E1
 KW  - E8
 ER  - 
 
@@ -9160,6 +9354,7 @@ TY  - JOUR
 TI  - Única cordilheira do Brasil, Serra do Espinhaço está em risco por causa da mineração de rocha ornamental
 AU  - Frank Carvalho
 PY  - 2026
+JO  - The Conversation
 DO  - 10.64628/ade.dede4eg5u
 UR  - https://doi.org/10.64628/ade.dede4eg5u
 ER  - 
@@ -9189,6 +9384,17 @@ DO  - 10.46698/vnc.2026.46.18.001
 UR  - https://doi.org/10.46698/vnc.2026.46.18.001
 AB  - На основании изучения геологических отчетов, научных публикаций и собственных рекогносцировочных маршрутных исследований приведены сведения о различных типах месторождений полезных ископаемых Большого Кавказа. Пере- числены минералы, слагающие рудные объекты месторождений. Охарактеризованы коллекционные рудные и нерудные минералы, самородные элементы и поделочные камни, встречающиеся на территории действующих и законсервированных горно- обогатительных комбинатов. Собранная информация о минералах и местах их на- ходок может заинтересовать коллекционеров и любителей камня. Based on the study of geological reports, scientific publications and own reconnaissance route studies, information on various types of mineral deposits of the Greater Caucasus is provided. Minerals that make up ore objects of deposits are listed. Collectible ore and non-metallic minerals, native elements and ornamental stones found on the territory of operating and mothballed mining and processing plants are characterized. The collected information about minerals and the places of their finds may interest collectors and stone lovers.
 KW  - E1
+ER  - 
+
+TY  - JOUR
+TI  - Строительные материалы из природного камня во внешней торговле России
+AU  - Кошелева Ольга Эдуардовна
+PY  - 2026
+JO  - Бюллетень инновационных технологий
+UR  - https://bitjournal.ru/index.php/BIT/article/view/487
+AB  - This study examined the use of natural stone and stone products in the Russian construction industry. The development of the construction materials market is driven by the growth of housing construction and the development of urban infrastructure. The movement of construction materials falling under Group 68 of the EAEU CN FEA (Commodity Nomenclature of Foreign Economic Activity) entails challenges related to classification, identification, and the determination of processing quality, origin, and value. The classification factors for natural stones and stone products, as well as applicable customs tariff rates, are outlined, and data on import and export trends for the 2021–2025 period are presented. Key importing countries and destinations for Russian exports within this product group are identified. The characteristics and challenges of the Russian stone processing market are described. The movement of goods in foreign trade entails proper declaration and identification to determine the correct classification code and market value. Measures are outlined to prevent incorrect declaration and ensure effective customs control of goods, including through the use of modern customs examination methods.
+KW  - E6
+KW  - E7
 ER  - 
 
 TY  - JOUR
@@ -9263,6 +9469,7 @@ AU  - Ricardo Pereira
 AU  - Ana Machadinho
 AU  - Alexandre Santos
 PY  - 2025
+JO  - EGU General Assembly Conference Abstracts
 DO  - 10.5194/egusphere-egu25-17148
 UR  - https://doi.org/10.5194/egusphere-egu25-17148
 AB  - Exploitation of ornamental rock from quarries requires innovative approaches that can provide sustainable access to construction materials. Within a quarry, rock types can vary significantly, and its assessment demands a detailed evaluation of its lithological variations and fracture network. Adequate resource management is critical to minimize product waste, improve process efficiency and increase its worth along the value chain.Using Unmanned Aerial Vehicles (UAVs), operating at low level flights, equipped with high resolution RGB cameras, GPS and GNSS systems, in addition to real-time differential data (RTK) and GCP, image datasets were acquired to perform 4D reconstructions and interpret highly detailed morphologic and geologic features.We report the results of rock typing obtained from Digital Elevation Models, Orthophotos, Point Clouds and Mesh datasets, such as fracture network characterization and cavity delineation, that provide essential information about penalizing features, mandatory for informed decision-making during exploitation. These include: 1) manual and automated fracture delineation; 2) rock typing; 3) optimization of the exploitation plan, 4) volumetric estimation of land and karst cavities; and 5) stock management.We used segmentation techniques on point clouds to analyze structural discontinuities and identify faults and fractures at different scales, in the quarry extraction fronts. The applied algorithms enable the automatic extraction of geological planes and determine the geometric characteristics of the point cloud. The RGB color variation in the point clouds was also analyzed, enabling the delimitation of areas with different colors, which are generally associated with the degree of rock alteration. This analysis also allows the accurate detection of fracture networks. Results from image analysis allow individualising discrete types of rock and confidently extract fracture networks. The discrete features extracted from the models were subsequently validated with fieldwork at the quarries.Acknowledgements: The authors thank Research Project PRR - Sustainable Stone by Portugal integrated on the Mobilizing Agenda and Fundação para a Ciência e a Tecnologia, I.P. (FCT), Portugal, through the research unit UIDB/04035/2020 - GeoBioTec.
@@ -9286,6 +9493,7 @@ DO  - 10.1136/oemed-2025-epicohabstracts.133
 UR  - https://doi.org/10.1136/oemed-2025-epicohabstracts.133
 AB  - Objective Silicosis, a respiratory disease caused by inhalation of crystalline silica dust, is a major health concern among artificial stone benchtop workers worldwide. A health screening program funded by WorkSafe Victoria (Australia) showed had a high proportion of migrant workers (~50% born overseas) compared to general Australian workforce (30%). In this analysis we compared silicosis prevalence between migrant and non-migrant workers, with further analysis by interpreter use. Material and Methods Data were extracted for persons attending screening between 2019–2024. Australian-born workers were classified as non-migrants and those born elsewhere as migrants. Interpreters were available for the assessment. Prevalence was compared between groups using Poisson regression with robust standard errors adjusting for age, smoking status and exposure duration, and we report risk ratios (RR) with the 95% confidence interval (CI). Results There were 1080 workers, including 536 (50%) migrant workers and 24% of migrant workers used the interpreting service. Majority were men (93%) and median age was 33 (interquartile range (IQR) 27-42) and 39 years (IQR 31-47) among non-migrant and migrant workers, respectively. Silicosis prevalence was higher in migrant than non-migrant workers (23% vs 15%, RR=1.54, 95% CI 1.16–2.04). Prevalence among workers <45years was comparable but in those age ≥45years, prevalence was higher among migrant workers (RR=2.86, 95% CI 1.62-5.06). Migrant workers who used an interpreter had higher silicosis risk than those who did not (32% vs 13%, RR=2.24, 95% CI 1.61-3.10). Conclusions This study showed disproportionate silicosis prevalence by migration status and interpreter use, the latter being a surrogate for language proficiency. It is therefore important for employers and workplace safety policymakers to seriously consider ways to overcome this disparity, and identify the optimum timing for intervening.
 KW  - E6
+KW  - E8
 KW  - E9
 KW  - E10
 ER  - 
@@ -9305,6 +9513,7 @@ DO  - 10.1136/oemed-2025-epicohabstracts.120
 UR  - https://doi.org/10.1136/oemed-2025-epicohabstracts.120
 AB  - Objective Many countries have seen cases of silicosis in workers exposed to dust from artificial stone (AS silicosis). Australia banned the use of this material in 2024. However, little is known about the incidence of AS silicosis in other countries and what approaches are adopted to reduce the risk of silicosis in exposed populations. Material and Methods A survey was distributed to occupational and respiratory health professionals in Europe, to collect information on number of AS silicosis cases , health surveillance and policy initiatives. Results 62 responses were obtained from 20 countries. Twenty respondents from 7 countries reported that AS silicosis cases have been observed, with the number of cases ranging from 5 to 50-100. Ten respondents have seen patients with AS silicosis. Most reported that health surveillance for silicosis was available, but nearly half claimed that health surveillance was not effective in identifying silicosis cases. Research is being carried out, or is the process of being set up, by 9 respondents, and included epidemiological (cross-sectional, case-control) and exposure studies. Others reported that specific health surveillance or case registries were set up. Over 50% of the respondents believed that a ban should be implemented. Only 3 respondents claimed that a ban was being discussed in their country, although other risk management initiatives risk were reported. Eight respondents reported that high silica content AS was being replaced by lower silica content materials. Conclusion Given the widespread use of AS, and likely underdiagnosis of silicosis, it is highly likely the cases of AS silicosis observed to date present only the ‘tip of the iceberg’, and that a sustained effort is required to determine and reduce the risk of working with these materials. Most of the participants were in favour of a ban of the use of engineered stone for kitchen worktops.
 KW  - E3
+KW  - E8
 KW  - E9
 KW  - E10
 ER  - 
@@ -9321,6 +9530,7 @@ DO  - 10.1136/oemed-2025-epicohabstracts.119
 UR  - https://doi.org/10.1136/oemed-2025-epicohabstracts.119
 AB  - Commencing on July 1st 2024, Australia became the first country in the world to prohibit the use of crystalline silica containing artificial stone. Following its introduction in the early 2000s, artificial stone rapidly became the predominant material used to fabricate domestic kitchen and bathroom benchtops in Australia. In 2015, the first Australian stone benchtop worker was reported with silicosis and subsequently extensive workplace, laboratory and epidemiological research has been undertaken in Australia. Workplace studies demonstrated that workers have commonly been exposed to respirable crystalline silica (RCS) far exceeding the regulated exposure standard, both when dry tasks were performed and when water-fed tools were in operation. Even following five years of regulatory compliance activities, over half of workshops investigated recorded one or more worker exposed to RCS above the regulated limit. Experimental studies have demonstrated cutting artificial stone generates high concentrations of very fine particles (< 1 µm) with > 80% respirable crystalline silica content, in the form of quartz and cristobalite. Outcomes from protocolised screening of 544 benchtop workers in Victoria found 117 with silicosis including 21 with progressive massive fibrosis. All were male, with a median age of 42 years and a 12-year median duration of work in the stone benchtop industry. The study also found a high proportion of workers were migrants, including 33% from Asian countries. Compared to CT imaging and respiratory physician diagnosis of silicosis, the sensitivity of spirometric parameters below the lower limit of normal as an indicator of silicosis was very low and chest x-ray with an ILO profusion category ≥1 was modest. Research into many aspects of the stone benchtop industry has been essential to provide an evidence-base leading to the decision by Australian Governments to ban artificial stone with aim of preventing further workers contracting silicosis.
 KW  - E6
+KW  - E8
 KW  - E9
 KW  - E10
 ER  - 
@@ -9341,6 +9551,7 @@ JO  - Occupational and Environmental Medicine
 DO  - 10.1136/oemed-2025-epicohabstracts.117
 UR  - https://doi.org/10.1136/oemed-2025-epicohabstracts.117
 AB  - Objectives Occupational exposure to silica has been long associated with a risk of autoimmune diseases including rheumatoid arthritis and systemic sclerosis. A modern epidemic of silicosis is emerging internationally, associated with dry processing of engineered stone with high (>90%) RCS content. We researched the prevalence of clinical autoimmune disease and common autoantibodies in exposed workers. Material and Methods As part of a free screening programme, current and former stone benchtop industry workers in Victoria, Australia were asked questions and had blood taken for rheumatoid factor (RF), anti-nuclear antibodies (ANAs), and extractable nuclear antigens (ENAs). Results In total,1238 workers (93.3% male) were screened between 2019 and 2021, in whom 0.9% had diagnosed autoimmune disease. Among those without clinical disease, 24.6% had positive ANAs (93.5% male), 4.6% ENAs and 2.6% were RF positive. Positive autoantibodies were associated with age; smoking; exposure to RCS and silicosis diagnosis. Conclusion The proportion of workers with detectable ANAs or ENAs was considerably higher than the 5-9% expected in the general population. Some positive antibodies (e.g., Scl-70, CENPB), are of high sensitivity and specificity for systemic sclerosis. Long-term follow-up will be needed to estimate incidence. Screening for autoimmune disease is indicated in workers exposed to RCS as these individuals need specialised management and may be entitled to compensation.
+KW  - E8
 KW  - E9
 ER  - 
 
@@ -9354,6 +9565,7 @@ UR  - https://doi.org/10.1136/oemed-2025-epicohabstracts.116
 AB  - Objective Cases of artificial stone (AS) silicosis caused by inhalation of respirable crystalline silica dust derived from engineered or artificial stone primarily used in kitchen and bathroom worktops have risen in the last 15 years. This presentation will summarise the global epidemiology of AS silicosis. Methods A literature search was carried out and the findings summarised including data on incidence of AS silicosis, demographics, occupational exposures and clinical outcomes. Results Since first reported in 2010 in Spain, the incidence of AS silicosis has increased rapidly with case series now published from Italy, Israel, Australia, USA, China, Belgium and the UK. The size of the exposed workforce is estimated to be over 100,000 in the USA alone. Over 1000 cases have been reported globally but are likely underestimated with large-scale screening programmes using CT scans identifying a prevalence of up to 28% in exposed workers in Australia. In each country both the epidemic curve and the clinical pictures are strikingly similar. Typically, it affects young male workers in their 30s and 40s working in worktop fabrication and installation roles and who are often migrant workers. Compared with silicosis from natural stone, AS silicosis is associated with a high prevalence of acute and accelerated disease, disease progression to progressive massive fibrosis and need for lung transplant. Key risk factors include dry cutting, inadequate ventilation and inappropriate or no respiratory protection. Emerging clusters have also been linked to small-scale, informal workshops lacking regulatory oversight. Conclusion AS silicosis is a preventable occupational health crisis and cases are likely to continue to rise globally. Under-recognition and under-reporting of cases is likely to be high. Urgent action is required to reduce workers’ exposures and implement comprehensive screening programs to reduce disease burden and prevent further cases.
 KW  - E3
 KW  - E6
+KW  - E8
 KW  - E9
 KW  - E10
 ER  - 
@@ -9374,6 +9586,7 @@ JO  - Occupational and Environmental Medicine
 DO  - 10.1136/oemed-2025-epicohabstracts.313
 UR  - https://doi.org/10.1136/oemed-2025-epicohabstracts.313
 AB  - Objective Engineered stone (ES) associated silicosis has killed young stonemasons around the world. In response, the New Zealand Accelerated Silicosis Assessment Pathway was implemented to ensure asymptomatic workers at risk of early disease are offered free health assessment and support to access services. We are conducting a study which aims to describe the exposure circumstances and health outcomes for all workers on the pathway including a case series of ES-associated silicosis in NZ diagnosed between 2019-24. Material and Methods For all pathway workers, the exposure and healthinformation will be analysed at a descriptive level and related to clinical outcome i.e. current silicosis (yes/no) and/or clinical abnormalities (yes/no), using lung-function, chest x-ray, CT scan, and blood biomarkers. Diagnoses of silicosis are made via a national Silica Multi-Disciplinary Meeting (MDM). To date, we have conducted descriptive analyses of a subset of MDM cases referred to Christchurch hospital since 2019 (reported here) with the full MDM case series being presented at the conference. Results From 222 workers entering the pathway (of ~1000 exposed workers), the majority were aged 25-59 years. About one quarter of these were referred to the MDM which resulted in 26 silica-related disease cases. The Christchurch subset (n=8) included four definite silicosis (one complicated progressive), three possible simple silicosis (with co-existing airways disease) and one silicolymphadenopathy. The age range at diagnosis was 32-62 years with an average duration of working with ES of 9 years (range 3-16; all dry cutting).Five were never smokers and 75% were born outside of NZ.. All but one had normal chest x-rays and spirometry at baseline and stability on CT thereafter. Conclusion This study will describe the first cases of engineered stone-associated silicosis in NZ and despite pathway uptake generally being poor, results will help answer key questions related to health outcomes of respirable crystalline silica exposure.
+KW  - E8
 KW  - E9
 ER  - 
 
@@ -9390,6 +9603,7 @@ JO  - Occupational and Environmental Medicine
 DO  - 10.1136/oemed-2025-epicohabstracts.118
 UR  - https://doi.org/10.1136/oemed-2025-epicohabstracts.118
 AB  - This exposure assessment was in support of the Artificial Stone worker screening program funded by the Victorian Regulator. The major determinants of RCS exposure were likely to be the proportion of time working on AS, the proportion of time dry processing. For each job, the participants were asked to estimate the proportion of time spent doing dry work and the proportion of time spent near someone else doing dry work for each job and the proportion of work on AS vs natural stone. These parameters were used to derive intensity of exposure to RCS which was used to weight duration of exposure. The ventilation and RPE were not included in the exposure metric. The values used to weight the exposure estimate by intensity of exposure were chosen a priori. We used a 10-fold weighting for dry versus wet work (HSE 2001). Data from four workplaces where granite was being cut showed that changing from dry to wet cutting reduced 8-h TWA exposure by approximately an order of magnitude (Simcox et al., 1999). A similar 10-fold reduction in exposure was seen between wet and dry cutting of AS (Cooper et al., 2015). A weighting factor of 0.3 was used to account for the difference between all natural stone and all AS work. AS typically contains over 90% silica content compared to granite with 30% silica and marble of about 2% silica. The job intensity correlated well with the reported jobs e.g. installer vs machinist vs CNC machine operator. This led to the development of a decision tree grouping workers by specific job types. For individuals, weighted cumulative exposure was calculated by multiplying job exposure intensity values by duration for each job and then adding together the results of all jobs. Averaged exposure intensity was calculated the weighted cumulative exposure by the duration of exposure summed over all reported jobs and this predicted risk of silicosis.
+KW  - E8
 KW  - E9
 KW  - E10
 ER  - 
@@ -11397,6 +11611,18 @@ KW  - E11
 ER  - 
 
 TY  - JOUR
+TI  - Contribution à L’étude Des Carrières Antiques De L’algérie Etat Des Connaissances Et Cas D’étude
+AU  - Baya Bennoui Ladraa
+PY  - 2025
+JO  - Revue d'Histoire Méditerranéenne
+UR  - https://univ-bejaia.dz/revue/rhm/article/view/597
+AB  - Algeria, rich in ancient monuments, is home to numerous remnants of stone quarries that were exploited by builders of the time for architectural purposes, ornamental, funerary or liturgical furnishings, sculpture, and various elements used in daily life, such as in olive cultivation or viticulture. However, research on this topic in Algeria remains regrettably incomplete In this contribution, we aim to address a central question: how can Algeria’s ancient quarries be identified, and what essential role did they play in architecture, stone craftsmanship, and the economy? We also seek to understand how these quarries were exploited and their impact on construction techniques and the socioeconomic life of the time. The purpose of this research is to present the current state of knowledge on the subject, to identify ancient Algerian quarries, and to analyze extraction techniques and the tools used. From an anthropological perspective, the study explores the social organization and status of those involved in the production hierarchy, starting from the stone extraction process. Economically, this research highlights the existence of a flourishing network for the trade of construction materials across the Mediterranean basin—especially Algerian marble, which was used both structurally and ornamentally in renowned Mediterranean cities. At the same time, we must acknowledge the deterioration and even disappearance of many ancient quarries due to both climatic conditions and human activity. Therefore, beyond its scientific and historical value, this heritage must be documented and preserved, as it remains both undervalued and endangered. To achieve these objectives, we have adopted a methodology based on the study of historical and archaeological data related to quarry sites and their operation, as well as the analysis of anthropological implications through the traces left by quarrying activities. The research focuses in particular on the quarry of Thubunae (Tobna), which played a key role in the urban development of the region by supplying construction materials to nearby towns and villages. Archaeological artifacts from sites such as Cuicul (Djemila) are also examined to illustrate the quarrying techniques used. This research contributes to the documentation of Algeria’s ancient quarries, which had a significant impact on the development of Mediterranean cities. It reveals that the geological wealth of Algerian soil not only fostered human settlement and urban prosperity, but also made quarries pillars of economic, artistic, and technical exchange.
+KW  - E1
+KW  - E6
+KW  - E7
+ER  - 
+
+TY  - JOUR
 TI  - Contribution à l’étude des carrières antiques de l’Algérie Etat des connaissances et cas d’étude : A Contribution to the study of ancient quarries in Algeria: Current knowledge and case studies
 AU  - BENNOUI LADRAA Baya
 PY  - 2025
@@ -11542,6 +11768,7 @@ AU  - A. Cavallo
 AU  - Susanna Mancini
 AU  - Elio Padoan
 PY  - 2025
+JO  - EGU General Assembly Conference Abstracts
 DO  - 10.5194/egusphere-egu25-19246
 UR  - https://doi.org/10.5194/egusphere-egu25-19246
 AB  - Critical raw materials (CRM) supply is a challenge that EU countries face, also investing in domestic supplies from mineral ore deposits and from anthropogenic deposits (namely landfills and extractive waste facilities).This research focuses on the possibilities related to the supply of RM and CRM, with a focus on rare earth elements (REE), through the examination of a large number of mineral waste and siliceous rocks in the Piedmont region (northern Italy). Recovery of REE from extractive waste (EW) associated with silicate ornamental rock quarries (gneiss, granites and diorite) and other silicate deposits (i.e. kaolin gneiss) may be strategic to reduce the risks in the CRM/RM supply chain. Starting from a review of the literature on mining activities in Piedmont, and continuing with the sampling and the geochemical, mineralogical, petrographic and environmental characterization of EW in selected EW facilities linked to silicate ornamental rocks, kaolin sands and soils present near the investigated area, this research focuses on the evaluation of quantity and quality of potential REEs present in waste facilities and on the chance to concentrate (thanks to physical and chemical processing) REEs present in the minerals associated to the main exploitable minerals (merely quartz and feldspar for ceramic industry).The percentage of REE in some of the samples analysed seems to meet the needed requirements, necessary to think about their exploitation. The high production of waste in some areas (i.e. gneiss-Pietra di Luserna) or the presence of large deposits (Kaolinized gneiss present in the Monte Bracco area), seem to indicate a viable prospect of recovery of REE from EW. However, the industrial scale exploitation of REE faces challenges such as the difficulty of achieving efficient recovery on a large scale, mainly due to regional differences in the abundance of REE, and the discrepancy between potential market value and annual waste production.The management of EW of quarry can be set up in such a way that it takes advantage of the different degrees of enrichment and distribution of the elements. This research describes the investigation procedures for determining the potential of CRM and environmental problems, the procedures for estimating the quantities of waste and the provisional economic values of REE in the investigated areas, and the first results connected to the mineral processing of selected (and richer) EW samples. This approach, tested on a wide area (the Piedmont region), is replicable and applicable to other similar case studies (at EU and non-UE level) and offers governance and decision makers an overview of potential resources available. This information are useful to decide whether and where to focus efforts (including the economic ones) on a more detailed study to assess the anthropogenic deposits that can be exploited.
@@ -11841,6 +12068,22 @@ KW  - E11
 ER  - 
 
 TY  - JOUR
+TI  - Design e sustentabilidade: ecojoias maranhenses
+AU  - Kírio Alexandre da Silva Lopes
+AU  - Letícia Maria Muniz Lobo
+AU  - Gisele Reis Correa Saraiva
+AU  - Denílson Moreira Santos
+PY  - 2025
+DO  - 10.29327/9786527215165.1007539
+UR  - https://doi.org/10.29327/9786527215165.1007539
+AB  - O setor de rochas ornamentais no Brasil enfrenta desafios ambientais devido ao excesso de resíduos gerados pela mineração. Este projeto propõe uma solução sustentável através do design de ecojoias, aproveitando resíduos de marmorarias de São Luís - MA. A pesquisa incluiu mapeamento e análise dos materiais, revelando sua viabilidade para a criação de produtos inovadores que valorizam a cultura e a identidade do território maranhense. O desenvolvimento das ecojoias envolveu técnicas como corte e inlay, resultando em peças funcionais e estéticas, as quais foram apresentadas na exposição “Natureza lapidada”, visando testar a aceitação do público e explorar seu potencial no mercado. O projeto destaca o papel do design sustentável na mitigação de impactos ambientais e na geração de oportunidades econômicas, promovendo uma cultura de reutilização criativa e consciente.
+KW  - E3
+KW  - E6
+KW  - E7
+KW  - E8
+ER  - 
+
+TY  - JOUR
 TI  - Determinação da tenacidade à fratura em rochas graníticas por entalhes não singulares e curva-R
 AU  - Gustavo Henrique Barreto Amaral
 AU  - Jeanderson Colodete Sessa
@@ -11908,7 +12151,9 @@ JO  - Research Square
 DO  - 10.21203/rs.3.rs-7858452/v1
 UR  - https://doi.org/10.21203/rs.3.rs-7858452/v1
 AB  - Abstract To maximize the utilization of Mg-rich natural resources for CO 2 removal (CDR), an integrated strategy has been proposed that focuses on synthesizing reactive CDR materials aimed at both climate change mitigation and environmental sustainability. This study demonstrates the use of lizardite-rich natural feedstock, an abundant and accessible resource, combined with industrial marble waste. Through thermal treatment at elevated temperatures, this mixture yields a reactive CDR material primarily composed of forsterite and lime. Carbonation experiments of the synthesized material show complete transformation of lime into calcite and substantial weathering of forsterite into hydrated and carbonated secondary minerals. Compared to the Ca₂SiO₄ + MgO system, the synthesized material exhibits higher eco-efficiency with comparable CO₂ sequestration, storing ~ 21% as CaCO₃ and ~ 6% as MgCO₃ in 30 days versus ~ 25% and ~ 5% over 7 weeks (Chen and Kanan 2025), while promoting sustainable industrial waste valorization. Additionally, forsterite is more suitable for ocean alkalinity enhancement applications, whereas Ca₂SiO₄ is better aligned with use in the cement industry. Taken together, we propose that our material has strong potential for large-scale deployment in ex-situ carbon mineralization, ocean alkalinity enhancement, soil amendment, industrial point-source capture, and in-situ geological carbonation. This potential depends on developing sustainable infrastructure to capture CO₂ emissions from material synthesis.
+KW  - E1
 KW  - E8
+KW  - E11
 ER  - 
 
 TY  - JOUR
@@ -13761,6 +14006,7 @@ DO  - 10.2991/978-94-6463-728-1_8
 UR  - https://doi.org/10.2991/978-94-6463-728-1_8
 AB  - Alkali-activated concrete is a new type of environmentally friendly building material.The use of industrial waste marble powder to prepare alkaliactivated concrete can reduce energy consumption.This study investigates the fracture properties of waste marble powder-slag-based alkali-activated concrete (WSAAC) by varying the modulus of alkali activators, sodium oxide content, and slag content through three-point bending tests, while analyzing crack development paths using DIC technology.The initial fracture toughness and unstable fracture toughness of WSAAC are positively correlated with its compressive strength.The fracture energy of WSAAC increases initially and then decreases with an increase in the modulus of alkali activators.Moreover, the fracture energy exhibits a gradual increase with higher sodium oxide and slag content.
 KW  - E8
+KW  - E11
 ER  - 
 
 TY  - JOUR
@@ -13920,6 +14166,21 @@ KW  - E1
 KW  - E3
 KW  - E7
 KW  - E8
+ER  - 
+
+TY  - JOUR
+TI  - Geodiversidade da Praça Dom Pedro II – A valorização do Patrimônio Geocultural
+AU  - Melrian Fernandes Vasconcelos
+AU  - Roberto Cesar de Mendonça Barbosa
+PY  - 2025
+DO  - 10.29327/xxxiii-conic.1039253
+UR  - https://doi.org/10.29327/xxxiii-conic.1039253
+AB  - A utilização de roteiros da geodiversidade tem ganhado importância na divulgação e promoção da geoinformação em centros urbanos por meio de rochas de revestimento com conteúdo fossilífero observáveis macroscopicamente, conhecidas como Calcário Lioz. Nos últimos anos a UFAM tem se destacado no cenário nacional com a elaboração desses produtos na cidade de Manaus. Embora já existam pesquisas sobre o material pétreo do Centro histórico da cidade, como por exemplo Teatro Amazonas e Catedral Metropolitana de Manaus, ainda não há estudos sobre a geodiversidade presente na Praça Dom Pedro II, tão pouco roteiros geoturísticos que englobam aspectos históricos, culturais e geológicos. Diante disso, foram realizados trabalhos de inventariação e georreferenciamento dos principais elementos de geodiversidade, modelamento 3D e a produção do roteiro geoturístico do conjunto arquitetônico da praça. A catalogação realizada permitiu a classificação do Calcário Lioz em Mudstone e Wackstone, além da identificação de 5 exemplares fóssil do Filo Mollusca, separados em duas classes: (1) Gastropodas (Nerinea, Turritella e Tylostoma), (2) Bivalves (Caprinulidae e Radiolitedae) e; 1 icnofóssil do icnogênero Thalassinoide. Os exemplares de gastrópodes e icnofósseis foram mais bem observados no calçamento, enquanto os registros dos bivalves apresentam maior grau de preservação na parte interna do coreto localizado no interior da praça. Ademais, os fósseis apresentam majoritariamente cortes transversais e longitudinais com cavidades preenchidas pela matriz da rocha carbonática. Dentre as 31 ocorrências fossilíferas mapeadas na praça, foram selecionados 10 pavimentos fossilíferos mais didáticos para compor o roteiro geoturístico. Sendo assim, a identificação deste conteúdo fossilífero na Praça Dom Pedro II se configura como um grande potencial turístico que integrado a roteiro geoturístico e o modelamento 3D, resultam em um produto didático e criativo que pode ser aproveitado por turistas, além de ampliar a valorização do patrimônio histórico cultural e incentivar a necessidade da geoconservação perante a sociedade local.
+KW  - E1
+KW  - E6
+KW  - E7
+KW  - E8
+KW  - E10
 ER  - 
 
 TY  - JOUR
@@ -14319,6 +14580,7 @@ TY  - JOUR
 TI  - Guide for Assessment and Maintenance of Exterior Dimension Stone Masonry Walls and Facades
 AU  - C18 Committee
 PY  - 2025
+JO  - ASTM Standards
 DO  - 10.1520/c1496-18r25
 UR  - https://doi.org/10.1520/c1496-18r25
 AB  - Significance and Use 4.1 This guide attempts to provide information to assist building owners and managers with limited knowledge of stone construction to recognize basic problems with performance of facades, and to keep them in good condition through per
@@ -14329,6 +14591,7 @@ TY  - JOUR
 TI  - Guide for Selection, Design, and Installation of Dimension Stone Attachment Systems
 AU  - C18 Committee
 PY  - 2025
+JO  - ASTM Standards
 DO  - 10.1520/c1242-25a
 UR  - https://doi.org/10.1520/c1242-25a
 KW  - E7
@@ -17083,6 +17346,7 @@ AU  - Édgar Berrezueta
 AU  - David Benavente
 AU  - Tímea Kovács
 PY  - 2025
+JO  - EGU General Assembly Conference Abstracts
 DO  - 10.5194/egusphere-egu25-17798
 UR  - https://doi.org/10.5194/egusphere-egu25-17798
 AB  - Rock erodibility is an intrinsic property defined as the vulnerability of a rock to erosion (Martínez-Martínez et al., 2024; doi: 10.1201/9781003429234-177). Intuitively, erodibility is a key concept in cultural heritage conservation, especially in studies concerning the exposure of building materials to wind, rain, hail, and human activity. However, research on its implications for heritage conservation remains scarce.Abrasion resistance of rocks is a property routinely measured in geomechanical laboratories and it offers a practical approach to assessing the erosion susceptibility of the material. Two standardized methods, the Böhme abrasion test and the Wide Wheel Abrasion test, are widely used to evaluate abrasion resistance in dimension stones. However, these methods require both large and numerous samples, rendering them unsuitable for cultural heritage studies, where sampling is severely limited. To overcome this limitation, a modified version of the Böhme abrasion test is proposed. This adaption uses a plate grinding machine commonly employed for preparing rock thin sections, making the procedure widely accessible in geoscience laboratories.The standardized Böhme Abrasion test requires cubic samples of 71 mm size, place on a grinding plate and subjected to an abrasive load of 294N for 16 cycles of 22 turns each. Wear is calculated from the loss in volume and weight. In contrast, the modified procedure uses smaller prismatic samples (20×30×30 mm) and a plate grinding machine operating at 30 cycles per minute under a load of 0.02 N/mm². Sample dimensions and weight are measured at the beginning of the test. Each sample is abraded for 15 minutes on two perpendicular surfaces, and the final dried weight is recorded (Martínez-Martínez et al., 2017; doi: 10.1016/j.buildenv.2017.05.034). Material loss is quantified as the modified Böhme Abrasion Loss (mBAL), calculated using the equationmBAL = ΔV = Δm/ρbwhere ΔV is the volume loss (in mm3); Δm is the mass difference (in g); and ρb is the bulk density of the rock.This modified procedure was validated using a variety of commercial dimension stones, including limestones, marbles, travertines, tuffs, calcarenites, calcirrudites, sandstones, quartzites and slates. Results where compared to those obtained with the standardized Wide Wheel Abrasion test on the same rock types. A strong correlation (R2=0.87) was observed between the two methods, expressed by the equationmBAL = 8.9 Tww – 86.5where Tww the wear trace measured in the Wide Wheel Abrasion Test.This modified approach offers a viable solution for assessing erosion susceptibility in heritage contexts, enabling reliable quantification with minimal material requirements. It offers a valuable tool for developing effective conservation strategies for cultural heritage.This work was supported by grant numbers PID2020-116896RB-C21 and PID2020-116896RB-C22 funded by MCIN/AEI/ 10.13039/501100011033
@@ -17471,6 +17735,7 @@ AU  - Antonello Aquilano
 AU  - Elena Marrocchino
 AU  - Carmela Vaccaro
 PY  - 2025
+JO  - EGU General Assembly Conference Abstracts
 DO  - 10.5194/egusphere-egu25-11956
 UR  - https://doi.org/10.5194/egusphere-egu25-11956
 AB  - In May 2024, the European Union introduced the Critical Raw Materials Act, a policy framework aimed at addressing the increasing demands for Critical Raw Materials and reducing dependence on external suppliers. In this context, this research focuses on the potential recovery of critical raw materials from ornamental granite extraction scraps produced at a quarry in Buddusò, Sardinia, Italy.The volume and mass of the granite waste accumulated in the designated disposal zones of the quarry were estimated using Geographic Information Systems and Digital Elevation Models. Subsequently, the characterization of the granite waste by Scanning Electron Microscopy confirmed the presence of allanite, a rare earth mineral rich in light rare earth elements, such as cerium, lanthanum, and neodymium. Following that, a combination of gravity and magnetic separation techniques was used to recover enriched fractions containing significant amounts of rare earth elements, scandium and gallium, with concentrations that could be economically relevant for industrial applications.This study highlights the economic potential of REEs recovery from granite extractive waste and assesses the feasibility of integrating these processes into broader industrial contexts. Preliminary market analysis indicates that, under optimized operating conditions, the recovery of critical raw materials from this type of waste could achieve significant profitability. The extension of such studies to other quarries in the region could provide a robust basis for the creation of a district recycling hub, in line with the European Union's objective of improving the resilience and sustainability of its critical raw materials supply chain.
@@ -18157,6 +18422,8 @@ JO  - Research Square
 DO  - 10.21203/rs.3.rs-8007311/v1
 UR  - https://doi.org/10.21203/rs.3.rs-8007311/v1
 AB  - Abstract Use of marble for various decorative purposes is most common practice in construction industry. But in this process during various operations like cutting, polishing etc., the large amount of waste is generated which is hazardous to the environment. Marble waste affects the fertility of soil and causes soil pollution. Hence proper disposal is required for marble waste or it can be reused in various activities. Concrete is the mixture of cement, fine aggregate and coarse aggregate. Marble is the metamorphic rock having specific gravity is about 2.6 to 2.8 which is nearly similar to the normal aggregates. Hence the waste marble particles can be used in the concrete as partial replacement for fine aggregates. This study represents the results of compressive strength of concrete at various percentage of replacement of fine aggregates with waste marble particles. It is found that the use optimum percentage of marble waste gives the good compressive strength which in nearly about 95% of design strength. Reuse of marble waste will help to reduce the burden on environment.
+KW  - E3
+KW  - E7
 KW  - E8
 ER  - 
 
@@ -18445,6 +18712,7 @@ TY  - JOUR
 TI  - Standard Guide for Selection, Design, and Installation of Exterior Dimension Stone Paving Systems
 AU  - C18 Committee
 PY  - 2025
+JO  - ASTM Standards
 DO  - 10.1520/c1950_c1950m
 UR  - https://doi.org/10.1520/c1950_c1950m
 KW  - E7
@@ -19252,6 +19520,7 @@ TY  - JOUR
 TI  - Test Method for Flexural Strength of Dimension Stone
 AU  - C18 Committee
 PY  - 2025
+JO  - ASTM Standards
 DO  - 10.1520/c0880_c0880m-25
 UR  - https://doi.org/10.1520/c0880_c0880m-25
 AB  - Significance and Use 4.1 This test method is useful in indicating the differences in flexural strength between the various dimension stones. This test method also provides one element in comparing stones of the same type.Scope 1.1 This test method covers
@@ -19262,6 +19531,7 @@ TY  - JOUR
 TI  - Test Method for Modulus of Rupture of Dimension Stone
 AU  - C18 Committee
 PY  - 2025
+JO  - ASTM Standards
 DO  - 10.1520/c0099_c0099m-25
 UR  - https://doi.org/10.1520/c0099_c0099m-25
 KW  - E11
@@ -19271,6 +19541,7 @@ TY  - JOUR
 TI  - Test Methods for Absorption and Bulk Specific Gravity of Dimension Stone
 AU  - C18 Committee
 PY  - 2025
+JO  - ASTM Standards
 DO  - 10.1520/c0097_c0097m-25
 UR  - https://doi.org/10.1520/c0097_c0097m-25
 KW  - E11
@@ -20356,6 +20627,7 @@ TI  - Utilizing Granite Waste for Sustainable Construction
 AU  - Pravin Minde
 AU  - Jagruti Patil
 PY  - 2025
+JO  - Wiley eBooks
 DO  - 10.1002/9781394293032.ch2
 UR  - https://doi.org/10.1002/9781394293032.ch2
 AB  - Sustainability hinges on the concept of recovery, which emphasizes the highest potential of an object to be recycled and reused, thereby providing optimal opportunities for sustainable development. This approach, often termed a zero-waste strategy, is central to sustainable development goals. Across various industries, including civil engineering, there is a growing emphasis on using recyclable materials. However, modern construction methods often rely heavily on energy-intensive materials. Hence, there is a pressing need to adopt materials with lower embodied energy to reduce the environmental impact of construction activities. From the very old period of civilization, marble and granite have been used as a material for construction. Granite is impermeable and has good resistance to abrasion along with its aesthetic properties. As a result, granite can subdue many construction materials for various indoor as well as outdoor applications, such as ceramics in indoor paving; and concrete and asphalt in outdoor paving. In the modern context, the disposal of granite and marble dust has caused land and air pollution because of the conversion of fine particles to particulate matter. The extraction process often referred to as downstream activity results in a major waste of the material. It has been found that only 75% of the original marble is obtained and the rest of it results in waste material. The waste material in the form of dust particles tends to cause various deadly diseases like respiratory disorders and decrease the average human life within that locality. The raw materials used for manufacturing AAC blocks are fine silica sand; Class F fly ash; Ordinary Portland cement; calcined lime; gypsum; expansive agents such as finely ground aluminum powder and portable water. The chapter includes experimental results obtained after the fine silica sand has been replaced by percentages of waste granite dust. To carry out the proposed study cubes of concrete with varying partial replacement of cement with WMP are cast and tested. Cement is replaced by marble dust at 0, 5, 10 and 15% by weight. All specimens are tested for 28 days of strength. Various tests are conducted on all cubes. The chapter majorly focuses on the application of granite dust as partial replacement sand in Autoclave Aerated Blocks as well as concrete blocks. The waste improves strength, flexibility, resistance to an acidic environment, and other characteristics. Using granite dust as a replacement for sand offers economic construction, less embodied energy, quality of modified material, and less pollution on earth.
