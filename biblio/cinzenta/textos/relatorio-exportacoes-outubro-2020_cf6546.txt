@@ -144,11 +144,9 @@ Outras rochas (ardósia e similares)                                          35
 
 
 Faturamento brasileiro no mês
-
-
-
-
                                                                                                                                                                                                        68.619.644
+
+
                                                                                                                                                                                         52.565.089
 80.000.000
 70.000.000
@@ -156,38 +154,14 @@ Faturamento brasileiro no mês
 50.000.000
 
 
-
-
                                                                                        14.811.754
 40.000.000
 
-
-
-
                                                                                                              12.323.267
-
-
-
-
                                                                                                                                                                   8.099.199
 30.000.000
-
-
-
-
-                                                                                                                                             4.650.956
-
-
-
-
-                                                                                                                                                                                                                                      4.098.027
-                                                                                                                                                                                                                          3.950.845
-                                                         1.996.618
-                                  1.490.954
-
-
-
-
+                                                                                                                                             4.650.956                                                                    3.950.845   4.098.027
+                                  1.490.954              1.996.618
 20.000.000
 10.000.000
            0
@@ -201,42 +175,20 @@ Faturamento brasileiro no mês
 
 
 Peso brasileiro exportado no mês
-
                                                                                                                                                                                                        95.704
 120.000
-                                                                                                                                                                                       73.227
-                                                                                   70.984
 
-
-
-
+                                                                                   70.984                                                                                              73.227
 100.000
-                                                                                                         62.281
 
-
-
-
- 80.000
+ 80.000                                                                                                  62.281
 
  60.000
 
-
-
-
-                                                                                                                                                                                                                                        11.952
-                                                                                                                                                                                                                           11.239
+                                                                                                                                                                                                                           11.239       11.952
  40.000
-                                                                                                                                                             8.735
-                                                                                                                                        5.057
-                          4.502
-
-
-                                                 4.502
-
-
-
-
- 20.000
+                                                                                                                                        5.057                8.735
+ 20.000                   4.502                  4.502
 
        0
                Blocos de mármores e                                    Blocos de granitos e                                   Chapas e outras peças de Chapas e outras peças de                                     Outras rochas (ardósia e
@@ -249,50 +201,16 @@ Peso brasileiro exportado no mês
 
 
 Preço médio no mês
-                                                                                                                                                         927,21
-                                                                                                                                    919,71
-
-
-
-
+                                                                                                                                    919,71               927,21
 1000
-                                                                                                                                                                                     717,84
-
-
-                                                                                                                                                                                                     717,00
-
-
-
-
+                                                                                                                                                                                     717,84          717,00
  800
+
                                         443,50
-
-
-
-
-                                                                                                                                                                                                                           351,53
-
-
-                                                                                                                                                                                                                                       342,87
-
-
-
-
+                                                                                                                                                                                                                           351,53      342,87
  600
                  331,18
-
-
-
-
-                                                                          208,66
-
-
-                                                                                                    197,87
-
-
-
-
- 400
+ 400                                                                      208,66                    197,87
 
  200
 
@@ -394,47 +312,19 @@ Preço médio no mês
 
 
 Faturamento brasileiro no acumulado do ano
-
-
-
-
                                                                                                                                                                                                               594.588.661
-
-
                                                                                                                                                                                                                                 538.055.491
 700.000.000
 600.000.000
 500.000.000
 
 
-
-
-                                                                                                   161.290.104
-
-
-                                                                                                                               149.981.004
+                                                                                                   161.290.104                 149.981.004
 400.000.000
 300.000.000
 
-
-
-
-                                                                                                                                                                                      56.458.497
-                                                                                                                                                               52.367.410
-
-
-
-
-                                                                                                                                                                                                                                                     43.055.727
-
-
-                                                                                                                                                                                                                                                                  39.393.814
-                                                              14.128.799
-                                     13.027.093
-
-
-
-
+                                                                                                                                                               52.367.410             56.458.497                                                     43.055.727   39.393.814
+                                     13.027.093               14.128.799
 200.000.000
 100.000.000
              0
@@ -448,43 +338,17 @@ Faturamento brasileiro no acumulado do ano
 
 
 Peso brasileiro exportado no acumulado do ano
-                                                                                                                                                                                                           822.780
-                                                                                                                     801.384
-
-
-
-
-                                                                                                                                                                                                                             794.797
+                                                                                                                     801.384                                                                               822.780           794.797
                                                                                          780.689
-
-
-
-
 900.000
 800.000
 700.000
 600.000
 500.000
 400.000
-
-
-
-                                                                                                                                                                                                                                                    118.480
-
-
-                                                                                                                                                                                                                                                                  113.058
-300.000
-                                                                                                                                                                                63.488
-                                                                                                                                                      52.737
-                            38.872
-
-
-                                                     32.284
-
-
-
-
-200.000
+300.000                                                                                                                                                                                                                                             118.480       113.058
+                            38.872                                                                                                                    52.737                    63.488
+200.000                                              32.284
 100.000
       0
             Blocos de mármores e similares Blocos de granitos e similares                                                                     Chapas e outras peças de                             Chapas e outras peças de                   Outras rochas (ardósia e
@@ -497,53 +361,17 @@ Peso brasileiro exportado no acumulado do ano
 
 
 Preço médio no acumulado do ano
-                                                                                                                                                   992,99
-
-
-
-
-1200
+1200                                                                                                                                               992,99
                                                                                                                                                                              889,28
-
-
-
-
                                                                                                                                                                                                          722,66
-
-
-
-
 1000
                                                                                                                                                                                                                             676,97
-
-
-
-
  800
                                             437,64
-
-
-
-
-                                                                                                                                                                                                                                                    363,40
-
-
-                                                                                                                                                                                                                                                                  348,44
-                   335,13
-
-
-
-
  600
-                                                                                    206,60
+                   335,13                                                                                                                                                                                                                           363,40        348,44
+ 400                                                                                206,60                       187,15
 
-
-                                                                                                                 187,15
-
-
-
-
- 400
  200
    0
           Blocos de mármores e similares                                   Blocos de granitos e similares                                    Chapas e outras peças de                              Chapas e outras peças de                   Outras rochas (ardósia e
@@ -632,18 +460,10 @@ Outras rochas (ardósia e similares)                   -                  -     
 
 
 Faturamento capixaba no mês
-
-
-
-
                                                                                                                                                                                                                            65.523.875
 70.000.000
 
-
-
-
-                                                                                                                                                                                                   49.715.116
-60.000.000
+60.000.000                                                                                                                                                                                         49.715.116
 
 50.000.000
 
@@ -652,31 +472,12 @@ Faturamento capixaba no mês
 30.000.000
 
 
-
-
-                                                                                                                                                                  7.707.074
-                                                                                      6.930.239
-
-
-
-                                                                                                             6.008.961
-
-
-
-
+                                                                                      6.930.239              6.008.961                                            7.707.074
                                                                                                                                             4.435.947
 20.000.000
-                                                       1.886.678
-                                1.446.017
 
-
-
-
-                                                                                                                                                                                                                                             17.698
-
-
-
-                                                                                                                                                                                                                                                          3.270
+                                1.446.017              1.886.678
+                                                                                                                                                                                                                                             17.698       3.270
 10.000.000
 
           0
@@ -690,48 +491,22 @@ Faturamento capixaba no mês
 
 
 Peso capixaba exportado no mês
-
                                                                                                                                                                                                                   91.614
 100.000
  90.000
-                                                                                                                                                                                          69.779
+ 80.000                                                                                                                                                                                   69.779
 
-
-
- 80.000
  70.000
-                                                                             45.446
-
-
-
-
- 60.000
+ 60.000                                                                      45.446
                                                                                                     40.461
-
-
-
-
  50.000
  40.000
  30.000
                                                                                                                                                           8.425
-                                                                                                                                    4.907
-                        4.354
-
-
-
-                                               4.084
-
-
-
-
+                        4.354                  4.084                                                                                4.907
  20.000
- 10.000
-                                                                                                                                                                                                                                        28
-
-
-
-     0                                                                                                                                                                                                                                                3
+ 10.000                                                                                                                                                                                                                                 28            3
+     0
               Blocos de mármores e similares                        Blocos de granitos e similares                           Chapas e outras peças de                          Chapas e outras peças de granitos Outras rochas (ardósia e similares)
                                                                                                                               mármores e similares                                        e similares
 
@@ -742,56 +517,21 @@ Peso capixaba exportado no mês
 
 
  Preço médio no mês - ES
-                                                                                                                                                        914,79
-                                                                                                                                  904,00
-
-
-
-
+                                                                                                                                  904,00                914,79
  1000
-                                                                                                                                                                                                                715,22
-                                                                                                                                                                                        712,47
 
-
-
-
+                                                                                                                                                                                        712,47                  715,22
   900
   800
   700
-                                            461,97
+  600                                       461,97
 
-
-
-
-  600
                      332,11
-
-
-
-
   500
   400
-                                                                           152,49
-
-
-
-                                                                                                  148,51
-
-
-
-
-  300
+  300                                                                      152,49                 148,51
   200
-  100
-                                                                                                                                                                                                                                        -
-
-
-
-                                                                                                                                                                                                                                                      -
-
-
-
-
+  100                                                                                                                                                                                                                                   -             -
     0
           Blocos de mármores e similares                           Blocos de granitos e similares                           Chapas e outras peças de                          Chapas e outras peças de granitos Outras rochas (ardósia e similares)
                                                                                                                              mármores e similares                                        e similares
@@ -879,13 +619,8 @@ Outras rochas (ardósia e similares)                        500,06         -    
 
 
 
-
                                                                                                                                                                                                           565.108.258
 Faturamento capixaba no acumulado do ano
-
-
-
-
                                                                                                                                                                                                                            510.479.321
 600.000.000
 
@@ -901,28 +636,14 @@ Faturamento capixaba no acumulado do ano
 
 
 
-                                                                                                                               81.250.641
-                                                                                                    79.730.934
+                                                                                                    79.730.934                 81.250.641
 200.000.000
 
-
-
-
-                                                                                                                                                                                  54.408.763
-                                                                                                                                                           50.359.601
-                                                               12.997.876
-                                      9.497.063
-
-
-
-
+                                                                                                                                                           50.359.601             54.408.763
+                                      9.497.063                12.997.876
 100.000.000
+                                                                                                                                                                                                                                               53.506   120.849
 
-
-
-
-                                                                                                                                                                                                                                                        120.849
-                                                                                                                                                                                                                                               53.506
              0
                  Blocos de mármores e similares Blocos de granitos e similares                                                                 Chapas e outras peças de                         Chapas e outras peças de                 Outras rochas (ardósia e
                                                                                                                                                 mármores e similares                              granitos e similares                          similares)
@@ -932,26 +653,16 @@ Faturamento capixaba no acumulado do ano
 
 
 Peso capixaba exportado no acumulado do ano
-
                                                                                                                                                                                                       784.719
 900.000
-
-
-
                                                                                                                                                                                                                          758.712
 800.000
+
+
                                                                                                                      579.784
-
-
-
-
 700.000
-                                                                                          516.282
 
-
-
-
-600.000
+600.000                                                                                   516.282
 
 500.000
 
@@ -960,25 +671,9 @@ Peso capixaba exportado no acumulado do ano
 300.000
 
 200.000
-                                                                                                                                                                            61.615
-                                                                                                                                                     51.199
-                             29.865
-
-
-                                                      28.479
-
-
-
-
-100.000
-                                                                                                                                                                                                                                               107
-
-
-                                                                                                                                                                                                                                                        246
-
-
-
-
+                                                                                                                                                     51.199                 61.615
+100.000                      29.865                   28.479
+                                                                                                                                                                                                                                               107      246
        0
              Blocos de mármores e similares Blocos de granitos e similares                                                                   Chapas e outras peças de                          Chapas e outras peças de                  Outras rochas (ardósia e
                                                                                                                                               mármores e similares                               granitos e similares                           similares)
@@ -991,50 +686,21 @@ Peso capixaba exportado no acumulado do ano
 Preço médio no acumulado do ano - ES
 1200
                                                                                                                                                   983,61
+1000                                                                                                                                                                     883,04
 
 
-                                                                                                                                                                         883,04
-
-
-
-
-1000
                                                                                                                                                                                                      720,14
+ 800                                                                                                                                                                                                                    672,82
 
 
-                                                                                                                                                                                                                        672,82
-
-
-
-
- 800
                                                                                                                                                                                                                                                500,06
-                                             456,40
+ 600                                         456,40
 
-
-
-
- 600
                     318,00
-
-
-
-
  400
-                                                                                     154,43
-
-
-                                                                                                                 140,14
-
-
-
-
+                                                                                     154,43                      140,14
  200
                                                                                                                                                                                                                                                         -
-
-
-
-
    0
            Blocos de mármores e similares                                   Blocos de granitos e similares                                  Chapas e outras peças de                           Chapas e outras peças de                  Outras rochas (ardósia e
                                                                                                                                              mármores e similares                                granitos e similares                           similares)
@@ -1176,64 +842,15 @@ Principais Mercados
 
 
                                                                                    12
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ES
+                                                                                                                                                                                          BA                                                                                                CE                                                                                                         MG                                                                                                                       ES
 
 
 
 
-                                                                                                                                                                                                                                                                                            CE
+                                                                                                                             -     100.000   200.000   300.000   400.000   500.000    600.000              -   100.000   200.000   300.000   400.000   500.000   600.000   700.000    800.000
+                                                                                                                                                                                                                                                                                                            -   500.000    1.000.000   1.500.000   2.000.000   2.500.000   3.000.000   3.500.000   4.000.000
+                                                                                                                                                                                                                                                                                                                                                                                                                          -   5.000.000   10.000.000   15.000.000   20.000.000   25.000.000   30.000.000   35.000.000   40.000.000
 
-
-
-
-                                                                                                                                                                                          BA
-                                                                                                                                                                                                                                                                                                                                                                                                       MG
-
-
-
-
-                                                                                                                             -
-                                                                                                                                                                                                           -
-
-
-
-
-                                                                                                                                   100.000
-                                                                                                                                             200.000
-                                                                                                                                                       300.000
-                                                                                                                                                                 400.000
-                                                                                                                                                                           500.000
-                                                                                                                                                                                      600.000
-                                                                                                                                                                                                               100.000
-                                                                                                                                                                                                                         200.000
-                                                                                                                                                                                                                                   300.000
-                                                                                                                                                                                                                                             400.000
-                                                                                                                                                                                                                                                       500.000
-                                                                                                                                                                                                                                                                 600.000
-                                                                                                                                                                                                                                                                           700.000
-                                                                                                                                                                                                                                                                                      800.000
-                                                                                                                                                                                                                                                                                                            -
-                                                                                                                                                                                                                                                                                                                500.000
-                                                                                                                                                                                                                                                                                                                           1.000.000
-                                                                                                                                                                                                                                                                                                                                       1.500.000
-                                                                                                                                                                                                                                                                                                                                                   2.000.000
-                                                                                                                                                                                                                                                                                                                                                               2.500.000
-                                                                                                                                                                                                                                                                                                                                                                           3.000.000
-                                                                                                                                                                                                                                                                                                                                                                                       3.500.000
-                                                                                                                                                                                                                                                                                                                                                                                                   4.000.000
-                                                                                                                                                                                                                                                                                                                                                                                                                          -
-                                                                                                                                                                                                                                                                                                                                                                                                                                          10.000.000
-                                                                                                                                                                                                                                                                                                                                                                                                                                                       15.000.000
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                    20.000.000
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 25.000.000
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              30.000.000
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           35.000.000
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        40.000.000
-
-
-
-
-                                                                                                                                                                                                                                                                                                                                                                                                                              5.000.000
                                                                                                                   25151100       0,0%                                                           25151100       0,0%
                                                                                                                                                                                                                                                                                                  25151100       0,0%                                                                                           25151100       0,0%
                                                                                                                   25151210       3,4%                                                           25151210       0,0%
@@ -1241,6 +858,7 @@ Principais Mercados
                                                                                                                   25151220       0,0%                                                           25151220       0,0%
                                                                                                                                                                                                                                                                                                  25151220       0,0%                                                                                           25151220       0,0%
                                                                                                                   25152000       0,0%                                                           25152000       0,0%
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       EXPORTAÇÃO DE ROCHAS ORNAMENTAIS
                                                                                                                                                                                                                                                                                                  25152000       0,0%                                                                                           25152000       0,0%
                                                                                                                   25062000                                                           83,0%      25062000       0,0%
                                                                                                                                                                                                                                                                                                  25062000                 6,1%                                                                                 25062000          2,8%
@@ -1258,19 +876,12 @@ Principais Mercados
 
 
 
-
                                                                                                                                                                                                                                                                                                  68029100       0,4%                                                                                           68029100                       9,3%
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             DOS PRINCIPAIS ESTADOS
-
-
-
-
                                                                                                                   68029200       0,0%                                                           68029200       0,0%                                                                              68029200       0,0%                                                                                                          0,0%
-
-
-
-
                                                                        A descrição das NCM's está na página 17.
+
+
+
                                                                                                                                                                                                                                                                                                                                                                                                                68029200
                                                                                                                   68021000       0,0%                                                           68021000       0,0%                                                                              68021000       0,0%                                                                                           68021000       0,0%
                                                                                                                   68022300       0,0%                                                           68022300                                                                             56,7%       68022300       0,2%                                                                                           68022300       1,2%
@@ -1278,17 +889,13 @@ Principais Mercados
                                                                                                                   68022900       0,0%                                                           68022900       0,0%                                                                              68022900                 6,1%                                                                                 68022900                   7,1%
 
                                                                                                                   68029390       0,0%                                                           68029390       2,2%                                                                                                                                                                                                                                                                                                       45,4%
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       EXPORTAÇÃO DE ROCHAS ORNAMENTAIS
-
-
-
-
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             DOS PRINCIPAIS ESTADOS
                                                                                                                                                                                                                                                                                                  68029390       0,4%                                                                                           68029390
-
-
-
-
      Fonte dos dados: comexstat.mdic.gov.br | Acesso em 06 nov. 2020
+
+
+
+
                                                                                                                   68029990       0,0%                                                           68029990                 9,1%                                                                    68029990          2,9%                                                                                        68029990                                                            27,0%
 
                                                                                                                   25140000       0,0%                                                           25140000       0,0%                                                                              25140000       0,0%                                                                                           25140000       0,0%
@@ -1341,40 +948,26 @@ Vargem Alta - ES                                                       10.156.64
 Vitória - ES                                                            7.040.269                         4.467.547                        7.405.504            4.073.950
 Cola na - ES                                                            6.805.499                        11.765.880                        6.298.447           13.689.893
 Linhares - ES                                                           4.522.292                         9.258.368                        2.731.658            6.248.858
-                                                                       22.272.943
-
-
-
-                                                                                           21.042.228
 
 
 
 
+                                                                       22.272.943          21.042.228
       Exportações dos municípios capixabas em
                    Outubro/2020
+
                                                                                                                                                                  18.589.540
-
-
-
-
                                            25,9%
+
+
                                                                                                               12.730.643
-
-
-
-
           27,5%
 
                                                     15,7%
-                                                                                                                             3.338.762
 
 
 
-                                                                                                                                                  3.155.742
-
-
-
-
+                                                                                                                             3.338.762            3.155.742
                                                 4,1%
                                              3,9%
                          22,9%
@@ -1431,10 +1024,6 @@ Linhares - ES                                                           4.522.29
 
                                                  Principais des nos em Outubro de 2020 - Em US$
                        65.414.539
-
-
-
-
       70.000.000
 
       60.000.000
@@ -1444,115 +1033,29 @@ Linhares - ES                                                           4.522.29
       40.000.000
 
       30.000.000
-                                    10.689.942
 
+      20.000.000                    10.689.942
 
-
-
-      20.000.000
-                                                 3.088.388
-
-
-
-                                                               2.893.943
-
-
-
-                                                                           1.662.198
-
-
-
-                                                                                        1.652.374
-
-
-
-                                                                                                     1.128.069
-
-
-
-                                                                                                                 853.887
-
-
-
-                                                                                                                           672.595
-
-
-
-                                                                                                                                      602.135
-
-
-
-                                                                                                                                                 601.212
-
-
-
-                                                                                                                                                               480.638
-
-
-
-                                                                                                                                                                           461.253
-
-
-
-                                                                                                                                                                                     282.964
-
-
-
-                                                                                                                                                                                                       265.003
-
-
-
-
-      10.000.000
+                                                 3.088.388     2.893.943   1.662.198    1.652.374
+      10.000.000                                                                                     1.128.069   853.887   672.595    602.135    601.212       480.638     461.253   282.964           265.003
 
                 -
+
+
                                                                                                                                                                            Polônia
-                                                               Itália
-
-
-
-
-                                                                                                                                                                                     Japão
-
-
-                                                                                                                                                                                                    Dominicana
+                                                               Itália                                                                                                                Japão           República
                                                  México
                                     China
 
-
-
-
                                                                                        Reino Unido
-
-
-
-
                                                                                                                            Colômbia
                                                                            Canadá
-
-
-
-
                                                                                                                                                  Alemanha
-                                                                                                     Espanha
-
-
-
-
-                                                                                                                                                               Austrália
+                                                                                                     Espanha                                                   Austrália
                                                                                                                  Vietnã
                      Estados
-
-
-
-
-                                                                                                                                      Argen na
-                     Unidos
-
-
-
-
-                                                                                                                                                                                                     República
+                     Unidos                                                                                                           Argen na
+                                                                                                                                                                                                    Dominicana
 
 
 
@@ -1580,27 +1083,12 @@ Linhares - ES                                                           4.522.29
        1.000.000
 
               -
-                      25151100
-                                    25151210
-                                                  25151220
-                                                                25152000
-                                                                              25062000
-                                                                                            25161100
-                                                                                                          25161200
-                                                                                                                       25162000
-                                                                                                                                    25169000
-                                                                                                                                                 68022100
-                                                                                                                                                              68029100
-                                                                                                                                                                           68029200
-                                                                                                                                                                                       68021000
-                                                                                                                                                                                                   68022300
-                                                                                                                                                                                                               68022900
-                                                                                                                                                                                                                           68029390
-                                                                                                                                                                                                                                       68029990
-                                                                                                                                                                                                                                                  25140000
-                                                                                                                                                                                                                                                             68030000
-                                                                                                                                                                                                                                                                        25261000
-                                                                                                                                                                                                                                                                                   68010000
+
+
+                      25151100      25151210      25151220      25152000      25062000      25161100      25161200     25162000     25169000     68022100     68029100     68029200    68021000    68022300    68022900    68029390    68029990   25140000   68030000   25261000   68010000
+
+
+
                                     Escoamento via porto de Santos, por NCM, em Outubro de 2020
        35.000.000
 
@@ -1617,27 +1105,9 @@ Linhares - ES                                                           4.522.29
         5.000.000
 
                   -
-                         25151100
-                                       25151210
-                                                     25151220
-                                                                   25152000
-                                                                                 25062000
-                                                                                               25161100
-                                                                                                            25161200
-                                                                                                                         25162000
-                                                                                                                                      25169000
-                                                                                                                                                   68022100
-                                                                                                                                                                68029100
-                                                                                                                                                                            68029200
-                                                                                                                                                                                        68021000
-                                                                                                                                                                                                    68022300
-                                                                                                                                                                                                                68022900
-                                                                                                                                                                                                                            68029390
-                                                                                                                                                                                                                                       68029990
-                                                                                                                                                                                                                                                  25140000
-                                                                                                                                                                                                                                                             68030000
-                                                                                                                                                                                                                                                                        25261000
-                                                                                                                                                                                                                                                                                   68010000
+
+
+                         25151100      25151210      25151220      25152000      25062000      25161100     25161200     25162000     25169000     68022100     68029100    68029200    68021000    68022300    68022900    68029390   68029990   25140000   68030000   25261000   68010000
 
 
 
@@ -1656,28 +1126,9 @@ Linhares - ES                                                           4.522.29
        1.000.000
 
               -
-                      25151100
-                                    25151210
-                                                  25151220
-                                                                25152000
-                                                                              25062000
-                                                                                            25161100
-                                                                                                          25161200
-                                                                                                                       25162000
-                                                                                                                                    25169000
-                                                                                                                                                 68022100
-                                                                                                                                                              68029100
-                                                                                                                                                                           68029200
-                                                                                                                                                                                       68021000
-                                                                                                                                                                                                   68022300
-                                                                                                                                                                                                               68022900
-                                                                                                                                                                                                                           68029390
-                                                                                                                                                                                                                                       68029990
-                                                                                                                                                                                                                                                  25140000
-                                                                                                                                                                                                                                                             68030000
-                                                                                                                                                                                                                                                                        25261000
-                                                                                                                                                                                                                                                                                   68010000
 
+
+                      25151100      25151210      25151220      25152000      25062000      25161100      25161200     25162000     25169000     68022100     68029100     68029200    68021000    68022300    68022900    68029390    68029990   25140000   68030000   25261000   68010000
 
 
 
