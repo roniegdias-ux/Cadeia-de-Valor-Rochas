@@ -122,6 +122,21 @@ KW  - E9
 ER  - 
 
 TY  - JOUR
+TI  - A MIGRAÇÃO DO SETOR DE ROCHAS ORNAMENTAIS PARA A REGIÃO NORDESTE BRASILEIRA: PERSPECTIVAS E AJUSTES COMPETITIVOS
+AU  - Cid Chiodi Filho
+PY  - 2026
+JO  - Revista Econômica do Nordeste
+DO  - 10.61673/ren.2026.3424
+UR  - https://doi.org/10.61673/ren.2026.3424
+AB  - A expansão da produção de quartzitos maciços consolidou a Região Nordeste como o principal polo emergente da indústria brasileira de rochas ornamentais, alterando a geografia produtiva do setor e fortalecendo a presença do Brasil no mercado internacional. Entretanto, essa transformação revelou importantes limitações estruturais, como a concentração do beneficiamento no Espírito Santo, a dependência do transporte rodoviário de longa distância, a reduzida agregação de valor em parte das exportações e a elevada exposição às oscilações do mercado norte-americano. O artigo analisa a evolução recente da produção e das exportações brasileiras, destacando o papel estratégico dos quartzitos na pauta exportadora e os desafios decorrentes das mudanças geopolíticas e comerciais observadas em 2026. Defende-se que a competitividade futura do setor dependerá da reorganização da cadeia produtiva, com maior verticalização nas regiões produtoras, aproximação entre lavra, beneficiamento e portos de exportação, modernização da infraestrutura logística e ampliação do uso dos modais ferroviário e marítimo. Além de reduzir custos e emissões de carbono, essas medidas poderão ampliar a agregação de valor, fortalecer a sustentabilidade do setor e promover maior geração de emprego, renda e desenvolvimento regional, especialmente no Nordeste brasileiro.
+KW  - E1
+KW  - E5
+KW  - E6
+KW  - E8
+KW  - E9
+ER  - 
+
+TY  - JOUR
 TI  - A Preliminary Cultural-Ecological Framework for Sustainable Material Selection in Balinese Architecture
 AU  - Ni Wayan Ardiarani Utami
 AU  - ST Dr. Ir. Ngakan Ketut Acwin Dwijendra
@@ -1173,6 +1188,31 @@ JO  - IEEE Sensors Applications Symposium (SAS)
 DO  - 10.1109/sas70013.2026.11744170
 UR  - https://doi.org/10.1109/sas70013.2026.11744170
 AB  - The ornamental stone sector faces a taxonomic challenge in material identification: classification intrinsically relies on the tacit knowledge of human experts, a process prone to stochastic variability and degradation due to operational fatigue. This paper proposes the automation of this task through a soft sensor based on a Convolutional Neural Network (CNN) using the EfficientNetV2B2 architecture, applying Transfer Learning, Focal Loss, and balancing techniques to mitigate sample scarcity in minority classes. Experimental analysis quantified the performance across five stone classes representative of different Brazilian geological provinces (Bahia, Espírito Santo, Minas Gerais, Ceará), totaling 2,518 images acquired in an uncontrolled industrial environment. Using 5-fold cross-validation, the proposed configuration achieved a mean accuracy of 99.74% (std 0.21; 95% CI [99.55, 99.93]) and a Macro Recall of 99.81% (std 0.15; 95% CI [99.68, 99.94]), converging in only 10 epochs. An ablation study compares the baseline CNN, balanced training, and the proposed focal-loss configuration. The 400+ samples/class threshold is reported as an empirical observation specific to this dataset, demonstrating that CNNs outperform classical Digital Image Processing (DIP) methodologies through automatic hierarchical feature learning.
+KW  - E1
+KW  - E7
+KW  - E8
+KW  - E10
+KW  - E11
+ER  - 
+
+TY  - JOUR
+TI  - Avaliação da conversão termoquímica de Resíduos de Chlamydomonas com Catalisador de Resíduo de Mármore
+AU  - Joemil Oliveira de Deus Junior
+AU  - Maria Antônia Cavalcante De Oliveira
+AU  - EMILY CHAYANE COSTA DOS SANTOS
+AU  - Renata Martins Braga
+AU  - Jonas Caio de Araújo Rodrigues
+AU  - Dulce Maria de Araújo Melo
+AU  - José Luiz Francisco Alves
+AU  - Filipa Maria Braz Silva
+AU  - Anália do Carmo Barradas Silva dos Santos
+AU  - Heloisa Althoff
+AU  - Larissa Pinheiro de Souza
+PY  - 2026
+JO  - Technical Papers ... Rio Oil & Gas
+DO  - 10.48072/2525-7579.roge.2026.7006
+UR  - https://doi.org/10.48072/2525-7579.roge.2026.7006
+KW  - E8
 ER  - 
 
 TY  - JOUR
@@ -1347,6 +1387,26 @@ KW  - E7
 ER  - 
 
 TY  - JOUR
+TI  - CONSERVAÇÃO DE MARCOS HISTÓRICOS: INTERVENÇÕES PATOLÓGICAS EM FORROS DE MADEIRA E ROCHAS ORNAMENTAIS
+AU  - Ana Maria Gonçalves Duarte Mendonça
+AU  - Lívia Nayara (5) Nobrega de Melo
+AU  - Thamires Dantas Guerra
+AU  - João Pedro Silveira Salustiano
+AU  - Valter Ferreira de Sousa Neto
+AU  - Maria Eduarda Velez (7) Martins
+AU  - Diego José Araújo Viegas
+AU  - Loredanna Melyssa Costa
+AU  - Fabiana Xavier Costa
+PY  - 2026
+JO  - >Congresso Brasileiro de Patologia das Construções
+DO  - 10.67775/1che5x08
+UR  - https://doi.org/10.67775/1che5x08
+AB  - A patologia na construção civil se refere à anomalias que podem representar incômodos estéticos ou danos estruturais que podem evoluir para o colapso da edificação. Nesse viés, a tomadas de medidas a partir de um diagnóstico precoce é essencial para promover a funcionalidade e longevidade de uma construção. Portanto, a pesquisa tem como objeto de estudo as rochas ornamentais e forros de madeira da Catedral de Nossa Senhora Mãe da Divina Graça, Parnaíba-PI, objetivando identificar possíveis causas e propor condutas terapêuticas adequadas para o tipo de material indicado. Através da literatura conceituada, procurou-se sanar as irregularidades presentes, evitando substituições que pudessem descaracterizar o marco cultural e histórico de grande relevância para a cidade.
+KW  - E6
+KW  - E7
+ER  - 
+
+TY  - JOUR
 TI  - Caracterização de blocos de rochas ornamentais por formas de onda: ultrassom, sísmica e modelagem numérica
 AU  - Paula Rayane Lopes de Andrade
 PY  - 2026
@@ -1354,6 +1414,23 @@ JO  - Digital Library of Theses and Dissertations  (Universidade de São Paulo)
 DO  - 10.11606/t.14.2026.tde-31082026-140947
 UR  - https://doi.org/10.11606/t.14.2026.tde-31082026-140947
 KW  - E1
+KW  - E11
+ER  - 
+
+TY  - JOUR
+TI  - Carbonation Curing and Mechanical Properties of Alkali-Activated Composites Derived from Calcined Granite Waste and Waste Ceramic Powder
+AU  - Yang Liu
+AU  - Cao Bi
+AU  - Yuting Gao
+AU  - Frederick Ntim Gyakari
+AU  - Xiaoxiong Zha
+PY  - 2026
+JO  - Buildings
+DO  - 10.3390/buildings16224507
+UR  - https://doi.org/10.3390/buildings16224507
+AB  - This study investigates the utilization of low-reactivity granite waste (GW) and waste ceramic powder (WCP), both rich in silica (SiO2) and alumina (Al2O3), as sustainable precursors for producing high-performance alkali-activated pastes under accelerated carbonation curing. Both materials were first calcined at 700 °C for 2 h and subsequently blended at varying GW/WCP mass ratios of 50:50, 60:40, and 70:30, mixed with an alkaline activator consisting of 8 mol/L sodium hydroxide (NaOH) and sodium silicate (Na2SiO3), and then kept for 24 h before being removed from their molds. The resulting samples were then subjected to accelerated carbonation curing for 5 h at 55 °C under a CO2 pressure of 0.4 MPa. The elemental compositions of GW and WCP were assessed through X-ray fluorescence (XRF) analysis. Furthermore, ICP-MS analysis revealed differences in Si and Ca dissolution behavior between GW and WCP, which may contribute to differences in reaction product development during alkali activation. Mechanical testing revealed that the mixture containing 70% GW and 30% WCP (GCP70) exhibited superior compressive strength, which was associated with differences in precursor composition, reaction product development, and microstructural characteristics. X-ray diffraction (XRD) confirmed calcite formation in all carbonated samples, with peak intensities following the order GCP50 > GCP60 > GCP70, corresponding to decreasing WCP content. Fourier transform infrared spectroscopy (FTIR) analysis showed Si-O-T stretching bands at 984 cm−1 (GCP70), 983 cm−1 (GCP60), and 991 cm−1 (GCP50), indicating variations in aluminosilicate bonding environments with different GW/WCP ratios. Scanning electron microscopy–energy-dispersive X-ray spectroscopy (SEM–EDS) image analysis estimated pore area fractions of 28.5%, 22.3%, and 18.7% for GCP50, GCP60, and GCP70, respectively, indicating a decreasing pore area fraction with increasing GW content. In addition, carbonate formation in carbon-cured samples was confirmed by XRD and FTIR analyses, while SEM–EDS observations further demonstrated a denser and less porous microstructure, particularly for GCP70, characterized by an improved interfacial transition zone (ITZ) and features associated with aluminosilicate-rich reaction products. To the best of our knowledge, this is the first study to systematically investigate the combined application of (i) calcination-induced amorphization of granite waste, (ii) alkali activation with 8 mol/L NaOH, and (iii) accelerated carbonation curing (0.4 MPa, 55 °C, 5 h) on GW-WCP blends. While individual aspects have been studied previously (e.g., calcination of granite waste, alkali activation of ceramic waste, or carbonation of OPC), the combined effects of these processes remain insufficiently explored. Specifically, the GW/WCP ratio modulates the competition between the formation of alkali-activated gels (sodium aluminosilicate hydrate, N-A-S-H; calcium aluminosilicate hydrate, C-(A)-S-H) and ca
+KW  - E8
+KW  - E9
 ER  - 
 
 TY  - JOUR
@@ -4974,7 +5051,9 @@ JO  - Encontro de Sustentabilidade em Projeto
 DO  - 10.29327/9786527226116.1462339
 UR  - https://doi.org/10.29327/9786527226116.1462339
 AB  -  Este artigo descreve o processo de materialização da MaterioteCAA um recurso pedagógico para o ensino de materiais no curso de design no Campus Acadêmico do Agreste (CAA) da Universidade Federal de Pernambuco (UFPE). O projeto surgiu da necessidade de organizar e tornar acessível um acervo de 50 pedras ornamentais doadas por uma empresa de granitos da cidade de Caruaru à UFPE. O método para implantação física e digital do acervo foi desenvolvido em duas fases: 1. catalogação digital utilizando o Sistema de Catalogação de Amostras por Configuração (SCAMC) e 2. desenvolvimento de suportes expositivos físicos. Como resultado, os dados técnicos de 30 itens catalogados estão disponíveis na plataforma digital gratuita da Materialize® e as mesmas estão fisicamente disponíveis para manipulação dos estudantes na biblioteca central do CAA. Este projeto é uma das estratégias de organização e alinhamento dos dados entre a catalogação física e virtual das amostras, além de contribuir para o ensino do design estimulando o contato dos estudantes com os materiais nas fases de seleção e experimentação em projetos. 
+KW  - E7
 KW  - E8
+KW  - E11
 ER  - 
 
 TY  - JOUR
@@ -5061,6 +5140,24 @@ DO  - 10.5281/zenodo.23100719
 UR  - https://doi.org/10.5281/zenodo.23100719
 AB  - This study experimentally investigates the influence of Rice Husk Ash (RHA), Fly Ash (FA), Marble Powder (MP) and Expanplast SP100 on hardened properties of concrete. A total of 14 concrete mixtures were prepared, including a control mixture and modified mixtures containing individual and combined replacements of RHA, FA, and MP, while 1% Expanplast SP100 was incorporated in the modified mixtures. Mechanical properties were assessed through 28-day compressive, splitting tensile and flexural strength tests. The results demonstrated that moderate replacement levels generally improved the mechanical properties of concrete. The 10% RHA mixture achieved a compressive strength of 33.92 MPa, compared with 30.00 MPa for the control mixture, representing an improvement of 13.07%. The corresponding splitting tensile strength increased from 2.85 MPa for the control to 3.24 MPa, an improvement of 13.68%. For flexural strength, the 10% RHA mixture achieved 4.76 MPa compared with 4.20 MPa for the control, representing an increase of 13.33%. The highest overall performance was obtained from the ternary mixture containing 5% RHA, 5% FA, and 5% MP, which achieved compressive, splitting tensile and flexural strengths of 35.10, 3.40, and 4.95 MPa, respectively. These values correspond to improvements of approximately 17.0%, 19.30%, and 17.86%, respectively, compared with the control concrete. The improvement is attributed to the combined effects of pozzolanic reactions, filler action, improved particle packing, pore refinement and enhanced cement-particle dispersion provided by Expanplast SP100. The findings demonstrate that the combined utilization of agricultural and industrial waste materials can provide a technically effective and more sustainable approach to concrete production while reducing dependence on conventional cementitious materials.
 KW  - E8
+ER  - 
+
+TY  - JOUR
+TI  - Mechanical Properties of HPC Using Granite Powder:
+AU  - S. A. Sharada
+AU  - M V Ravindra
+AU  - R Raghavendra
+AU  - S Gobinath
+PY  - 2026
+JO  - CRC Press eBooks
+DO  - 10.1201/9781042045105-30
+UR  - https://doi.org/10.1201/9781042045105-30
+AB  - Concrete remains a fundamental material driving global urbanization, with increasing emphasis on sustainability and resource optimization. In line with Global Goal 11—promoting sustainable cities and communities—this study investigates the use of granite powder waste, a major byproduct of quarrying and polishing operations, as a partial replacement for fine aggregate in concrete. Granite powder was incorporated at replacement levels of 0%, 5%, 10%, 15%, 20%, and 25%. Additionally, partial replacement with supplementary cementitious material like 10% fly ash, 10% slag cement (GGBS), and 10% silica fume, along with 0.9% superplasticizer by weight of cement, to enhance feasibility and performance. Concrete specimens, including cubes and prisms, were prepared using M40 grade mix with a water-cement ratio of 0.39. The specimens were subjected to curing durations of 7, 14, 28, and 56 days. The experiments demonstrated a substantial improvement in the behavioral properties of the concrete with up to 20% granite powder replacement, compared to conventional mixes. This study highlights the potential of granite powder waste as a viable and sustainable alternative material in concrete, contributing to effective waste management and the development of environmentally responsible construction practices.
+KW  - E1
+KW  - E3
+KW  - E7
+KW  - E8
+KW  - E9
 ER  - 
 
 TY  - JOUR
@@ -5761,6 +5858,22 @@ KW  - E10
 ER  - 
 
 TY  - JOUR
+TI  - PANORAMA DO SETOR DE ROCHAS CARBONÁTICAS (CALCÁRIOS) NOS ESTADOS DO CEARÁ, RIO GRANDE DO NORTE, PARAÍBA E PERNAMBUCO
+AU  - Gustavo A. Silva
+PY  - 2026
+JO  - Revista Econômica do Nordeste
+DO  - 10.61673/ren.2026.3436
+UR  - https://doi.org/10.61673/ren.2026.3436
+AB  - Este artigo analisa a estrutura produtiva, econômica e territorial do setor de rochas carbonáticas (calcários) nos estados do Ceará, Rio Grande do Norte, Paraíba e Pernambuco, definidos como Área de Estudo (AE). A metodologia combina análise de relatórios técnicos e documental, tratamento de dados secundários de agências, instituições governamentais e entidades setoriais, com série de 2010 a 2025 e dados minerários atualizados 2025/2026. Os resultados mostram que a AE concentra 41,2% dos processos de rochas calcárias do Nordeste, 50,9% da produção acumulada, 55,3% dos investimentos em pesquisa e lavra, e 36,5% da CFEM no período, além de contribuir com aproximadamente 25,8% do valor da produção mineral (calcários) do Nordeste em 2025, com forte concentração no Ceará. O Valor da Produção Mineral e a CFEM também cresceram, embora com heterogeneidade entre os estados. As indústrias de cimento, cal, argamassa, corretivos agrícolas e de rochas ornamentais constituem os principais mercados. Os resultados indicaram que a competitividade futura depende de beneficiamento, diversificação, eficiência logística, inovação tecnológica, regularização e aproveitamento de resíduos segundo princípios de economia circular.
+KW  - E1
+KW  - E5
+KW  - E6
+KW  - E8
+KW  - E10
+KW  - E11
+ER  - 
+
+TY  - JOUR
 TI  - PARTIAL REPLACEMENT OF THE AGGREGATE BY WASTE MARBLE AGGREGATE POWDER IN CONCRETE
 AU  - R. Shirisha1, Mohammed Faizan2, Mohammed Abdul Arsalan3, Mohammed Tanveer4, Shaik Gufran5
 PY  - 2026
@@ -6165,6 +6278,37 @@ UR  - https://doi.org/10.5281/zenodo.21860996
 AB  - Reproducible code and dataset for the paper "Physics-informed hybrid machine learning for predicting impact resistance of carbonate natural building stones" (Özkan, Sarıışık & Kundak, 2026; submitted to Construction and Building Materials). The PHy-CPP model augments an Extra Trees regressor with two physics-informed compensatory channels — one driven by Impact Strength (IS) and one by Fe2O3 content — blended through dual sigmoid functions, to predict the impact resistance (BS EN 14158) of carbonate dimension stones from rebound hardness, Knoop hardness, plate thickness, and a SHAP-weighted compressive index. Metrics are reported under nested, leakage-controlled Leave-One-Group-Out cross-validation (17 folds, n = 51). Headline dual-channel performance: R² = 0.9623, MAPE = 7.83%, MAE = 0.717 kPa, RMSE = 0.993 kPa; bootstrap mean R² = 0.9615, 95% CI [0.948, 0.972]. The pipeline is fully deterministic (SEED = 42, N_EST = 500) under the pinned environment in requirements.txt (Python 3.12, scikit-learn 1.6.1).
 KW  - E7
 KW  - E8
+KW  - E11
+ER  - 
+
+TY  - JOUR
+TI  - Piedras duras, gemas y vidrios: emulación y lujo desde la época antigua a la moderna
+AU  - Julián Aguirre
+AU  - Mario Bandiera
+AU  - Paolo Belluzzo
+AU  - Andrea Cagnini
+AU  - Fermín Castillo Arcas
+AU  - Juan José Cepeda Ocampo
+AU  - Ana Isabel Cimentada
+AU  - Miguel Cisneros Cunchillos
+AU  - Valentina Conticelli
+AU  - Patrizia Desiderio
+AU  - Chloe Duckworth
+AU  - Alfredo R. Ortega
+AU  - Elisabetta Gagetti
+AU  - Monica Galeotti
+AU  - Riccardo Gennaioli
+AU  - David J. Govantes-Edwards
+AU  - María Ángeles Granados Ortega
+AU  - David Hernandez
+AU  - Andrea Menéndez Menéndez
+AU  - Carolina Naya Franco
+PY  - 2026
+JO  - Editorial de la Universidad de Cantabria eBooks
+DO  - 10.22429/euc2026.002
+UR  - https://doi.org/10.22429/euc2026.002
+AB  - The purpose of this volume is to present the results of the (research) project Imitations of Stones in Glass in the Roman Period and Their Reinterpretation in Modern Times (PID2020-117299GB-I00), funded by the Ministry of Science, Innovation and Universities, State Research Agency, which aimed to delve into a transversal practice in History, which has taken place throughout all (historical) periods and that continues up to our days such as the imitation of precious and ornamental stones using glass. This is a practice linked to ostentation and luxury but at the same time it is connected with issues of forgery and a wide range of conceptually intermediate products. Throughout history, hard and precious stones were only accessible to the elites, and they were imitated, copied or counterfeited using more economical materials—among which glass stands out—popularizing their use, which does not mean, however, their universalization. But glass was also used to embellish objects made of metal, ceramic, wood, bone (and other materials), significantly increasing their artistic value and claiming a rightful place within the sphere of luxury goods. The contributions presented in this volume analyse philological, archaeological, historical-artistic and archaeometric aspects across different periods. The authors—specialist researchers from Spain, Italy, and the United Kingdom—address general overviews of the subject in the different historical periods and they also study objects made from hard and precious stones, and at the same time their imitations in glass. The designs of these stones can be found in personal adornments, decorative elements and the domestic furnishings of the elites, which gradually spread to other strata of society through imitations of varying quality, depending on the economic means of the customer and the craftsman’s skill. Some of these imitations reached the status of unique objects, even becoming as valuable as the object they replicated. Likewise, some stone manufactures from antiquity were later repurposed for liturgical use or which ended up in collections of prominent patrons. This transfer shows an interest in antiquity and a desire to establish a connection with the past, but it also shows the will of displaying a refined taste and the owner's power. Moreover, these ancient pieces were often used as models for later creations, sometimes crafted in the same raw material, therefore enhancing the ideological message conveyed by the copy. They were also used as models for the production of more affordable copies made from different materials, repeating an imitation pattern which was already known from antiquity, reworking the symbolic value, in some cases to adapt it to the new historical context, being the connection the connotation of economic and social prestige that such reuse entailed within an assessment of the ancient world.
+KW  - E7
 KW  - E11
 ER  - 
 
@@ -7128,6 +7272,24 @@ KW  - E10
 ER  - 
 
 TY  - JOUR
+TI  - Silicosis from calcined diatomaceous earth exposure in a cosmetics factory: a case series
+AU  - Jiyoun Jung
+AU  - Jea Chul Ha
+AU  - In‐Sung Chung
+AU  - Jongin Lee
+AU  - Jae Seok Park
+AU  - Mi-Ae Kim
+AU  - Sangwoo Shim
+PY  - 2026
+JO  - Occupational and Environmental Medicine
+DO  - 10.1136/oemed-2026-110865
+UR  - https://doi.org/10.1136/oemed-2026-110865
+AB  - Objectives Recent outbreaks of accelerated silicosis among engineered stone workers have shown that industrial processing can generate intense exposure to crystalline silica. Diatomaceous earth is widely used in cosmetic modelling facial masks and is generally regarded as low risk; however, calcination can convert its silica structure into cristobalite, a highly toxic crystalline form. We investigated silicosis in workers manufacturing cosmetic modelling facial masks using calcined diatomaceous earth. Methods Following identification of a sentinel case through occupational disease surveillance, we investigated workers employed in cosmetic modelling facial mask manufacturing. All workers had been exposed to calcined diatomaceous earth. Clinical evaluation included pulmonary function testing, chest radiography classified using international criteria and CT. Personal air sampling and bulk material analyses were conducted to characterise crystalline silica exposure. Results Among 18 workers who underwent the temporary occupational health examination, two met International Labour Organization (ILO) chest radiograph criteria for silicosis and five additional workers had low-dose chest CT (LDCT) findings consistent with silicosis despite chest radiographs not meeting the ILO profusion threshold. With the sentinel case, eight workers were identified as silicosis cases. All three chest radiograph-confirmed cases had large opacity category A on chest radiography and LDCT findings consistent with progressive massive fibrosis. Respiratory symptoms were uncommon, and pulmonary function was largely preserved. Measured cristobalite concentrations exceeded the Korean occupational exposure limit, and bulk material analysis revealed high cristobalite content. Conclusions Silicosis can occur in cosmetic manufacturing settings traditionally considered low risk and may be under-recognised when relying on chest radiography alone. Calcination of diatomaceous earth can generate hazardous crystalline silica exposures not captured by conventional industry-based classifications, supporting the need for exposure-based hazard reassessment and enhanced surveillance.
+KW  - E8
+KW  - E9
+ER  - 
+
+TY  - JOUR
 TI  - Silicosis history: from antiquity to the anthropocene
 AU  - Serap Kurt Kayserili
 AU  - Metin Akgün
@@ -7632,6 +7794,7 @@ JO  - International Conference on Sustainable and Futuristic Technologies (ICSFT
 DO  - 10.1109/icsft67370.2026.11566244
 UR  - https://doi.org/10.1109/icsft67370.2026.11566244
 AB  - A great deal of waste marble powder is produced by the ornamental stone and environmental problems are therefore inevitable. It can also be a partial replacement of cement and aggregate in concrete, transforming garbage into resource. Recent studies have shown that replacing natural sand or cement by WMP at certain dosages results in concrete with similar or enhanced strengths. Furthermore, different types of additives (e.g. glass powder, polymer fibres and other industrial by-products), have also been investigated in order to further improve the performance. At the same time, machine learning (ML) methods have emerged as reliable and efficient prediction and optimization tools of concrete properties which alleviate experimental burden. In this review, literature on marble-waste concrete (usually incorporated with supplementary materials) and ML for predicting its properties are systematically reviewed. Through a PRISMA-guided literature search (Figure 1) we locate important works within WMP concrete and related sustainable mixes. We provide an overview of ML modeling methods (such as random forest, XGBoost, neural networks and symbolic regression) and performance criteria$(\mathbf{R}^{\mathbf{2}}$, RMSE, MAE). For instance, by using the random forest model,$R^{2}$value$\geq 0.95$are often achieved to predict compressive strength of sustainable concrete. Interpretable ML techniques (SHAP analysis, sensitivity analysis) have brought out the role of parameters such as cement content, aggregate ratio and curing age towards strength. Our review finds that waste marble can substitute$\sim \mathbf{10-25 \%}$of fine aggregate or cement with only a slight penalty in strength loss, and that an ML model is capable of reasonably capturing the nonlinear, complex effects of composition on performance. Finally, the open sources and future directions such as larger databases, multi-objective optimization (cost, carbon footprint) and application of advanced explainable AI to steer sustainability mix design are highlighted in the work.
+KW  - E6
 KW  - E7
 KW  - E8
 KW  - E11
@@ -8024,6 +8187,19 @@ AB  - Calcium-modified biochars have attracted considerable attention as promisi
 KW  - E1
 KW  - E7
 KW  - E8
+ER  - 
+
+TY  - JOUR
+TI  - Syria: production of marble, gypsum, volcanic tuff and other construction minerals, 2007-2021 (USGS)
+AU  - Phoenician Stone Group
+PY  - 2026
+JO  - Zenodo (CERN European Organization for Nuclear Research)
+DO  - 10.5281/zenodo.24108333
+UR  - https://doi.org/10.5281/zenodo.24108333
+AB  - Compiled by Phoenician Stone Group from the USGS Minerals Yearbook, this table gives Syria's yearly production of marble, gypsum, volcanic tuff and other construction minerals, 2007-2021, with every USGS estimate flag kept, so that buyers and researchers can follow Syria's quarrying output from published, checkable figures. Production of marble materials, marble blocks, gypsum, volcanic tuff, gravel and crushed rock, sand, natural asphalt and cement in Syria, 2007-2021, transcribed exactly from three USGS Minerals Yearbook chapters with their estimate and revision flags, plus the listed quarry facilities and capacities. Files syria-stone-minerals-production-usgs-v1.csv: 100 rows, 16,147 bytes syria-stone-minerals-production-usgs-v1.json: 100 rows, 35,457 bytes Method Transcription of Table 1 (production) and Table 2 (structure of the industry) of the USGS Minerals Yearbook chapters on Syria for 2011, 2016 and 2020-2021; for each year the latest chapter covering it is used. Values transcribed from the USGS Minerals Yearbook chapters on Syria (links below) and checked against the USGS spreadsheet for 2012-2016. The download keeps the edition, unit and USGS note for every value. The 2016 chapter labels its whole table as estimated production; the 2020-2021 chapter gives no marble or stone estimate. Marble blocks were reported in thousand square metres up to 2011; from the 2016 chapter USGS converts square metres to tonnes (0.03 m³ per m², 2.56 t per m³). Information written by USGS is in the U.S. public domain; this compilation is published under CC BY 4.0 and credits USGS. Limits Values are USGS figures and estimates as published, with their flags; no value was modelled or changed. The 2016 chapter labels its whole production table as estimated; the 2020-2021 chapter gives no marble or stone estimate. Marble blocks are in thousand square metres up to 2011 and in tonnes from the 2016 chapter (USGS conversion). Rights and credit Licence: Creative Commons Attribution 4.0 International (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/ . Copyright 2026 Phoenician Stone Group for this compilation. The underlying values are U.S. Geological Survey information, in the U.S. public domain (https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits). CC BY 4.0 applies to this compilation (selection, structure, flags, the facility table and documentation), not to the USGS values themselves. Attribution requested: Source: U.S. Geological Survey, Minerals Yearbook (public domain); compiled by Phoenician Stone Group. Online: dataset page (English) https://phoenicianstone.net/data/syria-stone-minerals-production/; Arabic https://phoenicianstone.net/ar/data/syria-stone-minerals-production/; catalogue https://phoenicianstone.net/data/. The same files, with a data viewer: https://huggingface.co/datasets/phoenician-stone-group/syrian-natural-stone-open-data. About the publisher Phoenician Stone Group is a Syrian natural stone company, fou
+KW  - E1
+KW  - E6
+KW  - E7
 ER  - 
 
 TY  - JOUR
@@ -8574,6 +8750,18 @@ KW  - E11
 ER  - 
 
 TY  - JOUR
+TI  - USO DE RESÍDUO DE MÁRMORE PARA ESTABILIZAÇÃO DE SOLOS EXPANSIVOS: UMA REVISÃO SISTEMÁTICA
+AU  - Melissa de Jesus Menezes
+AU  - Maria do Socorro Costa São Mateus
+PY  - 2026
+DO  - 10.47094/cobramseg2026.6/121
+UR  - https://doi.org/10.47094/cobramseg2026.6/121
+AB  - RESUMO: O uso de resíduos industriais na engenharia geotécnica tem se consolidado como alternativa sustentável à estabilização convencional de solos, destacando-se o pó de mármore pelo elevado volume gerado e pelo potencial de aplicação em solos expansivos.Este trabalho tem como objetivo apresentar as pesquisas existentes na literatura referentes ao tema, buscando destacar os benefícios que têm sido alcançados.Foi realizada uma revisão sistemática de estudos publicados nos últimos onze anos, analisando ensaios empregados, faixas de dosagem e efeitos nas propriedades físicas, mecânicas, volumétricas e microestruturais.A revisão não encontrou concordância unânime entre os resultados, mesmo para solos e teores semelhantes.Observou-se que a resposta do solo depende fortemente da mineralogia, do tipo de resíduo, da dosagem, do método de ensaio e do tempo de cura, resultando em grande variabilidade nos parâmetros e critérios de interpretação.Embora predomine a indicação de redução da plasticidade e da expansibilidade e aumento da resistência e da capacidade de suporte, os resultados são heterogêneos.Os resultados da pesquisa evidenciam a necessidade de metodologias mais uniformes e estudos integrados para o avanço do uso do pó de mármore na engenharia geotécnica.
+KW  - E8
+KW  - E11
+ER  - 
+
+TY  - JOUR
 TI  - UTILIZATION OF E-WASTE AND MARBLE DUST IN CONCRETE: AN EXPERIMENTAL APPROACH
 AU  - B NARENDRA2 RAVULA SATHEESH GOUD1
 PY  - 2026
@@ -9046,6 +9234,19 @@ KW  - E11
 ER  - 
 
 TY  - JOUR
+TI  - Valorization of Waste Marble Powder and Lime-Metakaolin for Sustainable Stabilization of Sandy Soil
+AU  - Kholoud A. Alsadrani
+AU  - Mohammed Y. Alaghbari
+AU  - Mohsin Usman Qureshi
+AU  - Yahia E.-A. Mohamedzein
+PY  - 2026
+JO  - Lecture notes in civil engineering
+DO  - 10.1007/978-981-92-7598-4_24
+UR  - https://doi.org/10.1007/978-981-92-7598-4_24
+KW  - E8
+ER  - 
+
+TY  - JOUR
 TI  - Valorization of granite sludge into open-cell glass-ceramics: Correlating pore structure with mechanical and thermal properties
 AU  - Shuaiya Li
 AU  - Liang Chen
@@ -9410,6 +9611,16 @@ KW  - E6
 KW  - E7
 KW  - E8
 KW  - E11
+ER  - 
+
+TY  - JOUR
+TI  - ТУВИНСКОЕ КАМНЕРЕЗНОЕ ИСКУССТВО: СТАНОВЛЕНИЕ И СОВРЕМЕННОЕ СОСТОЯНИЕ
+AU  - А.А. Чап
+PY  - 2026
+JO  - Asian Studies History and Modernity
+UR  - https://cyberleninka.ru/article/n/tuvinskoe-kamnereznoe-iskusstvo-stanovlenie-i-sovremennoe-sostoyanie
+AB  - The focus of this article is on the situation of small stone-cutting plastics in Tuva from the middle of the twentieth century to the present.The purpose of the article is to conduct a historical and art history review and analysis of this type of art from the middle of the twentieth century to the first quarter of the twenty-first century.For this purpose, the following tasks are set: to consider the main characteristic features of typical genres of Tuvan small sculpture, laid down by the founding masters since the mid-1950s; to compare the iconography of different generations of stonecutters of the ХХ-th and XXI st centuries, to touch upon the problems of stonecutting art in the present.The article uses qualitative and empirical methods, which made it possible to reflect in the material the modern problems of Tuvan stone-cutting art.The author comes to the conclusion that the social and cultural changes of the mid-twentieth century, as well as the historical and social changes that took place in the first quarter of the XXI st century, did not fundamentally change the traditions of Tuvan stone carving.The craftsmen improved the techniques and skills of working with ornamental stone agalmatolite, serpentinite; they continued the traditions of the founding stone carvers.Young carvers introduce new stylistic criteria, while remaining within the framework of the basic canons.
+KW  - E6
 ER  - 
 
 TY  - JOUR
@@ -11133,6 +11344,17 @@ KW  - E1
 KW  - E11
 ER  - 
 
+TY  - THES
+TI  - Caracterização geoquímica, petrográfica e físico-mecânica de ultramilonito e quartzito para avaliação das patologias das rochas ornamentais utilizadas para revestimentos interno e externo
+AU  - Ribeiro, Alina de Oliveira
+PY  - 2025
+JO  - UFC
+UR  - http://repositorio.ufc.br/handle/riufc/87825
+AB  - This study investigated the chemical resistance and aesthetic alterations of two ornamental stones: Quartzite Perla Santana and Green Pantanal Granite, subjected to different chemical agents commonly found in urban environments and cleaning products. Alterability tests were conducted using reagents such as hydrochloric acid, ammonium chloride, potassium hydroxide, acetic acid, sodium hypochlorite, citric acid, and lactic acid, evaluating visual changes, gloss loss, and efflorescence formation. Geochemical analyses by Scanning Electron Microscopy with Energy Dispersive Spectroscopy (SEM–EDS) and X-Ray Fluorescence (XRF) allowed for the identification of the chemical composition and mineralogical susceptibility of the stones. Quartzite Perla Santana, predominantly composed of quartz, showed higher chemical resistance and visual stability even after exposure to the reagents. On the other hand, Green Pantanal Granite proved to be more vulnerable to staining, darkening, efflorescence, and gloss loss due to the significant presence of mafic minerals such as biotite and high levels of iron and magnesium. The results indicate that Quartzite Perla Santana is suitable for both indoor and outdoor applications, while Green Pantanal Granite is preferably recommended for indoor environments.
+KW  - E7
+KW  - E8
+ER  - 
+
 TY  - JOUR
 TI  - Caracterização mineral do caulim associado ao pegmatito Cristo Rei, Domingos Martins - ES (região sudeste do Brasil)
 AU  - Renzo Dias Rodrigues
@@ -11592,6 +11814,22 @@ DO  - 10.5281/zenodo.18106885
 UR  - https://doi.org/10.5281/zenodo.18106885
 AB  - The exploitation of natural resources has been a frequent activity in the history of society. This activity has generated great benefits; however, its negative effects are obvious, just look at the large amount of waste that is produced and that generally has no use. Such is the case of the marble industry which generates thousands of tons of waste, highlighting the dust for its negative effect, since it contains very fine particles that contaminate the air causing health problems. In this work, it is shown how marble dust in combination with cactus mucilage can be used in mortar mixtures. Mixtures were made by replacing marble dust and mucilage with sand and cement in various percentages, and then their behavior under compression was evaluated, observing that these mixtures have similar characteristics to traditional mortar, some even exceed their resistance.
 KW  - E8
+KW  - E9
+ER  - 
+
+TY  - JOUR
+TI  - Considerations for Data Accuracy in Assessing Pulmonary Arterial Hypertension Care Delivery
+AU  - Chung-Chu Tung
+AU  - Renin Chang
+PY  - 2025
+JO  - American Journal of Respiratory and Critical Care Medicine
+DO  - 10.1164/rccm.202502-0427le
+UR  - https://doi.org/10.1164/rccm.202502-0427le
+AB  - unions, health and safety and medical professionals, and government agencies.A similar coalition would likely be needed to mobilize support for a U.S. ban.In the meantime, other actions can help move the needle.Consumers and designers can choose lower silica materials, decreasing demand for life-threatening engineered stone countertops (4).Litigation against engineered stone slab manufacturers is moving forward; a Los Angeles jury recently found manufacturers liable and awarded a worker with silicosis $52 million (5).As Currow and colleagues note, in response to the Australian ban, manufacturers have pivoted to new crystalline silica-free products.Pressure from consumers, worker advocates, and legal actions could encourage them to do the same in the United States and elsewhere.As Akg€ un describes, the more than 1,000 engineered stone countertop workers with silicosis identified to date worldwide are only the latest group affected by this deadly occupational disease in recent decades and centuries.Silicosis is preventable through reduction or elimination of silica dust exposure; as Akg€ un suggests, a coordinated global approach to move away from crystalline silica-based products and processes would help protect the workers who fabricate our kitchen countertops, as well as other workers at risk of this deadly but preventable disease.
+KW  - E2
+KW  - E3
+KW  - E6
+KW  - E7
 KW  - E9
 ER  - 
 
@@ -13375,6 +13613,19 @@ JO  - Encontro Nacional de Aproveitamento de Resíduos na Construção
 DO  - 10.46421/enarc.v9i1.6553
 UR  - https://doi.org/10.46421/enarc.v9i1.6553
 AB  - Este estudo avalia a utilização de resíduo de granito (RG) na fabricação de tintas imobiliárias, considerando os efeitos de aditivos biocidas e dispersantes na durabilidade. As tintas foram formuladas com RG, resina PVA e água, e diferentes teores de aditivos. A durabilidade foi avaliada por meio de ensaio de intemperismo natural. Os resultados mostraram que as tintas com RG apresentaram boa resistência aos agentes intempéricos, sem desenvolver patologias visíveis. Embora todas as amostras tenham apresentado variações de cor (ΔE) perceptíveis, estas estão dentro da faixa de variação de tintas comerciais. O aumento do teor de aditivo dispersante resultou em maior ΔE, possivelmente devido ao impacto no pH das tintas. Este estudo destaca o potencial do RG como matéria-prima sustentável para tintas imobiliárias, contribuindo para a redução de resíduos e o desenvolvimento de produtos mais duráveis e ecológicos e a necessidade do controle adequado dos aditivos para otimizar seu desempenho.
+KW  - E3
+KW  - E7
+KW  - E8
+KW  - E11
+ER  - 
+
+TY  - THES
+TI  - Estudo da remediação de alterabilidades nos principais quartzitos ornamentais do Ceará
+AU  - Lopes, Renata de Oliveira
+PY  - 2025
+JO  - UFC
+UR  - http://repositorio.ufc.br/handle/riufc/85790
+AB  - The growing demand for natural materials with high strength and distinctive aesthetics has driven the use of Brazilian ornamental quartzites in the construction industry. However, the performance of these materials when exposed to everyday chemical agents, particularly in domestic environments, still requires detailed investigation. In this context, the present research aimed to investigate the physicochemical alterability of three commercial varieties of quartzite from Ceará — Perla Santana, Cristallo Pink, and Taj Mahal — focusing on aesthetic degradation processes and the effectiveness of remediation methods. The methodology adopted was multidisciplinary, involving standardized tests (gloss, porosity, density, and absorption), physico-structural analyses (PUNDIT and SEM/EDS), and application/removal tests with chemical agents (KOH, HCl, NaCl, sodium hypochlorite, paints, among others). Samples were initially polished in a standardized manner and subsequently subjected to the controlled action of reagents over varying periods, simulating different scenarios of use and exposure. In gloss measurements, performed with a 60° glossmeter, KOH caused the greatest losses, exceeding 16% in some samples, particularly in Cristallo Pink. Sodium hypochlorite produced an almost negligible visual impact, indicating a distinct surface behavior. Colorimetric analyses in the CIELAB scale revealed significant variations in the L, a, and b* parameters, with ΔE values exceeding 3, a threshold perceptible to the human eye. Structural analysis by PUNDIT testing demonstrated a correlation between wave propagation velocity and microstructural integrity. Compact and minimally altered zones exhibited velocities above 4000 m/s, whereas values below 2500 m/s indicated microcracks and internal heterogeneity. SEM analyses revealed scaly structures, oriented laminae, and fracture filling by secondary minerals such as kaolinite and micas, while EDS confirmed high aluminum and potassium contents consistent with muscovite and altered feldspars. In the remediation stage, scouring powder, citric acid, sodium bicarbonate, vinegar, and lemon juice were tested. Organic stains responded more effectively to organic acids, and scouring powder proved effective in removing paints. Stain depth and exposure time to aggressive reagents were decisive factors in cleaning efficiency. The results indicate a strong relationship between porosity, microcracking, and susceptibility to aesthetic alteration. Rocks with higher porosity exhibited greater gloss losses and colorimetric changes, suggesting that pore connectivity facilitates the penetration of aggressive agents. Thus, the chemical resistance of quartzites depends not only on mineralogical composition but also on physical integrity, grain size distribution, foliation orientation, and degree of compaction. It is concluded that the integrated approach adopted provides a robust technical assessment of the aesthetic durability of quartzites from
 KW  - E3
 KW  - E7
 KW  - E8
@@ -16116,6 +16367,18 @@ KW  - E11
 ER  - 
 
 TY  - JOUR
+TI  - Modeling Lean Manufacturing Strategies in the Supply Chain of Natural Stone Industry: A Hybrid Simulation and Multi-Criteria Decision-Making Approach
+AU  - Maede Mirzaaliyan
+AU  - Mojtaba Hajian Heidary
+PY  - 2025
+JO  - DOAJ (DOAJ: Directory of Open Access Journals)
+DO  - 10.22059/imj.2025.393711.1008241
+UR  - https://doi.org/10.22059/imj.2025.393711.1008241
+AB  - Objective: Reducing waste and improving productivity are crucial challenges in today’s competitive manufacturing landscape. Lean production tackles these issues by eliminating activities that do not add value, cutting costs, and enhancing quality. However, the success of lean implementation relies on selecting strategies that align with an organization’s operational context. This study evaluates four fundamental lean strategies under various production conditions: Work-in-Progress (WIP) Inventory Reduction, Batch Size Reduction, Setup Time Reduction, and Multi-skilled Workforces.Methods: A hybrid methodology was utilized, integrating discrete-event simulation (DES) with multi-criteria decision-making (MCDM). Six scenarios were modeled, varying production capacity (low, medium, and high) and work shift schedules (one or two shifts). The Best-Worst Method (BWM) was employed to determine the weights of the evaluation criteria: total cost, available inventory, waiting time, and lead time. The VIKOR method was then used to rank the strategies for each scenario.Results: The results indicate that total cost (weight = 0.54) is the most critical evaluation criterion, followed by available inventory (0.27), waiting time (0.11), and lead time (0.08). Both simulation and VIKOR analyses demonstrated a contextual pattern: reducing setup time was more effective than other strategies in low-capacity environments. In contrast, reducing batch size consistently ranked highest in medium and high-capacity environments, regardless of the shift schedule.Conclusion: The findings highlight that lean strategies' effectiveness depends on the context. Reducing setup time is most beneficial for resource-limited systems, while reducing batch size offers greater advantages in high-output environments. The hybrid simulation-MCDM framework created in this study is a structured and objective tool for managers, allowing them to choose lean strategies aligned with their specific operational conditions. This, in turn, enhances supply chain performance and fosters long-term competitiveness.
+KW  - E8
+ER  - 
+
+TY  - JOUR
 TI  - Modeling the Flexural Strength of Self-Compacting Concrete Based on Marble and Glass Powder Wastes by Employing the Methodology of Response Surface Analysis
 AU  - Youcef Aidjouli
 AU  - Cherif Belebchouche
@@ -18617,6 +18880,24 @@ KW  - E9
 ER  - 
 
 TY  - JOUR
+TI  - Silicosis: A Chronic Work-related Lung Disease
+AU  - Jane C. Fazio
+AU  - Amy Heinzerling
+AU  - Sheiphali A. Gandhi
+AU  - Carrie A. Redlich
+AU  - Kristin J. Cummings
+PY  - 2025
+JO  - ATS Scholar
+DO  - 10.34197/ats-scholar.2024-0118pe
+UR  - https://doi.org/10.34197/ats-scholar.2024-0118pe
+AB  - WHAT IS SILICOSIS?Silicosis is a lung disease caused by breathing in small particles of silica (Figure 1).Silica is a common mineral found in many rocks, stones, and sand.Working with materials that contain silica can create silica dust which can enter the lungs and cause inflammation and scarring, making it difficult to breathe.Silicosis typically occurs after breathing in silica dust for 10 or more years.Silicosis can also develop after breathing in large amounts of silica for only a few months or years. WHO GETS SILICOSIS?People who work around silica dust can get silicosis.This includes jobs in construction and demolition, mining and quarrying, stone masonry, sandblasting, and certain types of manufacturing (Figure 2).Workers who cut, grind, fabricate, or polish engineered or artificial stone to make countertops for kitchens and bathrooms have developed silicosis, many with advanced disease.This is because engineered or artificial stones, such as those with high amounts of quartz, have more silica than natural stones such as marble or granite.
+KW  - E1
+KW  - E3
+KW  - E7
+KW  - E9
+ER  - 
+
+TY  - JOUR
 TI  - Single versus double lung transplantation outcomes in artificial stone silicosis: a single-centre retrospective cohort study
 AU  - Miri Dotan
 AU  - Dror Rosengarten
@@ -19514,6 +19795,17 @@ UR  - https://doi.org/10.1007/s42452-025-06599-w
 AB  - The direct CO2 emissions of the cement production industry have increased significantly, accounting for approximately 7% of the CO2 emissions. Rice husk ash (RHA), an agricultural byproduct, has gained substantial interest as a commonly used supplementary cementitious materials (SCMs) and shows potential application in concrete. This study comprehensively examines existing literature on ternary and quaternary cementitious composites mixed with RHA, providing a detailed overview of their mechanical properties, durability, and CO2 emissions. Analysis shows that the use of combinations of RHA and other materials as SCMs improves the mechanical and durability properties of cementitious composites and reduces CO2 emissions during concrete production when compared with that of replacing aggregates. Specifically, the synergistic use of RHA and olive waste ash increases compressive strength by 58.7%, and the synergistic use of RHA and steel fiber increases flexural strength by 78.4%. The combination of RHA, steel fiber, and waste marble powder increases splitting tensile strength by 96.5%, and the synergistic use of RHA and bacteria increases water absorption resistance by 69% and chloride resistance by 83%. The combination of RHA and bacteria increases permeability resistance by 83%. Furthermore, the synergistic use of RHA and nano-CuO also increases permeability resistance by 51.88%. Finally, the synergistic use of RHA and fly ash achieves the optimal reduction in CO2 emissions. Consequently, considering the challenges of global warming and climate change, this comprehensive review can be a reference for further exploring the utilization of RHA in building materials.
 KW  - E8
 KW  - E11
+ER  - 
+
+TY  - THES
+TI  - Territórios em aliciamento mineral-corporativo no Ceará: a atuação da Pastoral da Juventude Rural e do Movimento Pela Soberania Popular na Mineração na Comunidade de Santa Luzia
+AU  - Sousa, Álida Santos de
+PY  - 2025
+JO  - UFC
+UR  - http://repositorio.ufc.br/handle/riufc/84137
+AB  - O Estado do Ceará, no Nordeste do Brasil, cada vez mais torna-se estratégico para o setor extrativista mineral do século XXI, principalmente nos cenários de transição energética e de extração de rochas ornamentais. Na medida em que crescem os territórios minerados e espoliados, as articulações populares contra-hegemônicas se posicionam como agentes de denúncia e criadoras de novos modelos de sociedade e de extração de bens naturais. Assim, as contra-hegemonias territorializam-se, criam estratégias e levam suas pautas aos espaços públicos de decisão. O Objetivo Geral do presente trabalho é: analisar as estratégias políticoterritoriais entre MAM e PJR constituídas no território camponês de Santa Luzia, localizado no município de Independência - Ceará, em estado de aliciamento mineral corporativo pela empresa DaPaz Natural Stones. Os objetivos específicos são: a) abordar as estratégias entre PJR e MAM com base na formação de conexões políticas e territoriais frente ao avanço da mineração no Ceará e no lócus de estudo; b) Compreender o processo de mapeamento e pesquisa mineral por parte de empresas neoextrativistas como uma forma de grave impacto às populações de comunidades camponesas; c) Examinar os conflitos gerados no território de destaque em decorrência da atuação da mineradora DaPaz Natural Stones contra a população da comunidade de Santa Luzia. A metodologia compreendeu os seguintes elementos: pesquisa bibliográfica, realização de trabalhos de campo a comunidade pesquisada, entrevistas semiestruturadas com os núcleos de base da PJR e do MAM, com os/as camponeses/as residentes na comunidade de Santa Luzia e com a coordenação estadual do MAM Ceará. Também foi realizada uma cartografia social junto com a comunidade a produção de uma cartografia social, com o intuito de identificar os usos múltiplos territoriais que seriam potencialmente afetados com a implantação da empresa mineradora Da Paz em Santa Luzia
+KW  - E1
+KW  - E10
 ER  - 
 
 TY  - JOUR
@@ -20999,6 +21291,17 @@ KW  - E6
 KW  - E7
 KW  - E8
 KW  - E10
+ER  - 
+
+TY  - JOUR
+TI  - Муза и крест Данилы Зверева
+AU  - Филатов Владимир Викторович
+PY  - 2025
+JO  - News of the Ural State Mining University
+UR  - https://cyberleninka.ru/article/n/muza-i-krest-danily-zvereva
+AB  - On November 6, 1725, V. N. Tatishchev, while on a business trip to Stockholm, signed a fi ve-year contract with Lieutenant Christian Ref, agreeing to have the Swedish stonecutter organize the extraction of colored stones in the Urals and establish a workshop in Ekaterinburg where he would teach Uralians the art of stone-cutting and jewelry-making.Ref arrived in Ekaterinburg in April of the following year, and in July he began training two students, Andrei Grachev and Aleksei Gordeev, graduates of the Moscow Artillery School.Since then, for 300 years, the mining industry for the artistic processing of gemstones and precious stones has been developing in the Urals.Over time, Ekaterinburg became a world center in this fi eld.Numerous deposits of precious, colored, and ornamental stones in the Ural Gem Belt became the mineral resource base.Ural miners -peasants -played a signifi cant role in the pro-specting, exploration, and evaluation of precious, jewelry, and ornamental stone deposits, as well as in the development of cutting and processing technologies.This category of miners is unique to the Urals.This article is dedicated to one of the most famous miners, Danila Kondratyevich Zverev .
+KW  - E1
+KW  - E11
 ER  - 
 
 TY  - JOUR
