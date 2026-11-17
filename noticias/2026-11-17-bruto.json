@@ -1,0 +1,351 @@
+{
+ "meta": {
+  "gerado_em": "2026-11-17T18:33:47.268716+00:00",
+  "janela_inicio": "2026-11-10T18:33:47.268716+00:00",
+  "fontes_tentadas": 19,
+  "fontes_com_erro": 0,
+  "itens_na_janela_dedup": 7,
+  "itens_novos": 0,
+  "descartados_filtro": 25,
+  "degradada": false
+ },
+ "log": [
+  {
+   "fonte": "GN[pt] \"rochas ornamentais\"",
+   "url": "https://news.google.com/rss/search?q=%22rochas+ornamentais%22+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 10,
+   "na_janela": 6,
+   "relevantes": 4,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] \"setor de rochas\"",
+   "url": "https://news.google.com/rss/search?q=%22setor+de+rochas%22+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 13,
+   "na_janela": 2,
+   "relevantes": 2,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] Centrorochas",
+   "url": "https://news.google.com/rss/search?q=Centrorochas+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 14,
+   "na_janela": 2,
+   "relevantes": 2,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] \"pedras naturais\" exportação",
+   "url": "https://news.google.com/rss/search?q=%22pedras+naturais%22+exporta%C3%A7%C3%A3o+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 2,
+   "na_janela": 2,
+   "relevantes": 2,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] quartzito exportação",
+   "url": "https://news.google.com/rss/search?q=quartzito+exporta%C3%A7%C3%A3o+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 1,
+   "na_janela": 1,
+   "relevantes": 1,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[en] \"natural stone\" Brazil",
+   "url": "https://news.google.com/rss/search?q=%22natural+stone%22+Brazil+when%3A30d&hl=en-US&gl=US&ceid=US:en",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 3,
+   "na_janela": 2,
+   "relevantes": 1,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] \"mármore e granito\"",
+   "url": "https://news.google.com/rss/search?q=%22m%C3%A1rmore+e+granito%22+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 9,
+   "na_janela": 2,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] Abirochas",
+   "url": "https://news.google.com/rss/search?q=Abirochas+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 0,
+   "na_janela": 0,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] Sindirochas",
+   "url": "https://news.google.com/rss/search?q=Sindirochas+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 3,
+   "na_janela": 0,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] \"Vitória Stone Fair\"",
+   "url": "https://news.google.com/rss/search?q=%22Vit%C3%B3ria+Stone+Fair%22+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 0,
+   "na_janela": 0,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] \"Cachoeiro de Itapemirim\" rochas",
+   "url": "https://news.google.com/rss/search?q=%22Cachoeiro+de+Itapemirim%22+rochas+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 10,
+   "na_janela": 2,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] rochas tarifa Estados Unidos granito",
+   "url": "https://news.google.com/rss/search?q=rochas+tarifa+Estados+Unidos+granito+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 3,
+   "na_janela": 0,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[en] \"Brazilian granite\"",
+   "url": "https://news.google.com/rss/search?q=%22Brazilian+granite%22+when%3A30d&hl=en-US&gl=US&ceid=US:en",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 1,
+   "na_janela": 1,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[en] \"Brazilian quartzite\"",
+   "url": "https://news.google.com/rss/search?q=%22Brazilian+quartzite%22+when%3A30d&hl=en-US&gl=US&ceid=US:en",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 1,
+   "na_janela": 1,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[en] \"dimension stone\" Brazil",
+   "url": "https://news.google.com/rss/search?q=%22dimension+stone%22+Brazil+when%3A30d&hl=en-US&gl=US&ceid=US:en",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 0,
+   "na_janela": 0,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[it] marmo granito Brasile",
+   "url": "https://news.google.com/rss/search?q=marmo+granito+Brasile+when%3A30d&hl=it&gl=IT&ceid=IT:it",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 1,
+   "na_janela": 0,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[es] \"rocas ornamentales\" Brasil",
+   "url": "https://news.google.com/rss/search?q=%22rocas+ornamentales%22+Brasil+when%3A30d&hl=es-419&gl=AR&ceid=AR:es-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 0,
+   "na_janela": 0,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Folha Vitória",
+   "url": "https://www.folhavitoria.com.br/feed/",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 10,
+   "na_janela": 10,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Revista Minérios & Minerales",
+   "url": "https://revistaminerios.com.br/feed/",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 10,
+   "na_janela": 6,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  }
+ ],
+ "itens": [],
+ "descartados_filtro": [
+  {
+   "fonte": "GN[pt] \"rochas ornamentais\"",
+   "titulo": "Museu Geológico da Bahia recebe evento sobre rochas da Bahia, minerais críticos e soluções regenerativas - REDE BRASIL DE TELEVISÃO",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZVVNTTRETjBYOTZiMVdSZUR0V2JGXzBGd2VLZUNGLUp0MWdCZ3N2SzJoU2tmZ1U3ellOQnBTT0xKS3ZucjJhSEkxajNEbTRhd21MMFN1TFYzS1dsYWRVTVdqTE5oaEFScmgwRnhGS2ZMdGp0eDV0ZERtNktMREo2VkFxTjRETmRManFVMjB0d2Nfb1Z2WmJlTjI4d0lIa1FtTWNySVQ0UXVlazRNRXQ2aHh5aERYYmpZZldaS0JfSlpNOUdQYUNQN213R3Z5aUp3bkIzYkw5MEc?oc=5"
+  },
+  {
+   "fonte": "GN[pt] \"rochas ornamentais\"",
+   "titulo": "ÁUDIO: Museu Geológico da Bahia recebe evento sobre rochas da Bahia, minerais críticos e soluções regenerativas - ba.gov.br",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdmR4Q3BYOW5VSUdQTnR1NDU4OGFEN2tTcFhSUGxkUFl0eUptZkN5LVRoTDVkY1Y0U1BzaEY4aFVDNmU2Z2ttZkdEUEU1bXpib09wZFp4amRmcmpGak1xYnB6QXZ2NmpvZ2d5ajJqNk5JT3JwSjljZU9DUzltUnVVcmVWMDBiYV82dFlTQ1VOV1VZbkc5M1Fxck11Y3VxLV9sUTViVm1PRTQtMzVwQVN6SFVvbVAwUFU2ZG9qM2pMb2dOc2NfV0g5Q0xadHF1dw?oc=5"
+  },
+  {
+   "fonte": "GN[pt] \"mármore e granito\"",
+   "titulo": "Indústria de mármore e granito já registrou nove mortes de trabalhadores este ano - G1",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxONkwtaTJyY01oM0JOQ21GMTRqN1pQS2hEZlA1Q0VBdzRfdDE5U2wtWG5odWNqdVpPZHZTSDVWLTBTVnRZS1RYOXZvdHREV0pkWE40dERuSnVTT09CNnBWekI4NVFBelczWGVDMm9IX0NzTk5RVW1qaTB3T2ZqaWhSVHdsamtNcUk0a0ZKX2hQeEVUZTBVM2t0V0lTRllxNjMxcUpHcmlOVHdfb3lXNlg2QlFhQTg2ODV1SE9jaEhvNUhla2pLUHpPQXBNYUdLUHlwSkRSMTRkeVhkWkUyajhCQlRFei1mVkxXT0EyZUZTT3JvYUxydFRTT1I1cDhpd2VydkHSAYICQVVfeXFMTjZMLWkycmNNaDNCTkNtRjE0ajdaUEtoRGZQNUNFQXc0X3QxOVNsLVhuaHVjanVaT2R2U0g1Vi0wU1Z0WUtUWDl2b3R0RFdKZFhONHREbkp1U09PQjZwVnpCODVRQXpXM1hlQzJvSF9Dc05OUVVtamkwd09mamloUlR3bGprTXFJNGtGSl9oUHhFVGUwVTNrdFdJU0ZZcTYzMXFKR3JpTlR3X295VzZYNkJRYUE4Njg1dUhPY2hIbzVIZWtqS1B6T0FwTWFHS1B5cEpEUjE0ZHlYZFpFMmo4QkJURXotZlZMV09BMmVGU09yb2FMcnRUU09SNXA4aXdlcnZB?oc=5"
+  },
+  {
+   "fonte": "GN[pt] \"mármore e granito\"",
+   "titulo": "Com salários de até R$ 2,8 mil, DF encerra semana com 805 vagas de emprego - Metrópoles",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQjZKSU5NZ0dOeGVaZXRQR2NBWkprTlFOU21iZ1M4bFd5X0JGV0Rjei14VzZrMjUwVENuV2xGVkZ0X0xPM3F1aVB3S0hLLUxFeHVyOEhtQ2N2Y1paeGNLSFFqXzJuZUF6NmRsVFZFMHQ0VFRzb1lZZ2tnVzZwWnZIS2NBOU5fNVcwNm4xRWI5Ny1oMlFYS3ZNbGgyaUlDUlJPQ3k2LWVyRm5NbHd4Tk83cXdOcEx4Zw?oc=5"
+  },
+  {
+   "fonte": "GN[en] \"Brazilian granite\"",
+   "titulo": "Foster + Partners behind scheme to replace 1980s One London Bridge - The Architects’ Journal",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRUgzVXNIQmR4d3I0b003TnFBYmZRbmlVcTV4YXZwcGJDd0c2SkxiT2p3M01BS2UxLTdaOWxOMXdvMXExa2YyaUE4VVRQUnB6ME95NkttOC14RUtkVllITzdURXBHUmFDMXhpRGJtWVRxRjkxWEJ6Tzh5SDRLa2RNekZHZk5wS2haTHBUcmlvSzNPdF9hMGc3TWxtSXRDOTM4RGpETXRrQVk?oc=5"
+  },
+  {
+   "fonte": "GN[en] \"Brazilian quartzite\"",
+   "titulo": "Melina Copass Reimagines a Hugh Kaptur–Designed Palm Springs Home - Palm Springs Life",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeW5FTlBYUEdxMTZYcnA3LXNsd2JpUExlOHIzOTVLY2tNWlg3NUNwZnlLSDh2Q0pQdXBQYnBoMVZjMDh1Tk9WOXRDNXg1NWc4Y1QwVXVqeHFMU3d1a0VObWljaHdSZ08wSnVSbDl4TkpUbC10SnZuckd1NmJTMDJrczJRTVBRel9JTk02SXlvWEM3VGtld0Z1d01QaEk3MFFRb0tOZzZiTlNVMGttUDg4?oc=5"
+  },
+  {
+   "fonte": "GN[pt] \"Cachoeiro de Itapemirim\" rochas",
+   "titulo": "BR 101 tem estreitamento em Ibiraçu após rochas caírem na rodovia - A Gazeta",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWU5NNFFtS1lqRmllNzUySUY1TkNEaWxRaUxpN25aSjN6ZDBQZHA2UjQxQVJrN2piYmRLR1pqWGhrVkFxdFNNdU9aMkdQMURqTEYtOHBOSDhFMkVRS18wMlBhZml3OHpaV1o4a0VfZ3hlR0thT3pvQmFVSExNdHZ1M2N3eWI2WmQ2VjlwZmZqT0tyX0J4ZU03Z1R2dTVXTGtBMnJnUHFn?oc=5"
+  },
+  {
+   "fonte": "GN[pt] \"Cachoeiro de Itapemirim\" rochas",
+   "titulo": "Milanez & Milaneze é reconhecida entre as 200 maiores empresas do Espírito Santo - Aqui Notícias",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaTBCdTQwcGNYZVNUVGZJNkZnZy1LdTN6TXJZN1J0aVBUQkZRbWxRaDVnSUlGcFpjWDJ2WDRER0tRc0NLc2l0cXF4b2RfMkhjOFFXM2k0VXBRY0JBeDFFVGs3dzFzeEk4bkRLcmEyN2V0MGdIU1U4V2FlbkZ0YmluSW9IN1NpUXV0V2dGWUp2djVJbUlRc2R0a3dqdzdHaGdRNWRnV2NodUZmNDByQnZFQXA2bm1lSGZMNWllRS1KTTdHck1ZVGZwcA?oc=5"
+  },
+  {
+   "fonte": "GN[en] \"natural stone\" Brazil",
+   "titulo": "How seamless bathroom walls are key to achieving a high-end luxe look - KBBFocus",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdm14UFJ5RG1IVjlra3dpRUNldGd0ZTBiMFZpQTUyd0Vyc0JLT2hJZFREZmViZHZ6SEhwazVwZkd6UU8yNURkNUFnYmR2NjlnMy1ubG9mZHZ3SmhrbFBYZWladEZsTktKQ1dMTmxpWTltbWJRRjVudThrbUFGRmloMXVfanY1ekZnQWd6enpTNHUzUnI2ZFlhTWVlVWtWTU01REE?oc=5"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Exposição em Vila Velha terá 50 motos e réplica da primeira fábrica da Harley-Davidson",
+   "link": "https://www.folhavitoria.com.br/cultura/exposicao-em-vila-velha-tera-50-motos-e-replica-da-primeira-fabrica-da-harley-davidson/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "The Game Awards 2026: GTA 6 lidera indicações e enfrenta Resident Evil e Zelda na disputa por Jogo do Ano",
+   "link": "https://www.folhavitoria.com.br/games/the-game-awards-2026-gta-6-lidera-indicacoes-e-enfrenta-resident-evil-e-zelda-na-disputa-por-jogo-do-ano/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Suposto apagão mundial vira meme nas redes: “Continuo trabalhando”",
+   "link": "https://www.folhavitoria.com.br/cultura/entretenimento/suposto-apagao-mundial-vira-meme-nas-redes-continuo-trabalhando/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Mel Lisboa canta Rita Lee em Vitória nesta quinta; veja ingressos e repertório",
+   "link": "https://www.folhavitoria.com.br/agenda-de-eventos/mel-lisboa-canta-rita-lee-em-vitoria-nesta-quinta-veja-ingressos-e-repertorio/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Trecho da Avenida Mário Gurgel é interditada para obras em Cariacica",
+   "link": "https://www.folhavitoria.com.br/transito/trecho-da-avenida-mario-gurgel-e-interditada-para-obras-em-cariacica/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Anvisa suspende suplementos de três empresas e determina recolhimento; veja quais",
+   "link": "https://www.folhavitoria.com.br/saude/suplementos-alimentares-tem-fabricacao-e-venda-suspensas-no-brasil/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Gigante de 8 toneladas: Estátua da Liberdade da Havan começa a ser erguida em Vila Velha",
+   "link": "https://www.folhavitoria.com.br/economia/gigante-de-8-toneladas-estatua-da-liberdade-da-havan-comeca-a-ser-erguida-em-vila-velha/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Receita vai perdoar dívidas de MEIs automaticamente; veja quem tem direito",
+   "link": "https://www.folhavitoria.com.br/economia/receita-vai-perdoar-dividas-de-meis-automaticamente-veja-quem-tem-direito/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Na Record, Hugo Grassi brinca sobre moqueca com Tom Cavalcante: “A verdadeira”",
+   "link": "https://www.folhavitoria.com.br/cultura/entretenimento/na-record-hugo-grassi-brinca-sobre-moqueca-com-tom-cavalcante-a-verdadeira/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "“Qualquer coisa era notícia”: Xamã explica término com Sophie Charlotte",
+   "link": "https://www.folhavitoria.com.br/cultura/famosos/qualquer-coisa-era-noticia-xama-explica-termino-com-sophie-charlotte/"
+  },
+  {
+   "fonte": "Revista Minérios & Minerales",
+   "titulo": "CSN Mineração investe R$ 639 mi no 3º trimestre com foco na planta de itabirito",
+   "link": "https://revistaminerios.com.br/csn-mineracao-investe-r-639-mi-no-3o-trimestre-com-foco-na-planta-de-itabirito/"
+  },
+  {
+   "fonte": "Revista Minérios & Minerales",
+   "titulo": "Jacobina Mineração assina acordo com Casa dos Ventos de auto produção de energia",
+   "link": "https://revistaminerios.com.br/jacobina-mineracao-acordo-casa-dos-ventos-autoproducao-energia/"
+  },
+  {
+   "fonte": "Revista Minérios & Minerales",
+   "titulo": "Como funciona a produção de aço: da mineração de ferro à indústria siderúrgica",
+   "link": "https://revistaminerios.com.br/como-e-produzido-aco-etapas-fabricacao/"
+  },
+  {
+   "fonte": "Revista Minérios & Minerales",
+   "titulo": "Investimentos totais da Votorantim Cimentos no 3° tri somaram R$ 877mi",
+   "link": "https://revistaminerios.com.br/investimentos-votorantim-cimentos-877-milhoes-terceiro-trimestre/"
+  },
+  {
+   "fonte": "Revista Minérios & Minerales",
+   "titulo": "Nos primeiros 9 meses do ano, Aura Minerals investiu US$ 225 mi",
+   "link": "https://revistaminerios.com.br/aura-minerals-investiu-225-milhoes-primeiros-9-meses/"
+  },
+  {
+   "fonte": "Revista Minérios & Minerales",
+   "titulo": "Atlantic Nickel avalia implantar caminhão híbrido em sua operação na BA",
+   "link": "https://revistaminerios.com.br/atlantic-nickel-caminhao-hibrido-operacao-bahia/"
+  }
+ ]
+}
