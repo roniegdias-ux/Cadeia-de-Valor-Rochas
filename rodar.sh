@@ -5,6 +5,7 @@
 #   ./rodar.sh semanal     # bibliografia incremental (+ triagem pelo agente, prompts/triagem.md §A)
 #   ./rodar.sh mensal      # séries de dados (ComexStat publica nos primeiros dias úteis)
 #   ./rodar.sh backfill    # 1 vez: bibliografia desde 1970 + séries desde 1997
+#   ./rodar.sh dados-tcc   # séries de 2015 em diante, com a ampliação do TCC (Comtrade + ComexStat)
 # Código de saída != 0 = coleta degradada ou falha: NÃO commitar em silêncio; reportar.
 set -uo pipefail
 cd "$(dirname "$0")"
@@ -20,6 +21,7 @@ case "$modo" in
             python3 dados.py --backfill || st=$? ;;
   backfill-biblio) python3 biblio.py --backfill || st=$? ;;
   backfill-dados)  python3 dados.py --backfill || st=$? ;;
+  dados-tcc)       python3 dados.py --desde 2015 --so comtrade,comexstat || st=$? ;;
   retro-sites) python3 retro_sites.py || st=$?
                python3 retro_pdfs.py || st=$?
                python3 retro_resumo.py || st=$? ;;

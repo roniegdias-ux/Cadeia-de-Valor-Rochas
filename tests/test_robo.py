@@ -1,3 +1,4 @@
+import collections
 import csv
 import json
 import os
@@ -184,6 +185,31 @@ class TestDados(unittest.TestCase):
         self.assertEqual(dados._anos_de("2007-2016"), list(range(2007, 2017)))
         self.assertEqual(dados._anos_de("2025 HS 2514"), [2025])
         self.assertEqual(dados._anos_de("-"), [])
+
+    def test_pedidos_comtrade_tcc(self):
+        c = json.load(open(os.path.join(RAIZ, "config.json"), encoding="utf-8"))["comtrade"]
+        # Antes do recorte do TCC: só as séries antigas, iguais às de antes.
+        antigos = dados.pedidos_comtrade(c, 2010, None)
+        self.assertEqual({n for n, _, _ in antigos}, {"comtrade_export_mundo", "comtrade_eua_import_parceiros"})
+        self.assertEqual(len(antigos), 1 + len(c["hs4"]))
+        # No recorte, sem chave: um código por chamada (a prévia corta em 500 linhas).
+        p = dados.pedidos_comtrade(c, 2020, None)
+        nomes = collections.Counter(n for n, _, _ in p)
+        t = c["tcc"]
+        self.assertEqual(nomes["comtrade_eua_import_parceiros"], len(c["hs4"]) + len(t["hs_extra"]))
+        self.assertEqual(nomes["comtrade_import_blocos_chn_ita"], len(t["importadores_blocos"]) * len(t["hs_blocos"]))
+        self.assertEqual(nomes["comtrade_export_todos_paises"], len(t["hs_mundo"]))
+        todos = [q for n, _, q in p if n == "comtrade_export_todos_paises"]
+        self.assertTrue(all("reporterCode" not in q and q["partnerCode"] == 0 for q in todos))
+        self.assertIn("250620", [q["cmdCode"] for q in todos])
+        self.assertIn("TOTAL", [q["cmdCode"] for q in todos])
+        self.assertIn("250620", p[0][2]["cmdCode"])
+        # Com chave: códigos agrupados numa chamada por série/importador.
+        k = collections.Counter(n for n, _, _ in dados.pedidos_comtrade(c, 2020, "x"))
+        self.assertEqual(k["comtrade_export_todos_paises"], 1)
+        self.assertEqual(k["comtrade_import_blocos_chn_ita"], len(t["importadores_blocos"]))
+        # Os rótulos levam o ano, para o autorreparo de falhas.
+        self.assertTrue(all(dados._anos_de(r) == [2020] for _, r, _ in p))
 
     def test_num_decimal_br(self):
         self.assertEqual(dados._num("1.234,56"), 1234.56)

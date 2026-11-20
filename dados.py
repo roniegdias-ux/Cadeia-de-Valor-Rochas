@@ -8,6 +8,7 @@ Comtrade/CFEM têm defasagem anual, mas o custo de reconsultar é baixo.
   python3 dados.py              # atualiza ano corrente e anterior (pega revisões)
   python3 dados.py --backfill   # série inteira (ComexStat desde 1997, Comtrade desde 2000)
   python3 dados.py --so comexstat,bcb
+  python3 dados.py --desde 2015  # recorte do TCC: todas as séries de 2015 em diante
 
 Séries em dados/series/*.csv (formato longo, 1 linha por observação, colunas
 exatamente como a fonte devolve + 'fonte' e 'coletado_em'). Uma série nunca é
@@ -107,12 +108,22 @@ def comexstat(cfg, anos, log, hoje):
             (f"comex_{fluxo}_quartzito_pais", fluxo, "ncm", list(ncm["ncm8_extra"]), ["ncm", "country"]),
         ]
     consultas.append(("comex_import_insumos_pais", "import", "heading", list(ncm["sh4_cadeia_insumos"]), ["heading", "country"]))
+    # TCC: 6802 em 8 dígitos por destino separa beneficiados simples de trabalhados
+    # em cada fluxo (EUA x demais). Só desde o início do recorte do TCC.
+    inicio_tcc = cfg["comtrade"]["tcc"]["inicio"]
+    if ncm.get("sh4_6802_por_ncm_pais"):
+        consultas.append(("comex_export_6802_ncm_pais", "export", "heading", list(ncm["sh4_6802_por_ncm_pais"]),
+                          ["ncm", "country"], inicio_tcc))
     ultimo_mes = hoje.strftime("%Y-%m")
-    for nome, fluxo, filtro, valores, detalhes in consultas:
+    for consulta in consultas:
+        nome, fluxo, filtro, valores, detalhes = consulta[:5]
+        ano_min = consulta[5] if len(consulta) > 5 else 0
         if valores is None:   # NCM nacional: filtra pelos SH4 e detalha por NCM
             filtro, valores = "heading", sh4
         linhas = []
         for ano in anos:
+            if ano < ano_min:
+                continue
             ate = min(f"{ano}-12", ultimo_mes)
             corpo = {"flow": fluxo, "monthDetail": True, "period": {"from": f"{ano}-01", "to": ate},
                      "filters": [{"filter": filtro, "values": valores}],
@@ -141,35 +152,64 @@ def comexstat(cfg, anos, log, hoje):
 
 # ------------------------------------------------------------------ Comtrade
 
+AGREGADO = dict(partner2Code=0, customsCode="C00", motCode=0)   # só a linha total, sem quebra por modal/regime
+
+
+def pedidos_comtrade(c, ano, chave):
+    """Lista (série, rótulo, parâmetros) de um ano. Sem chave, a prévia corta em 500
+    linhas, então cada código vai numa chamada; com chave, os códigos vão juntos."""
+    hs4 = list(c["hs4"])
+    tcc = c.get("tcc") or {}
+    no_tcc = bool(tcc) and ano >= tcc["inicio"]
+    codigos = hs4 + (list(tcc["hs_extra"]) if no_tcc else [])
+    por_vez = (lambda cods: [",".join(cods)]) if chave else (lambda cods: list(cods))
+    pedidos = [("comtrade_export_mundo", f"{ano}",
+                dict(reporterCode=",".join(c["reporters"]), period=ano, cmdCode=",".join(codigos),
+                     flowCode="X", partnerCode=0))]
+    # Mercado dos EUA por origem. Os códigos novos do TCC só desde tcc.inicio.
+    pedidos += [("comtrade_eua_import_parceiros", f"{ano} HS {h}",
+                 dict(reporterCode=842, period=ano, cmdCode=h, flowCode="M"))
+                for h in hs4]
+    if no_tcc:
+        pedidos += [("comtrade_eua_import_parceiros", f"{ano} HS {h}",
+                     dict(reporterCode=842, period=ano, cmdCode=h, flowCode="M", **AGREGADO))
+                    for h in por_vez(tcc["hs_extra"])]
+        # Importação de blocos pela China e pela Itália, por origem (participação do Brasil).
+        pedidos += [("comtrade_import_blocos_chn_ita", f"{ano} R {r} HS {h}",
+                     dict(reporterCode=r, period=ano, cmdCode=h, flowCode="M", **AGREGADO))
+                    for r in tcc["importadores_blocos"] for h in por_vez(tcc["hs_blocos"])]
+        # Exportações de todos os países (sem reporterCode = todos), parceiro mundo:
+        # numerador e denominador mundial da vantagem comparativa revelada.
+        pedidos += [("comtrade_export_todos_paises", f"{ano} HS {h}",
+                     dict(period=ano, cmdCode=h, flowCode="X", partnerCode=0, **AGREGADO))
+                    for h in por_vez(tcc["hs_mundo"])]
+    return pedidos
+
+
 def comtrade(cfg, anos, log, hoje):
     c = cfg["comtrade"]
     chave = os.environ.get("COMTRADE_KEY")
     base = ("https://comtradeapi.un.org/data/v1/get/C/A/HS" if chave
             else "https://comtradeapi.un.org/public/v1/preview/C/A/HS")
     cab = {"Ocp-Apim-Subscription-Key": chave} if chave else None
-    out = {"comtrade_export_mundo": [], "comtrade_eua_import_parceiros": []}
+    out = {"comtrade_export_mundo": [], "comtrade_eua_import_parceiros": [],
+           "comtrade_import_blocos_chn_ita": [], "comtrade_export_todos_paises": []}
+    keep = ("reporterCode", "reporterDesc", "partnerCode", "partnerDesc", "period", "cmdCode",
+            "flowCode", "primaryValue", "netWgt", "qty", "qtyUnitAbbr")
     for ano in anos:
         if ano < c["inicio"]:
             continue
-        pedidos = [("comtrade_export_mundo", dict(reporterCode=",".join(c["reporters"]), period=ano,
-                                                   cmdCode=",".join(c["hs4"]), flowCode="X", partnerCode=0))]
-        # Mercado dos EUA por origem (1 código por vez: preview corta em 500 linhas).
-        pedidos += [("comtrade_eua_import_parceiros", dict(reporterCode=842, period=ano, cmdCode=h, flowCode="M"))
-                    for h in c["hs4"]]
-        for nome, params in pedidos:
+        for nome, rotulo, params in pedidos_comtrade(c, ano, chave):
             cod, corpo, erro, _ = rede.buscar(f"{base}?{rede.qs(**params)}", ua=rede.UA_API, cabecalhos=cab)
-            ano = f"{params['period']} HS {params['cmdCode']}" if nome.startswith("comtrade_eua") else params["period"]
             if erro:
-                log.append({"serie": nome, "periodo": ano, "http": cod, "erro": erro})
+                log.append({"serie": nome, "periodo": rotulo, "http": cod, "erro": erro})
                 continue
             regs = json.loads(corpo).get("data") or []
             if not chave and len(regs) >= 500:
-                log.append({"serie": nome, "periodo": ano, "http": cod, "erro": "preview truncado em 500 linhas — usar COMTRADE_KEY"})
-            keep = ("reporterCode", "reporterDesc", "partnerCode", "partnerDesc", "period", "cmdCode",
-                    "flowCode", "primaryValue", "netWgt", "qty", "qtyUnitAbbr")
+                log.append({"serie": nome, "periodo": rotulo, "http": cod, "erro": "preview truncado em 500 linhas — usar COMTRADE_KEY"})
             out[nome] += [dict({k: r.get(k) for k in keep}, fonte="comtrade", coletado_em=hoje.strftime("%Y-%m-%d"))
                           for r in regs]
-            log.append({"serie": nome, "periodo": ano, "http": cod, "erro": None, "linhas": len(regs)})
+            log.append({"serie": nome, "periodo": rotulo, "http": cod, "erro": None, "linhas": len(regs)})
             time.sleep(1.2)
     return out
 
@@ -340,12 +380,15 @@ def main():
     p.add_argument("--backfill", action="store_true")
     p.add_argument("--so", default="comexstat,comtrade,bcb,cfem")
     p.add_argument("--forcar", action="store_true", help="ignora a matriz de acesso")
+    p.add_argument("--desde", type=int, help="coleta a partir deste ano (ex.: 2015, recorte do TCC)")
     p.add_argument("--data")
     a = p.parse_args()
     hoje = datetime.now(timezone.utc)
     data = a.data or hoje.strftime("%Y-%m-%d")
     cfg = rede.ler_json("config.json")
     ini = int(cfg["ncm_comexstat"]["inicio_serie"][:4]) if a.backfill else hoje.year - 1
+    if a.desde:
+        ini = a.desde
     anos = list(range(ini, hoje.year + 1))
     # Autorreparo: anos que falharam em execuções anteriores entram de novo
     # (o backfill de 2026-10-08 perdeu 2006, 2013, 2015, 2016 por 429).
@@ -369,7 +412,7 @@ def main():
     rede.gravar_json(FALHAS, [{"serie": l["serie"], "periodo": str(l["periodo"]), "anos": _anos_de(l["periodo"])}
                               for l in erros if _anos_de(l["periodo"])])
     md = [f"# Dados e séries — {data}", "", "## Registro de coleta", "",
-          f"- Modo: {'backfill desde ' + str(ini) if a.backfill else 'atualização ' + str(ini) + '–' + str(hoje.year)}",
+          f"- Modo: {'backfill desde ' + str(ini) if (a.backfill or a.desde) else 'atualização ' + str(ini) + '–' + str(hoje.year)}",
           f"- Requisições: {len(log)}; com erro: {len(erros)}", ""]
     if erros:
         md += ["| Série | Período | HTTP | Erro |", "|---|---|---|---|"]
