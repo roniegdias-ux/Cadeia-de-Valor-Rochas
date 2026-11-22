@@ -38,7 +38,10 @@
     "6804"
    ]
   },
-  "inicio_serie": "1997-01"
+  "inicio_serie": "1997-01",
+  "sh4_6802_por_ncm_pais": [
+   "6802"
+  ]
  },
  "comtrade": {
   "_nota": "Benchmark mundial: quem exporta, para onde, a que preço por tonelada. Códigos M49.",
@@ -62,7 +65,49 @@
    "300": "Grécia",
    "842": "EUA"
   },
-  "inicio": 2000
+  "inicio": 2000,
+  "tcc": {
+   "_nota": "Ampliação para o TCC ECEX (20/11/2026): quartzito (250620) e pedra aglomerada (681099), 6802 em 6 dígitos (beneficiados simples x trabalhados), importação da China e da Itália por origem nos códigos de blocos e exportações de todos os países por código, mais o total de todos os produtos, para a vantagem comparativa revelada. Só a partir de 'inicio' para poupar chamadas.",
+   "inicio": 2015,
+   "hs_extra": [
+    "250620",
+    "681099",
+    "680210",
+    "680221",
+    "680223",
+    "680229",
+    "680291",
+    "680292",
+    "680293",
+    "680299"
+   ],
+   "importadores_blocos": {
+    "156": "China",
+    "380": "Itália"
+   },
+   "hs_blocos": [
+    "250620",
+    "2515",
+    "2516"
+   ],
+   "hs_mundo": [
+    "250620",
+    "2514",
+    "2515",
+    "2516",
+    "680210",
+    "680221",
+    "680223",
+    "680229",
+    "680291",
+    "680292",
+    "680293",
+    "680299",
+    "6803",
+    "681099",
+    "TOTAL"
+   ]
+  }
  },
  "bcb_sgs": {
   "_nota": "Para deflacionar e converter séries. a_validar: códigos conferidos de memória.",
