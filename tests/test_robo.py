@@ -210,6 +210,13 @@ class TestDados(unittest.TestCase):
         self.assertEqual(k["comtrade_import_blocos_chn_ita"], len(t["importadores_blocos"]))
         # Os rótulos levam o ano, para o autorreparo de falhas.
         self.assertTrue(all(dados._anos_de(r) == [2020] for _, r, _ in p))
+        # Toda chamada pede só a linha agregada: com chave, a API devolve também as
+        # linhas por regime/modal, que duplicariam a série.
+        for ano, ch in ((2010, None), (2020, None), (2020, "x")):
+            for _, _, q in dados.pedidos_comtrade(c, ano, ch):
+                self.assertEqual((q["customsCode"], q["motCode"], q["partner2Code"]), ("C00", 0, 0))
+        # qty é métrica: mudança de quantidade revisa a linha, não cria outra.
+        self.assertNotIn(("qty", "5"), dados.chave_linha({"cmdCode": "2516", "qty": "5", "primaryValue": "1"}))
 
     def test_num_decimal_br(self):
         self.assertEqual(dados._num("1.234,56"), 1234.56)
