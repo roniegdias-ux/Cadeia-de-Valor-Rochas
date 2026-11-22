@@ -37,7 +37,7 @@ SERIES = "dados/series"
 COMEX = "https://api-comexstat.mdic.gov.br/general"
 COMEX_PAUSA = 8                       # s entre chamadas bem-sucedidas
 COMEX_ESPERAS_429 = [20, 40, 80, 120]  # s antes de repetir após 429
-METRICAS = ("metricFOB", "metricKG", "primaryValue", "netWgt", "valor", "valor_recolhido", "quantidade")
+METRICAS = ("metricFOB", "metricKG", "primaryValue", "netWgt", "qty", "valor", "valor_recolhido", "quantidade")
 
 
 # ------------------------------------------------------------ armazenamento
@@ -152,7 +152,9 @@ def comexstat(cfg, anos, log, hoje):
 
 # ------------------------------------------------------------------ Comtrade
 
-AGREGADO = dict(partner2Code=0, customsCode="C00", motCode=0)   # só a linha total, sem quebra por modal/regime
+# Só a linha total, sem quebra por modal/regime. Obrigatório em toda chamada: com chave,
+# a API devolve também as linhas desagregadas (ex.: Turquia, Espanha), que viram duplicatas.
+AGREGADO = dict(partner2Code=0, customsCode="C00", motCode=0)
 
 
 def pedidos_comtrade(c, ano, chave):
@@ -165,10 +167,10 @@ def pedidos_comtrade(c, ano, chave):
     por_vez = (lambda cods: [",".join(cods)]) if chave else (lambda cods: list(cods))
     pedidos = [("comtrade_export_mundo", f"{ano}",
                 dict(reporterCode=",".join(c["reporters"]), period=ano, cmdCode=",".join(codigos),
-                     flowCode="X", partnerCode=0))]
+                     flowCode="X", partnerCode=0, **AGREGADO))]
     # Mercado dos EUA por origem. Os códigos novos do TCC só desde tcc.inicio.
     pedidos += [("comtrade_eua_import_parceiros", f"{ano} HS {h}",
-                 dict(reporterCode=842, period=ano, cmdCode=h, flowCode="M"))
+                 dict(reporterCode=842, period=ano, cmdCode=h, flowCode="M", **AGREGADO))
                 for h in hs4]
     if no_tcc:
         pedidos += [("comtrade_eua_import_parceiros", f"{ano} HS {h}",
