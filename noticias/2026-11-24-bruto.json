@@ -1,0 +1,365 @@
+{
+ "meta": {
+  "gerado_em": "2026-11-24T20:09:19.569598+00:00",
+  "janela_inicio": "2026-11-17T20:09:19.569598+00:00",
+  "fontes_tentadas": 19,
+  "fontes_com_erro": 0,
+  "itens_na_janela_dedup": 10,
+  "itens_novos": 1,
+  "descartados_filtro": 25,
+  "degradada": false
+ },
+ "log": [
+  {
+   "fonte": "GN[pt] \"rochas ornamentais\"",
+   "url": "https://news.google.com/rss/search?q=%22rochas+ornamentais%22+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 14,
+   "na_janela": 4,
+   "relevantes": 4,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] \"setor de rochas\"",
+   "url": "https://news.google.com/rss/search?q=%22setor+de+rochas%22+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 18,
+   "na_janela": 3,
+   "relevantes": 3,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] \"mármore e granito\"",
+   "url": "https://news.google.com/rss/search?q=%22m%C3%A1rmore+e+granito%22+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 17,
+   "na_janela": 8,
+   "relevantes": 1,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] quartzito exportação",
+   "url": "https://news.google.com/rss/search?q=quartzito+exporta%C3%A7%C3%A3o+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 2,
+   "na_janela": 1,
+   "relevantes": 1,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] Centrorochas",
+   "url": "https://news.google.com/rss/search?q=Centrorochas+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 14,
+   "na_janela": 1,
+   "relevantes": 1,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] \"pedras naturais\" exportação",
+   "url": "https://news.google.com/rss/search?q=%22pedras+naturais%22+exporta%C3%A7%C3%A3o+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 4,
+   "na_janela": 1,
+   "relevantes": 1,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] rochas tarifa Estados Unidos granito",
+   "url": "https://news.google.com/rss/search?q=rochas+tarifa+Estados+Unidos+granito+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 3,
+   "na_janela": 1,
+   "relevantes": 1,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[en] \"dimension stone\" Brazil",
+   "url": "https://news.google.com/rss/search?q=%22dimension+stone%22+Brazil+when%3A30d&hl=en-US&gl=US&ceid=US:en",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 2,
+   "na_janela": 2,
+   "relevantes": 1,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] Abirochas",
+   "url": "https://news.google.com/rss/search?q=Abirochas+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 0,
+   "na_janela": 0,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] Sindirochas",
+   "url": "https://news.google.com/rss/search?q=Sindirochas+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 3,
+   "na_janela": 0,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] \"Vitória Stone Fair\"",
+   "url": "https://news.google.com/rss/search?q=%22Vit%C3%B3ria+Stone+Fair%22+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 0,
+   "na_janela": 0,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[pt] \"Cachoeiro de Itapemirim\" rochas",
+   "url": "https://news.google.com/rss/search?q=%22Cachoeiro+de+Itapemirim%22+rochas+when%3A30d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 9,
+   "na_janela": 1,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[en] \"Brazilian granite\"",
+   "url": "https://news.google.com/rss/search?q=%22Brazilian+granite%22+when%3A30d&hl=en-US&gl=US&ceid=US:en",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 2,
+   "na_janela": 1,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[en] \"Brazilian quartzite\"",
+   "url": "https://news.google.com/rss/search?q=%22Brazilian+quartzite%22+when%3A30d&hl=en-US&gl=US&ceid=US:en",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 2,
+   "na_janela": 1,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[en] \"natural stone\" Brazil",
+   "url": "https://news.google.com/rss/search?q=%22natural+stone%22+Brazil+when%3A30d&hl=en-US&gl=US&ceid=US:en",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 3,
+   "na_janela": 0,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[it] marmo granito Brasile",
+   "url": "https://news.google.com/rss/search?q=marmo+granito+Brasile+when%3A30d&hl=it&gl=IT&ceid=IT:it",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 1,
+   "na_janela": 0,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "GN[es] \"rocas ornamentales\" Brasil",
+   "url": "https://news.google.com/rss/search?q=%22rocas+ornamentales%22+Brasil+when%3A30d&hl=es-419&gl=AR&ceid=AR:es-419",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 0,
+   "na_janela": 0,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Folha Vitória",
+   "url": "https://www.folhavitoria.com.br/feed/",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 10,
+   "na_janela": 10,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Revista Minérios & Minerales",
+   "url": "https://revistaminerios.com.br/feed/",
+   "http": 200,
+   "tentativas": 1,
+   "itens_totais": 10,
+   "na_janela": 5,
+   "relevantes": 0,
+   "sem_data": 0,
+   "erro": null
+  }
+ ],
+ "itens": [
+  {
+   "titulo": "Dimension Stone Market to Reach US$ 7,473.15 Million by 2033 - openPR.com",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSWpob0s3VG1faTMwaWpkeS1YbWVITWdkOGd6c2FtejliS21PZk01V19WVmp0UUtqaTFsMmNBM2VBVHBUM3hpYlI5Q29UVWlZSXRPMFpyVmR5cUhPLTNrSkg3M25YSmlPVjBjMi1nUk5wMTZpSkFvUTNYcHVJOU1pY2pHZXJVZFdILWRZZmxMQkg5ME5oYzBRUmhvUQ?oc=5",
+   "publicado": "2026-11-24T12:10:21+00:00",
+   "resumo": "Dimension Stone Market to Reach US$ 7,473.15 Million by 2033 &nbsp;&nbsp; openPR.com",
+   "veiculo": "openPR.com",
+   "relevancia": "forte:dimension stone",
+   "elos_pre": [],
+   "chave": "dimension stone market to reach us 7 473 15 million by 2033",
+   "fontes": [
+    "GN[en] \"dimension stone\" Brazil"
+   ]
+  }
+ ],
+ "descartados_filtro": [
+  {
+   "fonte": "GN[pt] \"mármore e granito\"",
+   "titulo": "Empresário é preso suspeito de dar golpe de R$ 25 mil em clientes de mármore e granito - R7",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNYW01TW1tVG5xWDE1TU52NEtYS0JJTDhWbnFWNkUtQ2h2RTN6dDhhOHZ1X0UwbGFQNWZ3N0RETm9LcWZJbEJwQmQya05tZTg3R2J3ZTBaQmYtV1RpaklOVVdzZ013N0lxS2cySFd0Mm96bTZWdUxJZmo3WThUdlNkRVpKd1BpLVVZN3phVEFOeE9TaG1GNy1ZcWc1Ml9GMFktVlF4cXhsVXF2aWRTNXI2WWJRbGZxZm9KQ0JIRlBMODZSclo5YkYxd00ya1R2YWh5ZTBaNnFGMlg3V1BHSGdFY1JVZGhpUQ?oc=5"
+  },
+  {
+   "fonte": "GN[pt] \"mármore e granito\"",
+   "titulo": "Com salários de até R$ 2,8 mil, DF tem 524 vagas de emprego nesta 3ª feira - Metrópoles",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYVcwOXpRZnA1WGZtMllVSnBNODFGdTRHekh6MDN6c3gxMGFFREdoWnJIV25wanJzTll1VENVSDhBVmFJUW9iQ3JKMHhGVDQtaWw0TG1TQ0Z0bG5uRkdNWm43aXRPWVhDQzJqc09FZlZOOXJ0MWFmMWhMeHN4dWlMcWxqempXVURJQ3BWQkdERmUxcXY2WkluSjlhRnV5SThyV2FsanR6NlJlZUxjYmNudG9qREZRQQ?oc=5"
+  },
+  {
+   "fonte": "GN[pt] \"mármore e granito\"",
+   "titulo": "Agências do Trabalhador do DF oferecem 524 vagas com salários de até R$ 2,8 mil - Jornal de Brasília",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSzRHV2lBbDQ0eWRQQzhQRW54MUpwQVhER191SUZfek5IdHFBOG1hTTNMZGZZdEF3Mmo4QUZLVEV4VjZXN1pKWllmbnpfc3VHUkFhcC1QVVUxQjRKNHBSYVVNM0RFQUlRTmdpS0pDZXFONmdYODltbFlIbVN5Wi1NUG9HaGNtQmYzemJxS1ZuUURTdFFESk1hY2l2Njl0ZlpVbVJHajYycmhKT01OSElOQzBZcWt2WkgxUmxF?oc=5"
+  },
+  {
+   "fonte": "GN[pt] \"mármore e granito\"",
+   "titulo": "Agências do trabalhador têm 555 vagas de emprego nesta terça-feira - Agita Brasília",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR1J5VnljaDBlMzhhQ0VKX1dRcEJNeVBBRjFVVTJ3ejZoTkpDSlhETGVsc3haM3ljT1hlMng3TVZKQ1RVU1ZLZk12N3AtQldhM0c4Nmk2T1BWMzMtYW14ZUZRVFNmMzF0WXdzVzQ4azl0dXppV1RkWGExMlJWSzhuWUMzck5YRmNxWUJWbnN2ZHBZU0tfZXdNSg?oc=5"
+  },
+  {
+   "fonte": "GN[pt] \"mármore e granito\"",
+   "titulo": "DF começa a semana com 524 vagas de emprego e salários de até R$ 2,8 mil - Jornal de Brasília",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaGxzMC1WaHBSU3F4UGdUWVRLQkFHbm5wbFFQdi1Zak50MkJVcFNjN0VBSU1tOUxIVXMxYlZiM3htcExrRmYxV0JaZXE5RTY5dE1GTm5vazNNUWQwamt4Wm9WRjU3emcyYXYtREZXS3FjMS1XeF9oeWpydXZZOHZ0Q1lfMENpejdWTlBlTkpqaGpwbzZlQ2E2TmFZNHVHLWotMGhRYVZmQ1ZmNXdBbGhnblpB?oc=5"
+  },
+  {
+   "fonte": "GN[pt] \"mármore e granito\"",
+   "titulo": "Agências do trabalhador oferecem 555 vagas de emprego nesta terça-feira - Correio Braziliense",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPS0RZb2FUZjlSVlFxYzBqNFZiSGFwYnBGOFBkOHN4cmRkNHdFRF9kamhmNEJIbmxvb2ltejRWaUI4MFZDOFZVZFR0eXVGbHh2UnBUNS1hUGRCbkNWUVo3YzFpT3J6MXl5bEhrajA2SFpXaFFqT2RkcXRjTnFhREJOQk1qV0pYV1AyYjVZNFNQUGpTRnh3Tm5PZi04QzdUZ0lOYUxSbVRzU1l2M3p5SUVoMldYaGdEYi1KcUdkbkdUbUlLMmQ2dGdUOTRGOVNyS0dpRlpJb1FyNk7SAd4BQVVfeXFMT19lTzgzQ3U1Z3B4c2xSZnphNHZfVU12Wmk1QnMyN09xUEE3dUZPWTU1T0huU0l3RFhYRmlSdVRDNmo1aHRyQzFsbTdJdHdjN2hrRlh4UjktVVRzTENRNm5rbDlocWZESWIweXo1blJoWDhieE94TXZZUjRtZDJKakVaRWRRdUxqYTBLM19Ra1NVclJOYmZ0eEJBNFFxb3g4dDR6VDFUc2JIam1hbGlzY0NCMElNekJvQ1d5M0ZmX2M1eE5uWGNuOGd5bVB2V0JGVGdiOFp3dTFBSkhWdFRB?oc=5"
+  },
+  {
+   "fonte": "GN[pt] \"mármore e granito\"",
+   "titulo": "Semana começa com 524 vagas nas agências do trabalhador do DF - Ao Vivo de Brasília",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU00tU21WOEswTGhLdHhBV2J5azA5OFhBVWt3bXc5QnRKYWVWaUE2OE5faHAwWUlyb0lNX2xDWW9iTFgyNkpxQ3p5bGhXNTFSbEN2SGFwVmxqa002X3pScFFVWWFJcjVuaHEyb25GRXJZZ25WUWtJNFl0NDhDSXFza1ZNVGdsbG5uR1p1dVkyck5IS3F6VDNXcFpzVDhPeFBOOVBwZFJlQm9COXZDZ1E?oc=5"
+  },
+  {
+   "fonte": "GN[en] \"Brazilian quartzite\"",
+   "titulo": "Forest Side House by Matter Architects - Home of Architecture",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zalBfV2hxaEJOOE5MNG9NR1kweXhBd19EZXp2Z1dUUmZzbFlkVEZWNjZWOU1WZkNPTkVRd25jdUtYOUpkSGxXMmdCOXA0Wlg5ZmlJa1VxRW9WenVTZHZtZ2h3bWJGanBGNXdPRkZoRHhVMEEyNjhGWkNQRXE?oc=5"
+  },
+  {
+   "fonte": "GN[en] \"Brazilian granite\"",
+   "titulo": "Brazilian Granite Savanna Flora Reveals Deep Ties to Semiarid Caatinga Domain - Bioengineer.org",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU1lRcmhTU1ZLTS11QTdvU05TZ3JYZHc2MXJra25UaHJZYUFSd3RXOUhRNDJTRDBNa3J5MHUtalo3SVF5OTZjU0dCVG9GUFg1RGxNRVZPdGI5bEZfVW1QdXZybVVnUWdHaXQtZEFIYmtKV1VyaEFNQ2FjM2Zmdndrb3F4QWY3NnJmTV9YSmxCeHl0ektoU0xnVmJESnlUaEhxbjRNdA?oc=5"
+  },
+  {
+   "fonte": "GN[en] \"dimension stone\" Brazil",
+   "titulo": "Stakeholder Gold (SKHRF) Stock Price, News & Analysis - Stock Titan",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iMTRQOGpHTzZzY1dXRlk3MFEwTlUzT0dKbzVub3hCYWhfcGpHMk9BMUZta0xPN2lwdkwtSUpmVWpXVXp0aHNmdkQ5SDZMZmNMeEY1RA?oc=5"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "BR-101 no Sul do ES vai ser totalmente fechada para detonação de rochas nesta quarta",
+   "link": "https://www.folhavitoria.com.br/transito/br-101-no-sul-do-es-vai-ser-totalmente-fechada-para-detonacao-de-rochas-nesta-quarta/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "“Não tem como trabalhar”: comerciante tenta recuperar prejuízo após nova enchente",
+   "link": "https://www.folhavitoria.com.br/tempo/nao-tem-como-trabalhar-comerciante-tenta-recuperar-prejuizo-apos-nova-enchente/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Padrasto é preso por crimes sexuais contra a enteada de 13 anos em Linhares",
+   "link": "https://www.folhavitoria.com.br/policia/padrasto-e-preso-por-crimes-sexuais-contra-a-enteada-de-13-anos-em-linhares/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Bolo que não precisa de forno: veja como fazer na panela elétrica",
+   "link": "https://www.folhavitoria.com.br/beleza/bolo-que-nao-precisa-de-forno-veja-como-fazer-na-panela-eletrica/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Receita libera consulta a novo lote de  R$ 666 milhões do Imposto de Renda; veja se você vai receber",
+   "link": "https://www.folhavitoria.com.br/economia/receita-libera-consulta-a-novo-lote-de-r-666-milhoes-do-imposto-de-renda-veja-se-voce-vai-receber/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Novo teatro no ES abre as portas com ópera e três dias de atrações gratuitas",
+   "link": "https://www.folhavitoria.com.br/agenda-de-eventos/novo-teatro-no-es-abre-as-portas-com-opera-e-tres-dias-de-atracoes-gratuitas/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Adolescente de 15 anos morre após ser baleado em Cariacica",
+   "link": "https://www.folhavitoria.com.br/policia/adolescente-de-15-anos-morre-apos-ser-baleado-em-cariacica/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Vai fazer churrasco? Carne bovina pode ficar ainda mais cara até o Natal",
+   "link": "https://www.folhavitoria.com.br/economia/vai-fazer-churrasco-carne-bovina-pode-ficar-ainda-mais-cara-ate-o-natal/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Novo polo agrícola e imobiliário pode gerar 10 mil empregos em Linhares",
+   "link": "https://www.folhavitoria.com.br/economia/novo-polo-agricola-e-imobiliario-pode-gerar-10-mil-empregos-em-linhares/"
+  },
+  {
+   "fonte": "Folha Vitória",
+   "titulo": "Vacina contra Mpox está disponível no ES? Veja quem pode se vacinar",
+   "link": "https://www.folhavitoria.com.br/saude/vacina-contra-mpox-esta-disponivel-no-es-veja-quem-pode-se-vacinar/"
+  },
+  {
+   "fonte": "Revista Minérios & Minerales",
+   "titulo": "Exportações do Pará para Índia de minério de cobre têm forte aumento",
+   "link": "https://revistaminerios.com.br/exportacoes-para-para-india-minerio-cobre/"
+  },
+  {
+   "fonte": "Revista Minérios & Minerales",
+   "titulo": "Visita de Richard Harris reforça parceria entre Sandvik e Máquina Solo",
+   "link": "https://revistaminerios.com.br/parceria-sandvik-maquina-solo-visita-richard-harris/"
+  },
+  {
+   "fonte": "Revista Minérios & Minerales",
+   "titulo": "Belo Sun Mineração anuncia novo CEO e CFO",
+   "link": "https://revistaminerios.com.br/belo-sun-mineracao-novo-ceo-cfo/"
+  },
+  {
+   "fonte": "Revista Minérios & Minerales",
+   "titulo": "Pilotos de IA mostram aumento de até 35% na produtividade da britagem",
+   "link": "https://revistaminerios.com.br/ia-produtividade-britagem-aumento-35-por-cento/"
+  },
+  {
+   "fonte": "Revista Minérios & Minerales",
+   "titulo": "Meta de exportação de 120 mi t/ano de minério de ferro de Simandou enfrenta desafio logístico",
+   "link": "https://revistaminerios.com.br/simandou-meta-exportacao-120-milhoes-toneladas-minerio-ferro/"
+  }
+ ]
+}
